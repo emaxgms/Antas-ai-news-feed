@@ -1,0 +1,11 @@
+[
+  {
+    "id": "6296ed81-1f1c-4ce9-9377-87ca9b9dbc6b",
+    "title": "Test Article",
+    "url": "https://example.com/test",
+    "description": "Questa è una descrizione di test per verificare la card.",
+    "published_at": "2026-06-21T13:11:49.509405",
+    "added_at": "2026-06-21T13:11:49.509422",
+    "read": true
+  }
+]
