@@ -1,47 +1,58 @@
 [
   {
-    "id": "d3b28c6b-f8bf-4a80-b209-eea8412d4f12",
-    "title": "OpenCode v1.17.9 Changelog",
+    "id": "e7b5c6a2-3f1d-4a8e-9b2c-5d6f7a8b9c0d",
+    "title": "OpenCode Changelog: v1.17.9 with MCP Fixes and GLM-5.2 Support",
     "url": "https://opencode.ai/changelog",
-    "description": "Latest CLI agent updates: agent step limits, MCP schema fixes, GLM-5.2 thinking modes, Snowflake Cortex OAuth, background subagents, and prompt caching fixes for terminal coding workflows.",
-    "published_at": "2026-06-21T00:00:00",
-    "added_at": "2026-06-21T14:48:55.430049",
-    "read": true
+    "description": "Latest OpenCode updates include MCP OAuth fixes, Devstral model detection, new high/max thinking variants for GLM-5.2, improved timeout handling for long-running MCP tools, and step limit enforcement to prevent mid-run failures.",
+    "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "bc8bb1f1-2541-4545-a737-d7bbca3745d8",
-    "title": "AI Coding Tools Pricing: The June 2026 Reality Check",
-    "url": "https://www.developersdigest.tech/blog/ai-coding-tools-pricing-june-2026",
-    "description": "Verified June 20 pricing for Claude, Cursor, Copilot, and Devin. Critical June 22 Fable 5 API-only shift, Mastra npm supply-chain attack, and Copilot credit changes affecting agent workflows.",
-    "published_at": "2026-06-20T00:00:00",
-    "added_at": "2026-06-21T14:48:55.430049",
-    "read": false
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "title": "AI News Today - June 21, 2026: 16 Biggest Stories",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-21-2026",
+    "description": "Comprehensive roundup covering Fable 5 ban developments (Day 9), Anthropic's Seoul office opening with major Korean enterprise adoption (NAVER, Samsung SDS, LG CNS), and the White House's zero-jailbreak precondition for model restoration.",
+    "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "387f10af-da5d-4149-9c96-e6847ecedca3",
-    "title": "How to Build a Local AI Agent (2026): Ollama + Tools",
-    "url": "https://localaimaster.com/blog/build-local-ai-agent",
-    "description": "16-min guide to fully offline local agents using Ollama plus tool-calling models like Qwen3 and Llama 3.1. Compares LangGraph, CrewAI, and plain-Python loops with real VRAM and token benchmarks.",
-    "published_at": "2026-06-20T00:00:00",
-    "added_at": "2026-06-21T14:48:55.430049",
-    "read": false
+    "id": "f9e8d7c6-b5a4-3210-9876-543210fedcba",
+    "title": "AI News Today - June 20, 2026: 16 Biggest Stories",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-20-2026",
+    "description": "Top stories include Noam Shazeer's departure from Google to OpenAI as Lead Architecture Researcher, Fable 5 refund deadline passing, China's $295B five-year AI infrastructure plan, and FERC's historic grid interconnection orders for AI data centers.",
+    "published_at": "2026-06-20T00:00:00Z"
   },
   {
-    "id": "c4b3b452-9c65-40e9-83c6-1e1435172b37",
-    "title": "AI Intelligence Briefing — June 20, 2026",
-    "url": "https://buttondown.com/pollak/archive/ai-intelligence-briefing-june-20-2026/",
-    "description": "Anthropic pauses Claude Agent SDK token billing after 15-30x cost blowback for agent loops. MosaicLeaks benchmark exposes deep research agent data leaks. Cornell study shows Reddit UGC trivially poisons AI search.",
-    "published_at": "2026-06-20T00:00:00",
-    "added_at": "2026-06-21T14:48:55.430049",
-    "read": false
+    "id": "12345678-90ab-cdef-1234-567890abcdef",
+    "title": "Awesome Harness Engineering: Tools, Patterns, and Evals for AI Agents",
+    "url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "description": "Curated list for AI agent harness engineering covering tools, patterns, evaluations, memory, MCP, permissions, observability, and orchestration. Updated June 20, 2026 with new Life-Harness additions to the Agent Loop section.",
+    "published_at": "2026-06-20T00:00:00Z"
   },
   {
-    "id": "e51c319d-31df-4fa1-9904-08eeb189bc51",
-    "title": "Weekend Dispatch — June 20, 2026: Three Forces Run Your AI. None Is the Model.",
-    "url": "https://claudecodefornoncoders.substack.com/p/weekend-dispatch-june-20-2026-three",
-    "description": "Why employer data harvesting, open-weight infrastructure barriers, and government procurement power—not model choice alone—control AI outcomes. Cites MiniMax M3 SWE-bench performance and Zhipu GLM-5.2 MIT release.",
-    "published_at": "2026-06-20T00:00:00",
-    "added_at": "2026-06-21T14:48:55.430049",
-    "read": false
+    "id": "abcdef12-3456-7890-abcd-ef1234567890",
+    "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+    "url": "https://arxiv.org/abs/2606.20529",
+    "description": "New inference-time method for tool-calling agents that maintains observed task states in a separate ledger, rendering them into prompts and validating state-dependent policy constraints before execution. Improves average pass^k across customer-service domains.",
+    "published_at": "2026-06-18T00:00:00Z"
+  },
+  {
+    "id": "98765432-10ab-cdef-9876-543210fedcba",
+    "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+    "url": "https://arxiv.org/abs/2606.20517",
+    "description": "New benchmark evaluating 24 LLMs across 12 programming languages (extending LiveCodeBench beyond Python). Reveals Python overfitting, language-specific contamination, and substantial multilingual performance disparities in current models.",
+    "published_at": "2026-06-18T00:00:00Z"
+  },
+  {
+    "id": "11223344-5566-7788-9900-aabbccddeeff",
+    "title": "Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining",
+    "url": "https://arxiv.org/abs/2606.20363",
+    "description": "3-stage pipeline to automatically generate SKILL.md documentation for computer-using agents by segmenting GUI trajectories, clustering into candidate skills, and training skill-aware policies. Diagnostic study revealing current limitations in cross-domain transfer.",
+    "published_at": "2026-06-18T00:00:00Z"
+  },
+  {
+    "id": "ffeeddcc-bb99-8877-6655-4433221100ff",
+    "title": "The Router Era: Why Not Owning a Frontier Model Became an Advantage",
+    "url": "https://www.developersdigest.tech/blog/model-routers-optionality-advantage-2026",
+    "description": "Analysis of how model routing has become a competitive moat in mid-2026, with no single model dominating all tasks. Covers OpenRouter, Factory Router, and how companies like Cursor, OpenCode, and Cognition Devin treat model-agnosticism as a feature.",
+    "published_at": "2026-06-20T00:00:00Z"
   }
 ]
