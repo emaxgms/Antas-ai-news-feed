@@ -1,4 +1,4 @@
-# AI Dev News Feed — Dashboard
+# Antas AI Dev News Feed — Dashboard
 
 Stack minimale: Flask + HTML/CSS/JS vanilla + JSON come storage.
 

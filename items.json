@@ -1,11 +1,47 @@
 [
   {
-    "id": "6296ed81-1f1c-4ce9-9377-87ca9b9dbc6b",
-    "title": "Test Article",
-    "url": "https://example.com/test",
-    "description": "Questa è una descrizione di test per verificare la card.",
-    "published_at": "2026-06-21T13:11:49.509405",
-    "added_at": "2026-06-21T13:11:49.509422",
-    "read": true
+    "id": "d3b28c6b-f8bf-4a80-b209-eea8412d4f12",
+    "title": "OpenCode v1.17.9 Changelog",
+    "url": "https://opencode.ai/changelog",
+    "description": "Latest CLI agent updates: agent step limits, MCP schema fixes, GLM-5.2 thinking modes, Snowflake Cortex OAuth, background subagents, and prompt caching fixes for terminal coding workflows.",
+    "published_at": "2026-06-21T00:00:00",
+    "added_at": "2026-06-21T14:48:55.430049",
+    "read": false
+  },
+  {
+    "id": "bc8bb1f1-2541-4545-a737-d7bbca3745d8",
+    "title": "AI Coding Tools Pricing: The June 2026 Reality Check",
+    "url": "https://www.developersdigest.tech/blog/ai-coding-tools-pricing-june-2026",
+    "description": "Verified June 20 pricing for Claude, Cursor, Copilot, and Devin. Critical June 22 Fable 5 API-only shift, Mastra npm supply-chain attack, and Copilot credit changes affecting agent workflows.",
+    "published_at": "2026-06-20T00:00:00",
+    "added_at": "2026-06-21T14:48:55.430049",
+    "read": false
+  },
+  {
+    "id": "387f10af-da5d-4149-9c96-e6847ecedca3",
+    "title": "How to Build a Local AI Agent (2026): Ollama + Tools",
+    "url": "https://localaimaster.com/blog/build-local-ai-agent",
+    "description": "16-min guide to fully offline local agents using Ollama plus tool-calling models like Qwen3 and Llama 3.1. Compares LangGraph, CrewAI, and plain-Python loops with real VRAM and token benchmarks.",
+    "published_at": "2026-06-20T00:00:00",
+    "added_at": "2026-06-21T14:48:55.430049",
+    "read": false
+  },
+  {
+    "id": "c4b3b452-9c65-40e9-83c6-1e1435172b37",
+    "title": "AI Intelligence Briefing — June 20, 2026",
+    "url": "https://buttondown.com/pollak/archive/ai-intelligence-briefing-june-20-2026/",
+    "description": "Anthropic pauses Claude Agent SDK token billing after 15-30x cost blowback for agent loops. MosaicLeaks benchmark exposes deep research agent data leaks. Cornell study shows Reddit UGC trivially poisons AI search.",
+    "published_at": "2026-06-20T00:00:00",
+    "added_at": "2026-06-21T14:48:55.430049",
+    "read": false
+  },
+  {
+    "id": "e51c319d-31df-4fa1-9904-08eeb189bc51",
+    "title": "Weekend Dispatch — June 20, 2026: Three Forces Run Your AI. None Is the Model.",
+    "url": "https://claudecodefornoncoders.substack.com/p/weekend-dispatch-june-20-2026-three",
+    "description": "Why employer data harvesting, open-weight infrastructure barriers, and government procurement power—not model choice alone—control AI outcomes. Cites MiniMax M3 SWE-bench performance and Zhipu GLM-5.2 MIT release.",
+    "published_at": "2026-06-20T00:00:00",
+    "added_at": "2026-06-21T14:48:55.430049",
+    "read": false
   }
 ]
