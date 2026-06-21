@@ -6,7 +6,7 @@
     "description": "Latest CLI agent updates: agent step limits, MCP schema fixes, GLM-5.2 thinking modes, Snowflake Cortex OAuth, background subagents, and prompt caching fixes for terminal coding workflows.",
     "published_at": "2026-06-21T00:00:00",
     "added_at": "2026-06-21T14:48:55.430049",
-    "read": false
+    "read": true
   },
   {
     "id": "bc8bb1f1-2541-4545-a737-d7bbca3745d8",
