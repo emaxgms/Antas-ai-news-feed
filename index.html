@@ -175,64 +175,6 @@
     const empty = document.getElementById('empty');
     const counter = document.getElementById('counter');
     let currentFilter = 'all';
-
-    async function load() {
-      let items = [];
-      try {
-        const res = await fetch('items.json', { cache: 'no-store' });
-        if (!res.ok) throw new Error('HTTP ' + res.status);
-        items = await res.json();
-      } catch (e) {
-        console.error(e);
-        empty.textContent = 'Impossibile caricare items.json';
-        empty.style.display = 'block';
-        grid.innerHTML = '';
-        counter.textContent = '0 items';
-        return;
-      }
-
-      const filtered = items.filter(it => {
-        if (currentFilter === 'read') return it.read;
-        if (currentFilter === 'unread') return !it.read;
-        return true;
-      }).sort((a, b) => String(b.published_at || '').localeCompare(String(a.published_at || '')));
-
-      counter.textContent = `${items.length} total · ${filtered.length} shown`;
-
-      if (!filtered.length) {
-        grid.innerHTML = '';
-        empty.style.display = 'block';
-        return;
-      }
-
-      empty.style.display = 'none';
-      grid.innerHTML = filtered.map(it => `
-        <article class="card ${it.read ? 'read' : ''}" data-id="${it.id}">
-          <div class="card-header">
-            <div class="title">
-              <a href="${escapeHtml(it.url)}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>
-            </div>
-            <span class="badge ${it.read ? '' : 'unread'}">${it.read ? 'Read' : 'New'}</span>
-          </div>
-          <div class="desc">${escapeHtml(it.description || '')}</div>
-          <div class="meta">
-            <time>${escapeHtml(it.published_at || '')}</time>
-            <button class="toggle" data-action="${it.read ? 'unread' : 'read'}" data-id="${it.id}">
-              ${it.read ? 'Mark unread' : 'Mark read'}
-            </button>
-          </div>
-        </article>
-      `).join('');
-    }
-
-    function escapeHtml(text) {
-      return String(text || '')
-        .replace(/&/g, '&amp;')
-        .replace(/</g, '&lt;')
-        .replace(/>/g, '&gt;')
-        .replace(/"/g, '&quot;');
-    }
-
     const STORAGE_KEY = 'antas-news-read';
 
     function loadReadState() {
@@ -248,8 +190,23 @@
       try {
         localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
       } catch (e) {
-        // ignore quota errors
+        // ignore
       }
+    }
+
+    function escapeHtml(text) {
+      return String(text || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function formatDate(value) {
+      if (!value) return '';
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return escapeHtml(value);
+      return date.toLocaleDateString('it-IT', { year: 'numeric', month: 'short', day: 'numeric' });
     }
 
     async function load() {
@@ -295,7 +252,7 @@
           </div>
           <div class="desc">${escapeHtml(it.description || '')}</div>
           <div class="meta">
-            <time>${escapeHtml(it.published_at || '')}</time>
+            <time>${formatDate(it.published_at)}</time>
             <button class="toggle" data-action="${it.read ? 'unread' : 'read'}" data-id="${it.id}">
               ${it.read ? 'Mark unread' : 'Mark read'}
             </button>
