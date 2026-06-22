@@ -1,58 +1,58 @@
 [
   {
-    "id": "e7b5c6a2-3f1d-4a8e-9b2c-5d6f7a8b9c0d",
-    "title": "OpenCode Changelog: v1.17.9 with MCP Fixes and GLM-5.2 Support",
-    "url": "https://opencode.ai/changelog",
-    "description": "Latest OpenCode updates include MCP OAuth fixes, Devstral model detection, new high/max thinking variants for GLM-5.2, improved timeout handling for long-running MCP tools, and step limit enforcement to prevent mid-run failures.",
+    "id": "2ef04e92-4e46-473c-abc9-9e30d649328c",
+    "title": "Autonomous Long-Running Coding Agents",
+    "url": "https://academy.dair.ai/blog/autonomous-long-running-coding-agents",
+    "description": "Deep dive into loop engineering for autonomous coding agents, covering goals, evaluators, verifiers, and artifact-driven workflows that let agents continue working without human input. Covers Claude Code goal/loop modes and production harness patterns.",
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
-    "title": "AI News Today - June 21, 2026: 16 Biggest Stories",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-21-2026",
-    "description": "Comprehensive roundup covering Fable 5 ban developments (Day 9), Anthropic's Seoul office opening with major Korean enterprise adoption (NAVER, Samsung SDS, LG CNS), and the White House's zero-jailbreak precondition for model restoration.",
+    "id": "dbb88383-b366-4a07-946b-6ca2ebf63d59",
+    "title": "Prompt Engineering Is Dying: Loop Engineering Is Next",
+    "url": "https://kingy.ai/ai/prompt-engineering-is-dying-loop-engineering-is-next/",
+    "description": "Loop engineering is emerging as the higher-leverage discipline behind reliable AI agent workflows. Covers goal definition, context curation, verification design, safe stopping, and bounded workflows across Claude Code, Codex, and Cursor.",
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "f9e8d7c6-b5a4-3210-9876-543210fedcba",
-    "title": "AI News Today - June 20, 2026: 16 Biggest Stories",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-20-2026",
-    "description": "Top stories include Noam Shazeer's departure from Google to OpenAI as Lead Architecture Researcher, Fable 5 refund deadline passing, China's $295B five-year AI infrastructure plan, and FERC's historic grid interconnection orders for AI data centers.",
-    "published_at": "2026-06-20T00:00:00Z"
+    "id": "2a2ef7c9-f562-4bcb-97f3-8a086c59cae2",
+    "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
+    "url": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
+    "description": "Covers working, semantic, episodic, procedural, retrieval, parametric, and prospective memory for AI agents, with use-case mapping and a Python implementation showing how each memory type fits into a production agent stack.",
+    "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "12345678-90ab-cdef-1234-567890abcdef",
-    "title": "Awesome Harness Engineering: Tools, Patterns, and Evals for AI Agents",
-    "url": "https://github.com/ai-boost/awesome-harness-engineering",
-    "description": "Curated list for AI agent harness engineering covering tools, patterns, evaluations, memory, MCP, permissions, observability, and orchestration. Updated June 20, 2026 with new Life-Harness additions to the Agent Loop section.",
-    "published_at": "2026-06-20T00:00:00Z"
+    "id": "164ffea5-b2cb-46b8-bbc4-e1f12071783f",
+    "title": "Daily AI Agent News Roundup \u2014 June 21, 2026",
+    "url": "https://harness-engineering.ai/blog/daily-ai-agent-news-roundup-june-21-2026/",
+    "description": "Curated roundup on the shift from model optimization to harness engineering for AI agents. Covers production failure analysis, observability design, control loops, agent-loop architecture, and why the harness is now the bottleneck.",
+    "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "abcdef12-3456-7890-abcd-ef1234567890",
-    "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
-    "url": "https://arxiv.org/abs/2606.20529",
-    "description": "New inference-time method for tool-calling agents that maintains observed task states in a separate ledger, rendering them into prompts and validating state-dependent policy constraints before execution. Improves average pass^k across customer-service domains.",
-    "published_at": "2026-06-18T00:00:00Z"
+    "id": "b63a9a43-c957-4c45-9580-17cff3f7589f",
+    "title": "AI Builders Digest \u2014 Sunday, June 21, 2026",
+    "url": "https://buttondown.com/soumyo/archive/ai-builders-digest-sunday-june-21-2026/",
+    "description": "Curated digest covering Vercel CEO on Markdown as the new programming language for AI agents, Box CEO on context handoff failures, Claude Code used to decode Linear A, and the rising hybrid skill of developer + agent systems.",
+    "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "98765432-10ab-cdef-9876-543210fedcba",
-    "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
-    "url": "https://arxiv.org/abs/2606.20517",
-    "description": "New benchmark evaluating 24 LLMs across 12 programming languages (extending LiveCodeBench beyond Python). Reveals Python overfitting, language-specific contamination, and substantial multilingual performance disparities in current models.",
-    "published_at": "2026-06-18T00:00:00Z"
+    "id": "fdad3000-bbd0-4550-b071-1d06f770fd11",
+    "title": "How a Poisoned Coding Test Turned an AI Agent Into an Attacker",
+    "url": "https://www.mitiga.io/blog/poisoned-coding-test-ai-agent-attack",
+    "description": "Security research showing how a tampered take-home coding assessment can trick AI coding agents into exfiltrating cloud credentials and executing destructive actions. Updated June 22, 2026 with attack chain details and mitigation guidance.",
+    "published_at": "2026-06-22T00:00:00Z"
   },
   {
-    "id": "11223344-5566-7788-9900-aabbccddeeff",
-    "title": "Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining",
-    "url": "https://arxiv.org/abs/2606.20363",
-    "description": "3-stage pipeline to automatically generate SKILL.md documentation for computer-using agents by segmenting GUI trajectories, clustering into candidate skills, and training skill-aware policies. Diagnostic study revealing current limitations in cross-domain transfer.",
-    "published_at": "2026-06-18T00:00:00Z"
+    "id": "f4004fb3-f623-4910-b144-6e935ae7d4e1",
+    "title": "Best local model for vision \u2014 2nd benchmark update \u2014 21 Jun 2026",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubx4rw/best_local_model_for_vision_2nd_benchmark_update/",
+    "description": "Community benchmark update evaluating local vision models on Raspberry Pi / edge hardware. Covers inference speed, quality vs. size tradeoffs, and practical local-deployment findings for RPi and consumer GPUs.",
+    "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "ffeeddcc-bb99-8877-6655-4433221100ff",
-    "title": "The Router Era: Why Not Owning a Frontier Model Became an Advantage",
-    "url": "https://www.developersdigest.tech/blog/model-routers-optionality-advantage-2026",
-    "description": "Analysis of how model routing has become a competitive moat in mid-2026, with no single model dominating all tasks. Covers OpenRouter, Factory Router, and how companies like Cursor, OpenCode, and Cognition Devin treat model-agnosticism as a feature.",
-    "published_at": "2026-06-20T00:00:00Z"
+    "id": "5fc6b623-e139-40aa-899b-403dc78ba818",
+    "title": "Temporary Cloudflare Accounts for AI Agents",
+    "url": "https://simonwillison.net/2026/Jun/21/",
+    "description": "Cloudflare now lets AI agents deploy Workers without a pre-created account via temporary deployments. Includes a live test using GPT-5.5 in Codex Desktop to build and claim an ephemeral project, observed and reported by Simon Willison.",
+    "published_at": "2026-06-21T00:00:00Z"
   }
 ]
