@@ -1,58 +1,58 @@
 [
   {
-    "id": "2ef04e92-4e46-473c-abc9-9e30d649328c",
-    "title": "Autonomous Long-Running Coding Agents",
-    "url": "https://academy.dair.ai/blog/autonomous-long-running-coding-agents",
-    "description": "Deep dive into loop engineering for autonomous coding agents, covering goals, evaluators, verifiers, and artifact-driven workflows that let agents continue working without human input. Covers Claude Code goal/loop modes and production harness patterns.",
-    "published_at": "2026-06-21T00:00:00Z"
+    "id": "a8c4f92e-3d1a-4b7e-9f2c-5e6d8a9b0c1d",
+    "title": "Agentic Coding and Persistent Returns to Expertise",
+    "url": "https://www.anthropic.com/research/claude-code-expertise",
+    "description": "Anthropic analyzes ~400,000 Claude Code sessions: users make ~70% of planning decisions while Claude handles ~80% of execution. Domain expertise (not coding proficiency) is the strongest success predictor — expert users see 2x higher verified success rates. Debugging time fell by half across the 7-month study window.",
+    "published_at": "2026-06-16T00:00:00Z"
   },
   {
-    "id": "dbb88383-b366-4a07-946b-6ca2ebf63d59",
-    "title": "Prompt Engineering Is Dying: Loop Engineering Is Next",
-    "url": "https://kingy.ai/ai/prompt-engineering-is-dying-loop-engineering-is-next/",
-    "description": "Loop engineering is emerging as the higher-leverage discipline behind reliable AI agent workflows. Covers goal definition, context curation, verification design, safe stopping, and bounded workflows across Claude Code, Codex, and Cursor.",
-    "published_at": "2026-06-21T00:00:00Z"
+    "id": "b3d9e1f7-4c2a-8e5b-6f1d-3a7c9e0d2b4f",
+    "title": "Google and Kaggle's GenAI Intensive Vibe Coding Course 2026",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "description": "Free 5-day AI Agents Intensive course ran June 15–19, 2026, covering production-ready agent development with natural language as the primary interface, connecting external tools and APIs, and a hands-on capstone project. Course refreshed with new expert speakers following the popular 2025 inaugural run.",
+    "published_at": "2026-06-15T00:00:00Z"
   },
   {
-    "id": "2a2ef7c9-f562-4bcb-97f3-8a086c59cae2",
-    "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
-    "url": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
-    "description": "Covers working, semantic, episodic, procedural, retrieval, parametric, and prospective memory for AI agents, with use-case mapping and a Python implementation showing how each memory type fits into a production agent stack.",
-    "published_at": "2026-06-21T00:00:00Z"
-  },
-  {
-    "id": "164ffea5-b2cb-46b8-bbc4-e1f12071783f",
-    "title": "Daily AI Agent News Roundup \u2014 June 21, 2026",
-    "url": "https://harness-engineering.ai/blog/daily-ai-agent-news-roundup-june-21-2026/",
-    "description": "Curated roundup on the shift from model optimization to harness engineering for AI agents. Covers production failure analysis, observability design, control loops, agent-loop architecture, and why the harness is now the bottleneck.",
-    "published_at": "2026-06-21T00:00:00Z"
-  },
-  {
-    "id": "b63a9a43-c957-4c45-9580-17cff3f7589f",
-    "title": "AI Builders Digest \u2014 Sunday, June 21, 2026",
-    "url": "https://buttondown.com/soumyo/archive/ai-builders-digest-sunday-june-21-2026/",
-    "description": "Curated digest covering Vercel CEO on Markdown as the new programming language for AI agents, Box CEO on context handoff failures, Claude Code used to decode Linear A, and the rising hybrid skill of developer + agent systems.",
-    "published_at": "2026-06-21T00:00:00Z"
-  },
-  {
-    "id": "fdad3000-bbd0-4550-b071-1d06f770fd11",
-    "title": "How a Poisoned Coding Test Turned an AI Agent Into an Attacker",
-    "url": "https://www.mitiga.io/blog/poisoned-coding-test-ai-agent-attack",
-    "description": "Security research showing how a tampered take-home coding assessment can trick AI coding agents into exfiltrating cloud credentials and executing destructive actions. Updated June 22, 2026 with attack chain details and mitigation guidance.",
+    "id": "c7e2a5b9-d8f1-4a3c-9b6e-2f4d5a7c8e10",
+    "title": "Introducing eve — Vercel's Open-Source Agent Framework",
+    "url": "https://vercel.com/blog/introducing-eve",
+    "description": "Vercel open-sources eve, a filesystem-first agent framework built on the same infrastructure powering their 100+ production agents. Ships with durable execution, sandboxed compute, subagents, human-in-the-loop approvals, OpenTelemetry tracing, MCP/OpenAPI connectors, and a built-in eval system out of the box.",
     "published_at": "2026-06-22T00:00:00Z"
   },
   {
-    "id": "f4004fb3-f623-4910-b144-6e935ae7d4e1",
-    "title": "Best local model for vision \u2014 2nd benchmark update \u2014 21 Jun 2026",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubx4rw/best_local_model_for_vision_2nd_benchmark_update/",
-    "description": "Community benchmark update evaluating local vision models on Raspberry Pi / edge hardware. Covers inference speed, quality vs. size tradeoffs, and practical local-deployment findings for RPi and consumer GPUs.",
+    "id": "d4f8e0a2-c5b3-7d9e-4f1a-8c6b-3e5a7d9f1b2c",
+    "title": "Paving the Way for Agents in Biology",
+    "url": "https://www.anthropic.com/research/agents-in-biology",
+    "description": "Anthropic research highlighting that biological data infrastructure was not designed for AI agents, creating critical friction for scientific automation. The VirBench benchmark tests 120 viral sequence retrieval queries and reveals substantial gaps between current agent capabilities and reproducible biological data access patterns.",
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "5fc6b623-e139-40aa-899b-403dc78ba818",
-    "title": "Temporary Cloudflare Accounts for AI Agents",
-    "url": "https://simonwillison.net/2026/Jun/21/",
-    "description": "Cloudflare now lets AI agents deploy Workers without a pre-created account via temporary deployments. Includes a live test using GPT-5.5 in Codex Desktop to build and claim an ephemeral project, observed and reported by Simon Willison.",
+    "id": "e9a3c7d1-b5f4-6e82-9c3a-1d4f7a8b0e25",
+    "title": "LLM-as-Code: Agentic Programming for Agent Harness",
+    "url": "https://arxiv.org/abs/2606.15874",
+    "description": "Accepted to KDD 2026 Workshop on Agentic Software Engineering. Proposes 'Agentic Programming' — the host program retains full control flow, and the LLM is invoked as an adaptive component only for reasoning/generation steps. Addresses token explosion, control-flow hallucination, and unreliable completion as architectural bugs in current orchestrator-only agent designs.",
+    "published_at": "2026-06-14T00:00:00Z"
+  },
+  {
+    "id": "f2b8d4e6-a1c9-5f73-8b2d-4e6a9c7f3d08",
+    "title": "OpenAI Codex OSS Mode: Run Codex with Any Open-Source Model",
+    "url": "https://developers.openai.com/codex/config-advanced",
+    "description": "OpenAI adds an OSS mode to Codex CLI allowing the App, CLI, and SDK to connect to any local or open-source model provider via Ollama, LM Studio, MLX, or vLLM instead of exclusively cloud models. Enables running GPT-OSS-20B and GPT-OSS-120B open-weight models natively in the Codex workflow.",
+    "published_at": "2026-06-22T00:00:00Z"
+  },
+  {
+    "id": "a1b5e9c7-d2f4-8a6b-3c5e-7f9a1b4c6d8e",
+    "title": "GitHub Copilot Now Supports Claude Fable 5 Integration Despite Global Ban",
+    "url": "https://openrouter.ai/blog/",
+    "description": "OpenRouter blog covering developer tooling landscape in June 2026, including the fallout from Anthropic's Claude Fable 5 global suspension, GitHub Copilot's integration choices, the shift from prompt engineering to loop engineering for agent reliability, and the rising importance of harness design over model selection.",
     "published_at": "2026-06-21T00:00:00Z"
+  },
+  {
+    "id": "c4d8f2a6-e7b1-9c3d-5a8f-2b4e6d9c1a7f",
+    "title": "Agentic Software: How AI Agents Are Restructuring the Software Paradigm",
+    "url": "https://arxiv.org/abs/2606.05608",
+    "description": "arXiv paper formalizing 'Agentic Engineering' as a distinct discipline from traditional software engineering. Argues that the LLM is the software (not code), with three core shifts: Agentic Engineering as a new object of study, LLM-driven control models replacing human-predefined logic, and the human role shifting to 'intent architect'. Includes a 4-stage roadmap for self-evolving agent ecosystems.",
+    "published_at": "2026-06-10T00:00:00Z"
   }
 ]
