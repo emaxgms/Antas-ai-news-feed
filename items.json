@@ -1,5 +1,12 @@
 [
   {
+    "title": "How to run any model inside Claude Code",
+    "url": "https://www.zyte.com/blog/how-to-run-any-model-inside-claude-code/",
+    "description": "Runs GLM 5.2 inside Claude Code with the same tools, skills, and agent loop using three environment variables, demonstrating backend-agnostic model routing for coding agents.",
+    "published_at": "2026-06-23T14:01:30Z",
+    "id": "f4938bd5-021d-4eb0-b728-3a661c1b77e0"
+  },
+  {
     "id": "92897512-4f20-4986-b3e9-c121719f09ce",
     "title": "Top 10 AI Stories: June 23, 2026 Daily Roundup",
     "url": "https://unrot.co/blogs/today-top-10-ai-news-june-23-2026",
@@ -14,6 +21,48 @@
     "published_at": "2026-06-23T00:00:00Z"
   },
   {
+    "title": "GroundEval: A Deterministic Replacement for LLM-as-Judge in Stateful Agent Evaluation",
+    "url": "https://arxiv.org/abs/2606.22737v1",
+    "description": "Evaluates stateful agents by deterministically checking what evidence they searched, fetched, cited, and wrote, removing stochastic bias from LLM-as-judge protocols.",
+    "published_at": "2026-06-22T21:41:34Z",
+    "id": "020cdbaa-c0e1-47e1-8566-36bdf5d3d7db"
+  },
+  {
+    "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+    "url": "https://arxiv.org/abs/2606.23654v1",
+    "description": "Agent benchmark built from proprietary enterprise sessions, measuring how well agents handle heterogeneous files, tool calls, and real business-artifact generation.",
+    "published_at": "2026-06-22T17:39:43Z",
+    "id": "d1365122-48e5-447b-9818-0dda2b15085a"
+  },
+  {
+    "title": "Self-Compacting Language Model Agents",
+    "url": "https://arxiv.org/abs/2606.23525v1",
+    "description": "Proposes trajectory-aware compaction for long-lived agents, replacing fixed-interval token-threshold compaction with content-sensitive strategies that reduce context bloat.",
+    "published_at": "2026-06-22T16:08:34Z",
+    "id": "c142cea7-3373-4d5e-b90d-5d3d5f1fdff2"
+  },
+  {
+    "title": "Ponytrail: A local audit trail for AI coding-agent edits",
+    "url": "https://github.com/0xroylee/ponytrail",
+    "description": "Lightweight audit trail that records and surfaces every edit an AI coding agent makes, giving developers transparent visibility before changes reach version control.",
+    "published_at": "2026-06-22T14:54:00Z",
+    "id": "e91c639b-8384-461a-bafc-8dab96d56f41"
+  },
+  {
+    "title": "PMB: Local-first persistent memory for AI coding agents over MCP",
+    "url": "https://github.com/oleksiijko/pmb/blob/main/README.md",
+    "description": "Open-source MCP-based memory layer that gives Claude Code, Cursor, and Codex a local SQLite-backed memory for decisions, lessons, and facts \u2014 offline and multilingual.",
+    "published_at": "2026-06-22T09:09:12Z",
+    "id": "4ba650b6-cb52-4fe0-b139-bf5913ff3749"
+  },
+  {
+    "title": "Agent-as-a-Router: Agentic Model Routing for Coding Tasks",
+    "url": "https://arxiv.org/abs/2606.22902v1",
+    "description": "Treats model routing as a Context\u2192Action\u2192Feedback\u2192Context loop that accumulates execution-grounded experience, achieving lower cumulative regret than static routers on coding benchmarks.",
+    "published_at": "2026-06-22T06:37:31Z",
+    "id": "48b2a7d8-7c9a-4eda-b34d-d8c11969c391"
+  },
+  {
     "id": "b715839a-c584-4802-9773-d281fee3d6c7",
     "title": "How a Poisoned Coding Test Turned an AI Agent Into an Attacker",
     "url": "https://www.mitiga.io/blog/poisoned-coding-test-ai-agent-attack",
@@ -22,7 +71,7 @@
   },
   {
     "id": "c7e2a5b9-d8f1-4a3c-9b6e-2f4d5a7c8e10",
-    "title": "Introducing eve — Vercel's Open-Source Agent Framework",
+    "title": "Introducing eve \u2014 Vercel's Open-Source Agent Framework",
     "url": "https://vercel.com/blog/introducing-eve",
     "description": "Vercel open-sources eve, a filesystem-first agent framework built on the same infrastructure powering their 100+ production agents. Ships with durable execution, sandboxed compute, subagents, human-in-the-loop approvals, OpenTelemetry tracing, MCP/OpenAPI connectors, and a built-in eval system out of the box.",
     "published_at": "2026-06-22T00:00:00Z"
@@ -43,14 +92,14 @@
   },
   {
     "id": "03f57540-263d-46b8-b61f-d71ca75a02f7",
-    "title": "The AI Governance Checklist That Maps to Your Stack — OpenRouter Blog",
+    "title": "The AI Governance Checklist That Maps to Your Stack \u2014 OpenRouter Blog",
     "url": "https://openrouter.ai/blog/insights/ai-governance-checklist/",
     "description": "Argues that governance checklists must map directly to LLM routing architecture, showing how managed versus self-hosted gateways provide different default audit, spend, and data sovereignty capabilities.",
     "published_at": "2026-06-22T00:00:00Z"
   },
   {
     "id": "ac0efdd1-8459-4756-961b-84fb56104252",
-    "title": "Enforce AI Data Residency at the Routing Layer — OpenRouter Blog",
+    "title": "Enforce AI Data Residency at the Routing Layer \u2014 OpenRouter Blog",
     "url": "https://openrouter.ai/blog/insights/ai-data-residency/",
     "description": "Demonstrates how API teams can enforce geographic data residency via routing constraints instead of building local infrastructure, with concrete OpenRouter provider-order and Zero Data Retention examples.",
     "published_at": "2026-06-22T00:00:00Z"
@@ -66,7 +115,7 @@
     "id": "2b90e4e4-2794-448d-9eb0-2488ede2835b",
     "title": "From Fragments to Paths: Task-Level Context Recovery for Large Industrial Codebases",
     "url": "https://arxiv.org/abs/2606.22906",
-    "description": "Introduces DeepDiscovery, a two-stage Location–Inference pipeline that recovers task-relevant context across large repositories without offline preprocessing, achieving a 78.6% SWE-bench Verified solve rate and 8.2 pp gains over baselines.",
+    "description": "Introduces DeepDiscovery, a two-stage Location\u2013Inference pipeline that recovers task-relevant context across large repositories without offline preprocessing, achieving a 78.6% SWE-bench Verified solve rate and 8.2 pp gains over baselines.",
     "published_at": "2026-06-22T00:00:00Z"
   },
   {
@@ -92,21 +141,21 @@
   },
   {
     "id": "05ebcf3e-0e71-4f39-86a3-3cc5355b8a37",
-    "title": "Daily AI Agent News Roundup — June 21, 2026",
+    "title": "Daily AI Agent News Roundup \u2014 June 21, 2026",
     "url": "https://harness-engineering.ai/blog/daily-ai-agent-news-roundup-june-21-2026/",
     "description": "Curated roundup on the shift from model optimization to harness engineering for AI agents. Covers production failure analysis, observability design, control loops, agent-loop architecture, and why the harness is now the bottleneck.",
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
     "id": "36231bd3-ae78-4937-b693-79e0f65ead66",
-    "title": "AI Builders Digest — Sunday, June 21, 2026",
+    "title": "AI Builders Digest \u2014 Sunday, June 21, 2026",
     "url": "https://buttondown.com/soumyo/archive/ai-builders-digest-sunday-june-21-2026/",
     "description": "Curated digest covering Vercel CEO on Markdown as the new programming language for AI agents, Box CEO on context handoff failures, Claude Code used to decode Linear A, and the rising hybrid skill of developer + agent systems.",
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
     "id": "e5c47dd3-a499-4c20-a0f6-61698598540a",
-    "title": "Best Local Model for Vision — 2nd Benchmark Update — 21 Jun 2026",
+    "title": "Best Local Model for Vision \u2014 2nd Benchmark Update \u2014 21 Jun 2026",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubx4rw/best_local_model_for_vision_2nd_benchmark_update/",
     "description": "Community benchmark update evaluating local vision models on Raspberry Pi / edge hardware. Covers inference speed, quality vs. size tradeoffs, and practical local-deployment findings for RPi and consumer GPUs.",
     "published_at": "2026-06-21T00:00:00Z"
@@ -175,6 +224,13 @@
     "published_at": "2026-06-20T00:00:00Z"
   },
   {
+    "title": "Connect OpenClaw to OpenRouter: One Key, Failover, Free Models",
+    "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter/",
+    "description": "Step-by-step integration that binds OpenClaw to OpenRouter\u2019s unified API, enabling automatic failover, access to free models, and a single credential for multi-model workflows.",
+    "published_at": "2026-06-18T19:00:00Z",
+    "id": "a771b9d9-8680-4971-89b0-6a1117b5febb"
+  },
+  {
     "id": "abcdef12-3456-7890-abcd-ef1234567890",
     "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
     "url": "https://arxiv.org/abs/2606.20529",
@@ -199,21 +255,21 @@
     "id": "a8c4f92e-3d1a-4b7e-9f2c-5e6d8a9b0c1d",
     "title": "Agentic Coding and Persistent Returns to Expertise",
     "url": "https://www.anthropic.com/research/claude-code-expertise",
-    "description": "Anthropic analyzes ~400,000 Claude Code sessions: users make ~70% of planning decisions while Claude handles ~80% of execution. Domain expertise (not coding proficiency) is the strongest success predictor — expert users see 2x higher verified success rates. Debugging time fell by half across the 7-month study window.",
+    "description": "Anthropic analyzes ~400,000 Claude Code sessions: users make ~70% of planning decisions while Claude handles ~80% of execution. Domain expertise (not coding proficiency) is the strongest success predictor \u2014 expert users see 2x higher verified success rates. Debugging time fell by half across the 7-month study window.",
     "published_at": "2026-06-16T00:00:00Z"
   },
   {
     "id": "b3d9e1f7-4c2a-8e5b-6f1d-3a7c9e0d2b4f",
     "title": "Google and Kaggle's GenAI Intensive Vibe Coding Course 2026",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-    "description": "Free 5-day AI Agents Intensive course ran June 15–19, 2026, covering production-ready agent development with natural language as the primary interface, connecting external tools and APIs, and a hands-on capstone project. Course refreshed with new expert speakers following the popular 2025 inaugural run.",
+    "description": "Free 5-day AI Agents Intensive course ran June 15\u201319, 2026, covering production-ready agent development with natural language as the primary interface, connecting external tools and APIs, and a hands-on capstone project. Course refreshed with new expert speakers following the popular 2025 inaugural run.",
     "published_at": "2026-06-15T00:00:00Z"
   },
   {
     "id": "e9a3c7d1-b5f4-6e82-9c3a-1d4f7a8b0e25",
     "title": "LLM-as-Code: Agentic Programming for Agent Harness",
     "url": "https://arxiv.org/abs/2606.15874",
-    "description": "Accepted to KDD 2026 Workshop on Agentic Software Engineering. Proposes 'Agentic Programming' — the host program retains full control flow, and the LLM is invoked as an adaptive component only for reasoning/generation steps. Addresses token explosion, control-flow hallucination, and unreliable completion as architectural bugs in current orchestrator-only agent designs.",
+    "description": "Accepted to KDD 2026 Workshop on Agentic Software Engineering. Proposes 'Agentic Programming' \u2014 the host program retains full control flow, and the LLM is invoked as an adaptive component only for reasoning/generation steps. Addresses token explosion, control-flow hallucination, and unreliable completion as architectural bugs in current orchestrator-only agent designs.",
     "published_at": "2026-06-14T00:00:00Z"
   },
   {
