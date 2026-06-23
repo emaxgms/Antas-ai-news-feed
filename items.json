@@ -1,5 +1,19 @@
 [
   {
+    "id": "92897512-4f20-4986-b3e9-c121719f09ce",
+    "title": "Top 10 AI Stories: June 23, 2026 Daily Roundup",
+    "url": "https://unrot.co/blogs/today-top-10-ai-news-june-23-2026",
+    "description": "Daily roundup covering SpaceX's $60B acquisition of Cursor, ChatGPT falling below 50% market share for the first time, the ongoing Fable 5 ban entering Day 11, and the upcoming Gemini 3.5 Pro launch.",
+    "published_at": "2026-06-23T00:00:00Z"
+  },
+  {
+    "id": "a3064684-a702-4623-ad74-62f7f9f9bc7a",
+    "title": "Forecasting Enterprise AI Spend: See the Bill Before It Lands",
+    "url": "https://www.truefoundry.com/blog/forecasting-ai-cost",
+    "description": "Practical guide to building forward-looking AI cost forecasts using SARIMAX and Prophet, with a focus on why attribution alone fails and how proper forecasting prevents surprise budget overruns like Uber's 4-month AI spend blowout.",
+    "published_at": "2026-06-23T00:00:00Z"
+  },
+  {
     "id": "b715839a-c584-4802-9773-d281fee3d6c7",
     "title": "How a Poisoned Coding Test Turned an AI Agent Into an Attacker",
     "url": "https://www.mitiga.io/blog/poisoned-coding-test-ai-agent-attack",
@@ -18,6 +32,41 @@
     "title": "OpenAI Codex OSS Mode: Run Codex with Any Open-Source Model",
     "url": "https://developers.openai.com/codex/config-advanced",
     "description": "OpenAI adds an OSS mode to Codex CLI allowing the App, CLI, and SDK to connect to any local or open-source model provider via Ollama, LM Studio, MLX, or vLLM instead of exclusively cloud models. Enables running GPT-OSS-20B and GPT-OSS-120B open-weight models natively in the Codex workflow.",
+    "published_at": "2026-06-22T00:00:00Z"
+  },
+  {
+    "id": "59f437a9-57c7-4f7a-b7f2-ea2a144a2474",
+    "title": "Prompt Injection as Role Confusion",
+    "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/",
+    "description": "Research revealing that current LLMs prioritize text style over explicit role tags, making reliable role distinction impossible and enabling jailbreaks. Destyling text reduces prompt injection success from 61% to 10%.",
+    "published_at": "2026-06-22T00:00:00Z"
+  },
+  {
+    "id": "03f57540-263d-46b8-b61f-d71ca75a02f7",
+    "title": "The AI Governance Checklist That Maps to Your Stack — OpenRouter Blog",
+    "url": "https://openrouter.ai/blog/insights/ai-governance-checklist/",
+    "description": "Argues that governance checklists must map directly to LLM routing architecture, showing how managed versus self-hosted gateways provide different default audit, spend, and data sovereignty capabilities.",
+    "published_at": "2026-06-22T00:00:00Z"
+  },
+  {
+    "id": "ac0efdd1-8459-4756-961b-84fb56104252",
+    "title": "Enforce AI Data Residency at the Routing Layer — OpenRouter Blog",
+    "url": "https://openrouter.ai/blog/insights/ai-data-residency/",
+    "description": "Demonstrates how API teams can enforce geographic data residency via routing constraints instead of building local infrastructure, with concrete OpenRouter provider-order and Zero Data Retention examples.",
+    "published_at": "2026-06-22T00:00:00Z"
+  },
+  {
+    "id": "11ce168d-c79f-478f-bda1-53994b879451",
+    "title": "AI News Today June 22 2026: 15 Biggest Stories",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-22-2026",
+    "description": "Roundup of major AI stories including the Fable 5 free trial expiration, Agentjacking attacks hitting 2,388 orgs, GLM-5.2 benchmark results at 1/6th GPT-5.5 cost, and GPT-5.6 previewed for late June.",
+    "published_at": "2026-06-22T00:00:00Z"
+  },
+  {
+    "id": "2b90e4e4-2794-448d-9eb0-2488ede2835b",
+    "title": "From Fragments to Paths: Task-Level Context Recovery for Large Industrial Codebases",
+    "url": "https://arxiv.org/abs/2606.22906",
+    "description": "Introduces DeepDiscovery, a two-stage Location–Inference pipeline that recovers task-relevant context across large repositories without offline preprocessing, achieving a 78.6% SWE-bench Verified solve rate and 8.2 pp gains over baselines.",
     "published_at": "2026-06-22T00:00:00Z"
   },
   {
@@ -82,6 +131,69 @@
     "url": "https://openrouter.ai/blog/",
     "description": "OpenRouter blog covering developer tooling landscape in June 2026, including the fallout from Anthropic's Claude Fable 5 global suspension, GitHub Copilot's integration choices, the shift from prompt engineering to loop engineering for agent reliability, and the rising importance of harness design over model selection.",
     "published_at": "2026-06-21T00:00:00Z"
+  },
+  {
+    "id": "e7b5c6a2-3f1d-4a8e-9b2c-5d6f7a8b9c0d",
+    "title": "OpenCode Changelog: v1.17.9 with MCP Fixes and GLM-5.2 Support",
+    "url": "https://opencode.ai/changelog",
+    "description": "Latest OpenCode updates include MCP OAuth fixes, Devstral model detection, new high/max thinking variants for GLM-5.2, improved timeout handling for long-running MCP tools, and step limit enforcement to prevent mid-run failures.",
+    "published_at": "2026-06-21T00:00:00Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "title": "AI News Today - June 21, 2026: 16 Biggest Stories",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-21-2026",
+    "description": "Comprehensive roundup covering Fable 5 ban developments (Day 9), Anthropic's Seoul office opening with major Korean enterprise adoption (NAVER, Samsung SDS, LG CNS), and the White House's zero-jailbreak precondition for model restoration.",
+    "published_at": "2026-06-21T00:00:00Z"
+  },
+  {
+    "id": "08ef883e-5987-4232-8bfd-33aed3f3df50",
+    "title": "Beyond Simpson's Paradox: A Cascade of Confounders in AI Agent Pull-Request Co-Authorship",
+    "url": "https://arxiv.org/abs/2606.22711",
+    "description": "Analyzes 33,596 PRs across Copilot, Devin, Cursor, Claude Code, and Codex, showing that co-authorship merge-rate effects dissolve once repository selection and PR structure are controlled, warning against reporting pooled agent statistics without stratification.",
+    "published_at": "2026-06-21T00:00:00Z"
+  },
+  {
+    "id": "f9e8d7c6-b5a4-3210-9876-543210fedcba",
+    "title": "AI News Today - June 20, 2026: 16 Biggest Stories",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-20-2026",
+    "description": "Top stories include Noam Shazeer's departure from Google to OpenAI as Lead Architecture Researcher, Fable 5 refund deadline passing, China's $295B five-year AI infrastructure plan, and FERC's historic grid interconnection orders for AI data centers.",
+    "published_at": "2026-06-20T00:00:00Z"
+  },
+  {
+    "id": "12345678-90ab-cdef-1234-567890abcdef",
+    "title": "Awesome Harness Engineering: Tools, Patterns, and Evals for AI Agents",
+    "url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "description": "Curated list for AI agent harness engineering covering tools, patterns, evaluations, memory, MCP, permissions, observability, and orchestration. Updated June 20, 2026 with new Life-Harness additions to the Agent Loop section.",
+    "published_at": "2026-06-20T00:00:00Z"
+  },
+  {
+    "id": "ffeeddcc-bb99-8877-6655-4433221100ff",
+    "title": "The Router Era: Why Not Owning a Frontier Model Became an Advantage",
+    "url": "https://www.developersdigest.tech/blog/model-routers-optionality-advantage-2026",
+    "description": "Analysis of how model routing has become a competitive moat in mid-2026, with no single model dominating all tasks. Covers OpenRouter, Factory Router, and how companies like Cursor, OpenCode, and Cognition Devin treat model-agnosticism as a feature.",
+    "published_at": "2026-06-20T00:00:00Z"
+  },
+  {
+    "id": "abcdef12-3456-7890-abcd-ef1234567890",
+    "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
+    "url": "https://arxiv.org/abs/2606.20529",
+    "description": "New inference-time method for tool-calling agents that maintains observed task states in a separate ledger, rendering them into prompts and validating state-dependent policy constraints before execution. Improves average pass^k across customer-service domains.",
+    "published_at": "2026-06-18T00:00:00Z"
+  },
+  {
+    "id": "98765432-10ab-cdef-9876-543210fedcba",
+    "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+    "url": "https://arxiv.org/abs/2606.20517",
+    "description": "New benchmark evaluating 24 LLMs across 12 programming languages (extending LiveCodeBench beyond Python). Reveals Python overfitting, language-specific contamination, and substantial multilingual performance disparities in current models.",
+    "published_at": "2026-06-18T00:00:00Z"
+  },
+  {
+    "id": "11223344-5566-7788-9900-aabbccddeeff",
+    "title": "Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining",
+    "url": "https://arxiv.org/abs/2606.20363",
+    "description": "3-stage pipeline to automatically generate SKILL.md documentation for computer-using agents by segmenting GUI trajectories, clustering into candidate skills, and training skill-aware policies. Diagnostic study revealing current limitations in cross-domain transfer.",
+    "published_at": "2026-06-18T00:00:00Z"
   },
   {
     "id": "a8c4f92e-3d1a-4b7e-9f2c-5e6d8a9b0c1d",
