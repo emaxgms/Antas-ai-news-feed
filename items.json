@@ -1,5 +1,26 @@
 [
   {
+    "title": "agent-scan: Security Scanner for AI Agents, MCP Servers, and Agent Skills",
+    "url": "https://github.com/snyk/agent-scan",
+    "description": "Snyk's open-source security scanner for AI agents, MCP servers, and agent skills, scanning for vulnerable tool calls, unsafe permissions, and supply-chain risks in agent workflows.",
+    "published_at": "2026-06-24T09:03:20Z",
+    "id": "a96b3062-92aa-4c31-b797-8295079ce000"
+  },
+  {
+    "title": "dev-machine-guard: Scan Your Dev Machine for AI Agents and MCP Servers",
+    "url": "https://github.com/step-security/dev-machine-guard",
+    "description": "Lightweight local scanner that inventories AI agents, MCP servers, IDE extensions, and suspicious packages on a developer machine, surfacing shadow AI tooling in seconds.",
+    "published_at": "2026-06-24T06:43:37Z",
+    "id": "6f8ad155-fb65-4bee-a8b3-212d85676cb2"
+  },
+  {
+    "title": "AgentRecall-MCP: Correction-First Persistent Memory for AI Agents",
+    "url": "https://github.com/Goldentrii/AgentRecall-MCP",
+    "description": "Open-source MCP server + SDK + CLI that gives coding agents correction-first persistent memory, compounding decisions, lessons, and facts across sessions with local-first storage.",
+    "published_at": "2026-06-23T21:20:07Z",
+    "id": "fc8210b2-68f9-4568-ab80-b178ea229f9b"
+  },
+  {
     "title": "How to run any model inside Claude Code",
     "url": "https://www.zyte.com/blog/how-to-run-any-model-inside-claude-code/",
     "description": "Runs GLM 5.2 inside Claude Code with the same tools, skills, and agent loop using three environment variables, demonstrating backend-agnostic model routing for coding agents.",
@@ -19,6 +40,76 @@
     "url": "https://www.truefoundry.com/blog/forecasting-ai-cost",
     "description": "Practical guide to building forward-looking AI cost forecasts using SARIMAX and Prophet, with a focus on why attribution alone fails and how proper forecasting prevents surprise budget overruns like Uber's 4-month AI spend blowout.",
     "published_at": "2026-06-23T00:00:00Z"
+  },
+  {
+    "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+    "url": "https://arxiv.org/abs/2606.24855",
+    "description": "Open-source data recipes for training broadly capable agentic models, addressing the open question of how to curate training data for agents beyond single-benchmark efforts.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "ad9c1e6a-c89c-42f7-b96f-b91e898ad5ba"
+  },
+  {
+    "title": "World Models in Pieces: Structural Certification for General Agents",
+    "url": "https://arxiv.org/abs/2606.24842",
+    "description": "Formalizes structural certification for general agents in big-world regimes, where universal capability is impossible and guarantees must be specialized across agent world-model pieces.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "d26eccbc-98b6-459b-9857-7fd0a7e53e8f"
+  },
+  {
+    "title": "SHERLOC: Structured Diagnostic Localization for Code Repair Agents",
+    "url": "https://arxiv.org/abs/2606.24820",
+    "description": "Fault-localization framework that gives code-repair agents actionable root-cause diagnoses instead of only retrieving file locations, reducing wasted budget on localization without editing direction.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "c115ed87-3199-4c5c-a84f-ec45ad7fd95b"
+  },
+  {
+    "title": "Are We Ready For An Agent-Native Memory System?",
+    "url": "https://arxiv.org/abs/2606.24775",
+    "description": "Tracks the evolution of LLM agent memory from simple retrieval-augmentation into a full data-management system supporting persistent storage, consolidation, and lifecycle governance.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "51cd20cd-ae33-43c6-9548-8e9f64f2f764"
+  },
+  {
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "url": "https://arxiv.org/abs/2606.24597",
+    "description": "Investigates language-model-based world models to push reasoning and planning boundaries for general agents, formalizing how text-world dynamics can serve as agent cognition.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "11daec69-9a48-41dd-86ee-88ca473baaa3"
+  },
+  {
+    "title": "MEMPROBE: Probing Long-Term Agent Memory via Hidden User-State Recovery",
+    "url": "https://arxiv.org/abs/2606.24595",
+    "description": "Probes whether long-term agent memory can accurately recover hidden user state across sessions, revealing discrepancies between claimed personalization and actual retention.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "ad446927-cda0-4cd7-8a77-d695db52af13"
+  },
+  {
+    "title": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
+    "url": "https://arxiv.org/abs/2606.24790",
+    "description": "Hallucination detector that inspects internal gradients and activations rather than output distributions alone, flagging false claims before they reach downstream applications.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "777ed1d8-1ceb-47dc-9a18-576b23814b08"
+  },
+  {
+    "title": "CrossPool: Efficient Multi-LLM Serving for Cold MoE Models through KV-Cache and Weight Disaggregation",
+    "url": "https://arxiv.org/abs/2606.24506",
+    "description": "Disaggregates KV-cache and model weights to serve cold mixture-of-experts models efficiently, reducing GPU memory waste when sparse requests hit uncommon expert shards.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "b2996b2b-bdeb-485f-902f-65329b08005b"
+  },
+  {
+    "title": "Privacy-Preserving RAG via Multi-Agent Semantic Rewriting",
+    "url": "https://arxiv.org/abs/2606.24623",
+    "description": "Multi-agent framework that sanitizes retrieved RAG context through semantic rewriting, achieving confidentiality without sacrificing factual or contextual fidelity.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "6ef0478f-8c76-4d48-b868-311a7c6e426a"
+  },
+  {
+    "title": "Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System",
+    "url": "https://arxiv.org/abs/2606.24839",
+    "description": "Evaluates agentic data-analysis systems by separating genuine output disagreements from grader noise, providing lessons for benchmarking complex code-and-text agents.",
+    "published_at": "2026-06-23T00:00:00Z",
+    "id": "de3dc56c-8865-42cb-b2ee-9330a44a960b"
   },
   {
     "title": "GroundEval: A Deterministic Replacement for LLM-as-Judge in Stateful Agent Evaluation",
