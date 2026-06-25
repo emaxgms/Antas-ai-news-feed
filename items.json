@@ -1,5 +1,54 @@
 [
   {
+    "id": "c151d99c87121ca763ff26f528d4085e",
+    "title": "Vibe Coding to Agentic Engineering with Claude Code",
+    "url": "https://www.apimatic.io/blog/agentic-engineering-claude-code",
+    "description": "A repeatable three-phase Claude Code workflow: structured prompt, plan mode, and review. Get reliable code from your coding agent every session.",
+    "published_at": "2026-06-25T09:21:31.739848Z"
+  },
+  {
+    "id": "7bb89cbd3eb7bf7382387eb878675fb2",
+    "title": "Your App Should Ship an MCP Server",
+    "url": "https://justin.poehnelt.com/posts/ship-mcp-server-native-app/",
+    "description": "I embedded an MCP server inside a native Rust prose editor. It became the single most impactful architectural decision I've made, not for users, but for how I build the product itself.",
+    "published_at": "2026-06-25T09:21:31.519631Z"
+  },
+  {
+    "id": "da886c5ec4dc9b3dff3a5446d5c99885",
+    "title": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just \u201ccybersecurity with AI\u201d",
+    "url": "https://www.latent.space/p/gray-swan",
+    "description": "Deep-dive on AI safety and red-teaming with Zico Kolter and Matt Fredrikson, covering frontier model evaluation, jailbreak research, and the practical challenges of aligning powerful systems.",
+    "published_at": "2026-06-25T09:21:15.912573Z"
+  },
+  {
+    "id": "53e8a09ec45e9bea0497ddf50540d88e",
+    "title": "lkerriso/agentic-ai-local-to-kubernetes \u2014 GitHub (15 stars)",
+    "url": "https://github.com/lkerriso/agentic-ai-local-to-kubernetes",
+    "description": "Companion repository for the talk, Agentic AI: Going from Local to Kubernetes",
+    "published_at": "2026-06-24T17:29:16Z"
+  },
+  {
+    "id": "48660086",
+    "title": "Show HN: Tecture \u2013 A navigable architecture map from your coding agent",
+    "url": "https://tecture.io/",
+    "description": "HN-discussed tool that lets coding agents generate an interactive architecture map of a repository, helping developers understand system structure after autonomous refactors.",
+    "published_at": "2026-06-24T14:05:20Z"
+  },
+  {
+    "id": "52dbfbb859ff67d7669a4af11d0e5f9b",
+    "title": "Beyond Function Calling: Benchmarking Tool-Using Agents under Tool-Environment Unreliability",
+    "url": "https://arxiv.org/abs/2606.25819v1",
+    "description": "arXiv paper by Yang Tian, Zhengpeng Shi, Bo Zhao. Large language models are increasingly deployed as agents that solve tasks by interacting with external tool environments. Although recent tool-use benchmarks increasingly cover complex task settings, they still largely assume clean, stable, and trustworthy tool environments, leaving tool-environmen",
+    "published_at": "2026-06-24T13:34:34Z"
+  },
+  {
+    "id": "cc9bd8aa181c7c52031c055b9238cb96",
+    "title": "rickicode/patchright-browser \u2014 GitHub (15 stars)",
+    "url": "https://github.com/rickicode/patchright-browser",
+    "description": "MCP server for browser automation via Patchright. Multi-profile Chromium, headed/headless, StreamableHTTP protocol. Includes dashboard, skills, and AI agent setup.",
+    "published_at": "2026-06-24T12:33:48Z"
+  },
+  {
     "title": "agent-scan: Security Scanner for AI Agents, MCP Servers, and Agent Skills",
     "url": "https://github.com/snyk/agent-scan",
     "description": "Snyk's open-source security scanner for AI agents, MCP servers, and agent skills, scanning for vulnerable tool calls, unsafe permissions, and supply-chain risks in agent workflows.",
@@ -14,6 +63,13 @@
     "id": "6f8ad155-fb65-4bee-a8b3-212d85676cb2"
   },
   {
+    "id": "48652354",
+    "title": "Show HN: AnswerJournal \u2013 An MCP server to save and share AI answers",
+    "url": "https://answerjournal.com/",
+    "description": "An MCP server that captures and shares AI agent answers across sessions, turning ephemeral outputs into a searchable knowledge base for teams.",
+    "published_at": "2026-06-23T22:26:23Z"
+  },
+  {
     "title": "AgentRecall-MCP: Correction-First Persistent Memory for AI Agents",
     "url": "https://github.com/Goldentrii/AgentRecall-MCP",
     "description": "Open-source MCP server + SDK + CLI that gives coding agents correction-first persistent memory, compounding decisions, lessons, and facts across sessions with local-first storage.",
@@ -21,11 +77,25 @@
     "id": "fc8210b2-68f9-4568-ab80-b178ea229f9b"
   },
   {
+    "id": "ffb8e0bcf754f12c36fdab73e1feaf55",
+    "title": "OPFS + Pyodide test harness",
+    "url": "https://simonwillison.net/2026/Jun/23/opfs-pyodide/",
+    "description": "Technical walkthrough on building a test harness using Origin Private File System and Pyodide, enabling browser-native file access for agent evaluation workflows.",
+    "published_at": "2026-06-23T18:58:54Z"
+  },
+  {
     "title": "How to run any model inside Claude Code",
     "url": "https://www.zyte.com/blog/how-to-run-any-model-inside-claude-code/",
     "description": "Runs GLM 5.2 inside Claude Code with the same tools, skills, and agent loop using three environment variables, demonstrating backend-agnostic model routing for coding agents.",
     "published_at": "2026-06-23T14:01:30Z",
     "id": "f4938bd5-021d-4eb0-b728-3a661c1b77e0"
+  },
+  {
+    "id": "e7449ada23db96468814bb2525354fc3",
+    "title": "NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?",
+    "url": "https://arxiv.org/abs/2606.24530v1",
+    "description": "arXiv paper by Yuru Wang, Lejun Cheng, Yuxin Zuo, Sihang Zeng, Bingxiang He, Che Jiang, Junlin Yang, Yuchong Wang, Kaikai Zhao, Weifeng Huang, Kai Tian, Zhenzhao Yuan, Jincheng Zhong, Weizhi Wang, Ning Ding, Bowen Zhou, Kaiyan Zhang. We introduce NatureBench, a cross-discipline benchmark of 90 tasks distilled from peer-reviewed Nature-family publications, designed to evaluate whether AI coding agents can move beyond reproduction toward discovery on real scientific problems. NatureBench is built on NatureGym, an automated pipelin",
+    "published_at": "2026-06-23T12:58:23Z"
   },
   {
     "id": "92897512-4f20-4986-b3e9-c121719f09ce",
