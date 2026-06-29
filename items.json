@@ -1,5 +1,194 @@
 [
   {
+    "title": "SpecManager \u2013 a full agile team for founders, as a Claude Code plugin",
+    "url": "https://github.com/joanseg/specmanager",
+    "description": "Spec-driven development for Claude Code. Turns AI coding into a gated PRD \u2192 Architecture \u2192 Plan \u2192 Build pipeline on a local kanban board, backed by git-tracked markdown.",
+    "published_at": "2026-06-28T10:00:00Z",
+    "id": "8b2c75f2-2cf0-4e18-ba5d-49fe15fa3318"
+  },
+  {
+    "title": "OctoPerf MCP \u2013 drive load tests from any LLM (OAuth 2.1, no API key)",
+    "url": "https://api.octoperf.com/doc/mcp/",
+    "description": "MCP server for OctoPerf load testing. Drive performance tests from any AI agent (Claude.ai, Claude Code, Cursor) through the Model Context Protocol with OAuth 2.1 authentication.",
+    "published_at": "2026-06-28T09:00:00Z",
+    "id": "5df38d31-847e-4591-abe9-709b2299ca1a"
+  },
+  {
+    "title": "Claude Code plugin to draw feedback and send it back into the session",
+    "url": "https://github.com/tomreinert/claude-annotate",
+    "description": "Claude Code plugin: draw on a live frontend in the Playwright browser, annotated screenshot flows back into the session. Local, no cloud \u2014 keeps annotations in-context for the coding agent.",
+    "published_at": "2026-06-28T08:00:00Z",
+    "id": "f75609d3-986f-4b2a-b3a0-aa6646c1c895"
+  },
+  {
+    "title": "Closedtab: a shared record for human-agent teams",
+    "url": "https://www.npmjs.com/package/closedtab",
+    "description": "Shared record/documentation system for human-agent teams \u2014 a lightweight npm package that maintains context and task history between human developers and AI coding agents across sessions.",
+    "published_at": "2026-06-28T07:00:00Z",
+    "id": "1b466c9c-8945-4caa-bd08-522be4cbf026"
+  },
+  {
+    "title": "Create sandboxed rich-text telegram agents with a single config file",
+    "url": "https://github.com/montyanderson/007",
+    "description": "Single-config-file framework for creating sandboxed rich-text Telegram agents. Deploy autonomous agents on Telegram with isolated environments and rich message formatting.",
+    "published_at": "2026-06-28T06:00:00Z",
+    "id": "df1cfc88-3183-4c16-a75d-bb05efcc801d"
+  },
+  {
+    "title": "Using Local Coding Agents",
+    "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+    "description": "Sebastian Raschka walks through running coding agents entirely on local hardware \u2014 covering local LLM setup, tool configurations, agent orchestration without cloud APIs, and practical benchmarks of local vs hosted coding agent performance.",
+    "published_at": "2026-06-27T11:21:58Z",
+    "id": "3399f525-7f08-4050-85bb-c45b761d6a12"
+  },
+  {
+    "title": "Context engineering for analytics agents: six months of building and rebuilding",
+    "url": "https://blog.getcassis.com/context-engineering-for-analytics-agents/",
+    "description": "Lessons from six months of building analytics agents \u2014 how to structure context, what worked, what failed, and practical patterns for keeping agents focused on the right data.",
+    "published_at": "2026-06-27T10:00:00Z",
+    "id": "bfda54e4-b195-4487-8a69-500ae539d328"
+  },
+  {
+    "title": "TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
+    "url": "https://tester.army",
+    "description": "YC-backed platform using AI agents to test web and mobile applications, catching bugs before users do. Automated testing with natural language test specifications.",
+    "published_at": "2026-06-27T08:00:00Z",
+    "id": "84a880e2-ec1c-4386-83c0-9556507a40f8"
+  },
+  {
+    "title": "2026 GPU Price Report \u2014 cast.ai",
+    "url": "https://cast.ai/reports/gpu-price-report/",
+    "description": "Comprehensive GPU pricing report covering cloud GPU costs across providers (AWS, GCP, Azure), spot vs on-demand pricing, and trends affecting AI inference and training costs in 2026.",
+    "published_at": "2026-06-27T06:00:00Z",
+    "id": "321cf590-a235-4c9a-826e-d200e983c0a7"
+  },
+  {
+    "title": "What happened after 2,000 people tried to hack my AI assistant",
+    "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/",
+    "description": "Simon Willison reports on an LLM prompt injection challenge where 2,000 participants tested his AI assistant. Detailed breakdown of attack patterns, defense failures, and lessons for building agent systems that interact with untrusted content.",
+    "published_at": "2026-06-26T18:00:00Z",
+    "id": "bdae5dd3-a6cb-40f2-a62a-517f3101dbe0"
+  },
+  {
+    "title": "Incident Report: CVE-2026-LGTM",
+    "url": "https://simonwillison.net/2026/Jun/26/incident-report/",
+    "description": "Postmortem on a prompt injection vulnerability in an AI-powered code review tool. Covers the attack chain, impact scope, and mitigations that every AI coding agent should implement.",
+    "published_at": "2026-06-26T16:00:00Z",
+    "id": "f888c619-1cd3-44af-b8d1-dc96a5646e23"
+  },
+  {
+    "title": "Coding agents in the social sciences",
+    "url": "https://www.anthropic.com/research/coding-agents-social-sciences",
+    "description": "Anthropic surveys 1,260 social scientists on AI and coding agent adoption in academic research, revealing how coding agents are being used for data analysis, literature review, and research workflows beyond computer science.",
+    "published_at": "2026-06-26T14:00:00Z",
+    "id": "37846fa1-4b90-49fc-a37c-505285450043"
+  },
+  {
+    "title": "Mapping AI-enabled cyber threats (Attack Navigator)",
+    "url": "https://www.anthropic.com/research/attack-navigator",
+    "description": "Anthropic maps real-world AI-enabled cyber attacks onto the MITRE ATT&CK framework, analyzing how threat actors weaponize AI for cyber operations with detailed techniques and mitigations.",
+    "published_at": "2026-06-26T14:00:00Z",
+    "id": "95704c8f-d080-4a68-b4c6-81651fe54822"
+  },
+  {
+    "title": "Measuring LLMs' impact on N-day exploits",
+    "url": "https://www.anthropic.com/research/n-days",
+    "description": "Anthropic evaluates how much LLMs accelerate N-day exploit development \u2014 vulnerabilities that are publicly disclosed but only partially patched. Quantifies the risk LLMs pose to the patching window.",
+    "published_at": "2026-06-26T14:00:00Z",
+    "id": "23dd26db-76d2-4ec6-80bf-cebfbc7338d3"
+  },
+  {
+    "title": "Project Fetch: Phase two",
+    "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+    "description": "Anthropic tests whether Claude can help perform sophisticated robotics tasks. Claude Opus 4.7, operating without human assistance, was about 20 times faster than the fastest human team at completed tasks.",
+    "published_at": "2026-06-26T14:00:00Z",
+    "id": "ba31dae5-b6f5-4426-a271-227ea58f76c7"
+  },
+  {
+    "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
+    "url": "https://arxiv.org/abs/2606.28270",
+    "description": "Proposes an agent-native immune system architecture for autonomous agents with persistent memory, tool-use protocols, and multi-agent collaboration \u2014 addressing the expanded AI threat landscape beyond traditional chatbot security.",
+    "published_at": "2026-06-26T12:00:00Z",
+    "id": "cebb3a6c-6ff0-41ee-a1f7-982c91f62b85"
+  },
+  {
+    "title": "Govern the Repository, Not the Agent: Measuring Ecosystem-Level Risk in AI-Native Software",
+    "url": "https://arxiv.org/abs/2606.28235",
+    "description": "Argues that as autonomous coding agents open and merge PRs at scale, evaluation should shift from individual agent behavior to ecosystem-level risks in shared repositories.",
+    "published_at": "2026-06-26T12:00:00Z",
+    "id": "bc5a4cb9-3330-404c-b24e-dfa5a4cba18a"
+  },
+  {
+    "title": "ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents",
+    "url": "https://arxiv.org/abs/2606.28061",
+    "description": "Benchmark evaluating whether tool-using LLM agents respect purpose-bound privacy constraints when invoking external tools and executing multi-step tasks, revealing significant gaps in current systems.",
+    "published_at": "2026-06-26T12:00:00Z",
+    "id": "205e2444-e91e-4cd4-bad5-f06ac726cbac"
+  },
+  {
+    "title": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
+    "url": "https://arxiv.org/abs/2606.27814",
+    "description": "Training method for small language-model agents on long-horizon interactive tasks, combining fast imitation with reward-driven improvement via on-policy distillation with teacher guidance.",
+    "published_at": "2026-06-26T12:00:00Z",
+    "id": "b0b0aca5-522b-499c-9671-e07bcc9425f6"
+  },
+  {
+    "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
+    "url": "https://arxiv.org/abs/2606.27806",
+    "description": "Shows that agent-based world models (LLM-calling) hallucinate state changes, while parameterized world models (simulators) anchor planning in accurate state tracking \u2014 reducing hallucination propagation in multi-step agent tasks.",
+    "published_at": "2026-06-26T12:00:00Z",
+    "id": "1c113c0e-b502-4dcc-af81-f083e8d05921"
+  },
+  {
+    "title": "Agentic Hardware Design as Repository-Level Code Evolution",
+    "url": "https://arxiv.org/abs/2606.28279",
+    "description": "Presents HORIZON, a self-evolving agent framework treating hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack with domain knowledge and executable generators.",
+    "published_at": "2026-06-26T12:00:00Z",
+    "id": "dcccae69-3f09-459b-993d-f7a52d93712d"
+  },
+  {
+    "id": "a8c9bb33-3f9d-4b4c-9c61-7df78a3bc111",
+    "title": "MCP Office Hours: Protocol Design, Servers, and OAuth Adoption \u2014 June 2026 Update",
+    "url": "https://modelcontextprotocol.io/docs/blog/2026-06-25-office-hours",
+    "description": "Community roundup from MCP office hours covering growing OAuth adoption across MCP servers, new transport patterns, and progress toward a 1.1 transport compatibility target.",
+    "published_at": "2026-06-25T18:00:00Z"
+  },
+  {
+    "title": "When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models",
+    "url": "https://arxiv.org/abs/2606.27288",
+    "description": "Shows that multi-model systems (routing, voting, mixture-of-agents) have a co-failure ceiling: when models share failure modes, combining them provides diminishing returns. Empirical analysis across 67 frontier models.",
+    "published_at": "2026-06-25T18:00:00Z",
+    "id": "339a5a42-11c5-4044-bdf5-d2fae3bf97d6"
+  },
+  {
+    "title": "AI and Liability",
+    "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/",
+    "description": "Simon Willison explores the evolving legal landscape of AI liability \u2014 who is responsible when AI agents make mistakes, and how the law is catching up to autonomous system behavior.",
+    "published_at": "2026-06-25T18:00:00Z",
+    "id": "8e1ea535-a5eb-42d6-aba0-d0f40fc787cf"
+  },
+  {
+    "title": "Kog Laneformer 2B: The Latency-First Model Behind Kog Inference Engine",
+    "url": "https://blog.kog.ai/kog-laneformer-2b-the-latency-first-model-behind-kog-inference-engine/",
+    "description": "Deep dive into Kog's latency-first 2B parameter model designed for their inference engine. Covers architecture choices, optimization techniques, and benchmark results prioritizing response time over raw throughput.",
+    "published_at": "2026-06-25T15:00:00Z",
+    "id": "80009df4-8432-4dfd-85bc-3a269ca71ad2"
+  },
+  {
+    "title": "GPT-5.5 Instant (June 2026) Intelligence, Performance and Price Analysis",
+    "url": "https://artificialanalysis.ai/models/gpt-5-5-instant-06-26",
+    "description": "Comprehensive benchmark analysis of OpenAI's GPT-5.5 Instant model \u2014 quality scores, price per token, tokens per second, time to first token, and comparison across the model landscape.",
+    "published_at": "2026-06-25T12:00:00Z",
+    "id": "b3537dc3-2b5b-40f2-97e4-98a270086932"
+  },
+  {
+    "title": "Introducing Modal Auto Endpoints: Optimized inference you actually own",
+    "url": "https://modal.com/blog/introducing-auto-endpoints",
+    "description": "Modal's new Auto Endpoints feature provides optimized serverless inference infrastructure \u2014 automatically scaling, with user-owned infrastructure, designed for AI application deployment.",
+    "published_at": "2026-06-25T10:00:00Z",
+    "id": "36351154-e14f-4ba7-9e80-20483538676d"
+  },
+  {
     "id": "836d7542-4c41-404f-9461-9f9a018ab21a",
     "title": "Vibe Coding to Agentic Engineering with Claude Code",
     "url": "https://www.apimatic.io/blog/agentic-engineering-claude-code",
@@ -215,6 +404,13 @@
     "description": "Open-source MCP-based memory layer that gives Claude Code, Cursor, and Codex a local SQLite-backed memory for decisions, lessons, and facts \u2014 offline and multilingual.",
     "published_at": "2026-06-22T09:09:12Z",
     "id": "4ba650b6-cb52-4fe0-b139-bf5913ff3749"
+  },
+  {
+    "id": "4b8f3f39-4aa0-4587-b7d4-699652cf331a",
+    "title": "PMB: Local-first persistent memory for AI coding agents over MCP",
+    "url": "https://github.com/oleksiijko/pmb",
+    "description": "Open-source MCP-based memory layer that gives Claude Code, Cursor, and Codex a local SQLite-backed memory for decisions, lessons, and facts \u2014 offline and multilingual.",
+    "published_at": "2026-06-22T09:09:12Z"
   },
   {
     "title": "Agent-as-a-Router: Agentic Model Routing for Coding Tasks",
