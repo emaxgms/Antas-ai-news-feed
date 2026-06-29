@@ -119,32 +119,11 @@
     "id": "bc5a4cb9-3330-404c-b24e-dfa5a4cba18a"
   },
   {
-    "title": "ToolPrivacyBench: Benchmarking Purpose-Bound Privacy in Tool-Using LLM Agents",
-    "url": "https://arxiv.org/abs/2606.28061",
-    "description": "Benchmark evaluating whether tool-using LLM agents respect purpose-bound privacy constraints when invoking external tools and executing multi-step tasks, revealing significant gaps in current systems.",
-    "published_at": "2026-06-26T12:00:00Z",
-    "id": "205e2444-e91e-4cd4-bad5-f06ac726cbac"
-  },
-  {
-    "title": "ATOD: Annealed Turn-aware On-policy Distillation for Multi-turn Autonomous Agents",
-    "url": "https://arxiv.org/abs/2606.27814",
-    "description": "Training method for small language-model agents on long-horizon interactive tasks, combining fast imitation with reward-driven improvement via on-policy distillation with teacher guidance.",
-    "published_at": "2026-06-26T12:00:00Z",
-    "id": "b0b0aca5-522b-499c-9671-e07bcc9425f6"
-  },
-  {
     "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
     "url": "https://arxiv.org/abs/2606.27806",
     "description": "Shows that agent-based world models (LLM-calling) hallucinate state changes, while parameterized world models (simulators) anchor planning in accurate state tracking \u2014 reducing hallucination propagation in multi-step agent tasks.",
     "published_at": "2026-06-26T12:00:00Z",
     "id": "1c113c0e-b502-4dcc-af81-f083e8d05921"
-  },
-  {
-    "title": "Agentic Hardware Design as Repository-Level Code Evolution",
-    "url": "https://arxiv.org/abs/2606.28279",
-    "description": "Presents HORIZON, a self-evolving agent framework treating hardware design as repository-level code evolution. A Markdown harness is compiled into a project pack with domain knowledge and executable generators.",
-    "published_at": "2026-06-26T12:00:00Z",
-    "id": "dcccae69-3f09-459b-993d-f7a52d93712d"
   },
   {
     "id": "a8c9bb33-3f9d-4b4c-9c61-7df78a3bc111",
