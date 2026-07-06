@@ -8,12 +8,17 @@ if [ ! -d .git ]; then
   exit 1
 fi
 
-git add items.json index.html
+if [ -z "$(git remote)" ]; then
+  echo "✗ No git remote configured" >&2
+  exit 1
+fi
+
+git add items.json index.html README.md
 
 if git diff --cached --quiet; then
   echo "⊘ No changes to commit"
   exit 0
 fi
 
-git commit -m "chore: update ai dev news feed ($(date '+%Y-%m-%d %H:%M'))"
-git push
+git commit -m "chore: update Antas AI News feed ($(date '+%Y-%m-%d %H:%M'))"
+git push -u  origin main

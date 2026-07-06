@@ -1,35 +1,32 @@
-# Antas AI News — Dashboard
+# Antas AI News Feed
 
-Stack statico: HTML + CSS + JS vanilla, nessun backend.
+Automated AI engineering news feed, updated daily by Hermes Agent cron job.
 
-## Struttura
+## Content
 
-- `items.json` — database articoli (titolo, url, descrizione, stato lettura)
-- `index.html` — UI card-based, dark mode, responsive
-- `sync_to_github.sh` — commit + push automatico su GitHub
+Curated articles, papers, blog posts, and discussions about:
+- AI agents & agent orchestration
+- MCP (Model Context Protocol)
+- AI coding agents (Claude Code, Cursor, Codex, etc.)
+- Open-source AI infrastructure
+- Local LLMs & edge AI
+- LLM observability & evaluation
+- AI developer tooling & workflows
 
-## Avvio locale
+## Sources
 
-```bash
-python3 -m http.server 8765
-```
+- Individual builders & researchers (Simon Willison, Sebastian Raschka, Armin Ronacher, etc.)
+- Engineering blogs (Anthropic, Vercel, OpenRouter, Sourcegraph, etc.)
+- GitHub trending repositories
+- arXiv research papers (cs.AI, cs.LG, cs.CL)
+- Hacker News, technical newsletters
 
-Poi apri `http://localhost:8765`
+## Format
 
-## Funzionamento
+Each entry: `{id, title, url, description, published_at}`
 
-- `index.html` carica direttamente `items.json` con `fetch('items.json')`
-- Nessun server Python o API: tutto gira nel browser
-- Lo stato "letto/non letto" è salvato nel `localStorage` del browser
-- Se vuoi, puoi servire la cartella con qualsiasi server statico o aprirla direttamente, ma il fetch funziona meglio via HTTP locale
+Sorted by `published_at` descending.
 
-## Sito pubblico
+## Automation
 
-Dashboard disponibile su GitHub Pages:
-[https://emaxgms.github.io/Antas-ai-news-feed/](https://emaxgms.github.io/Antas-ai-news-feed/)
-
-## Sincronizzazione GitHub
-
-```bash
-./sync_to_github.sh /percorso/del/repo
-```
+Updated via cron on Raspberry Pi using Hermes Agent.

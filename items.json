@@ -1,5 +1,236 @@
 [
   {
+    "title": "alibaba/page-agent \u2014 JavaScript in-page GUI agent (24K stars)",
+    "url": "https://github.com/alibaba/page-agent",
+    "description": "TypeScript agent that controls web interfaces with natural language. Execute GUI actions on any webpage through an AI-powered in-page agent. Uses MCP for browser automation and supports complex multi-step web interactions.",
+    "published_at": "2026-07-06T09:10:54Z",
+    "id": "06bb0fc8-3ee8-4104-8772-ecc0ebefb9cc"
+  },
+  {
+    "title": "Nano vLLM \u2014 lightweight inference engine (14K stars)",
+    "url": "https://github.com/GeeeekExplorer/nano-vllm",
+    "description": "Lightweight vLLM inference engine implementation in Python/PyTorch. Designed for efficient LLM serving on consumer hardware, with support for transformer-based models and optimized inference pipelines.",
+    "published_at": "2026-07-06T09:08:27Z",
+    "id": "85c17c0b-9a52-4186-98f2-b6a68be55607"
+  },
+  {
+    "title": "oh-my-pi \u2014 AI coding agent for the terminal (16K stars)",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "description": "Terminal-based AI coding agent with hash-anchored edits, optimized tool harness, LSP integration, Python sandbox, browser automation, subagents, and multi-provider support (Claude, Ollama, OpenAI). Rust/Typescript CLI with TUI interface.",
+    "published_at": "2026-07-06T07:52:59Z",
+    "id": "07ea8d56-720b-4ae5-922e-cd4f604e7b57"
+  },
+  {
+    "title": "Sourcegraph MCP server and a cheaper model beat a Mythos-class model alone",
+    "url": "https://sourcegraph.com/blog/sourcegraph-mcp-and-a-cheaper-model-beat-a-mythos-class-model-alone",
+    "description": "On CodeScaleBench tasks, Claude Sonnet 4.6 with the Sourcegraph MCP server outscored Fable 5 \u2014 winning six of nine tasks at roughly half the cost per quality point. Demonstrates how MCP tool access can bridge the gap between mid-tier and frontier models.",
+    "published_at": "2026-07-05T14:00:00Z",
+    "id": "6b2effc6-b946-4006-9784-1703661a1cae"
+  },
+  {
+    "title": "Teaching agents product design at Vercel",
+    "url": "https://vercel.com/blog/teaching-agents-product-design-at-vercel",
+    "description": "How Vercel teaches AI agents product design principles using agent skills, lint rules, Vercel Agent code reviews, evals, and a human-led update loop. Practical approach to aligning agent output with design systems and brand guidelines.",
+    "published_at": "2026-07-05T10:00:00Z",
+    "id": "9bf6c596-0f3a-4b8f-a90d-119167b2ff5d"
+  },
+  {
+    "title": "ChromeDevTools/chrome-devtools-mcp \u2014 Chrome DevTools for coding agents (46K stars)",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Official Chrome DevTools MCP server, allowing coding agents to debug web applications directly through browser DevTools. Supports Puppeteer-based automation, element inspection, console evaluation, and network monitoring via MCP protocol.",
+    "published_at": "2026-07-05T08:00:00Z",
+    "id": "443bf1e5-6144-4d98-9cc5-40a8940ffa44"
+  },
+  {
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+    "description": "Simon Willison documents the economics and process of using Claude Fable to write a major open-source release \u2014 sqlite-utils 4.0rc2. The AI wrote most of the code for ~$149, with human oversight for design decisions and edge-case handling.",
+    "published_at": "2026-07-05T01:00:48Z",
+    "id": "ca871cce-3120-4ae6-b569-680a094d6262"
+  },
+  {
+    "title": "Better Models: Worse Tools \u2014 tool-calling regression in newer Claude models",
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "description": "Armin Ronacher (Flask/Jinja/Sentry creator) documents a frustrating tool-calling regression where newer Claude models (Opus 4.8, Sonnet 5) emit malformed tool calls with extra invented fields \u2014 a problem absent in older models. Critical reading for anyone building production agent toolchains.",
+    "published_at": "2026-07-04T22:53:52Z",
+    "id": "8c372fed-82e9-4005-90ed-6ab73696f95e"
+  },
+  {
+    "title": "Google Antigravity SDK for Python \u2014 build AI agents on Google infrastructure",
+    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
+    "description": "Google's official Python SDK for building AI agents that leverage the Antigravity platform. Enables agent orchestration, tool calling, and multi-agent coordination on Google's cloud AI infrastructure.",
+    "published_at": "2026-07-04T12:00:00Z",
+    "id": "940a799d-89df-4ff1-91d3-1c72de6b60d7"
+  },
+  {
+    "title": "AI SDK 7 \u2014 TypeScript SDK for production AI applications",
+    "url": "https://vercel.com/blog/ai-sdk-7",
+    "description": "AI SDK 7 focuses on production-grade AI application features: multi-provider support, agent workflows, observability, and streaming. The TypeScript SDK for building AI features across any model provider.",
+    "published_at": "2026-07-04T10:00:00Z",
+    "id": "31027171-d028-4305-9764-ef1978fb0286"
+  },
+  {
+    "title": "Claude Skills: 337 skills for Claude Code, Codex, Cursor, and more (20K stars)",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "description": "Comprehensive collection of 337 Claude Code skills and agent plugins covering engineering, marketing, product, compliance, research, and business operations. Compatible with Claude Code, Codex, Gemini CLI, Cursor, and 8 other coding agents.",
+    "published_at": "2026-07-04T10:00:00Z",
+    "id": "90846841-4235-4a9c-ba92-61e0bfed0eec"
+  },
+  {
+    "title": "Why coding agents fail in large codebases (and what to do about it)",
+    "url": "https://sourcegraph.com/blog/why-coding-agents-fail-large-codebases",
+    "description": "Sourcegraph analyzes data from 1,281 agent runs across 40+ large open-source repos to identify five repeatable failure patterns in coding agents. Provides infrastructure-level fixes for each pattern, including context retrieval strategies and codebase navigation approaches.",
+    "published_at": "2026-07-03T14:00:00Z",
+    "id": "b2125bbb-0cc7-4e09-87ea-287aabe08624"
+  },
+  {
+    "title": "Build realtime voice agents on AI Gateway",
+    "url": "https://vercel.com/blog/realtime-voice-agents-on-ai-gateway",
+    "description": "Vercel adds audio/voice support to AI Gateway with realtime capabilities. Build low-latency voice agents with the AI SDK, plus text-to-speech and speech-to-text behind a single API key.",
+    "published_at": "2026-07-03T10:00:00Z",
+    "id": "e09dc23b-fc7b-4a4d-8153-4042c9937713"
+  },
+  {
+    "title": "facebook/astryx \u2014 Open source design system that's fully customizable and agent ready (6K stars)",
+    "url": "https://github.com/facebook/astryx",
+    "description": "Facebook's open-source design system engineered for AI agent compatibility. Fully customizable components designed to be consumed and manipulated by coding agents for automated UI development.",
+    "published_at": "2026-07-03T10:00:00Z",
+    "id": "73b2b906-63b0-4f91-8d61-7fca3b96d191"
+  },
+  {
+    "title": "llm-coding-agent 0.1a0 \u2014 Simon Willison's LLM framework grows a coding agent mode",
+    "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
+    "description": "Simon Willison built a Claude Code-style coding agent on top of his LLM library, with tools for reading and editing files and executing commands. Demonstrates how a simple agent framework can be assembled from modular components using a single prompt-based workflow.",
+    "published_at": "2026-07-02T19:33:12Z",
+    "id": "9ea41043-1ad5-4bc4-ad67-0c9037e2fea0"
+  },
+  {
+    "title": "Agentic Batch Changes is now in public beta",
+    "url": "https://sourcegraph.com/blog/agentic-batch-changes-public-beta",
+    "description": "Sourcegraph launches Agentic Batch Changes: an AI agent that scopes, executes, and ships large-scale code migrations across hundreds of repositories until every PR is mergeable. Automates what previously required human-driven multi-repo orchestration.",
+    "published_at": "2026-07-02T14:00:00Z",
+    "id": "899b1035-ac62-46c5-98b9-4ddfbecf1152"
+  },
+  {
+    "title": "Distributed Attacks in Persistent-State AI Control (arXiv 2607.02514)",
+    "url": "https://arxiv.org/abs/2607.02514",
+    "description": "Shows how AI coding agents shipping code iteratively create a new attack surface \u2014 a misaligned or prompt-injected agent can distribute attacks across pull requests and time payload delivery. Critical for agent security architecture.",
+    "published_at": "2026-07-02T12:00:00Z",
+    "id": "8e39b061-55e1-4aca-b6f6-eb8f46105f96"
+  },
+  {
+    "title": "Reasoning effort, not tool access, buys first-try reliability in agentic code generation (arXiv 2607.02436)",
+    "url": "https://arxiv.org/abs/2607.02436",
+    "description": "Observational study of 90 independent agent runs building the same application. Finds that reasoning effort (model capability) is the primary driver of first-try reliability, not tool access or design-oriented system prompts. Challenges assumptions about tool-rich agent design.",
+    "published_at": "2026-07-02T12:00:00Z",
+    "id": "9de3d0e1-4efe-4bbf-9ebf-3ac86de8196b"
+  },
+  {
+    "title": "Steerability via constraints: a substrate for scalable oversight of coding agents (arXiv 2607.02389)",
+    "url": "https://arxiv.org/abs/2607.02389",
+    "description": "Argues that the same methods used to manage large human engineering teams (access control, network policies, CI gates) can provide scalable oversight for autonomous coding agents. Proposes constraint-based steerability as an alternative to per-agent monitoring.",
+    "published_at": "2026-07-02T12:00:00Z",
+    "id": "85924dfe-0158-48c3-945b-16b0755cee8f"
+  },
+  {
+    "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents (arXiv 2607.02255)",
+    "url": "https://arxiv.org/abs/2607.02255",
+    "description": "New testbed for evaluating memory management in long-horizon LLM agents. Shows that simple context-appending creates a 'jumbled mixture' where prior decisions interfere with current reasoning \u2014 proposes bounded-memory contracts for agent state management.",
+    "published_at": "2026-07-02T12:00:00Z",
+    "id": "45120742-502a-4594-ae13-52cda8daa67c"
+  },
+  {
+    "title": "SkillFuzz: Fuzzing Skill Composition for Implicit Intents Discovery in Open Skill Marketplaces (arXiv 2607.02345)",
+    "url": "https://arxiv.org/abs/2607.02345",
+    "description": "Fuzzing framework that discovers unintended behaviors when LLM agents co-activate community-contributed skills. Addresses the safety implications of composable agent skill marketplaces where combinations create unanticipated attack surfaces.",
+    "published_at": "2026-07-02T12:00:00Z",
+    "id": "d71338a9-349e-4f9f-aaf6-f4b0d6d32efe"
+  },
+  {
+    "title": "Understanding Agent-Based Patching of Compiler Missed Optimizations (arXiv 2607.02370)",
+    "url": "https://arxiv.org/abs/2607.02370",
+    "description": "Systematic study of how well AI agents can patch compiler missed optimizations. Maps agent performance across different compiler frameworks and optimization classes, with implications for agent-driven code optimization tooling.",
+    "published_at": "2026-07-02T12:00:00Z",
+    "id": "60adedda-b308-473b-a89d-030d9fb333a4"
+  },
+  {
+    "title": "UA-ChatDev: Uncertainty-Aware Multi-Agent Collaboration for Reliable Software Development (arXiv 2607.02186)",
+    "url": "https://arxiv.org/abs/2607.02186",
+    "description": "Extends the ChatDev multi-agent software development framework with uncertainty awareness \u2014 agents can flag confidence levels in their outputs, improving overall reliability in automated requirements analysis, coding, testing, and refinement pipelines.",
+    "published_at": "2026-07-02T12:00:00Z",
+    "id": "49352bf8-47c1-4bec-a1b1-121d6fde9665"
+  },
+  {
+    "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5",
+    "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
+    "description": "Mistral introduces Mistral Medium 3.5 and remote coding agents in its Vibe development environment. Plus a new Work mode in Le Chat for complex multi-step tasks. Demonstrates Mistral's push into agent-powered development workflows.",
+    "published_at": "2026-07-02T08:00:00Z",
+    "id": "ea82635f-1464-4194-840b-21bd848d7dd2"
+  },
+  {
+    "title": "Subagents and web search in Claude Code \u2014 powered by Ollama",
+    "url": "https://ollama.com/blog/web-search-subagents-claude-code",
+    "description": "Ollama now supports subagents and web search directly in Claude Code \u2014 no MCP servers or API keys required. Subagents run tasks in parallel (file search, code exploration, research), each in their own context. Works with any model on Ollama Cloud including minimax-m2.5.",
+    "published_at": "2026-07-01T16:00:00Z",
+    "id": "b19c8f30-e2bd-4648-a026-108756713955"
+  },
+  {
+    "title": "CodeScaleBench: Testing coding agents on large codebases and multi-repo tasks",
+    "url": "https://sourcegraph.com/blog/codescalebench-testing-coding-agents-on-large-codebases-and-multi-repo-software-engineering-tasks",
+    "description": "New benchmark designed to evaluate coding agents against enterprise-scale software development complexity \u2014 large codebases and multi-repository tasks that existing SWE-bench-style benchmarks don't cover.",
+    "published_at": "2026-07-01T14:00:00Z",
+    "id": "160d1e65-5144-4b7b-aa93-863a11848e0d"
+  },
+  {
+    "title": "Announcing Replicate's remote MCP server",
+    "url": "https://replicate.com/blog/remote-mcp-server",
+    "description": "Replicate launches a hosted remote MCP server for exploring and running all of its HTTP APIs from Claude Desktop, Claude Code, Cursor, and VS Code. Model discovery, comparison, and inference through a natural language interface.",
+    "published_at": "2026-07-01T14:00:00Z",
+    "id": "a8fb882a-7552-45ec-9d9e-b1be24e0f5ec"
+  },
+  {
+    "title": "The Agent Stack \u2014 Vercel's production-grade agent building blocks",
+    "url": "https://vercel.com/blog/agent-stack",
+    "description": "Vercel consolidates its agent infrastructure into a unified Agent Stack: AI SDK for model routing, AI Gateway for secure access, Workflows for durable multi-step execution, and eve for filesystem-first agent orchestration. Production patterns for shipping AI agents at scale.",
+    "published_at": "2026-07-01T10:00:00Z",
+    "id": "3ceb2b0c-ab09-42b2-a360-73b938ebb55a"
+  },
+  {
+    "title": "FlashAttention-4: Algorithm and Kernel Pipelining Co-Design for Asymmetric Hardware Scaling",
+    "url": "https://www.together.ai/blog/flashattention-4",
+    "description": "Together AI announces FlashAttention-4, co-designed with kernel pipelining for asymmetric hardware scaling. Advances in attention mechanism optimization directly impact LLM inference speed, training throughput, and the economics of running large models.",
+    "published_at": "2026-07-01T10:00:00Z",
+    "id": "dff52c52-69e1-4ca2-89ce-fab88401a671"
+  },
+  {
+    "title": "Have your agent record video demos of its work with shot-scraper video",
+    "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/",
+    "description": "Simon Willison extends shot-scraper to record video demos of AI agent workflows. Useful for creating reproducible records of autonomous agent behavior, debugging multi-step tool calls, and sharing agent sessions.",
+    "published_at": "2026-06-30T18:00:00Z",
+    "id": "329d970e-9e75-4fac-a55d-7b4e6d18bfb0"
+  },
+  {
+    "title": "DeepSeek V4 Is Earning Agentic Token Share",
+    "url": "https://openrouter.ai/blog/insights/deepseek-v4-adoption/",
+    "description": "DeepSeek doubled its token share on OpenRouter in six months. V4 Flash is the driver \u2014 agentic workloads (coding, tool use, multi-step reasoning) are fueling the surge. Analysis of model economics, performance characteristics, and developer adoption patterns.",
+    "published_at": "2026-06-30T12:00:00Z",
+    "id": "1a7ad7e9-9bcf-4015-a7b4-f17be2f2639f"
+  },
+  {
+    "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+    "url": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+    "description": "NVIDIA's ENPIRE framework uses coding agents to autonomously improve real-world robotics policies, achieving 99% success on dexterous manipulation. Also covers a 10,000-GPU Chinese cluster and reflections on the human era in AI.",
+    "published_at": "2026-06-29T10:00:00Z",
+    "id": "bf1c6ac9-ac87-4ef1-b90e-5d2781fb1b0e"
+  },
+  {
+    "title": "GLM-5.2 is the step change for open agents",
+    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+    "description": "Analysis from Interconnects Newsletter: GLM-5.2 crosses a capability threshold that makes it a viable open-weight alternative for agentic workloads. Compares coding-agent performance, tool-use reliability, and cost-economics against frontier models.",
+    "published_at": "2026-06-28T14:00:00Z",
+    "id": "31fc32ae-a28b-4616-9eb3-5c999562a5fb"
+  },
+  {
     "title": "SpecManager \u2013 a full agile team for founders, as a Claude Code plugin",
     "url": "https://github.com/joanseg/specmanager",
     "description": "Spec-driven development for Claude Code. Turns AI coding into a gated PRD \u2192 Architecture \u2192 Plan \u2192 Build pipeline on a local kanban board, backed by git-tracked markdown.",
@@ -33,6 +264,13 @@
     "description": "Single-config-file framework for creating sandboxed rich-text Telegram agents. Deploy autonomous agents on Telegram with isolated environments and rich message formatting.",
     "published_at": "2026-06-28T06:00:00Z",
     "id": "df1cfc88-3183-4c16-a75d-bb05efcc801d"
+  },
+  {
+    "title": "The Open Weight Models that Matter: June 2026",
+    "url": "https://openrouter.ai/blog/insights/the-open-weight-models-that-matter-june-2026/",
+    "description": "OpenRouter evaluates the four most compelling open-weight models as of June 2026 from new players in both China and the US. Covers capability tiers, inference costs, and practical deployment considerations for each model.",
+    "published_at": "2026-06-27T12:00:00Z",
+    "id": "bd5d73da-4914-4415-beaf-6864edfcad7f"
   },
   {
     "title": "Using Local Coding Agents",
@@ -161,6 +399,20 @@
     "id": "b3537dc3-2b5b-40f2-97e4-98a270086932"
   },
   {
+    "title": "The OpenRouter MCP Server",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-mcp-server/",
+    "description": "OpenRouter launches an MCP server that connects coding agents to its live model catalog, benchmarks, docs, and test inference \u2014 all without leaving the editor. Enables agent-side model comparison, routing decisions, and dynamic provider selection.",
+    "published_at": "2026-06-25T12:00:00Z",
+    "id": "538e1440-a215-4ae6-8e60-459b259f1a8f"
+  },
+  {
+    "title": "Code a simple RAG from scratch",
+    "url": "https://huggingface.co/blog/ngxson/make-your-own-rag",
+    "description": "Step-by-step tutorial on building a Retrieval-Augmented Generation system from scratch. Covers document indexing, embedding-based retrieval, context integration, and prompt construction for production RAG pipelines.",
+    "published_at": "2026-06-25T12:00:00Z",
+    "id": "095d0466-e249-4132-8b89-10483f1dde27"
+  },
+  {
     "title": "Introducing Modal Auto Endpoints: Optimized inference you actually own",
     "url": "https://modal.com/blog/introducing-auto-endpoints",
     "description": "Modal's new Auto Endpoints feature provides optimized serverless inference infrastructure \u2014 automatically scaling, with user-owned infrastructure, designed for AI application deployment.",
@@ -187,6 +439,13 @@
     "url": "https://www.latent.space/p/gray-swan",
     "description": "Deep-dive on AI safety and red-teaming with Zico Kolter and Matt Fredrikson, covering frontier model evaluation, jailbreak research, and the practical challenges of aligning powerful systems.",
     "published_at": "2026-06-25T09:21:15.912573Z"
+  },
+  {
+    "title": "Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets",
+    "url": "https://huggingface.co/blog/huggingface/moon-bot",
+    "description": "HuggingFace details building Moon Bot, a Slack-native coding agent that uses HuggingFace Buckets for model hosting and inference. Covers architecture, tool-use patterns, and integration patterns for bringing AI coding agents into team chat workflows.",
+    "published_at": "2026-06-24T18:59:11Z",
+    "id": "036b7b21-6e62-4798-9906-85560805a525"
   },
   {
     "id": "d3c7bc07-5dde-4952-af3f-b1e5aeb96275",
@@ -378,6 +637,13 @@
     "id": "e91c639b-8384-461a-bafc-8dab96d56f41"
   },
   {
+    "title": "Import AI 462: Superpersuasion, self-sustaining AI, paths to ASI",
+    "url": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
+    "description": "Import AI covers AI persuasion research, self-sustaining AI systems that build their own infrastructure, and emerging perspectives on the path to artificial superintelligence.",
+    "published_at": "2026-06-22T10:00:00Z",
+    "id": "a4997764-666b-4581-8510-002615a80ea6"
+  },
+  {
     "title": "PMB: Local-first persistent memory for AI coding agents over MCP",
     "url": "https://github.com/oleksiijko/pmb/blob/main/README.md",
     "description": "Open-source MCP-based memory layer that gives Claude Code, Cursor, and Codex a local SQLite-backed memory for decisions, lessons, and facts \u2014 offline and multilingual.",
@@ -539,6 +805,20 @@
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
+    "title": "MCP Stories from the Field",
+    "url": "https://sourcegraph.com/blog/mcp-stories-from-the-field",
+    "description": "Real-world experiences and lessons learned from deploying MCP servers in production coding agent workflows. Covers integration patterns, failure modes, and best practices for MCP-based agent tool use.",
+    "published_at": "2026-06-20T14:00:00Z",
+    "id": "dd8d3275-ab22-46e6-9b28-bc060a88785d"
+  },
+  {
+    "title": "Uncensor any LLM with abliteration",
+    "url": "https://huggingface.co/blog/mlabonne/abliteration",
+    "description": "Tutorial on ablating refusal mechanisms in open-weight LLMs to remove safety filters. Technical walkthrough of activation patching, representation engineering, and model editing techniques for local model customization.",
+    "published_at": "2026-06-20T12:00:00Z",
+    "id": "10683d39-a46b-4928-9939-6a15a59dc098"
+  },
+  {
     "id": "f9e8d7c6-b5a4-3210-9876-543210fedcba",
     "title": "AI News Today - June 20, 2026: 16 Biggest Stories",
     "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-20-2026",
@@ -595,6 +875,13 @@
     "published_at": "2026-06-16T00:00:00Z"
   },
   {
+    "title": "Project Glasswing: An initial update",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "description": "Anthropic's early learnings from Project Glasswing \u2014 an initiative aimed at understanding and improving how AI systems handle long-horizon autonomous tasks. Covers architectural decisions, safety considerations, and observed failure modes in extended agent deployments.",
+    "published_at": "2026-06-15T14:00:00Z",
+    "id": "412dec8e-0b8b-4949-9e45-e547229357eb"
+  },
+  {
     "id": "b3d9e1f7-4c2a-8e5b-6f1d-3a7c9e0d2b4f",
     "title": "Google and Kaggle's GenAI Intensive Vibe Coding Course 2026",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
@@ -609,10 +896,38 @@
     "published_at": "2026-06-14T00:00:00Z"
   },
   {
+    "title": "Anthropic Economic Index report: Cadences",
+    "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+    "description": "Latest Anthropic Economic Index examines when people come to Claude, what they produce with it, and how they perceive AI impact on their work. Data-driven analysis of AI adoption cadences across industries and use cases.",
+    "published_at": "2026-06-10T14:00:00Z",
+    "id": "cff4dd20-30aa-4c39-9bc1-3421588cc93b"
+  },
+  {
     "id": "c4d8f2a6-e7b1-9c3d-5a8f-2b4e6d9c1a7f",
     "title": "Agentic Software: How AI Agents Are Restructuring the Software Paradigm",
     "url": "https://arxiv.org/abs/2606.05608",
     "description": "arXiv paper formalizing 'Agentic Engineering' as a distinct discipline from traditional software engineering. Argues that the LLM is the software (not code), with three core shifts: Agentic Engineering as a new object of study, LLM-driven control models replacing human-predefined logic, and the human role shifting to 'intent architect'. Includes a 4-stage roadmap for self-evolving agent ecosystems.",
     "published_at": "2026-06-10T00:00:00Z"
+  },
+  {
+    "title": "Making Claude a chemist",
+    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+    "description": "Anthropic works with world-class chemists to improve Claude's chemistry capabilities. Covers multimodal molecule understanding, structure-to-text translation, and agentic workflows for chemical research automation.",
+    "published_at": "2026-06-05T14:00:00Z",
+    "id": "850983e4-4d30-4b9d-b6bf-5904c72abe45"
+  },
+  {
+    "title": "Teaching Claude why \u2014 reducing agentic misalignment",
+    "url": "https://www.anthropic.com/research/teaching-claude-why",
+    "description": "Anthropic shares four key lessons from reducing agentic misalignment in Claude. Since Haiku 4.5, every Claude model achieves a perfect score on agentic misalignment evals \u2014 no blackmail, no covert subversion. Details data quality improvements, training augmentations, and how tool-use training data was restructured.",
+    "published_at": "2026-05-08T14:00:00Z",
+    "id": "c82a92e4-e17d-4088-8939-078ec0fd98f8"
+  },
+  {
+    "title": "Natural Language Autoencoders: Turning Claude\u2019s thoughts into text",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "description": "Anthropic trains Claude to translate its internal activations into human-readable text. NLAs enable direct interpretation of model reasoning, with applications for safety monitoring and understanding model behavior during agentic tasks.",
+    "published_at": "2026-05-07T14:00:00Z",
+    "id": "1c15b8c2-d0e8-405f-896d-d5963303553c"
   }
 ]
