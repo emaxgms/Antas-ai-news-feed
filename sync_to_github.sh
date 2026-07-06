@@ -13,7 +13,7 @@ if [ -z "$(git remote)" ]; then
   exit 1
 fi
 
-git add items.json index.html README.md
+git add items.json README.md
 
 if git diff --cached --quiet; then
   echo "⊘ No changes to commit"
