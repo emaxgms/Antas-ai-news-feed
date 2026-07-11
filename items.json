@@ -1568,7 +1568,7 @@
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
-    "id": "d4f8e0a2-c5b3-7d9e-4f1a-8c6b-3e5a7d9f1b2c",
+    "id": "7e7f2e59-ffc7-469a-9f0d-ae5f55cf454e",
     "title": "Paving the Way for Agents in Biology",
     "url": "https://www.anthropic.com/research/agents-in-biology",
     "description": "Anthropic research highlighting that biological data infrastructure was not designed for AI agents, creating critical friction for scientific automation. The VirBench benchmark tests 120 viral sequence retrieval queries and reveals substantial gaps between current agent capabilities and reproducible biological data access patterns.",
