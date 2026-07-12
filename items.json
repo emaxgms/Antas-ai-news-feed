@@ -1,10 +1,227 @@
 [
   {
+    "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+    "url": "https://github.com/cosmtrek/mindwalk",
+    "description": "Hacker News discussion: HN: 30 points.",
+    "published_at": "2026-07-12T05:51:32Z",
+    "id": "9c2da86f-2903-44b7-9c4b-1a25cee90659"
+  },
+  {
+    "title": "Show HN: We beat Anubis with our stealth MCP",
+    "url": "https://tilion.dev/blog/anubis-proof-of-work",
+    "description": "Hacker News discussion: HN: 9 points.",
+    "published_at": "2026-07-12T02:18:15Z",
+    "id": "2866928f-596e-4d70-a22e-bb99191889d4"
+  },
+  {
+    "title": "Old and new apps, via modern coding agents",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "description": "Hacker News discussion: HN: 3 points.",
+    "published_at": "2026-07-11T23:05:50Z",
+    "id": "ed3746d2-1728-4801-becb-10059f7a26ec"
+  },
+  {
+    "title": "Show HN: AgentTransfer – open-source file transfer for AI agents (one Go binary)",
+    "url": "https://github.com/shehryarsaroya/agenttransfer",
+    "description": "Hacker News discussion: HN: 3 points.",
+    "published_at": "2026-07-11T22:52:52Z",
+    "id": "d29c3c4e-bf6f-4431-96ac-026877cf2c13"
+  },
+  {
+    "title": "Show HN: Token Time – Screen Time, but for your AI agent tokens",
+    "url": "https://tokentime.bar",
+    "description": "Hacker News discussion: HN: 2 points.",
+    "published_at": "2026-07-11T22:13:52Z",
+    "id": "308b31c4-3cd4-4231-af79-814ba547deb6"
+  },
+  {
+    "title": "JosephHampton/awesome-gemini-cli-subagents (36★ GitHub)",
+    "url": "https://github.com/JosephHampton/awesome-gemini-cli-subagents",
+    "description": "Stars: 36. Topics: agentic-ai, agents, ai, ai-agents, awesome. A curated collection of 51 production-ready subagents for Gemini CLI. Drop them into .gemini/agents/ and let Gemini delegate the right specialist.",
+    "published_at": "2026-07-11T19:46:10Z",
+    "id": "7043c314-2d8c-428e-9c43-e4cd35de858b"
+  },
+  {
+    "title": "Show HN: Wizard – Self-extending Rust terminal AI agent (one-line install)",
+    "url": "https://wizard.teddytennant.com",
+    "description": "Hacker News discussion: HN: 1 points.",
+    "published_at": "2026-07-11T19:34:35Z",
+    "id": "e2332a22-7705-4d7d-9d7c-1f5c7e240d01"
+  },
+  {
+    "title": "Show HN: Catch your local LLM falling back to CPU",
+    "url": "https://github.com/logxio/picchio",
+    "description": "Hacker News discussion: HN: 2 points.",
+    "published_at": "2026-07-11T19:17:35Z",
+    "id": "c7ef63e4-4e1e-4b19-a015-061185f49296"
+  },
+  {
+    "title": "Ask HN: Are current on-device LLMs useless?",
+    "url": "https://news.ycombinator.com/item?id=48873957",
+    "description": "Hacker News discussion: HN: 1 points. I found this model \"lfm2.5-thinking\" which is \"designed for on-device deployment\" and is really tiny: just 1.2b params (~700 MB)<p>My first and very short interaction was so terrib",
+    "published_at": "2026-07-11T17:36:03Z",
+    "id": "e90e98d0-096a-4cd3-8eae-8244ec60a4d9"
+  },
+  {
+    "title": "Show HN: Standalone SearXNG CLI+MCP (no server needed)",
+    "url": "https://github.com/nikvdp/searxng-ai-kit",
+    "description": "Hacker News discussion: HN: 1 points. Hi HN, Codex and Claude are pretty good at (re)searching things on the web these days, but the open coding agents (OpenCode, pi coding agent and friends) don't have access to the labs' p",
+    "published_at": "2026-07-11T16:49:38Z",
+    "id": "82b26efb-7d0d-42b8-a28d-817c1245fd7c"
+  },
+  {
+    "title": "Agentation – Visual UI Annotation for AI Coding Agents",
+    "url": "https://www.agentation.com/",
+    "description": "Hacker News discussion: HN: 2 points.",
+    "published_at": "2026-07-11T16:16:51Z",
+    "id": "3e5005c5-9529-4897-a142-1869fbaae298"
+  },
+  {
+    "title": "Show HN: Free AI Visibility Audit Tool& Agent",
+    "url": "https://ai-visibility.pro",
+    "description": "Hacker News discussion: HN: 2 points. AI VISIBILITY helps brands audit, measure, and improve AI search visibility across ChatGPT, Gemini, Claude, Perplexity, Grok, and Google AI results with actionable GEO reports.",
+    "published_at": "2026-07-11T15:59:31Z",
+    "id": "435fb4b0-e24f-48fa-a58c-32ad3299fa64"
+  },
+  {
+    "title": "Show HN: Aether – Run Claude Code, Codex, or OpenCode in devboxes you can watch",
+    "url": "https://www.runaether.dev/",
+    "description": "Hacker News discussion: HN: 3 points. Since coding agents like Claude Code and Codex came out, I've been pretty obsessed with them. It's hard not to when you're getting a 20x discount on inference. I've also been frust",
+    "published_at": "2026-07-11T15:25:00Z",
+    "id": "f2643c80-4b63-4bbb-801d-75c0a0b354c6"
+  },
+  {
+    "title": "AI coding agents read your code perfectly and understand your team not at all",
+    "url": "https://medium.com/@iamalizaidi110/https-www-youtube-com-watch-v-gdtyotlrndm-a00eb6f014ca",
+    "description": "Hacker News discussion: HN: 7 points.",
+    "published_at": "2026-07-11T15:15:47Z",
+    "id": "3514fe5b-de96-45b8-8cb3-46ffa74f565c"
+  },
+  {
+    "title": "Kh3m/rag-corpus-poisoning-iot-security (4★ GitHub)",
+    "url": "https://github.com/Kh3m/rag-corpus-poisoning-iot-security",
+    "description": "Stars: 4. Topics: adversarial-machine-learning, corpus-poisoning, cybersecurity, iot-security, llm-security. Corpus poisoning attacks against RAG-based cybersecurity/IoT threat-intelligence assistants, with a lightweight, edge-deployable provenance defense. Evaluated on TF-IDF and dense-embedding retrievers over a CVE/MITRE ATT&CK/vendor-advisory k",
+    "published_at": "2026-07-11T14:21:22Z",
+    "id": "048bbf57-f256-40e5-9859-c3ada87fac95"
+  },
+  {
+    "title": "Show HN: verbatimeter - check how grounded your LLM / RAG agent is in real-time",
+    "url": "https://pypi.org/project/verbatimeter/",
+    "description": "Hacker News discussion: HN: 1 points. I developed this tool and tried to keep it minimalist, lightweight, portable and easy to use. Hoping some people will find it useful. I think it's especially valuable for RAG agent but c",
+    "published_at": "2026-07-11T14:13:50Z",
+    "id": "de2fffb9-f99c-4c5b-9a6d-d33b5cc70ccf"
+  },
+  {
+    "title": "Show HN: My AI agent has 9 hours left to win a public bet – live dashboard",
+    "url": "https://1h-money.vercel.app/finale.html",
+    "description": "Hacker News discussion: HN: 1 points.",
+    "published_at": "2026-07-11T10:59:33Z",
+    "id": "fa28908d-0b7d-4e3f-97f8-51a9443df6c2"
+  },
+  {
+    "title": "gopalmani/QueryMindAI (3★ GitHub)",
+    "url": "https://github.com/gopalmani/QueryMindAI",
+    "description": "Stars: 3. Topics: analytics, docker, fastapi, groq, llm. Open-source natural-language analytics platform that converts business questions into safe, explainable SQL.",
+    "published_at": "2026-07-11T10:41:40Z",
+    "id": "54d02fe7-decf-4d6b-a7e9-df58592ea239"
+  },
+  {
+    "title": "Show HN: AI Agent Audit for Free",
+    "url": "https://github.com/sinewaveai/agent-security-scanner-mcp",
+    "description": "Hacker News discussion: HN: 1 points.",
+    "published_at": "2026-07-11T10:26:29Z",
+    "id": "5342f138-4bfc-4125-95c1-ab69e3a35258"
+  },
+  {
+    "title": "nhevers/project-r0x (123★ GitHub)",
+    "url": "https://github.com/nhevers/project-r0x",
+    "description": "Stars: 123. Topics: ai-agents, claude-code, facilitator, mcp, payments. Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+    "published_at": "2026-07-11T10:12:16Z",
+    "id": "ed0be561-5aae-4e5d-a541-b3f9b4858fdb"
+  },
+  {
+    "title": "AgentKindergarten – daycare for your AI coding agents",
+    "url": "https://github.com/rokrak1/agentkindergarten",
+    "description": "Hacker News discussion: HN: 2 points.",
+    "published_at": "2026-07-11T10:08:05Z",
+    "id": "682cfa03-eb30-41e2-8621-e05ebb975f8e"
+  },
+  {
+    "title": "jinzcdev/llama-index-readers-feishu (1★ GitHub)",
+    "url": "https://github.com/jinzcdev/llama-index-readers-feishu",
+    "description": "Stars: 1. Topics: feishu, larksuite, llamaindex, rag. Load documents from Feishu/Lark into LlamaIndex with support for wiki, docs, and drive.",
+    "published_at": "2026-07-11T09:51:22Z",
+    "id": "cb99539c-badd-4b1f-88c8-5bb0ece8a6ac"
+  },
+  {
+    "title": "Show HN: Image Generation API with QR code tracking and MCP support",
+    "url": "https://templateson.com",
+    "description": "Hacker News discussion: HN: 2 points.",
+    "published_at": "2026-07-11T09:36:38Z",
+    "id": "45a57d85-f3b9-499c-81f5-03f055f2d83c"
+  },
+  {
+    "title": "MCP-customs – NPM audit, but for MCP servers (offline, zero telemetry)",
+    "url": "https://github.com/mcpcustoms/mcp-customs",
+    "description": "Hacker News discussion: HN: 1 points.",
+    "published_at": "2026-07-11T07:52:55Z",
+    "id": "4673f2aa-e614-4ba4-94d9-98ca3ee0642f"
+  },
+  {
+    "title": "youxiandechilun/Guido (21★ GitHub)",
+    "url": "https://github.com/youxiandechilun/Guido",
+    "description": "Stars: 21. Topics: ai, digital-human, java, mysql, rag. 景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
+    "published_at": "2026-07-11T06:23:14Z",
+    "id": "e563b7e0-ae5d-4579-8030-3bcd2207e71d"
+  },
+  {
+    "title": "calesthio/generative-media-skills (33★ GitHub)",
+    "url": "https://github.com/calesthio/generative-media-skills",
+    "description": "Stars: 33. Topics: agent, agentic-ai, ai, ai-audio, ai-video. Research-backed agent skills for premium image, video, audio, voice, and generative media production across AI coding assistants.",
+    "published_at": "2026-07-11T04:16:24Z",
+    "id": "4d3b5363-2865-4822-ae88-410d5c76d4dc"
+  },
+  {
+    "title": "cis2042/product-design-harness (7★ GitHub)",
+    "url": "https://github.com/cis2042/product-design-harness",
+    "description": "Stars: 7. Topics: agent, agent-skills, agentic-design, decision-making, design-harness. Agentic Design Process with Designer-in-the-Loop product judgment across User, Evidence, and Business flows.",
+    "published_at": "2026-07-11T02:59:07Z",
+    "id": "928cec64-c7d7-4a75-b8b2-3abb583cfcd8"
+  },
+  {
+    "title": "Show HN: @playbykey/theory - Music theory TypeScript engine and MCP server",
+    "url": "https://theory-engine.docs.playbykey.com/",
+    "description": "Hacker News discussion: HN: 3 points.",
+    "published_at": "2026-07-11T02:15:28Z",
+    "id": "6ac4e77e-21e3-49d4-98dc-da40464b2b49"
+  },
+  {
+    "title": "cookiespiggy/spring-ai-recipes-learning (1★ GitHub)",
+    "url": "https://github.com/cookiespiggy/spring-ai-recipes-learning",
+    "description": "Stars: 1. Topics: a2a, ai-agent, chatclient, gradle, java. Spring AI 实战教程 🚀 ChatClient → RAG → MCP → Agent → A2A，24 个手写模块循序渐进（Spring Boot 4.1 + Spring AI 2.0 + Java 21）",
+    "published_at": "2026-07-11T02:11:53Z",
+    "id": "cc7898e4-7998-4127-a971-ca78857d07d6"
+  },
+  {
+    "title": "edinetdb/ai-berkshire-jp (5★ GitHub)",
+    "url": "https://github.com/edinetdb/ai-berkshire-jp",
+    "description": "Stars: 5. Topics: ai-agent, claude-code, edinet, investment-research, japanese-stocks. ai-berkshireの日本株版（fork ではなく独立実装）— EDINET DB MCP（有報一次データ）接地の Claude Code スキルパック / Japanese-equity edition of ai-berkshire, grounded in primary-source EDINET filings",
+    "published_at": "2026-07-11T02:00:03Z",
+    "id": "edb9dd52-80ae-400f-a0a1-39efa9f9b2b2"
+  },
+  {
     "id": "243e4711-d661-4974-a2c5-0471dc036567",
     "title": "Show HN: Schedule tasks for your AI agents from Google Calendar",
     "url": "https://agentcaly.com/",
     "description": "Integration that schedules AI agent tasks from Google Calendar events. Agents trigger on calendar events for time-based autonomous workflows.",
     "published_at": "2026-07-11T01:37:00Z"
+  },
+  {
+    "title": "danielarif26/understudy (3★ GitHub)",
+    "url": "https://github.com/danielarif26/understudy",
+    "description": "Stars: 3. Topics: anthropic, claude, claude-code, gpu, hooks. Your local model rehearses the answer. Claude takes the bow. A Claude Code hook that drafts grunt-work prompts on your own hardware — Claude keeps the quality gate.",
+    "published_at": "2026-07-11T01:00:15Z",
+    "id": "9759b0d6-c047-4b5e-a128-b12dc7e3847b"
   },
   {
     "id": "598c0adf-2fec-41d9-8560-1d8191573d8a",
@@ -21,6 +238,34 @@
     "published_at": "2026-07-11T00:15:13Z"
   },
   {
+    "title": "One Wikipedia page costs your AI agent 68,000 tokens",
+    "url": "https://news.ycombinator.com/item?id=48867021",
+    "description": "Hacker News discussion: HN: 14 points. i use claude code daily and measured what pages cost it while doing research. an average wikipedia article, for instance, is 68,240 tokens of raw html (tiktoken); nike's homepage is 353",
+    "published_at": "2026-07-11T00:12:26Z",
+    "id": "21c4a516-3643-4d38-bca5-6bce61eed982"
+  },
+  {
+    "title": "Ethereum deploys AI agents to hunt bugs, discovers libp2p vulnerability",
+    "url": "https://thecoinheadlines.com/tech-and-ai/ethereum-deploys-ai-agents-to-hunt-bugs-discovers-libp2p-vulnerability/article-25686/",
+    "description": "Hacker News discussion: HN: 2 points.",
+    "published_at": "2026-07-10T23:09:01Z",
+    "id": "3d33c0fe-26f9-4614-a564-70b00bd24ad5"
+  },
+  {
+    "title": "I run my agency's 10 AI agents from launchd, no n8n, 0 dependencies",
+    "url": "https://github.com/Botfather90/digiton-agent-fleet",
+    "description": "Hacker News discussion: HN: 2 points.",
+    "published_at": "2026-07-10T22:59:18Z",
+    "id": "392bd587-aa2e-4174-b9ed-b111ed30df1c"
+  },
+  {
+    "title": "Show HN: An MCP server that lets AI agents request disability insurance quotes",
+    "url": "https://github.com/seaworthy-io/seaworthy-mcp",
+    "description": "Hacker News discussion: HN: 2 points. Hi HN. I own an online insurance agency, a painfully old-school industry. I am not a developer. I vibe-coded it all in Claude Code, then reviewed and tested before anything shipped. Whic",
+    "published_at": "2026-07-10T21:56:00Z",
+    "id": "a2d884ec-1e37-4fe4-a9a6-e59b5515be5e"
+  },
+  {
     "id": "c12804fa-da00-4356-b0b0-bdb0f0561f6b",
     "title": "Frontier coding agents haven't stopped lying about their work — measured",
     "url": "https://trustysquire.ai/blog/the-last-mile-is-a-signup-form",
@@ -35,11 +280,116 @@
     "published_at": "2026-07-10T20:40:34Z"
   },
   {
+    "title": "Crawlie Cloud: monitoring for your marketing sites SEO and GEO (+ MCP server)",
+    "url": "https://crawlie.dev/",
+    "description": "Hacker News discussion: HN: 1 points.",
+    "published_at": "2026-07-10T20:25:26Z",
+    "id": "96596130-57e8-4d2f-9f2d-987cdfa11c32"
+  },
+  {
+    "title": "soumyasurana/Contextra (1★ GitHub)",
+    "url": "https://github.com/soumyasurana/Contextra",
+    "description": "Stars: 1. Topics: agent-framework, axum, context-engineering, embeddings, llm. Contextra is a high performance AI context engineering platform built in Rust for document ingestion, retrieval, embeddings, memory, prompt orchestration, and multi-LLM application development.",
+    "published_at": "2026-07-10T19:37:28Z",
+    "id": "375fd76a-44ab-4941-9d5a-d7c33fa1f2f5"
+  },
+  {
+    "title": "korovin-aa97/talkthrough-mcp (5★ GitHub)",
+    "url": "https://github.com/korovin-aa97/talkthrough-mcp",
+    "description": "Stars: 5. Topics: agent-skills, ai-agents, claude, developer-tools, feedback. MCP server: turn narrated screen recordings into agent-ready data — local Whisper transcript, scene keyframes, OCR, wall-clock anchoring. Record your screen, talk — your AI agent files the bugs.",
+    "published_at": "2026-07-10T19:19:06Z",
+    "id": "6f9d8c11-074e-4624-a462-d59bc8329c1d"
+  },
+  {
+    "title": "Trace: Stripe Radar for autonomous AI agents (Sybil fraud reduced by 86%)",
+    "url": "https://trace-api-ixv6o.ondigitalocean.app/api/portal/webhook",
+    "description": "Hacker News discussion: HN: 3 points.",
+    "published_at": "2026-07-10T19:00:58Z",
+    "id": "a3ad78ae-9af6-4093-b232-5850a3fbbebc"
+  },
+  {
+    "title": "Show HN: Local Motion – Use Cursor Agents and Chat with a Local LLM",
+    "url": "https://github.com/mattmireles/local-motion",
+    "description": "Hacker News discussion: HN: 1 points. Using a local LLM for coding agents is complicated, so I built a Cursor + VS Code plugin that makes it easy.<p>It automatically profiles your machine, picks a model that works for your m",
+    "published_at": "2026-07-10T18:50:24Z",
+    "id": "81453524-ef09-4bde-a0b9-84a245efe014"
+  },
+  {
+    "title": "saanvireddy/llm-pipeline (1★ GitHub)",
+    "url": "https://github.com/saanvireddy/llm-pipeline",
+    "description": "Stars: 1. Topics: fastapi, finetuning, kubernetes, llm, mistral7b. Fine-tuned Mistral-7B (QLoRA) + RAG customer support assistant, with Docker, Kubernetes (AWS EKS/Azure AKS), and CI/CD via GitHub Actions",
+    "published_at": "2026-07-10T18:32:07Z",
+    "id": "84e277b5-77eb-4ace-bc14-5036ea842d2e"
+  },
+  {
+    "title": "BusyBee3333/sol-governed-codex (11★ GitHub)",
+    "url": "https://github.com/BusyBee3333/sol-governed-codex",
+    "description": "Stars: 11. Topics: ai-agents, ai-code-review, codex, coding-agents, cost-optimization. Sol-governed multi-agent coding workflow for OpenAI Codex with bounded AI code review and LLM cost optimization",
+    "published_at": "2026-07-10T17:36:20Z",
+    "id": "bd1f75ab-fd5f-4563-8f52-64e58cf3a945"
+  },
+  {
     "id": "cdecb3b7-3e85-49f7-9ef9-2dad5f6a3a23",
     "title": "Show HN: NoMac — let your AI agent ship iOS apps without a Mac",
     "url": "https://nomac.app",
     "description": "Service for AI coding agents to build and deploy iOS apps without macOS. CI/CD pipeline for agent-generated Swift/SwiftUI code that bypasses the Mac build requirement.",
     "published_at": "2026-07-10T16:24:00Z"
+  },
+  {
+    "title": "How to Build a Coding Agent",
+    "url": "https://github.com/nicolaygerold/howtobuildacodingagent",
+    "description": "Hacker News discussion: HN: 3 points.",
+    "published_at": "2026-07-10T16:16:35Z",
+    "id": "8ffdf1b0-9199-4bb8-a28b-5ab67ade67b5"
+  },
+  {
+    "title": "Intuition-Lab/personal-model (13★ GitHub)",
+    "url": "https://github.com/Intuition-Lab/personal-model",
+    "description": "Stars: 13. Topics: agent-memory, local-first, macos, mcp, personal-ai. Local-first macOS Runtime that turns cross-app activity into an inspectable personal model for MCP agents.",
+    "published_at": "2026-07-10T16:10:25Z",
+    "id": "075a0189-011f-4e17-b910-be38d1065679"
+  },
+  {
+    "title": "Show HN: I made AI agent that deploys your thing on diff plats automaticaly",
+    "url": "https://shypmenta.com/",
+    "description": "Hacker News discussion: HN: 2 points. Cursor for deployment, in our language. this is an ai agent that connects to ur github, digital ocean, vercel, render, stripe, etc. then u tell it something like this: deploy diff compon",
+    "published_at": "2026-07-10T15:38:02Z",
+    "id": "5937ed9b-4e64-4780-828f-9daff452b69d"
+  },
+  {
+    "title": "Alisa0808/vox-director (76★ GitHub)",
+    "url": "https://github.com/Alisa0808/vox-director",
+    "description": "Stars: 76. Topics: ai, ai-video, claude-code, claude-skill, collage-video. Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+    "published_at": "2026-07-10T15:32:05Z",
+    "id": "f8d8115a-a199-47a8-b4f7-3f11d59b3cda"
+  },
+  {
+    "title": "SiyaoZheng/GEZHI (1★ GitHub)",
+    "url": "https://github.com/SiyaoZheng/GEZHI",
+    "description": "Stars: 1. Topics: agent-framework, ai4ss-skills, goal-cli, reproducible-research, social-science. GEZHI (格致): a scholar-centered agent framework built on goal-cli and ai4ss-skills for completed empirical social-science research.",
+    "published_at": "2026-07-10T14:30:14Z",
+    "id": "25b63200-07ff-4a71-a86b-b7854523a85e"
+  },
+  {
+    "title": "My Visionaire MCP verifies whether agent CSS fixes rendered",
+    "url": "https://github.com/mi60dev/visionaire-engine",
+    "description": "Hacker News discussion: HN: 1 points.",
+    "published_at": "2026-07-10T14:25:18Z",
+    "id": "0e8a4150-880b-4c12-9576-7bfce4f2752b"
+  },
+  {
+    "title": "Ask HN: Thoughts on a MCP to manage cloud and AI spend?",
+    "url": "https://news.ycombinator.com/item?id=48860172",
+    "description": "Hacker News discussion: HN: 1 points. Been thinking about how crazy cost to deliver and cost of tokens is going to get, especially after seeing open ai financials. Would anyone be interested in an mcp that manages/fixes, and",
+    "published_at": "2026-07-10T14:08:35Z",
+    "id": "fd786d59-a4f8-4e80-a32a-dc70e2311134"
+  },
+  {
+    "title": "Looma – turn coding-agent history into resumable project context",
+    "url": "https://github.com/devYRPauli/looma",
+    "description": "Hacker News discussion: HN: 3 points.",
+    "published_at": "2026-07-10T13:59:40Z",
+    "id": "9b1e0fee-18ed-48f3-bcd7-2359c21f4c20"
   },
   {
     "id": "efeaa7c3-c76c-4594-adb1-5fc79581d6a2",
@@ -49,6 +399,13 @@
     "published_at": "2026-07-10T13:44:00Z"
   },
   {
+    "title": "Show HN: Pay-per-call MCP server with 47 AI endpoints, micropayments via x402",
+    "url": "https://goldbean-api.xyz",
+    "description": "Hacker News discussion: HN: 2 points.",
+    "published_at": "2026-07-10T13:35:54Z",
+    "id": "7df5bf22-2798-4d93-910b-57d5822ef40e"
+  },
+  {
     "id": "d589e3e1-a29c-4206-b7c4-e87c6f3faae9",
     "title": "Show HN: Opula — portfolio and net-worth analysis as a hosted MCP connector",
     "url": "https://opula.io",
@@ -56,11 +413,32 @@
     "published_at": "2026-07-10T13:22:00Z"
   },
   {
+    "title": "manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator (17★ GitHub)",
+    "url": "https://github.com/manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator",
+    "description": "Stars: 17. Topics: agentic-ai, automation, cisa-kev, cybersecurity, n8n. Zero-touch pipeline that turns newly weaponized CVEs from the CISA Known Exploited Vulnerabilities (KEV) catalog into production-ready Sigma detection rules, automatically, every week.",
+    "published_at": "2026-07-10T12:29:18Z",
+    "id": "4eb61a7a-3638-439b-a5e8-594a10ee346f"
+  },
+  {
     "id": "441d496c-e21f-4f30-874b-eaeaada74a10",
     "title": "Components of A Coding Agent — Sebastian Raschka",
     "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
     "description": "Sebastian Raschka breaks down essential components of a coding agent: tool-calling loop, sandbox, context management, planning, and verification. Reference architecture for production agent systems.",
     "published_at": "2026-07-10T12:00:00Z"
+  },
+  {
+    "title": "loop-js/loop.js (63★ GitHub)",
+    "url": "https://github.com/loop-js/loop.js",
+    "description": "Stars: 63. Topics: agent-framework, agent-loop, agent-verification, ai-agents, anthropic. A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+    "published_at": "2026-07-10T10:59:54Z",
+    "id": "bd2670b1-dd01-4b03-ab52-731a655f4178"
+  },
+  {
+    "title": "Replit is the best coding agent",
+    "url": "https://news.ycombinator.com/item?id=48858177",
+    "description": "Hacker News discussion: HN: 2 points. I have used multiple AI for coding including gpt, gemini, claude and a few more but after experiencing them all I can say replit has a best coding agent which understands every prompt wa",
+    "published_at": "2026-07-10T10:41:18Z",
+    "id": "b1782dd1-a3ce-43e3-88a0-e47c9d07d09c"
   },
   {
     "id": "e40174d1-8378-47a7-9038-0d3b481bbab5",
@@ -77,11 +455,74 @@
     "published_at": "2026-07-10T02:42:00Z"
   },
   {
+    "title": "hbhqq9/bde-score (2★ GitHub)",
+    "url": "https://github.com/hbhqq9/bde-score",
+    "description": "Stars: 2. Topics: a-shares, ai, api, eu-ai-act, fastapi. 🏆 Open-source multi-factor stock scoring API (0-100) | US/HK/A-Share 74 stocks | Zero signup | shields.io badges | GitHub Action | EU AI Act compliant",
+    "published_at": "2026-07-10T02:38:57Z",
+    "id": "6e67a670-ec3b-40d9-b9ad-3bcf2fbf8503"
+  },
+  {
+    "title": "amitshekhariitbhu/100-days-of-ai (42★ GitHub)",
+    "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
+    "description": "Stars: 42. Topics: 100daysofai, ai, ai-agents, large-language-models, llm. Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+    "published_at": "2026-07-10T02:23:30Z",
+    "id": "3b07acf5-4761-4d17-8895-c341193d1b14"
+  },
+  {
+    "title": "MANOJ21K/agentic-code-review (11★ GitHub)",
+    "url": "https://github.com/MANOJ21K/agentic-code-review",
+    "description": "Stars: 11. Topics: agentic-ai, claude-code, code-review, developer-tools, llm. Multi-agent Claude Code plugin: parallel specialized reviewers (bugs, security, CLAUDE.md compliance, git history, test coverage), confidence scoring, terminal or inline GitHub PR reporting.",
+    "published_at": "2026-07-10T02:13:17Z",
+    "id": "e543a55b-2b82-4a4e-beaf-7f54dd7c32f7"
+  },
+  {
+    "title": "L13653521916/AI-Workflow-Builder (2★ GitHub)",
+    "url": "https://github.com/L13653521916/AI-Workflow-Builder",
+    "description": "Stars: 2. Topics: agent, ai, vibe-coding. 轻量版 AI Agent 编排平台",
+    "published_at": "2026-07-10T02:00:58Z",
+    "id": "60038824-b5d7-4cd7-8375-2e08fcf63f6e"
+  },
+  {
+    "title": "Aloim/charon (2★ GitHub)",
+    "url": "https://github.com/Aloim/charon",
+    "description": "Stars: 2. Topics: ai, ai-agent, ai-agents, ai-coding, ai-tools. Named after the greek ferryman of the underworld, it audits your Project for Dead code and duplicate code in Claude Code. It Finds what is dead, and in resolution mode removes it via reviewed, build verified change sets. Companion to Phanes.",
+    "published_at": "2026-07-10T01:31:27Z",
+    "id": "3836d0f4-83c5-42a0-aafe-75db173e4e91"
+  },
+  {
     "id": "5fc12b93-e66d-4d40-9e4f-32bb8385611a",
     "title": "Show HN: Fortress — stealth Chromium + MCP so agents don't get blocked",
     "url": "https://tilion.dev",
     "description": "Stealth browser environment with MCP server that prevents AI agents from getting detected as bots. Enables agent web automation on sites that block headless browsers.",
     "published_at": "2026-07-09T23:55:00Z"
+  },
+  {
+    "title": "djtelicloud/grok-mcp-server (3★ GitHub)",
+    "url": "https://github.com/djtelicloud/grok-mcp-server",
+    "description": "Stars: 3. Topics: claude-code, cursor, cursor-ai, cursor-ide, cursor-rules. Local-first Grok MCP server & gateway. One shared Grok agent for Cursor, Claude Code, VS Code, Codex & Desktop. xAI API + CLI planes, Control Center.",
+    "published_at": "2026-07-09T22:03:51Z",
+    "id": "b8eafad8-cc3e-4f62-bc74-a95df7d336fd"
+  },
+  {
+    "title": "marzukia/qMLX (12★ GitHub)",
+    "url": "https://github.com/marzukia/qMLX",
+    "description": "Stars: 12. Topics: apple-silicon, hybrid-attention, inference, kv-cache, llm. qMLX: Custom inference engine for Qwen 3.5 122B on Apple Silicon, extending MLX with hybrid attention support, SSD-backed KV cache, and RYS layer duplication for efficient large-model serving on consumer hardware.",
+    "published_at": "2026-07-09T21:47:30Z",
+    "id": "4635e63b-5f30-4cac-b82b-b1103dd6d027"
+  },
+  {
+    "title": "nothingnesses/agent-scaffold (6★ GitHub)",
+    "url": "https://github.com/nothingnesses/agent-scaffold",
+    "description": "Stars: 6. Topics: agent, agentic-workflow, agents, agents-md, ai. Scaffold a repeatable agent workflow (front-load context, plan, review, implement, review) into any project. A Rust CLI and TUI that drops a canonical AGENTS.md, a plan template, reusable prompts, and a selectable set of engineering principles.",
+    "published_at": "2026-07-09T21:46:41Z",
+    "id": "19a6874a-d444-4a17-b933-d576229d29c8"
+  },
+  {
+    "title": "AgriciDaniel/fablesecondbrain (11★ GitHub)",
+    "url": "https://github.com/AgriciDaniel/fablesecondbrain",
+    "description": "Stars: 11. Topics: agent-operations, ai-agents, anthropic, claude, claude-code. Public, source-cited Fable 5, Mythos, Claude Code, and agent-operations second brain. Not affiliated with Anthropic.",
+    "published_at": "2026-07-09T20:59:12Z",
+    "id": "f8591da7-43d2-4adb-a0a0-50199dc13c9a"
   },
   {
     "id": "85b8cb8b-d863-49df-b3ab-4142acc9823d",
@@ -91,11 +532,102 @@
     "published_at": "2026-07-09T19:46:38Z"
   },
   {
+    "title": "FuelMagistrateLead/photoshop-ai-smart-enhance (107★ GitHub)",
+    "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
+    "description": "Stars: 107. Topics: abobe, ai, photo-editor, photoshop, smart-ai. AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time previe",
+    "published_at": "2026-07-09T19:08:33Z",
+    "id": "054b29fa-8a1d-4398-8de2-c27655addabd"
+  },
+  {
+    "title": "hec-ovi/noob-cli (1★ GitHub)",
+    "url": "https://github.com/hec-ovi/noob-cli",
+    "description": "Stars: 1. Topics: agent-skills, agentic-workflows, ai-agent, cli, docker. Compact Rust agent CLI for local OpenAI-compatible models, with Docker isolation, sessions, skills, MCP, plan mode, sub-agents, and web search.",
+    "published_at": "2026-07-09T18:52:53Z",
+    "id": "65cc428c-e1b4-4524-8e86-3a4be57d86bc"
+  },
+  {
     "id": "9f6bd866-992a-48de-bacd-a1a4f39c802c",
     "title": "Show HN: Trollbridge — sandbox for agents to run YOLO without the whole internet",
     "url": "https://trollbridge.dev/",
     "description": "Sandboxed execution environment with network isolation for AI agents. Agents can run arbitrary code freely without risking external damage or data exfiltration.",
     "published_at": "2026-07-09T18:01:00Z"
+  },
+  {
+    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+    "url": "https://arxiv.org/abs/2607.08768v1",
+    "description": "Authors: Zhekai Chen, Chengqi Duan, Kaiyue Sun, Bohao Li, Yuqing Wang, Manyuan Zhang, Xihui Liu. Categories: cs.CL. The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existin",
+    "published_at": "2026-07-09T17:59:32Z",
+    "id": "94121a05-ba20-4ecc-b25f-d73266801c97"
+  },
+  {
+    "title": "OpenCoF: Learning to Reason Through Video Generation",
+    "url": "https://arxiv.org/abs/2607.08763v1",
+    "description": "Authors: Xinyan Chen, Ziyu Guo, Renrui Zhang, Dongzhi Jiang, Hongsheng Li. Categories: cs.CV, cs.AI. Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning ca",
+    "published_at": "2026-07-09T17:58:29Z",
+    "id": "1f8f1212-e2f0-4e05-be92-cb38d6d51ca2"
+  },
+  {
+    "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+    "url": "https://arxiv.org/abs/2607.08758v1",
+    "description": "Authors: Yifan Zhou, Qihao Yang, Yan Li, Donggang Li, Xiru Hu, Hokin Deng, Ziyang Gong, Xuanyi Zhou, Huacan Wang, Xiangchao Yan, Wanghan Xu, Wenlong Zhang, Shaofeng Zhang, Yue Zhou, Yifan Yang, Zhihang Zhong, Xue Yang. Categories: cs.AI. Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombin",
+    "published_at": "2026-07-09T17:55:53Z",
+    "id": "a24ddfd0-68ed-49e5-bfb1-e18f1704948c"
+  },
+  {
+    "title": "Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling",
+    "url": "https://arxiv.org/abs/2607.08757v1",
+    "description": "Authors: Yiwei Zhou. Categories: stat.ML, cs.LG, math.NA, math.PR. Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal error does not guarantee numerical stability. We construct a single smooth score field ",
+    "published_at": "2026-07-09T17:55:52Z",
+    "id": "e537bab3-97a9-47f1-8c8a-de8639b3489b"
+  },
+  {
+    "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+    "url": "https://arxiv.org/abs/2607.08740v1",
+    "description": "Authors: Emanuele Quinto, Carlo Andrea Rozzi, Francesco Zanitti. Categories: cs.AI, cs.PL, cs.SE. Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns. This paper proposes a Lisp-inspired bu",
+    "published_at": "2026-07-09T17:40:46Z",
+    "id": "e2a0434c-6a61-4053-b03c-83554367d44e"
+  },
+  {
+    "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
+    "url": "https://arxiv.org/abs/2607.08734v1",
+    "description": "Authors: Baha Rababah, Cuneyt Gurcan Akcora, Carson K. Leung. Categories: cs.AI. Post-training quantization is widely used to deploy large language models in resource-constrained settings, yet its evaluation relies almost exclusively on accuracy and perplexity. We show that these metrics fail to capture behavioral changes induced by quantization. W",
+    "published_at": "2026-07-09T17:35:02Z",
+    "id": "60db1394-9b33-4aa5-ae58-9117d081fa54"
+  },
+  {
+    "title": "Super Weights in LLMs and the Failure of Selective Training",
+    "url": "https://arxiv.org/abs/2607.08733v1",
+    "description": "Authors: Shreyas Subramanian, Adewale Akinfaderin, Akarsha Sehwag. Categories: cs.LG. Recent work identified Super Weights, individual parameters whose removal degrades model performance by orders of magnitude. We show that this degradation due to pruning Super Weights does not universally apply to all LLMs. Furthermore, if these parameters are so ",
+    "published_at": "2026-07-09T17:35:00Z",
+    "id": "61ddf829-3c1b-4dbe-a794-7479e4a13714"
+  },
+  {
+    "title": "Validity of LLMs as data annotators: AMALIA on authority",
+    "url": "https://arxiv.org/abs/2607.08731v1",
+    "description": "Authors: Manuel Pita. Categories: cs.CL, cs.AI, cs.CY. A national language model offers a linguistic community its own instrument for measuring what its citizens say and value. Portugal's AMALIA, a publicly funded 9B-parameter model for European Portuguese, appears competitive on agreement alone: asked to code the moral foundation of authority, it ",
+    "published_at": "2026-07-09T17:34:25Z",
+    "id": "2ffb9a33-8a6a-4ed2-a0bd-24cd4450bb99"
+  },
+  {
+    "title": "Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference",
+    "url": "https://arxiv.org/abs/2607.08724v1",
+    "description": "Authors: Chuning Zhu, Eva Xu, Jose Barreiros, Krishnan Srinivasan, Paarth Shah, Abhishek Gupta. Categories: cs.LG, cs.RO. Human decision-making is highly flexible -- some actions are taken immediately; others require longer deliberation. Language models have exhibited a similar capacity for adaptive \"reasoning.\" However, transferring this capabilit",
+    "published_at": "2026-07-09T17:30:49Z",
+    "id": "5bcb1498-904f-4c49-a0f1-b334814ab222"
+  },
+  {
+    "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+    "url": "https://arxiv.org/abs/2607.08716v1",
+    "description": "Authors: Yifan Wu, Lizhu Zhang, Yuhang Zhou, Mingyi Wang, Bo Peng, Serena Li, Xiangjun Fan, Zhuokai Zhao. Categories: cs.AI, cs.CL. In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attemp",
+    "published_at": "2026-07-09T17:26:28Z",
+    "id": "e007a531-d4b1-4eef-8c2d-7bcbc310cf2b"
+  },
+  {
+    "title": "LTM: Large-scale Terrain Model for Wildfire-prone Landscapes",
+    "url": "https://arxiv.org/abs/2607.08711v1",
+    "description": "Authors: Xiao Fu, Yue Hu, Meida Chen, Peter Anthony Beerel, Barath Raghavan. Categories: cs.CV, cs.LG. Accurate 3D terrain maps are essential for emergency response when assessing wildfire hazards. However, wildfire-prone regions often span vast areas where conventional reconstruction methods underperform. Airborne LiDAR systems provide high-resolu",
+    "published_at": "2026-07-09T17:22:35Z",
+    "id": "723b46b5-27b7-4de3-889f-235343a62770"
   },
   {
     "id": "666deca2-05e0-4dd9-a7fd-dc94252ceac6",
@@ -112,11 +644,53 @@
     "published_at": "2026-07-09T17:06:00Z"
   },
   {
+    "title": "Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution",
+    "url": "https://arxiv.org/abs/2607.08700v1",
+    "description": "Authors: Ethan Leung, Elias Lumer, Corey Feld, Austin Huber, Vamse Kumar Subbiah, Kevin Paul. Categories: cs.CL. Reinforcement learning increasingly relies on an LLM judge to score each rubric criterion, and that judge acts as the reward model during training. Before such a signal can be trusted, we need to know how capable the judge must be and ho",
+    "published_at": "2026-07-09T17:01:40Z",
+    "id": "2099d20b-c83d-49a2-a4cc-da7bc54bc78b"
+  },
+  {
     "id": "0bb38264-ebf8-4732-aea4-2d7164267767",
     "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "url": "https://openai.com/index/gpt-5-6/",
     "description": "OpenAI announces GPT-5.6 with multiple tiers (Luna, Terra, Sol) designed for different use cases. The model family targets frontier reasoning, coding agent workloads, and scaled deployment with tiered pricing.",
     "published_at": "2026-07-09T17:00:00Z"
+  },
+  {
+    "title": "wangshishuo999-max/skill-studio-lite (2★ GitHub)",
+    "url": "https://github.com/wangshishuo999-max/skill-studio-lite",
+    "description": "Stars: 2. Topics: agent, ai, compliance, license, open-source. Local-first toolkit for clean-room AI skill restructuring and Skill Card generation.",
+    "published_at": "2026-07-09T16:44:51Z",
+    "id": "bed5e1a4-1562-4d80-9e18-6edb2b9b498a"
+  },
+  {
+    "title": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
+    "url": "https://arxiv.org/abs/2607.08662v1",
+    "description": "Authors: Xiaoshuai Song, Liancheng Zhang, Kangzhi Zhao, Yutao Zhu, Zhongyuan Wang, Guanting Dong, Jinghan Yang, Han Li, Kun Gai, Ji-Rong Wen, Zhicheng Dou. Categories: cs.CL, cs.AI, cs.MA. Large language model (LLM)-based web search agents are transforming information seeking from simple factoid question answering into complex, deep-and-wide search",
+    "published_at": "2026-07-09T16:28:49Z",
+    "id": "05a0bbf9-8bf6-49df-8f5a-8ed59b4da530"
+  },
+  {
+    "title": "Show HN: MemLedger – AI agent memory you can trust",
+    "url": "https://github.com/riktar/memledger",
+    "description": "Hacker News discussion: HN: 1 points.",
+    "published_at": "2026-07-09T16:24:19Z",
+    "id": "60a0aa75-6c2a-415f-9542-d8f86f3a4571"
+  },
+  {
+    "title": "UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing",
+    "url": "https://arxiv.org/abs/2607.08646v1",
+    "description": "Authors: Xinlong Zhao, Dongsheng Liu, Hengyu Zhao, Zixuan Fu, Zheng Wang, Jie Cai, Jie Zhou, Qiang Ma, Xuanhe Zhou, Xu Han, Yudong Wang, Zhiyuan Liu. Categories: cs.CL, cs.AI. As available training data approaches its physical limit, gains from Scaling Laws have begun to diminish. Consequently, improving Large Language Models (LLMs) now depends les",
+    "published_at": "2026-07-09T16:18:07Z",
+    "id": "948bd2de-c291-479d-9af4-726531d1e47c"
+  },
+  {
+    "title": "DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding",
+    "url": "https://arxiv.org/abs/2607.08642v1",
+    "description": "Authors: Saw S. Lin, Jyh-Shing Roger Jang. Categories: cs.CL. Speculative decoding accelerates LLM inference by drafting several tokens and verifying them in parallel. Block-diffusion drafters such as DFlash produce   a draft block in one pass but model only per-position marginals; best-first tree methods such as DDTree expand candidate trees from ",
+    "published_at": "2026-07-09T16:16:35Z",
+    "id": "d45eb320-8811-4639-bb8c-d8a37eeef021"
   },
   {
     "id": "90befcff-8237-4e29-bdfb-72c8476b10ba",
@@ -140,11 +714,25 @@
     "published_at": "2026-07-09T16:00:00Z"
   },
   {
+    "title": "The complexities of patient-centred conversational artificial intelligence",
+    "url": "https://arxiv.org/abs/2607.08625v1",
+    "description": "Authors: João Matos, Olivia Buege, Donny Cheung, Gary S. Collins, Paula Dhiman, Nan Li, Bingyu Mao, Benjamin W. Nelson, Michail Ouroutzoglou, Paul Varghese, Jonathan Amar. Categories: cs.AI, cs.CL. Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for symptom assessment. However, chatbot development and e",
+    "published_at": "2026-07-09T15:56:55Z",
+    "id": "102594d6-a158-4728-8167-1162727af721"
+  },
+  {
     "id": "571e36a3-efba-48f0-8975-09eec040f329",
     "title": "Show HN: Reverse-engineering web apps into agent tools",
     "url": "https://news.ycombinator.com/item?id=48847834",
     "description": "HN front page (81 points): Techniques for reverse-engineering web applications into structured tools AI agents can use. Practical approach to expanding agent capabilities without official APIs.",
     "published_at": "2026-07-09T15:45:00Z"
+  },
+  {
+    "title": "It Takes a MAESTRO To Prune Bad Experts",
+    "url": "https://arxiv.org/abs/2607.08601v1",
+    "description": "Authors: Palaash Goel, Ayush Maheshwari, Tanmoy Chakraborty. Categories: cs.CL. Sparsely-activated Mixture-of-Experts (MoE) language models achieve remarkable inference efficiency by activating only a small fraction of parameters per token, yet their full expert banks reside in memory at all times, creating a prohibitive deployment bottleneck. Exis",
+    "published_at": "2026-07-09T15:32:54Z",
+    "id": "42948e9d-8c25-4f40-8d75-07396e10eec7"
   },
   {
     "id": "2aeff119-9c50-4bff-8439-5863af8f2e38",
@@ -161,6 +749,13 @@
     "published_at": "2026-07-09T15:00:00Z"
   },
   {
+    "title": "replenhq/replen (3★ GitHub)",
+    "url": "https://github.com/replenhq/replen",
+    "description": "Stars: 3. Topics: ai-agents, claude-code, codex, coding-assistant, cursor. Smarter AI Development Workflows",
+    "published_at": "2026-07-09T14:50:14Z",
+    "id": "f2232805-c5d2-4b4a-8f97-49823e5f0e2a"
+  },
+  {
     "id": "4dc724bc-2ec9-4cb8-94c2-78f5dd6b1b3b",
     "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
     "url": "https://arxiv.org/abs/2607.08716",
@@ -168,11 +763,32 @@
     "published_at": "2026-07-09T14:30:00Z"
   },
   {
+    "title": "xyonium/firecrawl-rotator (9★ GitHub)",
+    "url": "https://github.com/xyonium/firecrawl-rotator",
+    "description": "Stars: 9. Topics: api-key-rotation, docker, firecrawl, firecrawl-mcp, go. Reverse proxy in front of firecrawl-mcp that rotates Firecrawl API keys on 402/429/401/403, rewrites crawl next URLs, and exposes /healthz + /status. Go stdlib only, scratch image.",
+    "published_at": "2026-07-09T14:30:00Z",
+    "id": "5a324207-04ac-4c6d-92d4-881717a66889"
+  },
+  {
+    "title": "insomniac-asif/honest-quant (1★ GitHub)",
+    "url": "https://github.com/insomniac-asif/honest-quant",
+    "description": "Stars: 1. Topics: ai-safety, calibration, llm, llm-evaluation, local-llm. Measure how quantization affects a local model's calibration (ECE/AUROC/confidently-wrong), not just speed. Ships a real, reproducible cross-quant run.",
+    "published_at": "2026-07-09T14:26:56Z",
+    "id": "5aa3d3db-905a-4ef7-bfa9-3e5b5db1d885"
+  },
+  {
     "id": "f369f03f-11da-4f06-b6c1-bfaaaf11905c",
     "title": "Show HN: ContextNest — versioned, governed context for AI agents (open-source CLI)",
     "url": "https://promptowl.ai/resources/building-a-viewable-second-brain-with-context/",
     "description": "CLI for version-controlled, governed context management in AI agent systems. Maintains provenance and integrity of context passed to agents across sessions.",
     "published_at": "2026-07-09T14:11:00Z"
+  },
+  {
+    "title": "vsov/okfy (8★ GitHub)",
+    "url": "https://github.com/vsov/okfy",
+    "description": "Stars: 8. Topics: ai-agents, bm25, claude-code, context-window, knowledge-base. Knowledge engineering for AI agents: distill corpora too big for any context window into small, verified, git-native knowledge bundles",
+    "published_at": "2026-07-09T14:08:17Z",
+    "id": "715338b1-c53c-44df-a6b0-432a9beae9e1"
   },
   {
     "id": "8b70e30d-7c24-4af1-8523-68ee13301747",
@@ -189,11 +805,46 @@
     "published_at": "2026-07-09T14:00:00Z"
   },
   {
+    "title": "Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing",
+    "url": "https://arxiv.org/abs/2607.08497v1",
+    "description": "Authors: Feng Wang, Canmiao Fu, Zhipeng Huang, Chen Li, Jing Lyu, Ge Li. Categories: cs.CV, cs.AI, cs.CL, cs.LG. Recent unified multimodal models show a single architecture can jointly perform vision/language understanding and image generation/editing. However, they repeatedly feed all historical visual and textual inputs into a shared context wind",
+    "published_at": "2026-07-09T13:55:55Z",
+    "id": "9ab9df16-cca6-4024-9594-1304300ab198"
+  },
+  {
+    "title": "taljeon/plzdo (6★ GitHub)",
+    "url": "https://github.com/taljeon/plzdo",
+    "description": "Stars: 6. Topics: agent-harness, ai-agents, ai-coding, codex, control-plane. Tell your AI coding agent: plz do it, then prove it",
+    "published_at": "2026-07-09T13:54:49Z",
+    "id": "544525a1-e6bf-42a1-bf5a-696c61e5ea1b"
+  },
+  {
+    "title": "The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality",
+    "url": "https://arxiv.org/abs/2607.08495v1",
+    "description": "Authors: Masahiro Fujita. Categories: cs.CY, cs.AI. Sharp et al. (2025) introduce \"agentic inequality\" as a framework for analyzing disparities in access to AI agents across three dimensions: availability, quality, and quantity. These person- and organization-level dimensions characterize who can access agents and at what capability, but do not add",
+    "published_at": "2026-07-09T13:53:40Z",
+    "id": "922fc748-39ac-4a1c-a3e2-5f5a760481d2"
+  },
+  {
+    "title": "dunglas/prompt-mac (40★ GitHub)",
+    "url": "https://github.com/dunglas/prompt-mac",
+    "description": "Stars: 40. Topics: ai, coding-agent, development, devops, kubernetes. one-shot, AI-first macOS setup for Apple Silicon",
+    "published_at": "2026-07-09T13:52:25Z",
+    "id": "5d3bf9db-94d8-4fa4-a38a-9c90d7a94240"
+  },
+  {
     "id": "1b5d05e6-2b34-473d-ba17-31cb9adda970",
     "title": "Show HN: FableCut — A browser video editor AI agents can drive (zero deps)",
     "url": "https://github.com/ronak-create/FableCut",
     "description": "Browser video editor controllable by AI agents through a programmatic API. Zero external dependencies — enables agents to produce and edit video content autonomously.",
     "published_at": "2026-07-09T13:23:10Z"
+  },
+  {
+    "title": "Show HN: Yogen – 500 AI agents argue about your idea before you bet on it",
+    "url": "https://github.com/michaelwrites67-ctrl/yogen",
+    "description": "Hacker News discussion: HN: 3 points.",
+    "published_at": "2026-07-09T13:06:02Z",
+    "id": "ee0c192b-0ba6-4365-8749-444b17f9744f"
   },
   {
     "id": "7cd74ca5-a52e-4d84-9abb-870ea8656e72",
@@ -224,6 +875,20 @@
     "published_at": "2026-07-09T12:21:00Z"
   },
   {
+    "title": "phuc-nt/my-db-mate (11★ GitHub)",
+    "url": "https://github.com/phuc-nt/my-db-mate",
+    "description": "Stars: 11. Topics: database, drizzle-orm, llm, mcp, mysql. Self-hosted chat-with-your-database: natural-language questions answered by real read-only SQL, with a curated context layer and a physical safety layer. Next.js + TypeScript.",
+    "published_at": "2026-07-09T12:19:24Z",
+    "id": "4ecb9793-89b5-48a6-b9c2-44b39b4fe61a"
+  },
+  {
+    "title": "pierreolivierbonin/verbatimeter (2★ GitHub)",
+    "url": "https://github.com/pierreolivierbonin/verbatimeter",
+    "description": "Stars: 2. Topics: ai-safety, evaluation, hallucination, hallucination-detection, lcs. Minimalist, deterministic, lightweight, fast, and portable verification of AI-generated text: measure groundedness in a source as verbatim reuse (contiguous matching) or verbatim paraphrasing (LCS). Use as a decorator over generate(), a CLI or a CI g",
+    "published_at": "2026-07-09T12:14:46Z",
+    "id": "1a823ad2-5168-4bab-b730-3c2b926dfacb"
+  },
+  {
     "id": "bcb5ecbd-177f-468f-8014-1e44ecd45f60",
     "title": "Show HN: Orra — The missing glue layer for production-ready multi-agent apps",
     "url": "https://github.com/orra-dev/orra",
@@ -236,6 +901,13 @@
     "url": "https://github.com/andalabx/ember",
     "description": "Ultra-lightweight headless browser optimized for AI agents. Only 17MB idle memory, designed for running many parallel agent browser sessions on modest hardware.",
     "published_at": "2026-07-09T11:32:00Z"
+  },
+  {
+    "title": "Show HN: LangDrift – test AI agents across languages",
+    "url": "https://github.com/RubenGlez/langdrift",
+    "description": "Hacker News discussion: HN: 3 points.",
+    "published_at": "2026-07-09T11:02:56Z",
+    "id": "d74c1f71-0393-4c1a-91d4-bf3b25767d47"
   },
   {
     "id": "39eb3a2d-d385-4a31-b9d6-7e3c54154e15",
@@ -259,6 +931,90 @@
     "published_at": "2026-07-09T10:00:00Z"
   },
   {
+    "title": "liangdabiao/liangdabiao.github.io (3★ GitHub)",
+    "url": "https://github.com/liangdabiao/liangdabiao.github.io",
+    "description": "Stars: 3. Topics: agent. liangdabiao 的 agent 小册子，介绍我认识的各种有用agent ai技术. AI 技术框架教学站：阿里云百炼、LangGraph、Claude Agent SDK、OpenAI Agents SDK、DeepAgents、DeerFlow、Flue、Vercel Eve、Cloudflare Agents、EdgeOne Makers、Agent Skills 等多门课程，从入门到精通。",
+    "published_at": "2026-07-09T09:48:19Z",
+    "id": "47fff3bf-b8f2-44de-88ea-a0075fa180a3"
+  },
+  {
+    "title": "theteatoast/local-vuln-research-pipeline (92★ GitHub)",
+    "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
+    "description": "Stars: 92. Topics: agents, ai, offensive-security, pentest, qwen. Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
+    "published_at": "2026-07-09T09:18:05Z",
+    "id": "c5653825-f27e-4a1f-bde4-7e865c58afe9"
+  },
+  {
+    "title": "xing-0803/AgentRule-Skill (5★ GitHub)",
+    "url": "https://github.com/xing-0803/AgentRule-Skill",
+    "description": "Stars: 5. Topics: agent, ai, ai-agent, claude, codex. 面向 AI Agent 的规范化开发 Skill，帮助构建高质量智能体 | A structured skill for building reliable AI agents with specifications, workflows, and acceptance.",
+    "published_at": "2026-07-09T08:36:19Z",
+    "id": "88522413-5df4-447e-bf2b-691160f63966"
+  },
+  {
+    "title": "MaxFreedomPollard/artificial-knowledge-collection-6.0 (4★ GitHub)",
+    "url": "https://github.com/MaxFreedomPollard/artificial-knowledge-collection-6.0",
+    "description": "Stars: 4. Topics: ai, commonsense, dataset, entity-linking, knowledge-base. The largest collection of common sense ever built by hand: 159,722 human-written concepts and relationships, as one clean file. Artificial knowledge for artificial intelligence.",
+    "published_at": "2026-07-09T07:56:17Z",
+    "id": "40cb5117-51e0-4591-8040-abb2479a75cb"
+  },
+  {
+    "title": "SilentFleetKK/ai-market-pulse (151★ GitHub)",
+    "url": "https://github.com/SilentFleetKK/ai-market-pulse",
+    "description": "Stars: 151. Topics: ai, akshare, github-pages, investment-research, llm. Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+    "published_at": "2026-07-09T07:34:37Z",
+    "id": "f5ca1f24-c762-4412-9862-ff7ef7f54d18"
+  },
+  {
+    "title": "wikidjon/ai-openclaw-cli (52★ GitHub)",
+    "url": "https://github.com/wikidjon/ai-openclaw-cli",
+    "description": "Stars: 52. Topics: ai, cli, mcp-cli, openclaw, openclaw-mcp. openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
+    "published_at": "2026-07-09T07:30:49Z",
+    "id": "f880b707-6ddf-421e-9cd2-a1cbbe9628b2"
+  },
+  {
+    "title": "Matchameleon/moneyclaw (152★ GitHub)",
+    "url": "https://github.com/Matchameleon/moneyclaw",
+    "description": "Stars: 152. Topics: agent, card-agent, moneyclaw, otp-agent, wallet-agent. openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
+    "published_at": "2026-07-09T07:08:09Z",
+    "id": "645e2e92-dab5-4c91-8083-85bf962d1b84"
+  },
+  {
+    "title": "wubin28/first-pass-trust (7★ GitHub)",
+    "url": "https://github.com/wubin28/first-pass-trust",
+    "description": "Stars: 7. Topics: ai-coding, codex-cli, ears, sdd, superpowers. 本书要解决的问题只有一个：如何让AI在有限的token预算下，第一次就生成可信的代码，而不是靠反复来回试错去逼近正确答案。",
+    "published_at": "2026-07-09T06:49:03Z",
+    "id": "bfbd46ba-052c-4dd9-b743-077b08525837"
+  },
+  {
+    "title": "UiPath/coder_eval (16★ GitHub)",
+    "url": "https://github.com/UiPath/coder_eval",
+    "description": "Stars: 16. Topics: agent-evaluation, agentic-ai, ai-agents, benchmark, benchmarking. A framework for evaluating AI coding agents and their skills for CLI and skill builders with sandboxing, reproducibility, and data-driven analysis.",
+    "published_at": "2026-07-09T06:46:59Z",
+    "id": "aaa912c9-e842-4417-89e6-6fde29a5504d"
+  },
+  {
+    "title": "KORAYTEACHER/fintech-advisor (154★ GitHub)",
+    "url": "https://github.com/KORAYTEACHER/fintech-advisor",
+    "description": "Stars: 154. Topics: ai, ai-advisor, ai-financial, ai-fintech, fintech. ai fintech financial advisor for your portfolio",
+    "published_at": "2026-07-09T06:23:12Z",
+    "id": "ec44154a-55a5-4bd4-a8d7-8c790d84b8f4"
+  },
+  {
+    "title": "rit-ops14/nexus-analyst (3★ GitHub)",
+    "url": "https://github.com/rit-ops14/nexus-analyst",
+    "description": "Stars: 3. Topics: agentic-ai, langgraph, llm, mcp, multi-agent. A multi-agent AI system for conversational data analysis — built with LangGraph, MCP, and RAG",
+    "published_at": "2026-07-09T06:08:21Z",
+    "id": "a46ef3bf-845d-4cba-b825-e3a3ddbd0ab7"
+  },
+  {
+    "title": "MORES: Mobile Reasoning-as-a-Service via Distributed LLM Inference-Time Scaling",
+    "url": "https://arxiv.org/abs/2607.08116v1",
+    "description": "Authors: Guanchen Liu, Hongyang Du, Kaibin Huang. Categories: cs.NI. Inference-time scaling has emerged as an effective approach for enhancing the capabilities of Large Language Models (LLMs), addressing the growing demand for stronger reasoning without increasing model size. This novel form of LLM scaling comprises two representative approaches: e",
+    "published_at": "2026-07-09T05:24:31Z",
+    "id": "aa0f279c-0c4b-4a0c-97f2-6994712f29d3"
+  },
+  {
     "id": "feed8a03-7e7d-4eb4-8a9f-3c3c97cd62f8",
     "title": "Multi-Agent Firewall Architecture for Privacy Protection in Intelligent Systems",
     "url": "https://arxiv.org/abs/2607.08282v1",
@@ -271,6 +1027,13 @@
     "description": "Hacker News discussion: HN: 14 points.",
     "published_at": "2026-07-09T05:17:30Z",
     "id": "1274052d-d257-405b-8413-adb5ce47430e"
+  },
+  {
+    "title": "fraconca/ai-ready-context-template-engine (7★ GitHub)",
+    "url": "https://github.com/fraconca/ai-ready-context-template-engine",
+    "description": "Stars: 7. Topics: ai, ai-agents, ai-assisted-development, ai-coding, ai-tools. ⚡ AI Content Workspace Template",
+    "published_at": "2026-07-09T05:16:21Z",
+    "id": "87a27ba2-b866-4156-a5df-7cc5e5e2866c"
   },
   {
     "id": "c7abf286-31f8-4714-829f-6805a381eb90",
@@ -287,11 +1050,60 @@
     "id": "21c1a035-d6b3-42a7-8a42-57083d78232c"
   },
   {
+    "title": "CanadianCowboy/a2x (2★ GitHub)",
+    "url": "https://github.com/CanadianCowboy/a2x",
+    "description": "Stars: 2. Topics: agent-framework, agentic-workflow, agpl, ai-agents, artificial-intelligence. AI-native programming language and runtime. Sigma ISA, Omega compiler, CCS cognitive VM. Built for AI agents. Humans and AI as first-class contributors. AGPL-3.0.",
+    "published_at": "2026-07-09T04:01:04Z",
+    "id": "728ed7cc-ab3d-4580-abc2-fc3ac083e17b"
+  },
+  {
+    "title": "TheColliery/CoalWash (3★ GitHub)",
+    "url": "https://github.com/TheColliery/CoalWash",
+    "description": "Stars: 3. Topics: agent-skills, ai-agents, ai-coding, claude, claude-code. Memory washer/defragmenter for AI agent class-B memory - cleans the FAT, never the MEAT. Code-enforced zero-fact-loss gate, plan-sourced deletes with snapshot+rollback undo (not pre-approval), force-runs at the economic cut-point, transactional apply",
+    "published_at": "2026-07-09T03:04:59Z",
+    "id": "622d4e47-a0bd-4bd6-be7c-101e7d5e4a7a"
+  },
+  {
+    "title": "Coding-Dev-Tools/agentic-system (1★ GitHub)",
+    "url": "https://github.com/Coding-Dev-Tools/agentic-system",
+    "description": "Stars: 1. Topics: agent, agent-framework, circuit-breaker, fsm, llm-council. Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Companion to Engraphis.",
+    "published_at": "2026-07-09T03:04:50Z",
+    "id": "b5131797-f4b1-4b90-8127-d53d28732156"
+  },
+  {
+    "title": "Aleena: Alignment Agent for Research Software Engineering Collaborations",
+    "url": "https://arxiv.org/abs/2607.08043v1",
+    "description": "Authors: Kshitij Dani, Cordero Core, Landung Setiawan, Carlos Garcia Jurado Suarez, Anshul Tambay, Vani Mandava, Anant Mittal. Categories: cs.SE, cs.AI. Research software collaborations span meetings, informal chats, pull requests, and GitHub issues. A decision surfaced in a Slack thread, refined in a meeting, and implemented in a pull request can ",
+    "published_at": "2026-07-09T01:36:18Z",
+    "id": "0269ea98-f4e7-4fa2-b478-4ff0c75203b1"
+  },
+  {
+    "title": "axisrobo/harmovela (3★ GitHub)",
+    "url": "https://github.com/axisrobo/harmovela",
+    "description": "Stars: 3. Topics: a2a, a2a-protocol, aep, agent, agentic-ai. AEP: Agent Event Protocol — open async event layer for agents, tools, memory, and multi-agent runtimes. 4-language reference with cross-language conformance.",
+    "published_at": "2026-07-09T01:15:17Z",
+    "id": "8ca2a50d-dbb9-4d61-bac9-96f586d7da55"
+  },
+  {
     "title": "Show HN: Tilion – MCP for Claude Code to stop it getting blocked on the web",
     "url": "https://github.com/tiliondev/fortress/tree/main/mcp",
     "description": "Hacker News discussion: HN: 5 points.",
     "published_at": "2026-07-09T00:24:45Z",
     "id": "cada15f1-53af-4184-ba21-b5a12d7261e8"
+  },
+  {
+    "title": "domdoss/Warden (17★ GitHub)",
+    "url": "https://github.com/domdoss/Warden",
+    "description": "Stars: 17. Topics: agent, agentic-ai, ai, llm, llm-tools. This is a fork of the https://dockbox.dev project I made",
+    "published_at": "2026-07-09T00:11:40Z",
+    "id": "c04eb061-afe9-4aea-b1f2-80c589fba3a7"
+  },
+  {
+    "title": "joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark (2★ GitHub)",
+    "url": "https://github.com/joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark",
+    "description": "Stars: 2. Topics: blackwell, dgx-spark, gb10, inference, llm. Nemotron Puzzle 75B-A9B NVFP4 on 1× DGX Spark (GB10): MTP, prefix cache, 4 concurrent seqs — ~40 tok/s solo, ~75 tok/s aggregate ×4",
+    "published_at": "2026-07-09T00:10:33Z",
+    "id": "e4569837-a724-433b-912e-42259478cb68"
   },
   {
     "id": "7d160e6e-0102-43dd-8479-610c9eb9b688",
@@ -343,11 +1155,32 @@
     "id": "9700204e-50b7-4968-b82d-cd1d1a37597e"
   },
   {
+    "title": "From Triggers to Emotions: A CPM-Grounded Appraisal Multi-Agent for Dynamic Emotional Evolution in Persona-Based Dialogue",
+    "url": "https://arxiv.org/abs/2607.07824v1",
+    "description": "Authors: Jingyao Cai, Shuaijun Liu, Abdul Rehman, Yutong Guo, Qin Tian, Thomas Dolby, Sue Green, Chantel Cox, Xiaosong Yang. Categories: cs.MA, cs.AI. Large Language Models (LLMs) have substantially advanced persona-based dialogue agents for emotion-sensitive role simulation in healthcare, education, counseling, customer service, and interactive st",
+    "published_at": "2026-07-08T18:06:03Z",
+    "id": "2f4db412-d2ca-42e4-b1d9-069f2fc69e44"
+  },
+  {
+    "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+    "url": "https://arxiv.org/abs/2607.07690v1",
+    "description": "Authors: Vladislav Beliaev. Categories: cs.LG, cs.AI, cs.CL. Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinki",
+    "published_at": "2026-07-08T17:49:14Z",
+    "id": "4ca5d265-14ee-4e23-8c7b-8a60c6231fb2"
+  },
+  {
     "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
     "url": "https://microsoft.github.io/flint-chart/#/",
     "description": "Hacker News discussion: HN: 276 points. Data visualizations are the bridge between user and data.<p>But building AI agents that can generate visualizations reliably can be very tricky:<p>- simple chart specs can be reliable,",
     "published_at": "2026-07-08T17:46:12Z",
     "id": "fd5d03fa-3f7b-417d-b6bd-83315ddf4a8a"
+  },
+  {
+    "title": "CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis",
+    "url": "https://arxiv.org/abs/2607.07601v1",
+    "description": "Authors: Kaicong Huang, Meng Ma, Ruimin Ke. Categories: cs.RO, cs.AI. Safety evaluation for autonomous driving is dominated by rare, safety-critical interactions, motivating simulators that can deliberately synthesize corner cases with photorealistic observations. Corner-case generation is inherently a multi-source problem spanning visual represent",
+    "published_at": "2026-07-08T16:20:19Z",
+    "id": "e435a17b-c7ad-4ab0-ab27-7763703805a6"
   },
   {
     "title": "Show HN: I built a $90 terminal to find where locals eat via spatial gravity",
@@ -448,11 +1281,25 @@
     "id": "653dca04-2f7a-4180-98c4-2312339be2a4"
   },
   {
+    "title": "Decoupling Conversational Dynamics in Full-Duplex Spoken Models through Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2607.07148v1",
+    "description": "Authors: Yuxin Li, Donghang Wu, Guan-Ting Lin, Hung-yi Lee, Chengwei Qin, Zhehuai Chen, Chen Chen. Categories: eess.AS. Recent full-duplex spoken dialogue models have demonstrated compelling progress toward human-like interaction, enabling agents to respond with low latency, produce backchannels, and handle user barge-ins. Yet these improvements in",
+    "published_at": "2026-07-08T08:39:34Z",
+    "id": "db8dc72d-b73e-4452-a653-3790ce5fcab4"
+  },
+  {
     "title": "I built an MCP server and had to design UX with no screen",
     "url": "https://sharemypage.app/blog/how-i-built-the-sharemypage-mcp-and-measured-its-ux",
     "description": "First-hand experience report on designing and building an MCP server, including UX challenges when your AI agent user has no graphical interface. Practical lessons for MCP server developers.",
     "published_at": "2026-07-08T07:58:05Z",
     "id": "384c3b35-44bf-40ac-aa0d-d555644cc201"
+  },
+  {
+    "title": "Seeing and Reflecting: Multimodal Memory-Enhanced Agent Collaboration for Recommendation",
+    "url": "https://arxiv.org/abs/2607.07108v1",
+    "description": "Authors: Hao Cong, Huizu Lin, Zihan Wang, Chengkai Huang, Quan Z. Sheng, Lina Yao. Categories: cs.IR. Large language model (LLM)-based agentic recommender systems show promise in modeling user preferences through natural-language reasoning, yet they remain limited by text-centric inputs and coarse-grained memory updates, making agents prone to miss",
+    "published_at": "2026-07-08T07:50:03Z",
+    "id": "24ec5297-26c1-4900-bd11-42940e2d8a05"
   },
   {
     "title": "bkingfilm/lapian-notes (78★ GitHub)",
@@ -516,6 +1363,13 @@
     "description": "Hacker News discussion: HN: 4 points.",
     "published_at": "2026-07-07T21:25:38Z",
     "id": "ce1cf5b4-7823-41d7-b03f-f50229c7669c"
+  },
+  {
+    "title": "When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2607.06807v1",
+    "description": "Authors: Haowen Xu, Xue Tan, Lei Ma, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun. Categories: cs.CR, cs.AI. While enabling effective collaboration on complex tasks, LLM-based Multi-Agent Systems (MAS) face critical security challenges due to vulnerabilities at the agent and interaction levels. Most existing MAS security de",
+    "published_at": "2026-07-07T21:12:27Z",
+    "id": "a878ab4f-c9da-47ff-a95c-ca6d7a2606b4"
   },
   {
     "title": "Squish, a local LLM inference server for Apple Silicon",
@@ -607,6 +1461,13 @@
     "description": "Stars: 158. Topics: agent, chart-visualization, chinese, claude-code, codex. 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
     "published_at": "2026-07-07T13:57:13Z",
     "id": "853f05cc-71b7-4db2-b6c8-377c9734b2c6"
+  },
+  {
+    "title": "Task Decomposition-Guided Reranking for Adaptive Agent Skill Retrieval",
+    "url": "https://arxiv.org/abs/2607.06283v1",
+    "description": "Authors: Yanping Chen, Weijie Shi, Wen Yang, Jiajie Xu. Categories: cs.AI. Skill usage can significantly enhance the ability of modern agent systems to complete complex tasks. However, the growing scale of skill libraries makes accurate skill selection increasingly challenging. In real-world scenarios, ambiguous semantic matching often arises betwe",
+    "published_at": "2026-07-07T13:49:08Z",
+    "id": "b28dd933-35cd-464b-bf93-34ba5ac8d889"
   },
   {
     "title": "ezBuilder/chatgpt2codex (32★ GitHub)",
@@ -728,6 +1589,13 @@
     "id": "6ac870ec-bced-4c18-a12b-05cfbf931687"
   },
   {
+    "title": "Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
+    "url": "https://arxiv.org/abs/2607.05377v1",
+    "description": "Authors: Jiaqi Peng, Xiqian Yu, Delin Feng, Yuqiang Yang, Wenzhe Cai, Jing Xiong, Ganlin Yang, Jinliang Zheng, Jiafei Cao, Xueyuan Wei, Jiangmiao Pang, Yuan Shen, Tai Wang. Categories: cs.RO, cs.AI, cs.CV. While recent Vision-Language-Action (VLA) models show promise toward generalist manipulation policies, they struggle with long-horizon tasks due",
+    "published_at": "2026-07-06T17:55:05Z",
+    "id": "3f223fe7-46b2-4dfc-b4e9-b2eb31434297"
+  },
+  {
     "title": "SOTA genome interpretation with agentic AI: Interstitial lung disease case study",
     "url": "https://gamowlabs.com/sota-genome-interpretation-with-agentic-ai.html",
     "description": "Hacker News discussion (score: 11): SOTA genome interpretation with agentic AI: Interstitial lung disease case study",
@@ -740,6 +1608,13 @@
     "description": "Stars: 42. Topics: agent-hooks, ai-agents, anthropic, claude, claude-code. Fable 5-grade work discipline for any Claude model — a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5",
     "published_at": "2026-07-06T16:52:32Z",
     "id": "fe0779e2-d05e-4650-8e1c-b9b6fbc8562d"
+  },
+  {
+    "title": "Untrusted Content Masking for Web Agents with Security Guarantees",
+    "url": "https://arxiv.org/abs/2607.05277v1",
+    "description": "Authors: Kristina Nikolić, Egor Zverev, Javier Rando, Matthew Jagielski, Edoardo Debenedetti, Florian Tramèr. Categories: cs.CR, cs.LG. Defenses that provide security guarantees against prompt injection attacks rely on strict isolation between trusted instructions and untrusted data. In text-based environments such as tool-use APIs, this separation",
+    "published_at": "2026-07-06T16:22:37Z",
+    "id": "1c235b67-23d1-4ff1-a80d-9f58f60b3bb2"
   },
   {
     "title": "AMD Ryzen AI Halo — $4k AI Dev Kit for local LLM inference",
@@ -868,6 +1743,13 @@
     "id": "9243d1d3-f523-4788-b3ae-40b46ad25f04"
   },
   {
+    "title": "LLMs for Agentic Home Energy Management",
+    "url": "https://arxiv.org/abs/2607.04569v1",
+    "description": "Authors: Sokipriala Jonah. Categories: eess.SY. Home Energy Management Systems (HEMS) can reduce residential electricity costs and support demand response, but adoption is limited by the difficulty of translating household preferences into technical scheduling constraints. This paper evaluates whether large language model (LLM) agents can provide..",
+    "published_at": "2026-07-06T00:42:05Z",
+    "id": "8a4c42ca-b1e6-4043-bf91-6d4522a2db69"
+  },
+  {
     "title": "PKU-YuanGroup/OpenAI4S (65★ GitHub)",
     "url": "https://github.com/PKU-YuanGroup/OpenAI4S",
     "description": "Stars: 65. Topics: agent, ai4science, claude-science, mit-license, open-source. 9.9 元豆包API复刻 Claude Science",
@@ -882,6 +1764,13 @@
     "id": "1ef15409-b1c8-45c2-b60d-379363e241c0"
   },
   {
+    "title": "Auto: The AGI Compiler",
+    "url": "https://arxiv.org/abs/2607.04542v1",
+    "description": "Authors: Jaber Jaber, Osama Jaber. Categories: cs.LG, cs.AI, cs.SE. Every LLM agent run re-derives its behavior token by token on a frontier model: brilliant, expensive, slow, and unbounded. We present Auto, a compiler that records live agent behavior, measures which parts are secretly deterministic, extracts them into verified programs or distille",
+    "published_at": "2026-07-05T23:09:24Z",
+    "id": "2671bf87-55bc-4677-8ae3-3f41efdd02f5"
+  },
+  {
     "title": "eli-labz/Cognitive-Core-Skills (273★ GitHub)",
     "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
     "description": "Universal taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs and AI agents — with 159 skill cards, schemas, benchmarks, and CI. Reference framework for agent skill engineering.",
@@ -894,6 +1783,13 @@
     "description": "Stars: 21. Topics: ai-tools, llm, open-webui, openwebui, powerpoint. Native PowerPoint (.pptx) generator tool for Open WebUI — JSON spec in, native charts/icons/layouts out. MIT.",
     "published_at": "2026-07-05T18:52:35Z",
     "id": "ca0c58f3-fa20-4a55-bd38-7414d6381759"
+  },
+  {
+    "title": "ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI",
+    "url": "https://arxiv.org/abs/2607.04426v1",
+    "description": "Authors: ACE-Brain Team,  :, Ziyang Gong, Haoming Gu, Zehang Luo, Tianyi Zhang, Tao Tao, Yixiao Chi, Zhe Liu, Lingsi Zhu, Jingyuan Liu, Anke Tang, Songze Li, Yilun Kong, Ningjing Liu, Tianyu Zhu, Yunpeng Qing, Shuang Luo, Xiang Liu, Shi Fu, Dawei Nie, Sixiang Liu, Zhexi Wen, Feng Pan, Xiaofeng Wang, Zhi Hou, Chunxiao Liu, Xue Yang, Junchi Yan, Heng",
+    "published_at": "2026-07-05T17:43:06Z",
+    "id": "960d8d24-ba14-403f-a6a7-2c7466b1e966"
   },
   {
     "title": "bepitulaz/obsidian-multivault-mcp (27★ GitHub)",
@@ -922,6 +1818,13 @@
     "description": "On CodeScaleBench tasks, Claude Sonnet 4.6 with the Sourcegraph MCP server outscored Fable 5 — winning six of nine tasks at roughly half the cost per quality point. Demonstrates how MCP tool access can bridge the gap between mid-tier and frontier models.",
     "published_at": "2026-07-05T14:00:00Z",
     "id": "6b2effc6-b946-4006-9784-1703661a1cae"
+  },
+  {
+    "title": "Biological Motifs for Agentic Control",
+    "url": "https://arxiv.org/abs/2607.04240v1",
+    "description": "Authors: Bogdan Banu. Categories: cs.AI, q-bio.CB. The transition of Large Language Models (LLMs) from passive generators to autonomous agents has introduced significant challenges in reliability, security, and state management. Current agentic architectures are often constructed ad-hoc, prone to hallucination cascades, infinite loops, and prompt i",
+    "published_at": "2026-07-05T11:30:45Z",
+    "id": "87f6b458-114d-46c6-a17b-57f54045e187"
   },
   {
     "title": "Teaching agents product design at Vercel",
@@ -987,11 +1890,25 @@
     "id": "3ce520fe-0bfe-473a-9dc0-748ad44049c8"
   },
   {
+    "title": "Context Graphs for Proactive Enterprise Agents",
+    "url": "https://arxiv.org/abs/2607.07721v1",
+    "description": "Authors: Avinash Kumar. Categories: cs.AI, cs.LG. Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relev",
+    "published_at": "2026-07-04T14:37:23Z",
+    "id": "b7456ae4-92a8-46b9-a7f6-002417404a62"
+  },
+  {
     "title": "AI SDK 7 — TypeScript SDK for production AI applications",
     "url": "https://vercel.com/blog/ai-sdk-7",
     "description": "AI SDK 7 focuses on production-grade AI application features: multi-provider support, agent workflows, observability, and streaming. The TypeScript SDK for building AI features across any model provider.",
     "published_at": "2026-07-04T10:00:00Z",
     "id": "31027171-d028-4305-9764-ef1978fb0286"
+  },
+  {
+    "title": "AGL-1: The Enterprise AI Governance Layer as a Control Plane for Trusted Enterprise Intelligence",
+    "url": "https://arxiv.org/abs/2607.03516v1",
+    "description": "Authors: Roopam W. Sure. Categories: cs.SE, cs.AI, cs.CY. Enterprise artificial intelligence is moving from isolated experimentation toward operational dependency across copilots, retrieval-augmented generation systems, autonomous agents, and AI-enabled business workflows. As this transition accelerates, the primary enterprise challenge is no longe",
+    "published_at": "2026-07-03T17:42:08Z",
+    "id": "a9d2d467-0a00-4f69-9468-779ef212a6c0"
   },
   {
     "title": "Why coding agents fail in large codebases (and what to do about it)",
@@ -1006,6 +1923,13 @@
     "description": "Vercel adds audio/voice support to AI Gateway with realtime capabilities. Build low-latency voice agents with the AI SDK, plus text-to-speech and speech-to-text behind a single API key.",
     "published_at": "2026-07-03T10:00:00Z",
     "id": "e09dc23b-fc7b-4a4d-8153-4042c9937713"
+  },
+  {
+    "title": "VideoSearcher: Empowering Video Deep Research with Multi-Tool Agentic Reasoning via Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2607.02927v1",
+    "description": "Authors: Zhenkun Gao, Yicheng Bao, Jinlong Peng, Xueheng Li, Theo Huang, Bangwei Liu, Kunquan Li, Zhenye Gan, Tao Hu, Chengjun Xie, Mingqian Yang, Xuanhua He, Zhizhong Zhang, Xin Tan, Chengjie Wang, Yuan Xie. Categories: cs.CV, cs.AI. Video understanding is moving beyond closed-context perception toward open-world evidence exploration, a paradigm f",
+    "published_at": "2026-07-03T03:50:09Z",
+    "id": "5fdf5780-3645-4b0a-93ea-1d1b8f696467"
   },
   {
     "title": "llm-coding-agent 0.1a0 — Simon Willison's LLM framework grows a coding agent mode",
@@ -1078,6 +2002,13 @@
     "id": "590fa89b-6172-4883-a1a7-aac176832d4b"
   },
   {
+    "title": "ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair",
+    "url": "https://arxiv.org/abs/2607.01916v3",
+    "description": "Authors: Chiwang Luk, Matin Mohammad Najafi, Zhifeng Jia, Wei Yang, Xiuchang Li, Jinwei Zhu, Yang Ren, Lei Chen, Gao Cong. Categories: cs.AI. Large language model agents can repair real repository issues, but they often spend large context budgets on whole-file reads, broad searches, and long terminal outputs where useful evidence is mixed with irr",
+    "published_at": "2026-07-02T09:15:28Z",
+    "id": "7a2be8af-2f94-43ee-972c-f6c55141eed4"
+  },
+  {
     "title": "Remote agents in Vibe. Powered by Mistral Medium 3.5",
     "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
     "description": "Mistral introduces Mistral Medium 3.5 and remote coding agents in its Vibe development environment. Plus a new Work mode in Le Chat for complex multi-step tasks. Demonstrates Mistral's push into agent-powered development workflows.",
@@ -1106,6 +2037,13 @@
     "id": "a8fb882a-7552-45ec-9d9e-b1be24e0f5ec"
   },
   {
+    "title": "A Survey of LLM-Driven Penetration Testing: Taxonomy, Co-Evolution, and Open Challenges",
+    "url": "https://arxiv.org/abs/2607.02605v1",
+    "description": "Authors: Zheyuan He, Jiaxun Dong, Zihao Li, Ting Chen, Gelei Deng, Feng Luo, Jinkun Ji, Yuanlong Cao, Xiapu Luo. Categories: cs.SE. Agents4Pentest, an emerging class of LLM-based autonomous penetration testing systems, has become a rapidly growing area in security research. Despite this growth, the field still lacks a unified taxonomy, a systematic",
+    "published_at": "2026-07-01T13:24:25Z",
+    "id": "59fc8475-62bc-436e-9f80-b2c236206652"
+  },
+  {
     "title": "The Agent Stack — Vercel's production-grade agent building blocks",
     "url": "https://vercel.com/blog/agent-stack",
     "description": "Vercel consolidates its agent infrastructure into a unified Agent Stack: AI SDK for model routing, AI Gateway for secure access, Workflows for durable multi-step execution, and eve for filesystem-first agent orchestration. Production patterns for shipping AI agents at scale.",
@@ -1132,6 +2070,13 @@
     "description": "Authors: Yankai Jiang, Weiting Tang, Haoran Sun, Zhenyu Tang, Yuejie Hou, Yingnan Han, Rubo Wang, Yueyuxiao Yang, Cheng Liang, Lilong Wang, Wenjie Lou, Xiaosong Wang, Lei Bai, Meng Yang. Categories: cs.AI. Autonomous wet-lab experimentation requires more than plausible protocol text: biological intent, quantitative procedures, device constraints an",
     "published_at": "2026-06-30T14:51:13Z",
     "id": "e4293e71-5cc8-43e0-a9e3-018fd2d47aaa"
+  },
+  {
+    "title": "ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping",
+    "url": "https://arxiv.org/abs/2606.31693v1",
+    "description": "Authors: Jiacheng Chen, Tao Zhang, Manxi Lin, Dunxian Huang, Teng Shi, Honghao Fu, Mengyan Li, Xinming Zhang, Chenchi Zhang, Xuan Lu, Xiaoxiong Du, Haibin Chen, Shaolin Ye, Hao Chang, Xiaoqi Li, Shuwen Xiao, Yujin Yuan, Jingxuan Feng, Shaopan Xiong, Huimin Yi, Ju Huang, Qiu Shen, Ying Chen, Junjun Zheng, Xiangheng Kong, Yuning Jiang. Categories: cs",
+    "published_at": "2026-06-30T14:05:28Z",
+    "id": "c5a3fc8c-8590-4f6d-b6b0-07211ab1c78c"
   },
   {
     "title": "DeepSeek V4 Is Earning Agentic Token Share",
@@ -1209,6 +2154,13 @@
     "description": "Comprehensive GPU pricing report covering cloud GPU costs across providers (AWS, GCP, Azure), spot vs on-demand pricing, and trends affecting AI inference and training costs in 2026.",
     "published_at": "2026-06-27T06:00:00Z",
     "id": "321cf590-a235-4c9a-826e-d200e983c0a7"
+  },
+  {
+    "title": "Self-Supervised Theorem Discovery in a Formal Axiomatic System",
+    "url": "https://arxiv.org/abs/2606.28747v1",
+    "description": "Authors: Kazuki Ota, Takayuki Osa, Tatsuya Harada. Categories: cs.AI, cs.LG. Recent artificial intelligence (AI) systems have shown remarkable progress in mathematical reasoning. Many existing approaches, including large language models (LLMs), draw on human prior knowledge in the form of mathematical text, code, or theorem libraries. Although thes",
+    "published_at": "2026-06-27T05:55:18Z",
+    "id": "a80432c7-8c89-4c22-84d0-11dfe95dd86d"
   },
   {
     "title": "What happened after 2,000 people tried to hack my AI assistant",
@@ -1337,6 +2289,13 @@
     "published_at": "2026-06-25T09:21:15.912573Z"
   },
   {
+    "title": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models",
+    "url": "https://arxiv.org/abs/2606.26366v2",
+    "description": "Authors: Patrick Cooper, Alvaro Velasquez. Categories: cs.AI, cs.CL, cs.CY. Standard chain-of-thought on moral dilemmas exhibits two failure modes: stakeholder collapse (the trace names at most one party with a stake in the outcome) and uncertainty suppression (no explicit unknowns or hedges before committing to an action). We introduce narration-o",
+    "published_at": "2026-06-24T20:23:16Z",
+    "id": "a01090ec-a9b1-407b-bbc5-82b2697b3486"
+  },
+  {
     "title": "Building Moon Bot: A Slack-Native Coding Agent Backed by HuggingFace Buckets",
     "url": "https://huggingface.co/blog/huggingface/moon-bot",
     "description": "HuggingFace details building Moon Bot, a Slack-native coding agent that uses HuggingFace Buckets for model hosting and inference. Covers architecture, tool-use patterns, and integration patterns for bringing AI coding agents into team chat workflows.",
@@ -1349,6 +2308,13 @@
     "url": "https://tecture.io/",
     "description": "HN-discussed tool that lets coding agents generate an interactive architecture map of a repository, helping developers understand system structure after autonomous refactors.",
     "published_at": "2026-06-24T14:05:20Z"
+  },
+  {
+    "title": "Beyond Function Calling: Benchmarking Tool-Using Agents under Tool-Environment Unreliability",
+    "url": "https://arxiv.org/abs/2606.25819v2",
+    "description": "Authors: Yang Tian, Zhengpeng Shi, Yu Zhou, Bo Zhao. Categories: cs.CL, cs.SE. Large language models are increasingly deployed as agents that solve tasks by interacting with external tool environments. Although recent tool-use benchmarks increasingly cover complex task settings, they still largely assume clean, stable, and trustworthy tool environm",
+    "published_at": "2026-06-24T13:34:34Z",
+    "id": "44fc356b-cff3-4431-92f0-f7abb350dc24"
   },
   {
     "title": "Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization",
@@ -1454,6 +2420,13 @@
     "description": "Treats model routing as a Context→Action→Feedback→Context loop that accumulates execution-grounded experience, achieving lower cumulative regret than static routers on coding benchmarks.",
     "published_at": "2026-06-22T06:37:31Z",
     "id": "48b2a7d8-7c9a-4eda-b34d-d8c11969c391"
+  },
+  {
+    "title": "GRADE: Graph Representation of LLM Agent Dependency and Execution",
+    "url": "https://arxiv.org/abs/2606.22741v1",
+    "description": "Authors: Yue Zhao. Categories: cs.LG. Can one graph represent every kind of LLM agent's run? A trace records what each step did, never what it relied on, the state it read, and the results it reused. GRADE recovers that missing layer: it models any run as one graph over its step nodes with two edge layers, execution edges (what ran in w...",
+    "published_at": "2026-06-22T01:03:21Z",
+    "id": "a6ae7dd2-2430-4e93-981f-896df3ce2135"
   },
   {
     "id": "b715839a-c584-4802-9773-d281fee3d6c7",
@@ -1596,6 +2569,13 @@
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
+    "title": "When Is Emergent Consensus Real? A Measured Coupling Gain and a Validity Diagnostic for LLM Agent Societies",
+    "url": "https://arxiv.org/abs/2606.22203v1",
+    "description": "Authors: Dongxu Yang. Categories: cs.CL, cs.AI, cs.MA, cs.SI. LLM \"agent societies\" are studied via demonstrations of emergent consensus or polarization -- with no measurable control parameter, no theory of when each regime appears, and no test of whether an outcome is a genuine social dynamic or a model artifact. We introduce the coupling gain gam",
+    "published_at": "2026-06-20T19:41:01Z",
+    "id": "9c5f5e49-2958-4f3e-a735-4939158634fe"
+  },
+  {
     "title": "MCP Stories from the Field",
     "url": "https://sourcegraph.com/blog/mcp-stories-from-the-field",
     "description": "Real-world experiences and lessons learned from deploying MCP servers in production coding agent workflows. Covers integration patterns, failure modes, and best practices for MCP-based agent tool use.",
@@ -1645,6 +2625,13 @@
     "published_at": "2026-06-18T00:00:00Z"
   },
   {
+    "title": "Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark",
+    "url": "https://arxiv.org/abs/2606.18648v3",
+    "description": "Authors: Yigeng Jiang, Tengchao Yang, Taoyong Cui, Jiaxing Wan, Yuan Wang, Weida Wang, Zhiyu Liu, Chuyi Peng, Binzhao Luo, Maoli Gao, Huaihai Huang, Yuqianer Zeng, Ziyang Zheng, Dongchen Huang, Chao Chen, Zichao Liu, Weiping Shen, Shuchen Pu, Siyu Zhou, Runmin Ma, Yusong Hu, Fei Chao, Bo Zhang, Xiawu Zheng, Zifu Wang, Lei Bai, Yunqi Cai, Shufei Zha",
+    "published_at": "2026-06-17T03:32:06Z",
+    "id": "756294f8-a94c-4ab2-bd0b-9e3d39526459"
+  },
+  {
     "id": "a8c4f92e-3d1a-4b7e-9f2c-5e6d8a9b0c1d",
     "title": "Agentic Coding and Persistent Returns to Expertise",
     "url": "https://www.anthropic.com/research/claude-code-expertise",
@@ -1657,6 +2644,13 @@
     "description": "Anthropic's early learnings from Project Glasswing — an initiative aimed at understanding and improving how AI systems handle long-horizon autonomous tasks. Covers architectural decisions, safety considerations, and observed failure modes in extended agent deployments.",
     "published_at": "2026-06-15T14:00:00Z",
     "id": "412dec8e-0b8b-4949-9e45-e547229357eb"
+  },
+  {
+    "title": "Misinformation Propagation in Benign Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2606.16710v1",
+    "description": "Authors: Jonas Becker, Jan Philip Wahle, Terry Ruas, Bela Gipp. Categories: cs.MA, cs.CL. Multi-agent systems, in which multiple large language model agents solve problems through turn-based interaction, are increasingly deployed in high-stakes settings such as medical diagnosis, legal analysis, and forensic decision-making. Their reliability can b",
+    "published_at": "2026-06-15T13:40:01Z",
+    "id": "ccef5694-563f-444d-b4c2-d9bdf7b159ff"
   },
   {
     "title": "RHO: Your Coding Agent is Secretly a Roboticist",
@@ -1687,6 +2681,13 @@
     "published_at": "2026-06-14T00:00:00Z"
   },
   {
+    "title": "Generation Quality-Latency Tradeoff-Aware Inference Offloading for Multimodal LLMs in Cloud-Edge Continuum",
+    "url": "https://arxiv.org/abs/2606.15210v1",
+    "description": "Authors: Zhongxiao Wang, Yueshen Xu, Xinkui Zhao, Wei Shao, Rui Li. Categories: cs.DC. Beyond pure cloud, some efforts are being made to deploy Large Language Models (LLMs) in edge to accelerate inference response. So the deployment of LLMs in cloud-edge continuum becomes a promising paradigm, where the tasks involving multimodal data occupy a larg",
+    "published_at": "2026-06-13T09:16:10Z",
+    "id": "9132da42-caf9-485b-b730-3df7eb1cc265"
+  },
+  {
     "title": "Anthropic Economic Index report: Cadences",
     "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
     "description": "Latest Anthropic Economic Index examines when people come to Claude, what they produce with it, and how they perceive AI impact on their work. Data-driven analysis of AI adoption cadences across industries and use cases.",
@@ -1708,11 +2709,39 @@
     "id": "e43b2464-8a76-4822-855f-b89e7788b878"
   },
   {
+    "title": "The Consistency Illusion: How Multi-Agent Debate Hides Reasoning Misalignment",
+    "url": "https://arxiv.org/abs/2606.08457v1",
+    "description": "Authors: Xiaoyang Wang, Christopher C. Yang. Categories: cs.MA. Multi-agent LLM systems for medical question answering often treat consensus as a reliability signal: if multiple agents agree on an answer, it is presumed trustworthy. However, answer-level consensus does not entail reasoning-level alignment. We introduce CARA (Cross-Agent Reasoning A",
+    "published_at": "2026-06-07T05:14:26Z",
+    "id": "0096f602-8be3-4c3e-a49f-b7a93465aabe"
+  },
+  {
     "title": "Making Claude a chemist",
     "url": "https://www.anthropic.com/research/making-claude-a-chemist",
     "description": "Anthropic works with world-class chemists to improve Claude's chemistry capabilities. Covers multimodal molecule understanding, structure-to-text translation, and agentic workflows for chemical research automation.",
     "published_at": "2026-06-05T14:00:00Z",
     "id": "850983e4-4d30-4b9d-b6bf-5904c72abe45"
+  },
+  {
+    "title": "MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills",
+    "url": "https://arxiv.org/abs/2606.07131v3",
+    "description": "Authors: Wenbo Guo, Wei Zeng, Chengwei Liu, Xiaojun Jia, Yijia Xu, Lei Tang, Yong Fang, Yang Liu. Categories: cs.CR, cs.SE. AI coding agents such as Claude Code and Gemini CLI increasingly extend themselves with third-party skills: markdown packages bundling natural-language instructions, executable scripts, and tool permissions. Because a skill is",
+    "published_at": "2026-06-05T10:43:19Z",
+    "id": "cd7c2b1f-ca19-45df-968c-6e32b71d8371"
+  },
+  {
+    "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
+    "url": "https://arxiv.org/abs/2606.04223v1",
+    "description": "Authors: Michał Wawer, Jarosław A. Chudziak. Categories: cs.AI. Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is insufficient for value-laden tasks, where disagreement may reflect genuine normative uncertainty rather than agen",
+    "published_at": "2026-06-02T21:21:02Z",
+    "id": "75cb1b21-c5c3-4673-999a-8cbbcc07a53f"
+  },
+  {
+    "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+    "url": "https://arxiv.org/abs/2605.26112v1",
+    "description": "Authors: Shangding Gu. Categories: cs.AI, cs.LG. This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation models. We refer to this shift as scaling the harness: treating the structured execution layer around a f.",
+    "published_at": "2026-05-25T17:59:36Z",
+    "id": "02abf99b-6fdd-4f87-9af8-d781c5af0565"
   },
   {
     "title": "Teaching Claude why — reducing agentic misalignment",
@@ -1727,5 +2756,12 @@
     "description": "Anthropic trains Claude to translate its internal activations into human-readable text. NLAs enable direct interpretation of model reasoning, with applications for safety monitoring and understanding model behavior during agentic tasks.",
     "published_at": "2026-05-07T14:00:00Z",
     "id": "1c15b8c2-d0e8-405f-896d-d5963303553c"
+  },
+  {
+    "title": "Understanding Reasoning LLMs",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
+    "description": "Sebastian Raschka (Ahead of AI): Understanding Reasoning LLMs",
+    "published_at": "",
+    "id": "763f006c-c3b7-4259-9ed8-65739a92396b"
   }
 ]
