@@ -994,6 +994,13 @@
     "published_at": "2026-07-09T12:00:00Z"
   },
   {
+    "title": "Understanding Reasoning LLMs",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
+    "description": "Sebastian Raschka (Ahead of AI): Understanding Reasoning LLMs",
+    "published_at": "2026-07-09T12:00:00Z",
+    "id": "763f006c-c3b7-4259-9ed8-65739a92396b"
+  },
+  {
     "id": "7f25d7b7-b482-4675-b619-2b87e5a076fc",
     "title": "Show HN: Ember — Lightweight headless browser for AI agents (17MB idle)",
     "url": "https://github.com/andalabx/ember",
@@ -2854,12 +2861,5 @@
     "description": "Anthropic trains Claude to translate its internal activations into human-readable text. NLAs enable direct interpretation of model reasoning, with applications for safety monitoring and understanding model behavior during agentic tasks.",
     "published_at": "2026-05-07T14:00:00Z",
     "id": "1c15b8c2-d0e8-405f-896d-d5963303553c"
-  },
-  {
-    "title": "Understanding Reasoning LLMs",
-    "url": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
-    "description": "Sebastian Raschka (Ahead of AI): Understanding Reasoning LLMs",
-    "published_at": "",
-    "id": "763f006c-c3b7-4259-9ed8-65739a92396b"
   }
 ]
