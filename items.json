@@ -1,5 +1,26 @@
 [
   {
+    "id": "341d85aa-f6ea-482e-acbf-990b7c4c3b93",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k — measured",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "description": "HN front page (582 pts): Head-to-head comparison of token overhead between Claude Code and OpenCode. Claude Code sends 4.7x more system tokens before even reading the user's prompt. Critical data for choosing a coding agent — token overhead directly impacts cost and context efficiency.",
+    "published_at": "2026-07-12T18:25:51Z"
+  },
+  {
+    "id": "7d102bbc-d713-4c5b-9b92-0ac3f3044267",
+    "title": "headroom (52★ GitHub) — Track and rotate Claude & Codex usage across accounts",
+    "url": "https://github.com/domanski-ai/headroom",
+    "description": "Stars: 52. Live dashboard that tracks and rotates Claude Code and Codex usage across accounts. Read live usage data without spending a token. Essential tool for heavy coding agent users hitting rate limits.",
+    "published_at": "2026-07-12T12:58:01Z"
+  },
+  {
+    "id": "1bc98d29-7f27-4ca8-98d0-4454ea35be47",
+    "title": "clodex-ide (691★ GitHub) — Local-first, zero-trust agentic IDE",
+    "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+    "description": "Stars: 691. Local-first, zero-trust agentic IDE for verifiable autonomous software development. Built with Electron + TypeScript, designed for agent-driven coding workflows with full code verification. Explosive growth — one of the fastest-growing agent-tooling repos.",
+    "published_at": "2026-07-12T10:35:44Z"
+  },
+  {
     "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
     "url": "https://github.com/cosmtrek/mindwalk",
     "description": "Hacker News discussion: HN: 30 points.",
@@ -12,6 +33,20 @@
     "description": "Hacker News discussion: HN: 9 points.",
     "published_at": "2026-07-12T02:18:15Z",
     "id": "2866928f-596e-4d70-a22e-bb99191889d4"
+  },
+  {
+    "id": "7f315bcd-adf7-40f1-8edc-40fa87631ae3",
+    "title": "jlens-gguf (54★ GitHub) — Interactive model visualizer for GGUF local LLMs",
+    "url": "https://github.com/igorbarshteyn/jlens-gguf",
+    "description": "Stars: 54. Interactive Jacobian-Lens visualizer and live steerer for GGUF models on llama.cpp. Lets you see inside local LLMs during inference — useful for debugging, understanding, and guiding model behavior on consumer hardware.",
+    "published_at": "2026-07-12T01:41:34Z"
+  },
+  {
+    "id": "70e26b54-52c0-4529-989b-af493d9561c8",
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "description": "HN front page (471 pts): Reverse-engineered wire-level analysis of what the Grok CLI sends to xAI's API. Reveals system prompts, tool definitions, and token overhead patterns in Grok's coding agent. Essential reference for understanding how different coding agents structure their API calls behind the scenes.",
+    "published_at": "2026-07-12T01:09:50Z"
   },
   {
     "title": "Old and new apps, via modern coding agents",
@@ -161,6 +196,13 @@
     "id": "45a57d85-f3b9-499c-81f5-03f055f2d83c"
   },
   {
+    "id": "be8ef76b-3744-4ea0-bb58-77dc405a0429",
+    "title": "managed-agents (37★ GitHub) — Open-source multi-agent runtime for local models",
+    "url": "https://github.com/sandbaseai/managed-agents",
+    "description": "Stars: 37. Open-source CMA-compatible agent runtime. Run multi-agent systems locally with any model (Ollama/vLLM/Claude/GPT), MCP tools, scenario templates, and a dashboard. Single-command start for enterprise teams.",
+    "published_at": "2026-07-11T08:48:07Z"
+  },
+  {
     "title": "MCP-customs – NPM audit, but for MCP servers (offline, zero telemetry)",
     "url": "https://github.com/mcpcustoms/mcp-customs",
     "description": "Hacker News discussion: HN: 1 points.",
@@ -215,6 +257,13 @@
     "url": "https://agentcaly.com/",
     "description": "Integration that schedules AI agent tasks from Google Calendar events. Agents trigger on calendar events for time-based autonomous workflows.",
     "published_at": "2026-07-11T01:37:00Z"
+  },
+  {
+    "id": "5fcf4ca3-555b-4dff-939a-1bce050218bb",
+    "title": "agent-room (24★ GitHub) — Private local meeting rooms where AI agents collaborate",
+    "url": "https://github.com/steviebuilds/agent-room",
+    "description": "Stars: 24. Private local meeting rooms where Codex, Claude Code, and other coding agents collaborate live in real-time. Multi-agent collaboration without cloud dependencies or data leaving your machine.",
+    "published_at": "2026-07-11T01:02:16Z"
   },
   {
     "title": "danielarif26/understudy (3★ GitHub)",
@@ -329,6 +378,13 @@
     "id": "bd1f75ab-fd5f-4563-8f52-64e58cf3a945"
   },
   {
+    "id": "09f31ac6-30aa-4ac3-9368-eab9934a6ed5",
+    "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation — arXiv",
+    "url": "https://arxiv.org/abs/2607.09600",
+    "description": "arXiv:2607.09600 (cs.AI, cs.CL). Novel auction-based mechanism for task allocation among expert models in LLM agent systems. Each expert bids on sub-tasks, enabling dynamic, cost-aware orchestration across diverse models in multi-agent setups.",
+    "published_at": "2026-07-10T16:54:52Z"
+  },
+  {
     "id": "cdecb3b7-3e85-49f7-9ef9-2dad5f6a3a23",
     "title": "Show HN: NoMac — let your AI agent ship iOS apps without a Mac",
     "url": "https://nomac.app",
@@ -362,6 +418,20 @@
     "description": "Stars: 76. Topics: ai, ai-video, claude-code, claude-skill, collage-video. Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "published_at": "2026-07-10T15:32:05Z",
     "id": "f8d8115a-a199-47a8-b4f7-3f11d59b3cda"
+  },
+  {
+    "id": "923118b2-c459-4992-8ab0-73151961ad13",
+    "title": "Failure as a Process: An Anatomy of CLI Coding Agent Trajectories — arXiv",
+    "url": "https://arxiv.org/abs/2607.09510",
+    "description": "arXiv:2607.09510 (cs.SE, cs.AI). Deep empirical study of failure modes in CLI-based LLM coding agents. Classifies failure patterns across real agent trajectories on software engineering tasks — essential reading for anyone building or deploying coding agents in production.",
+    "published_at": "2026-07-10T15:25:56Z"
+  },
+  {
+    "id": "ca8e9714-825d-4f6d-ac34-50a4825f1e8d",
+    "title": "Shared Selective Persistent Memory for Agentic LLM Systems — arXiv",
+    "url": "https://arxiv.org/abs/2607.09493",
+    "description": "arXiv:2607.09493 (cs.AI, cs.MA, cs.SE). Proposes selective persistent memory architecture for multi-session agentic LLM systems. Addresses the fundamental context fragmentation problem where each agent session starts from zero, discarding prior configuration, constraints, and data schemas.",
+    "published_at": "2026-07-10T15:07:00Z"
   },
   {
     "title": "SiyaoZheng/GEZHI (1★ GitHub)",
@@ -418,6 +488,13 @@
     "description": "Stars: 17. Topics: agentic-ai, automation, cisa-kev, cybersecurity, n8n. Zero-touch pipeline that turns newly weaponized CVEs from the CISA Known Exploited Vulnerabilities (KEV) catalog into production-ready Sigma detection rules, automatically, every week.",
     "published_at": "2026-07-10T12:29:18Z",
     "id": "4eb61a7a-3638-439b-a5e8-594a10ee346f"
+  },
+  {
+    "id": "9addcaf1-d0e6-47e2-af93-303957d36548",
+    "title": "Deceptive Grounding: Entity Attribution Failure in Clinical RAG — arXiv",
+    "url": "https://arxiv.org/abs/2607.09349",
+    "description": "arXiv:2607.09349 (cs.CL, cs.AI, cs.LG). Reveals a critical blind spot in RAG evaluation: checking factual grounding misses when retrieved evidence is attributed to the wrong entity. Shows entity attribution failure is systematic in clinical RAG, with direct implications for agent evaluation frameworks.",
+    "published_at": "2026-07-10T12:29:10Z"
   },
   {
     "id": "441d496c-e21f-4f30-874b-eaeaada74a10",
@@ -658,6 +735,13 @@
     "published_at": "2026-07-09T17:00:00Z"
   },
   {
+    "id": "5fdb5cd1-0ebb-4db2-b91a-bd5657d62dfa",
+    "title": "Scaling Managed Agents: Decoupling the brain from the hands — Anthropic Engineering",
+    "url": "https://www.anthropic.com/engineering/managed-agents",
+    "description": "Anthropic's architecture for decoupling LLM reasoning from tool execution in managed agent deployments. Separates the 'brain' (planning/reasoning) from the 'hands' (tool execution) to scale agent systems reliably across products.",
+    "published_at": "2026-07-09T17:00:00Z"
+  },
+  {
     "title": "wangshishuo999-max/skill-studio-lite (2★ GitHub)",
     "url": "https://github.com/wangshishuo999-max/skill-studio-lite",
     "description": "Stars: 2. Topics: agent, ai, compliance, license, open-source. Local-first toolkit for clean-room AI skill restructuring and Skill Card generation.",
@@ -714,6 +798,13 @@
     "published_at": "2026-07-09T16:00:00Z"
   },
   {
+    "id": "4c149fa1-3296-4671-a990-a199629de9c3",
+    "title": "How we contain Claude across products — Anthropic Engineering",
+    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "description": "Anthropic's containment architecture for running Claude across multiple products simultaneously. Details sandboxing, prompt isolation, and security boundaries for multi-tenant agent deployments at scale.",
+    "published_at": "2026-07-09T16:00:00Z"
+  },
+  {
     "title": "The complexities of patient-centred conversational artificial intelligence",
     "url": "https://arxiv.org/abs/2607.08625v1",
     "description": "Authors: João Matos, Olivia Buege, Donny Cheung, Gary S. Collins, Paula Dhiman, Nan Li, Bingyu Mao, Benjamin W. Nelson, Michail Ouroutzoglou, Paul Varghese, Jonathan Amar. Categories: cs.AI, cs.CL. Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for symptom assessment. However, chatbot development and e",
@@ -746,6 +837,13 @@
     "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
     "url": "https://arxiv.org/abs/2607.08768",
     "description": "arXiv paper introducing UniClawBench, a benchmark for evaluating proactive agents on real-world tasks. Tests agent ability to operate everyday tools and assist users across diverse real-world scenarios without explicit step-by-step instructions.",
+    "published_at": "2026-07-09T15:00:00Z"
+  },
+  {
+    "id": "dfcfd37c-7ec8-4936-b3ed-15dcde49fb81",
+    "title": "How we built Claude Code auto mode: a safer way to skip permissions — Anthropic Engineering",
+    "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+    "description": "Inside look at Claude Code's auto mode for safe permission skipping. Covers sandbox design, approval policies, and safety guardrails that enable autonomous agent operation without compromising security.",
     "published_at": "2026-07-09T15:00:00Z"
   },
   {
