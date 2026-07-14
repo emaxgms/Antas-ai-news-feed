@@ -14,28 +14,7 @@
     "published_at": "2026-07-14T08:50:13Z"
   },
   {
-    "id": "0b6d34d8-8b0b-4b45-8b7e-0a7479cbba60",
-    "title": "Fastmail announces launch of EU-hosted email infrastructure",
-    "url": "https://www.businesswire.com/news/home/20260713988425/en/Fastmail-Launches-EU-Hosted-Email-Infrastructure-Giving-Customers-Control-Over-Where-Their-Data-Lives",
-    "description": "HN discussion (3 pts).",
-    "published_at": "2026-07-14T08:49:56Z"
-  },
-  {
-    "id": "cc8b1614-526d-42fc-9796-d7da9cdb5064",
-    "title": "Swiss Army Breaks with Microsoft: \"Cyber Command\" Relies on Open Source",
-    "url": "https://www.heise.de/en/news/Swiss-Army-breaks-with-Microsoft-Cyber-Command-relies-on-Open-Source-11361516.html",
-    "description": "HN discussion (4 pts).",
-    "published_at": "2026-07-14T08:24:13Z"
-  },
-  {
     "id": "d6aa82cd-abfd-431b-8dba-b3b65a4ebca2",
-    "title": "Ask HN: Does anyone else find GPT-5.6 Sol in Codex slow?",
-    "url": "https://news.ycombinator.com/item?id=48903663",
-    "description": "HN discussion (4 pts).",
-    "published_at": "2026-07-14T08:16:42Z"
-  },
-  {
-    "id": "a5d5e787-7fcc-4e6b-b4df-ecd55b50ea2c",
     "title": "Ask HN: Does anyone else find GPT-5.6 Sol in Codex slow?",
     "url": "https://news.ycombinator.com/item?id=48903663",
     "description": "HN discussion (4 pts).",
@@ -75,20 +54,6 @@
     "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
     "description": "HN discussion (2 pts).",
     "published_at": "2026-07-14T07:50:33Z"
-  },
-  {
-    "id": "7facf121-d076-43cc-b2cc-fe3b3ed0cf1a",
-    "title": "Notes Toward a New Romanticism: Or why it's 1800 all over again",
-    "url": "https://www.honest-broker.com/p/notes-toward-a-new-romanticism",
-    "description": "HN discussion (3 pts).",
-    "published_at": "2026-07-14T07:41:54Z"
-  },
-  {
-    "id": "cccac86f-d49b-4bd6-8260-bc99b6cb4dc8",
-    "title": "Notes Toward a New Romanticism: Or why it's 1800 all over again",
-    "url": "https://www.honest-broker.com/p/notes-toward-a-new-romanticism",
-    "description": "HN discussion (3 pts).",
-    "published_at": "2026-07-14T07:41:54Z"
   },
   {
     "id": "4e983ba0-d07e-4ab2-b664-beb2d8626b15",
@@ -168,27 +133,6 @@
     "published_at": "2026-07-14T06:48:47Z"
   },
   {
-    "id": "7c8ac7da-1045-4236-8cb2-88c6600c0455",
-    "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-    "url": "https://agent-benchmarks.com/software-factory/",
-    "description": "HN discussion (6 pts). we had hundreds of discussions with engineering leaders over the past few months, and everyone&#x27;s trying to understand where they are in the AI journey.<p>we collected all this data into a benchma",
-    "published_at": "2026-07-14T06:48:47Z"
-  },
-  {
-    "id": "7da9d1a9-a403-4c2f-b156-56d6ae858804",
-    "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
-    "url": "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
-    "description": "HN discussion (5 pts).",
-    "published_at": "2026-07-14T06:48:38Z"
-  },
-  {
-    "id": "33a6bf42-645d-4dab-bd77-44370f16efc7",
-    "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
-    "url": "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
-    "description": "HN discussion (5 pts).",
-    "published_at": "2026-07-14T06:48:38Z"
-  },
-  {
     "id": "9ceb5d3a-c8f1-4ac8-96e0-27e32a769cfd",
     "title": "Show HN: I built a small transcription tool for non-English videos",
     "url": "https://transcrevervideo.com",
@@ -196,46 +140,11 @@
     "published_at": "2026-07-14T06:48:21Z"
   },
   {
-    "id": "4f96da81-149a-4733-9ce4-c45a56e38b13",
-    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-    "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-    "description": "HN discussion (24 pts).",
-    "published_at": "2026-07-14T06:43:28Z"
-  },
-  {
-    "id": "408188ee-2872-4194-ad5c-357d28a45b48",
-    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-    "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-    "description": "HN discussion (25 pts).",
-    "published_at": "2026-07-14T06:43:28Z"
-  },
-  {
     "id": "3c40d7b6-dc49-443c-a699-06d56d4734d2",
     "title": "Netflix accidentally shipped a Claude.md file",
     "url": "https://www.reddit.com/r/AgentsOfAI/s/GYaEDTim0U",
     "description": "HN discussion (3 pts).",
     "published_at": "2026-07-14T06:39:56Z"
-  },
-  {
-    "id": "1cc59e2f-929c-44fc-885b-7491db66402b",
-    "title": "Netflix accidentally shipped a Claude.md file",
-    "url": "https://www.reddit.com/r/AgentsOfAI/s/GYaEDTim0U",
-    "description": "HN discussion (3 pts).",
-    "published_at": "2026-07-14T06:39:56Z"
-  },
-  {
-    "id": "4085e8de-e642-4a44-a6b9-6e8a056f6964",
-    "title": "Weakening copyright to benefit AI would betray Australian Labor party's ethos",
-    "url": "https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail",
-    "description": "HN discussion (3 pts).",
-    "published_at": "2026-07-14T06:39:08Z"
-  },
-  {
-    "id": "1ebd34f2-ddd0-43fc-91f0-885cdd65f7fd",
-    "title": "Weakening copyright to benefit AI would betray Australian Labor party's ethos",
-    "url": "https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail",
-    "description": "HN discussion (3 pts).",
-    "published_at": "2026-07-14T06:39:08Z"
   },
   {
     "id": "adc8bdd6-7fee-4d7a-9077-0ed0d09b8c09",
@@ -278,13 +187,6 @@
     "url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
     "description": "HN discussion (55 pts).",
     "published_at": "2026-07-14T05:21:02Z"
-  },
-  {
-    "id": "7c4dc2ca-85e7-44b6-b7ff-583bdcf5c3a4",
-    "title": "Australian energy retailers must provide three hours of free daytime electricity",
-    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "description": "HN discussion (70 pts).",
-    "published_at": "2026-07-14T04:31:48Z"
   },
   {
     "id": "064c57cf-8973-424a-980f-61550abdac41",
@@ -427,25 +329,11 @@
     "published_at": "2026-07-13T20:11:29Z"
   },
   {
-    "id": "e5bc7d23-2cd3-4652-97c4-f3bbbb5fdf59",
-    "title": "Samsung Health app threatens data deletion if users opt out AI training",
-    "url": "https://neow.in/cWsyMTV3",
-    "description": "HN discussion (317 pts).",
-    "published_at": "2026-07-13T20:01:43Z"
-  },
-  {
     "id": "be968d93-f1ef-443a-bdd2-a94106d6436b",
     "title": "Show HN: I implemented a neural network in SQL",
     "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
     "description": "HN discussion (95 pts). Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, whi",
     "published_at": "2026-07-13T20:00:10Z"
-  },
-  {
-    "id": "a3f2308d-cc5b-48a5-9b8e-ba81271545fe",
-    "title": "Telegram's t.me domain has been suspended",
-    "url": "https://www.whois.com/whois/t.me",
-    "description": "HN discussion (315 pts).",
-    "published_at": "2026-07-13T19:52:25Z"
   },
   {
     "id": "d0ffbae2-e1e3-43b8-aa26-6e8dd985c7f6",
