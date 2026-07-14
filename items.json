@@ -1,27 +1,566 @@
 [
   {
+    "id": "89e96d5d-f286-4386-b12f-2f8161f5addd",
+    "title": "Microsoft commits $2.5B, 6k employees AI implementation unit",
+    "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+    "description": "HN discussion (2 pts).",
+    "published_at": "2026-07-14T08:55:51Z"
+  },
+  {
+    "id": "ae7b0a88-3d30-4b1a-a9bc-454bdbe153d3",
+    "title": "ModelDNA: Verifying the lineage of open-weight LLMs from weight fingerprints",
+    "url": "https://arxiv.org/abs/2607.10617",
+    "description": "HN discussion (2 pts).",
+    "published_at": "2026-07-14T08:50:13Z"
+  },
+  {
+    "id": "0b6d34d8-8b0b-4b45-8b7e-0a7479cbba60",
+    "title": "Fastmail announces launch of EU-hosted email infrastructure",
+    "url": "https://www.businesswire.com/news/home/20260713988425/en/Fastmail-Launches-EU-Hosted-Email-Infrastructure-Giving-Customers-Control-Over-Where-Their-Data-Lives",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T08:49:56Z"
+  },
+  {
+    "id": "cc8b1614-526d-42fc-9796-d7da9cdb5064",
+    "title": "Swiss Army Breaks with Microsoft: \"Cyber Command\" Relies on Open Source",
+    "url": "https://www.heise.de/en/news/Swiss-Army-breaks-with-Microsoft-Cyber-Command-relies-on-Open-Source-11361516.html",
+    "description": "HN discussion (4 pts).",
+    "published_at": "2026-07-14T08:24:13Z"
+  },
+  {
+    "id": "d6aa82cd-abfd-431b-8dba-b3b65a4ebca2",
+    "title": "Ask HN: Does anyone else find GPT-5.6 Sol in Codex slow?",
+    "url": "https://news.ycombinator.com/item?id=48903663",
+    "description": "HN discussion (4 pts).",
+    "published_at": "2026-07-14T08:16:42Z"
+  },
+  {
+    "id": "a5d5e787-7fcc-4e6b-b4df-ecd55b50ea2c",
+    "title": "Ask HN: Does anyone else find GPT-5.6 Sol in Codex slow?",
+    "url": "https://news.ycombinator.com/item?id=48903663",
+    "description": "HN discussion (4 pts).",
+    "published_at": "2026-07-14T08:16:42Z"
+  },
+  {
+    "id": "69529882-577a-4a19-b28b-4cacbfd31c94",
+    "title": "I was wrong about MCPs",
+    "url": "https://twitter.com/_overment/status/2076440928726708612",
+    "description": "HN discussion (2 pts).",
+    "published_at": "2026-07-14T08:07:40Z"
+  },
+  {
+    "id": "89b8126f-4cfc-4823-a96e-4f3814c3c0f1",
+    "title": "We gave our agent memory: building an LLM Wiki over sources that never sit still",
+    "url": "https://engineering.taktile.com/blog/llm-wiki-agent-memory/",
+    "description": "HN discussion (5 pts).",
+    "published_at": "2026-07-14T08:03:31Z"
+  },
+  {
+    "id": "1cca0e77-894a-4082-a563-c513400e94e1",
+    "title": "I built a functional software platform, but zero support. Here is my tool",
+    "url": "https://www.bountyclaimer.com/",
+    "description": "HN discussion (2 pts).",
+    "published_at": "2026-07-14T08:00:13Z"
+  },
+  {
+    "id": "33a4172f-a83b-470a-9c29-38c0907cab4c",
+    "title": "Show HN: Neverswipe \u2013 your AI agent dates so you don't swipe",
+    "url": "https://neverswipe.ai",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T07:52:12Z"
+  },
+  {
+    "id": "f9167241-5356-41f2-af7f-87390e3b7ab1",
+    "title": "AI coding agents should optimize for less owned code",
+    "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
+    "description": "HN discussion (2 pts).",
+    "published_at": "2026-07-14T07:50:33Z"
+  },
+  {
+    "id": "7facf121-d076-43cc-b2cc-fe3b3ed0cf1a",
+    "title": "Notes Toward a New Romanticism: Or why it's 1800 all over again",
+    "url": "https://www.honest-broker.com/p/notes-toward-a-new-romanticism",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T07:41:54Z"
+  },
+  {
+    "id": "cccac86f-d49b-4bd6-8260-bc99b6cb4dc8",
+    "title": "Notes Toward a New Romanticism: Or why it's 1800 all over again",
+    "url": "https://www.honest-broker.com/p/notes-toward-a-new-romanticism",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T07:41:54Z"
+  },
+  {
+    "id": "4e983ba0-d07e-4ab2-b664-beb2d8626b15",
+    "title": "Show HN: ClaudeThings \u2013 your AI engineering and marketing team in one command",
+    "url": "https://www.claudethings.com/",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T07:32:27Z"
+  },
+  {
+    "id": "f02aa89c-9ccb-4ab4-9835-b9614f2bcfdd",
+    "title": "Show HN: Free color tools that run entirely in the browser (no sign-up)",
+    "url": "https://colorpicker.cx",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T07:31:24Z"
+  },
+  {
+    "id": "e90a8acc-c4dd-4cbc-b55c-7cdd658f46ba",
+    "title": "OpenAI Added 1M Users in a Day. Fable Is Still in Limbo",
+    "url": "https://www.vincentschmalbach.com/codex-million-users-fable-limbo/",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T07:28:27Z"
+  },
+  {
+    "id": "9cf60a0c-a83d-4958-afb2-834dd5daa8c0",
+    "title": "Slay the Spire 2 Is Choosing \"Shit\" Art over Generative AI",
+    "url": "https://www.gamespot.com/articles/slay-the-spire-2-is-choosing-shit-art-over-generative-ai/",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T07:22:52Z"
+  },
+  {
+    "id": "c592aca4-4022-4916-a700-0ef86b468aeb",
+    "title": "Trump admin and industry groups discuss streamlining releases of US open models",
+    "url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/07/13/ai-tech-brief-exclusive-an-open-source-framework/",
+    "description": "HN discussion (4 pts).",
+    "published_at": "2026-07-14T07:22:31Z"
+  },
+  {
+    "id": "78ea3ae0-bbc9-4b63-a899-c10b1a516686",
+    "title": "Hermes Agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "description": "HN discussion (2 pts).",
+    "published_at": "2026-07-14T07:20:13Z"
+  },
+  {
+    "id": "a26514a0-71eb-4642-9422-92bfd8eba652",
+    "title": "Jurassic Park computers in excruciating detail",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "description": "HN discussion (2 pts).",
+    "published_at": "2026-07-14T07:16:10Z"
+  },
+  {
+    "id": "7c5b32ae-b7dd-4b6b-a198-77f370132eee",
+    "title": "Show HN: ZenStack \u2013 access control at the ORM layer, built for coding agents",
+    "url": "https://zenstack.framer.website/",
+    "description": "HN discussion (6 pts). Hi HN, I&#x27;m Jiasheng, co-creator of ZenStack.<p>Access control usually ends up scattered across app code instead of living with the data model \u2014 and that&#x27;s riskier when the code is written by",
+    "published_at": "2026-07-14T07:08:27Z"
+  },
+  {
+    "id": "b8676458-b262-4ec1-a468-8de99e73ff83",
+    "title": "What Anthropic's latest AI discovery does\u2013and doesn't\u2013show",
+    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "description": "HN discussion (2 pts).",
+    "published_at": "2026-07-14T07:01:34Z"
+  },
+  {
+    "id": "902ae1fa-3653-4382-9b4d-6291718b0af0",
+    "title": "Show HN: A FPV Lego car, controlled in Rust",
+    "url": "https://dystroy.org/blog/picamobile/",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T06:58:32Z"
+  },
+  {
+    "id": "99cbcdee-ee95-4a43-9528-c912e90d5df4",
+    "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+    "url": "https://agent-benchmarks.com/software-factory/",
+    "description": "HN discussion (6 pts). we had hundreds of discussions with engineering leaders over the past few months, and everyone&#x27;s trying to understand where they are in the AI journey.<p>we collected all this data into a benchma",
+    "published_at": "2026-07-14T06:48:47Z"
+  },
+  {
+    "id": "7c8ac7da-1045-4236-8cb2-88c6600c0455",
+    "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+    "url": "https://agent-benchmarks.com/software-factory/",
+    "description": "HN discussion (6 pts). we had hundreds of discussions with engineering leaders over the past few months, and everyone&#x27;s trying to understand where they are in the AI journey.<p>we collected all this data into a benchma",
+    "published_at": "2026-07-14T06:48:47Z"
+  },
+  {
+    "id": "7da9d1a9-a403-4c2f-b156-56d6ae858804",
+    "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
+    "url": "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
+    "description": "HN discussion (5 pts).",
+    "published_at": "2026-07-14T06:48:38Z"
+  },
+  {
+    "id": "33a6bf42-645d-4dab-bd77-44370f16efc7",
+    "title": "The Lies They're Telling Towns and Tribes About the Benefits of AI Data Centers",
+    "url": "https://karlbode.com/the-lies-theyre-telling-towns-and-tribes-about-the-benefits-of-ai-data-centers/",
+    "description": "HN discussion (5 pts).",
+    "published_at": "2026-07-14T06:48:38Z"
+  },
+  {
+    "id": "9ceb5d3a-c8f1-4ac8-96e0-27e32a769cfd",
+    "title": "Show HN: I built a small transcription tool for non-English videos",
+    "url": "https://transcrevervideo.com",
+    "description": "HN discussion (2 pts). A simple experiment around multilingual video transcription.<p>Feedback welcome.",
+    "published_at": "2026-07-14T06:48:21Z"
+  },
+  {
+    "id": "4f96da81-149a-4733-9ce4-c45a56e38b13",
+    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+    "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+    "description": "HN discussion (24 pts).",
+    "published_at": "2026-07-14T06:43:28Z"
+  },
+  {
+    "id": "408188ee-2872-4194-ad5c-357d28a45b48",
+    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+    "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+    "description": "HN discussion (25 pts).",
+    "published_at": "2026-07-14T06:43:28Z"
+  },
+  {
+    "id": "3c40d7b6-dc49-443c-a699-06d56d4734d2",
+    "title": "Netflix accidentally shipped a Claude.md file",
+    "url": "https://www.reddit.com/r/AgentsOfAI/s/GYaEDTim0U",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T06:39:56Z"
+  },
+  {
+    "id": "1cc59e2f-929c-44fc-885b-7491db66402b",
+    "title": "Netflix accidentally shipped a Claude.md file",
+    "url": "https://www.reddit.com/r/AgentsOfAI/s/GYaEDTim0U",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T06:39:56Z"
+  },
+  {
+    "id": "4085e8de-e642-4a44-a6b9-6e8a056f6964",
+    "title": "Weakening copyright to benefit AI would betray Australian Labor party's ethos",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T06:39:08Z"
+  },
+  {
+    "id": "1ebd34f2-ddd0-43fc-91f0-885cdd65f7fd",
+    "title": "Weakening copyright to benefit AI would betray Australian Labor party's ethos",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T06:39:08Z"
+  },
+  {
+    "id": "adc8bdd6-7fee-4d7a-9077-0ed0d09b8c09",
+    "title": "Show HN: Themis \u2013 Self-hosted AI code reviews with your own keys and models",
+    "url": "https://github.com/Zaimwa9/themis",
+    "description": "HN discussion (2 pts). Hey HN,<p>I wasn&#x27;t happy with the code review tools we use at work and on my side projects. Noisy, reviews in surface, expensive (overkill for sides). \nSo since Gemini was getting sunsetted, I ex",
+    "published_at": "2026-07-14T06:34:22Z"
+  },
+  {
+    "id": "5d5881a7-cd73-4a8b-bc9a-b49000e379d0",
+    "title": "Context bombs: stopping AI attackers in their tracks",
+    "url": "https://agentic.tracebit.com/context-bombs/",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T06:30:47Z"
+  },
+  {
+    "id": "9b644aee-13e4-48bf-ac9c-2154e3671002",
+    "title": "Meta's AI advertising dreams have become a nightmare for brands",
+    "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
+    "description": "HN discussion (4 pts).",
+    "published_at": "2026-07-14T06:07:11Z"
+  },
+  {
+    "id": "08f6cdbc-5da6-4b2b-a3c7-93247691f957",
+    "title": "HaikuOS now has Nvidia graphics acceloration",
+    "url": "https://www.youtube.com/watch?v=BwBIoXNDsRo",
+    "description": "HN discussion (5 pts).",
+    "published_at": "2026-07-14T05:52:19Z"
+  },
+  {
+    "id": "94ce0102-991e-4fc4-a808-d34b6a663e66",
+    "title": "Cash is king again at Tokyo's bars after credit processor fails",
+    "url": "https://www.japantimes.co.jp/business/2026/07/14/companies/zentoshin-kabukicho-bar-cash/",
+    "description": "HN discussion (6 pts).",
+    "published_at": "2026-07-14T05:35:39Z"
+  },
+  {
+    "id": "103890a3-9116-4606-b4bb-24b21fc491ef",
+    "title": "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
+    "url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
+    "description": "HN discussion (55 pts).",
+    "published_at": "2026-07-14T05:21:02Z"
+  },
+  {
+    "id": "7c4dc2ca-85e7-44b6-b7ff-583bdcf5c3a4",
+    "title": "Australian energy retailers must provide three hours of free daytime electricity",
+    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "description": "HN discussion (70 pts).",
+    "published_at": "2026-07-14T04:31:48Z"
+  },
+  {
+    "id": "064c57cf-8973-424a-980f-61550abdac41",
+    "title": "Rendering Fonts Quickly on the GPU",
+    "url": "https://www.outercloud.dev/blogs/webgpu-font-rendering/",
+    "description": "HN discussion (8 pts).",
+    "published_at": "2026-07-14T03:26:35Z"
+  },
+  {
+    "id": "40f420cb-427b-418b-b576-a75f2ad7e54e",
+    "title": "Rubio announces campaign to 'dismantle' International Criminal Court",
+    "url": "https://www.upi.com/Top_News/US/2026/07/13/rubio-campaign-dismantle-international-criminal-court/4881783965041/",
+    "description": "HN discussion (26 pts).",
+    "published_at": "2026-07-14T02:07:23Z"
+  },
+  {
+    "id": "56d1c855-4acd-4920-975e-8414a477e561",
+    "title": "Georgia family says they're forced to sell home to power AI data centers",
+    "url": "https://www.cbsnews.com/news/georgia-power-ai-data-centers-eminent-domain/",
+    "description": "HN discussion (22 pts).",
+    "published_at": "2026-07-14T02:05:53Z"
+  },
+  {
+    "id": "d17d7326-f576-435c-a741-3146ab1e312e",
+    "title": "Building Food Metadata with LLM Juries",
+    "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+    "description": "HN discussion (38 pts).",
+    "published_at": "2026-07-14T01:41:49Z"
+  },
+  {
+    "id": "e54d3568-c7a3-4f50-bf94-655127bb3ac2",
+    "title": "Boom? If AI Sales in the US Go South, Let's Not Bail Out Big Money Bettors",
+    "url": "https://www.nationalmemo.com/ai-bubble-2677214150",
+    "description": "HN discussion (10 pts).",
+    "published_at": "2026-07-14T01:41:02Z"
+  },
+  {
+    "id": "b1ff9cda-a6a8-481b-8142-adae6eabbe5d",
+    "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
+    "url": "https://cdrom.ca/games/2026/05/30/xd.html",
+    "description": "HN discussion (3 pts).",
+    "published_at": "2026-07-14T01:09:00Z"
+  },
+  {
+    "id": "ae50a0de-255d-44a6-aa23-a54b7127ab1b",
+    "title": "Show HN: MemStitch \u2013 Zero-copy context bridging for vLLM (25x TTFT speedup)",
+    "url": "https://github.com/DaqulaLin/MemStitch",
+    "description": "HN discussion (10 pts).",
+    "published_at": "2026-07-14T01:04:02Z"
+  },
+  {
+    "id": "81c39ce4-7bc8-473e-86dc-00475bf36ba6",
+    "title": "ESBMC-Arduino: Closing the Deployment Gap for Formal Verification",
+    "url": "https://arxiv.org/abs/2607.08550",
+    "description": "HN discussion (6 pts).",
+    "published_at": "2026-07-14T00:58:55Z"
+  },
+  {
+    "id": "8912be80-6596-4d7c-b32b-f44012a88433",
+    "title": "Scams Were Awful. Then They Got AI",
+    "url": "https://www.rstreet.org/commentary/scams-were-already-awful-then-they-got-ai/",
+    "description": "HN discussion (11 pts).",
+    "published_at": "2026-07-14T00:09:32Z"
+  },
+  {
+    "id": "5e623965-35b4-425c-9d54-55bf76a1e3f8",
+    "title": "What are Forward Deployed Engineers, and why are they so in demand? (2025)",
+    "url": "https://newsletter.pragmaticengineer.com/p/forward-deployed-engineers",
+    "description": "HN discussion (59 pts).",
+    "published_at": "2026-07-13T23:39:10Z"
+  },
+  {
+    "id": "f1d52259-f2a0-4cda-aefa-a6322a3078a2",
+    "title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
+    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "description": "HN discussion (36 pts). Hi all, author here. SX started as a CLI to let developers share skills across AI clients without having to rely on git for storage. This allowed sharing at the Repo&#x2F;Team&#x2F;Org and Personal le",
+    "published_at": "2026-07-13T23:26:52Z"
+  },
+  {
+    "id": "43bb3793-257a-4976-8935-a40cc60142e3",
+    "title": "Show HN: ContextVault \u2013 Shared memory layer for your AI and your team",
+    "url": "https://www.contextvault.dev/",
+    "description": "HN discussion (9 pts). Hi HN,<p>I&#x27;m Kevin. I built ContextVault because I kept running into the same problem with AI tools.<p>Every project accumulated prompts, coding conventions, architectural decisions, examples, an",
+    "published_at": "2026-07-13T23:22:18Z"
+  },
+  {
+    "id": "589cc816-2e06-46a2-8bd5-59bc121a16f6",
+    "title": "The AI Whale Fall and Open Source",
+    "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+    "description": "HN discussion (30 pts).",
+    "published_at": "2026-07-13T23:16:42Z"
+  },
+  {
+    "id": "be368d19-91e8-4101-adda-4cc9d87a9f06",
+    "title": "Show HN: Taetype \u2013 a complete font engine for Rust and WASM",
+    "url": "https://github.com/silly-tae/taetype",
+    "description": "HN discussion (5 pts).",
+    "published_at": "2026-07-13T23:13:38Z"
+  },
+  {
+    "id": "36d5487e-b4db-462f-9827-5a5e88f211a2",
+    "title": "Cdbx.ai \u2013 AI-powered browser IDE to describe, build, and publish apps",
+    "url": "https://cdbx.ai/",
+    "description": "HN discussion (16 pts).",
+    "published_at": "2026-07-13T23:07:16Z"
+  },
+  {
+    "id": "dd9d39ab-b557-4036-aab5-07fe899a2a31",
+    "title": "Show HN: I built a one-prompt hackathon platform, free entry, sponsored prizes",
+    "url": "https://1shotchallenge.ai",
+    "description": "HN discussion (11 pts).",
+    "published_at": "2026-07-13T22:14:12Z"
+  },
+  {
+    "id": "2dad9849-e3a0-4d1f-8a29-fc1c156e7685",
+    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+    "url": "https://arxiv.org/abs/2607.01418",
+    "description": "HN discussion (58 pts).",
+    "published_at": "2026-07-13T21:43:51Z"
+  },
+  {
+    "id": "adc68f03-74c0-4962-909a-a7be9f2806cb",
+    "title": "Lessons Learned from CISA's Recent GitHub Leak",
+    "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+    "description": "HN discussion (14 pts).",
+    "published_at": "2026-07-13T20:42:23Z"
+  },
+  {
+    "id": "070e246b-3a8a-4ebe-bec2-211494495a6f",
+    "title": "Adaptive Catmull-Clark Subdivision with Compute Tessellation",
+    "url": "https://filmicworlds.com/blog/adaptive-catmull-clark-subdivision-with-compute-tessellation/",
+    "description": "HN discussion (4 pts).",
+    "published_at": "2026-07-13T20:36:35Z"
+  },
+  {
+    "id": "470ee27b-f2e1-4409-9010-f41e3234fc56",
+    "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+    "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+    "description": "HN discussion (102 pts).",
+    "published_at": "2026-07-13T20:11:29Z"
+  },
+  {
+    "id": "e5bc7d23-2cd3-4652-97c4-f3bbbb5fdf59",
+    "title": "Samsung Health app threatens data deletion if users opt out AI training",
+    "url": "https://neow.in/cWsyMTV3",
+    "description": "HN discussion (317 pts).",
+    "published_at": "2026-07-13T20:01:43Z"
+  },
+  {
+    "id": "be968d93-f1ef-443a-bdd2-a94106d6436b",
+    "title": "Show HN: I implemented a neural network in SQL",
+    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "description": "HN discussion (95 pts). Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, whi",
+    "published_at": "2026-07-13T20:00:10Z"
+  },
+  {
+    "id": "a3f2308d-cc5b-48a5-9b8e-ba81271545fe",
+    "title": "Telegram's t.me domain has been suspended",
+    "url": "https://www.whois.com/whois/t.me",
+    "description": "HN discussion (315 pts).",
+    "published_at": "2026-07-13T19:52:25Z"
+  },
+  {
+    "id": "d0ffbae2-e1e3-43b8-aa26-6e8dd985c7f6",
+    "title": "Show HN: Nobie \u2013 an Excel-compatible runtime for agents and humans",
+    "url": "https://nobie.com",
+    "description": "HN discussion (77 pts).",
+    "published_at": "2026-07-13T18:26:04Z"
+  },
+  {
+    "id": "2e3fced2-4688-4275-8bdf-4d3ec749fa0f",
+    "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+    "url": "https://github.com/morganwilliscloud/billai-bass",
+    "description": "HN discussion (70 pts).",
+    "published_at": "2026-07-13T18:18:23Z"
+  },
+  {
+    "id": "239262b2-a80a-472a-bd8a-9e59d62b1d2b",
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "description": "HN discussion (534 pts).",
+    "published_at": "2026-07-13T16:06:08Z"
+  },
+  {
+    "id": "b3fc0100-04f6-4597-b34c-6b118651a51b",
+    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+    "url": "https://github.com/jbwinters/jacquard-lang",
+    "description": "HN discussion (87 pts). I&#x27;m fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans.<p>To create the design, I",
+    "published_at": "2026-07-13T15:56:02Z"
+  },
+  {
+    "id": "982ad4f9-ff31-4325-95c3-1fdc16a93d37",
+    "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+    "url": "https://github.com/clawkwork/clawk",
+    "description": "HN discussion (193 pts).",
+    "published_at": "2026-07-13T14:02:03Z"
+  },
+  {
+    "id": "fc864b17-83d2-4f64-bb48-0cfb4a42c17e",
+    "title": "Benchmarking 15 \u201cE-Waste\u201d GPUs with Modern Workloads",
+    "url": "https://esologic.com/benchmarking-tesla-gpus/",
+    "description": "HN discussion (130 pts).",
+    "published_at": "2026-07-13T13:48:42Z"
+  },
+  {
+    "id": "3dfe4aa2-1d80-4b8e-a47e-7e68f19d50db",
+    "title": "Show HN: DOM-docx \u2013 HTML to native, editable Word docs (MIT)",
+    "url": "https://github.com/floodtide/dom-docx",
+    "description": "HN discussion (145 pts).",
+    "published_at": "2026-07-13T11:51:56Z"
+  },
+  {
+    "id": "d2f11bd0-31fc-40f9-9535-e4cb4fe2bfb0",
+    "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+    "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+    "description": "HN discussion (194 pts).",
+    "published_at": "2026-07-13T08:04:30Z"
+  },
+  {
+    "id": "643044ca-9896-4d0f-9beb-7d3f95f7f920",
+    "title": "Ask HN: Add flag for AI-generated articles",
+    "url": "https://news.ycombinator.com/item?id=48886741",
+    "description": "HN discussion (1033 pts). Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing ot",
+    "published_at": "2026-07-13T01:24:20Z"
+  },
+  {
+    "id": "c48cc6ab-6244-4e4c-b2d9-b06e788ab4be",
+    "title": "I love LLMs, I hate hype",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "description": "HN discussion (481 pts).",
+    "published_at": "2026-07-12T18:31:56Z"
+  },
+  {
     "id": "341d85aa-f6ea-482e-acbf-990b7c4c3b93",
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k — measured",
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k \u2014 measured",
     "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "description": "HN front page (582 pts): Head-to-head comparison of token overhead between Claude Code and OpenCode. Claude Code sends 4.7x more system tokens before even reading the user's prompt. Critical data for choosing a coding agent — token overhead directly impacts cost and context efficiency.",
+    "description": "HN front page (582 pts): Head-to-head comparison of token overhead between Claude Code and OpenCode. Claude Code sends 4.7x more system tokens before even reading the user's prompt. Critical data for choosing a coding agent \u2014 token overhead directly impacts cost and context efficiency.",
     "published_at": "2026-07-12T18:25:51Z"
   },
   {
+    "id": "385a0e40-9b27-48d3-8263-170685961f95",
+    "title": "I Learned to Read Again",
+    "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+    "description": "HN discussion (184 pts).",
+    "published_at": "2026-07-12T18:22:15Z"
+  },
+  {
+    "id": "f9ef3c6e-8d4d-4b29-b306-c82ad8b044b7",
+    "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
+    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "description": "HN discussion (114 pts). <a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709</a>",
+    "published_at": "2026-07-12T18:04:41Z"
+  },
+  {
+    "id": "cbdf3d4a-ea89-4805-924d-e59b1c473f9c",
+    "title": "Against Usefulness",
+    "url": "https://www.motivenotes.ai/p/against-usefulness",
+    "description": "HN discussion (125 pts).",
+    "published_at": "2026-07-12T17:47:07Z"
+  },
+  {
     "id": "7d102bbc-d713-4c5b-9b92-0ac3f3044267",
-    "title": "headroom (52★ GitHub) — Track and rotate Claude & Codex usage across accounts",
+    "title": "headroom (52\u2605 GitHub) \u2014 Track and rotate Claude & Codex usage across accounts",
     "url": "https://github.com/domanski-ai/headroom",
     "description": "Stars: 52. Live dashboard that tracks and rotates Claude Code and Codex usage across accounts. Read live usage data without spending a token. Essential tool for heavy coding agent users hitting rate limits.",
     "published_at": "2026-07-12T12:58:01Z"
   },
   {
     "id": "1bc98d29-7f27-4ca8-98d0-4454ea35be47",
-    "title": "clodex-ide (691★ GitHub) — Local-first, zero-trust agentic IDE",
+    "title": "clodex-ide (691\u2605 GitHub) \u2014 Local-first, zero-trust agentic IDE",
     "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-    "description": "Stars: 691. Local-first, zero-trust agentic IDE for verifiable autonomous software development. Built with Electron + TypeScript, designed for agent-driven coding workflows with full code verification. Explosive growth — one of the fastest-growing agent-tooling repos.",
+    "description": "Stars: 691. Local-first, zero-trust agentic IDE for verifiable autonomous software development. Built with Electron + TypeScript, designed for agent-driven coding workflows with full code verification. Explosive growth \u2014 one of the fastest-growing agent-tooling repos.",
     "published_at": "2026-07-12T10:35:44Z"
   },
   {
-    "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+    "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
     "url": "https://github.com/cosmtrek/mindwalk",
     "description": "Hacker News discussion: HN: 30 points.",
     "published_at": "2026-07-12T05:51:32Z",
@@ -36,9 +575,9 @@
   },
   {
     "id": "7f315bcd-adf7-40f1-8edc-40fa87631ae3",
-    "title": "jlens-gguf (54★ GitHub) — Interactive model visualizer for GGUF local LLMs",
+    "title": "jlens-gguf (54\u2605 GitHub) \u2014 Interactive model visualizer for GGUF local LLMs",
     "url": "https://github.com/igorbarshteyn/jlens-gguf",
-    "description": "Stars: 54. Interactive Jacobian-Lens visualizer and live steerer for GGUF models on llama.cpp. Lets you see inside local LLMs during inference — useful for debugging, understanding, and guiding model behavior on consumer hardware.",
+    "description": "Stars: 54. Interactive Jacobian-Lens visualizer and live steerer for GGUF models on llama.cpp. Lets you see inside local LLMs during inference \u2014 useful for debugging, understanding, and guiding model behavior on consumer hardware.",
     "published_at": "2026-07-12T01:41:34Z"
   },
   {
@@ -56,28 +595,35 @@
     "id": "ed3746d2-1728-4801-becb-10059f7a26ec"
   },
   {
-    "title": "Show HN: AgentTransfer – open-source file transfer for AI agents (one Go binary)",
+    "title": "Show HN: AgentTransfer \u2013 open-source file transfer for AI agents (one Go binary)",
     "url": "https://github.com/shehryarsaroya/agenttransfer",
     "description": "Hacker News discussion: HN: 3 points.",
     "published_at": "2026-07-11T22:52:52Z",
     "id": "d29c3c4e-bf6f-4431-96ac-026877cf2c13"
   },
   {
-    "title": "Show HN: Token Time – Screen Time, but for your AI agent tokens",
+    "id": "a376ef9e-9940-4fc5-837d-7c99872e1fac",
+    "title": "Stop Telling Me to Ask an LLM",
+    "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+    "description": "HN discussion (238 pts).",
+    "published_at": "2026-07-11T22:28:48Z"
+  },
+  {
+    "title": "Show HN: Token Time \u2013 Screen Time, but for your AI agent tokens",
     "url": "https://tokentime.bar",
     "description": "Hacker News discussion: HN: 2 points.",
     "published_at": "2026-07-11T22:13:52Z",
     "id": "308b31c4-3cd4-4231-af79-814ba547deb6"
   },
   {
-    "title": "JosephHampton/awesome-gemini-cli-subagents (36★ GitHub)",
+    "title": "JosephHampton/awesome-gemini-cli-subagents (36\u2605 GitHub)",
     "url": "https://github.com/JosephHampton/awesome-gemini-cli-subagents",
     "description": "Stars: 36. Topics: agentic-ai, agents, ai, ai-agents, awesome. A curated collection of 51 production-ready subagents for Gemini CLI. Drop them into .gemini/agents/ and let Gemini delegate the right specialist.",
     "published_at": "2026-07-11T19:46:10Z",
     "id": "7043c314-2d8c-428e-9c43-e4cd35de858b"
   },
   {
-    "title": "Show HN: Wizard – Self-extending Rust terminal AI agent (one-line install)",
+    "title": "Show HN: Wizard \u2013 Self-extending Rust terminal AI agent (one-line install)",
     "url": "https://wizard.teddytennant.com",
     "description": "Hacker News discussion: HN: 1 points.",
     "published_at": "2026-07-11T19:34:35Z",
@@ -105,7 +651,7 @@
     "id": "82b26efb-7d0d-42b8-a28d-817c1245fd7c"
   },
   {
-    "title": "Agentation – Visual UI Annotation for AI Coding Agents",
+    "title": "Agentation \u2013 Visual UI Annotation for AI Coding Agents",
     "url": "https://www.agentation.com/",
     "description": "Hacker News discussion: HN: 2 points.",
     "published_at": "2026-07-11T16:16:51Z",
@@ -119,7 +665,7 @@
     "id": "435fb4b0-e24f-48fa-a58c-32ad3299fa64"
   },
   {
-    "title": "Show HN: Aether – Run Claude Code, Codex, or OpenCode in devboxes you can watch",
+    "title": "Show HN: Aether \u2013 Run Claude Code, Codex, or OpenCode in devboxes you can watch",
     "url": "https://www.runaether.dev/",
     "description": "Hacker News discussion: HN: 3 points. Since coding agents like Claude Code and Codex came out, I've been pretty obsessed with them. It's hard not to when you're getting a 20x discount on inference. I've also been frust",
     "published_at": "2026-07-11T15:25:00Z",
@@ -133,7 +679,7 @@
     "id": "3514fe5b-de96-45b8-8cb3-46ffa74f565c"
   },
   {
-    "title": "Kh3m/rag-corpus-poisoning-iot-security (4★ GitHub)",
+    "title": "Kh3m/rag-corpus-poisoning-iot-security (4\u2605 GitHub)",
     "url": "https://github.com/Kh3m/rag-corpus-poisoning-iot-security",
     "description": "Stars: 4. Topics: adversarial-machine-learning, corpus-poisoning, cybersecurity, iot-security, llm-security. Corpus poisoning attacks against RAG-based cybersecurity/IoT threat-intelligence assistants, with a lightweight, edge-deployable provenance defense. Evaluated on TF-IDF and dense-embedding retrievers over a CVE/MITRE ATT&CK/vendor-advisory k",
     "published_at": "2026-07-11T14:21:22Z",
@@ -147,14 +693,14 @@
     "id": "de2fffb9-f99c-4c5b-9a6d-d33b5cc70ccf"
   },
   {
-    "title": "Show HN: My AI agent has 9 hours left to win a public bet – live dashboard",
+    "title": "Show HN: My AI agent has 9 hours left to win a public bet \u2013 live dashboard",
     "url": "https://1h-money.vercel.app/finale.html",
     "description": "Hacker News discussion: HN: 1 points.",
     "published_at": "2026-07-11T10:59:33Z",
     "id": "fa28908d-0b7d-4e3f-97f8-51a9443df6c2"
   },
   {
-    "title": "gopalmani/QueryMindAI (3★ GitHub)",
+    "title": "gopalmani/QueryMindAI (3\u2605 GitHub)",
     "url": "https://github.com/gopalmani/QueryMindAI",
     "description": "Stars: 3. Topics: analytics, docker, fastapi, groq, llm. Open-source natural-language analytics platform that converts business questions into safe, explainable SQL.",
     "published_at": "2026-07-11T10:41:40Z",
@@ -168,21 +714,21 @@
     "id": "5342f138-4bfc-4125-95c1-ab69e3a35258"
   },
   {
-    "title": "nhevers/project-r0x (123★ GitHub)",
+    "title": "nhevers/project-r0x (123\u2605 GitHub)",
     "url": "https://github.com/nhevers/project-r0x",
     "description": "Stars: 123. Topics: ai-agents, claude-code, facilitator, mcp, payments. Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
     "published_at": "2026-07-11T10:12:16Z",
     "id": "ed0be561-5aae-4e5d-a541-b3f9b4858fdb"
   },
   {
-    "title": "AgentKindergarten – daycare for your AI coding agents",
+    "title": "AgentKindergarten \u2013 daycare for your AI coding agents",
     "url": "https://github.com/rokrak1/agentkindergarten",
     "description": "Hacker News discussion: HN: 2 points.",
     "published_at": "2026-07-11T10:08:05Z",
     "id": "682cfa03-eb30-41e2-8621-e05ebb975f8e"
   },
   {
-    "title": "jinzcdev/llama-index-readers-feishu (1★ GitHub)",
+    "title": "jinzcdev/llama-index-readers-feishu (1\u2605 GitHub)",
     "url": "https://github.com/jinzcdev/llama-index-readers-feishu",
     "description": "Stars: 1. Topics: feishu, larksuite, llamaindex, rag. Load documents from Feishu/Lark into LlamaIndex with support for wiki, docs, and drive.",
     "published_at": "2026-07-11T09:51:22Z",
@@ -197,34 +743,34 @@
   },
   {
     "id": "be8ef76b-3744-4ea0-bb58-77dc405a0429",
-    "title": "managed-agents (37★ GitHub) — Open-source multi-agent runtime for local models",
+    "title": "managed-agents (37\u2605 GitHub) \u2014 Open-source multi-agent runtime for local models",
     "url": "https://github.com/sandbaseai/managed-agents",
     "description": "Stars: 37. Open-source CMA-compatible agent runtime. Run multi-agent systems locally with any model (Ollama/vLLM/Claude/GPT), MCP tools, scenario templates, and a dashboard. Single-command start for enterprise teams.",
     "published_at": "2026-07-11T08:48:07Z"
   },
   {
-    "title": "MCP-customs – NPM audit, but for MCP servers (offline, zero telemetry)",
+    "title": "MCP-customs \u2013 NPM audit, but for MCP servers (offline, zero telemetry)",
     "url": "https://github.com/mcpcustoms/mcp-customs",
     "description": "Hacker News discussion: HN: 1 points.",
     "published_at": "2026-07-11T07:52:55Z",
     "id": "4673f2aa-e614-4ba4-94d9-98ca3ee0642f"
   },
   {
-    "title": "youxiandechilun/Guido (21★ GitHub)",
+    "title": "youxiandechilun/Guido (21\u2605 GitHub)",
     "url": "https://github.com/youxiandechilun/Guido",
-    "description": "Stars: 21. Topics: ai, digital-human, java, mysql, rag. 景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
+    "description": "Stars: 21. Topics: ai, digital-human, java, mysql, rag. \u666f\u533a\u5bfc\u89c8\u670d\u52a1 AI \u6570\u5b57\u4eba\uff1a\u57fa\u4e8e Spring Boot\u3001Vue 3\u3001UniApp \u4e0e\u672c\u5730 RAG \u7684\u667a\u80fd\u5bfc\u89c8\u7cfb\u7edf\u3002",
     "published_at": "2026-07-11T06:23:14Z",
     "id": "e563b7e0-ae5d-4579-8030-3bcd2207e71d"
   },
   {
-    "title": "calesthio/generative-media-skills (33★ GitHub)",
+    "title": "calesthio/generative-media-skills (33\u2605 GitHub)",
     "url": "https://github.com/calesthio/generative-media-skills",
     "description": "Stars: 33. Topics: agent, agentic-ai, ai, ai-audio, ai-video. Research-backed agent skills for premium image, video, audio, voice, and generative media production across AI coding assistants.",
     "published_at": "2026-07-11T04:16:24Z",
     "id": "4d3b5363-2865-4822-ae88-410d5c76d4dc"
   },
   {
-    "title": "cis2042/product-design-harness (7★ GitHub)",
+    "title": "cis2042/product-design-harness (7\u2605 GitHub)",
     "url": "https://github.com/cis2042/product-design-harness",
     "description": "Stars: 7. Topics: agent, agent-skills, agentic-design, decision-making, design-harness. Agentic Design Process with Designer-in-the-Loop product judgment across User, Evidence, and Business flows.",
     "published_at": "2026-07-11T02:59:07Z",
@@ -238,16 +784,16 @@
     "id": "6ac4e77e-21e3-49d4-98dc-da40464b2b49"
   },
   {
-    "title": "cookiespiggy/spring-ai-recipes-learning (1★ GitHub)",
+    "title": "cookiespiggy/spring-ai-recipes-learning (1\u2605 GitHub)",
     "url": "https://github.com/cookiespiggy/spring-ai-recipes-learning",
-    "description": "Stars: 1. Topics: a2a, ai-agent, chatclient, gradle, java. Spring AI 实战教程 🚀 ChatClient → RAG → MCP → Agent → A2A，24 个手写模块循序渐进（Spring Boot 4.1 + Spring AI 2.0 + Java 21）",
+    "description": "Stars: 1. Topics: a2a, ai-agent, chatclient, gradle, java. Spring AI \u5b9e\u6218\u6559\u7a0b \ud83d\ude80 ChatClient \u2192 RAG \u2192 MCP \u2192 Agent \u2192 A2A\uff0c24 \u4e2a\u624b\u5199\u6a21\u5757\u5faa\u5e8f\u6e10\u8fdb\uff08Spring Boot 4.1 + Spring AI 2.0 + Java 21\uff09",
     "published_at": "2026-07-11T02:11:53Z",
     "id": "cc7898e4-7998-4127-a971-ca78857d07d6"
   },
   {
-    "title": "edinetdb/ai-berkshire-jp (5★ GitHub)",
+    "title": "edinetdb/ai-berkshire-jp (5\u2605 GitHub)",
     "url": "https://github.com/edinetdb/ai-berkshire-jp",
-    "description": "Stars: 5. Topics: ai-agent, claude-code, edinet, investment-research, japanese-stocks. ai-berkshireの日本株版（fork ではなく独立実装）— EDINET DB MCP（有報一次データ）接地の Claude Code スキルパック / Japanese-equity edition of ai-berkshire, grounded in primary-source EDINET filings",
+    "description": "Stars: 5. Topics: ai-agent, claude-code, edinet, investment-research, japanese-stocks. ai-berkshire\u306e\u65e5\u672c\u682a\u7248\uff08fork \u3067\u306f\u306a\u304f\u72ec\u7acb\u5b9f\u88c5\uff09\u2014 EDINET DB MCP\uff08\u6709\u5831\u4e00\u6b21\u30c7\u30fc\u30bf\uff09\u63a5\u5730\u306e Claude Code \u30b9\u30ad\u30eb\u30d1\u30c3\u30af / Japanese-equity edition of ai-berkshire, grounded in primary-source EDINET filings",
     "published_at": "2026-07-11T02:00:03Z",
     "id": "edb9dd52-80ae-400f-a0a1-39efa9f9b2b2"
   },
@@ -260,15 +806,15 @@
   },
   {
     "id": "5fcf4ca3-555b-4dff-939a-1bce050218bb",
-    "title": "agent-room (24★ GitHub) — Private local meeting rooms where AI agents collaborate",
+    "title": "agent-room (24\u2605 GitHub) \u2014 Private local meeting rooms where AI agents collaborate",
     "url": "https://github.com/steviebuilds/agent-room",
     "description": "Stars: 24. Private local meeting rooms where Codex, Claude Code, and other coding agents collaborate live in real-time. Multi-agent collaboration without cloud dependencies or data leaving your machine.",
     "published_at": "2026-07-11T01:02:16Z"
   },
   {
-    "title": "danielarif26/understudy (3★ GitHub)",
+    "title": "danielarif26/understudy (3\u2605 GitHub)",
     "url": "https://github.com/danielarif26/understudy",
-    "description": "Stars: 3. Topics: anthropic, claude, claude-code, gpu, hooks. Your local model rehearses the answer. Claude takes the bow. A Claude Code hook that drafts grunt-work prompts on your own hardware — Claude keeps the quality gate.",
+    "description": "Stars: 3. Topics: anthropic, claude, claude-code, gpu, hooks. Your local model rehearses the answer. Claude takes the bow. A Claude Code hook that drafts grunt-work prompts on your own hardware \u2014 Claude keeps the quality gate.",
     "published_at": "2026-07-11T01:00:15Z",
     "id": "9759b0d6-c047-4b5e-a128-b12dc7e3847b"
   },
@@ -276,7 +822,7 @@
     "id": "598c0adf-2fec-41d9-8560-1d8191573d8a",
     "title": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
     "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
-    "description": "Decision tree for selecting AI agent memory strategies — working, episodic, semantic, and retrieval-augmented memory. Practical framework for agent architects.",
+    "description": "Decision tree for selecting AI agent memory strategies \u2014 working, episodic, semantic, and retrieval-augmented memory. Practical framework for agent architects.",
     "published_at": "2026-07-11T00:43:39Z"
   },
   {
@@ -316,9 +862,9 @@
   },
   {
     "id": "c12804fa-da00-4356-b0b0-bdb0f0561f6b",
-    "title": "Frontier coding agents haven't stopped lying about their work — measured",
+    "title": "Frontier coding agents haven't stopped lying about their work \u2014 measured",
     "url": "https://trustysquire.ai/blog/the-last-mile-is-a-signup-form",
-    "description": "Empirical measurement of hallucination rates in frontier coding agents. Even the best models make false claims about completed work — quantified across multiple agent runs and model tiers.",
+    "description": "Empirical measurement of hallucination rates in frontier coding agents. Even the best models make false claims about completed work \u2014 quantified across multiple agent runs and model tiers.",
     "published_at": "2026-07-10T20:52:00Z"
   },
   {
@@ -336,16 +882,16 @@
     "id": "96596130-57e8-4d2f-9f2d-987cdfa11c32"
   },
   {
-    "title": "soumyasurana/Contextra (1★ GitHub)",
+    "title": "soumyasurana/Contextra (1\u2605 GitHub)",
     "url": "https://github.com/soumyasurana/Contextra",
     "description": "Stars: 1. Topics: agent-framework, axum, context-engineering, embeddings, llm. Contextra is a high performance AI context engineering platform built in Rust for document ingestion, retrieval, embeddings, memory, prompt orchestration, and multi-LLM application development.",
     "published_at": "2026-07-10T19:37:28Z",
     "id": "375fd76a-44ab-4941-9d5a-d7c33fa1f2f5"
   },
   {
-    "title": "korovin-aa97/talkthrough-mcp (5★ GitHub)",
+    "title": "korovin-aa97/talkthrough-mcp (5\u2605 GitHub)",
     "url": "https://github.com/korovin-aa97/talkthrough-mcp",
-    "description": "Stars: 5. Topics: agent-skills, ai-agents, claude, developer-tools, feedback. MCP server: turn narrated screen recordings into agent-ready data — local Whisper transcript, scene keyframes, OCR, wall-clock anchoring. Record your screen, talk — your AI agent files the bugs.",
+    "description": "Stars: 5. Topics: agent-skills, ai-agents, claude, developer-tools, feedback. MCP server: turn narrated screen recordings into agent-ready data \u2014 local Whisper transcript, scene keyframes, OCR, wall-clock anchoring. Record your screen, talk \u2014 your AI agent files the bugs.",
     "published_at": "2026-07-10T19:19:06Z",
     "id": "6f9d8c11-074e-4624-a462-d59bc8329c1d"
   },
@@ -357,21 +903,21 @@
     "id": "a3ad78ae-9af6-4093-b232-5850a3fbbebc"
   },
   {
-    "title": "Show HN: Local Motion – Use Cursor Agents and Chat with a Local LLM",
+    "title": "Show HN: Local Motion \u2013 Use Cursor Agents and Chat with a Local LLM",
     "url": "https://github.com/mattmireles/local-motion",
     "description": "Hacker News discussion: HN: 1 points. Using a local LLM for coding agents is complicated, so I built a Cursor + VS Code plugin that makes it easy.<p>It automatically profiles your machine, picks a model that works for your m",
     "published_at": "2026-07-10T18:50:24Z",
     "id": "81453524-ef09-4bde-a0b9-84a245efe014"
   },
   {
-    "title": "saanvireddy/llm-pipeline (1★ GitHub)",
+    "title": "saanvireddy/llm-pipeline (1\u2605 GitHub)",
     "url": "https://github.com/saanvireddy/llm-pipeline",
     "description": "Stars: 1. Topics: fastapi, finetuning, kubernetes, llm, mistral7b. Fine-tuned Mistral-7B (QLoRA) + RAG customer support assistant, with Docker, Kubernetes (AWS EKS/Azure AKS), and CI/CD via GitHub Actions",
     "published_at": "2026-07-10T18:32:07Z",
     "id": "84e277b5-77eb-4ace-bc14-5036ea842d2e"
   },
   {
-    "title": "BusyBee3333/sol-governed-codex (11★ GitHub)",
+    "title": "BusyBee3333/sol-governed-codex (11\u2605 GitHub)",
     "url": "https://github.com/BusyBee3333/sol-governed-codex",
     "description": "Stars: 11. Topics: ai-agents, ai-code-review, codex, coding-agents, cost-optimization. Sol-governed multi-agent coding workflow for OpenAI Codex with bounded AI code review and LLM cost optimization",
     "published_at": "2026-07-10T17:36:20Z",
@@ -379,14 +925,14 @@
   },
   {
     "id": "09f31ac6-30aa-4ac3-9368-eab9934a6ed5",
-    "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation — arXiv",
+    "title": "Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation \u2014 arXiv",
     "url": "https://arxiv.org/abs/2607.09600",
     "description": "arXiv:2607.09600 (cs.AI, cs.CL). Novel auction-based mechanism for task allocation among expert models in LLM agent systems. Each expert bids on sub-tasks, enabling dynamic, cost-aware orchestration across diverse models in multi-agent setups.",
     "published_at": "2026-07-10T16:54:52Z"
   },
   {
     "id": "cdecb3b7-3e85-49f7-9ef9-2dad5f6a3a23",
-    "title": "Show HN: NoMac — let your AI agent ship iOS apps without a Mac",
+    "title": "Show HN: NoMac \u2014 let your AI agent ship iOS apps without a Mac",
     "url": "https://nomac.app",
     "description": "Service for AI coding agents to build and deploy iOS apps without macOS. CI/CD pipeline for agent-generated Swift/SwiftUI code that bypasses the Mac build requirement.",
     "published_at": "2026-07-10T16:24:00Z"
@@ -399,7 +945,7 @@
     "id": "8ffdf1b0-9199-4bb8-a28b-5ab67ade67b5"
   },
   {
-    "title": "Intuition-Lab/personal-model (13★ GitHub)",
+    "title": "Intuition-Lab/personal-model (13\u2605 GitHub)",
     "url": "https://github.com/Intuition-Lab/personal-model",
     "description": "Stars: 13. Topics: agent-memory, local-first, macos, mcp, personal-ai. Local-first macOS Runtime that turns cross-app activity into an inspectable personal model for MCP agents.",
     "published_at": "2026-07-10T16:10:25Z",
@@ -413,30 +959,30 @@
     "id": "5937ed9b-4e64-4780-828f-9daff452b69d"
   },
   {
-    "title": "Alisa0808/vox-director (76★ GitHub)",
+    "title": "Alisa0808/vox-director (76\u2605 GitHub)",
     "url": "https://github.com/Alisa0808/vox-director",
-    "description": "Stars: 76. Topics: ai, ai-video, claude-code, claude-skill, collage-video. Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
+    "description": "Stars: 76. Topics: ai, ai-video, claude-code, claude-skill, collage-video. Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
     "published_at": "2026-07-10T15:32:05Z",
     "id": "f8d8115a-a199-47a8-b4f7-3f11d59b3cda"
   },
   {
     "id": "923118b2-c459-4992-8ab0-73151961ad13",
-    "title": "Failure as a Process: An Anatomy of CLI Coding Agent Trajectories — arXiv",
+    "title": "Failure as a Process: An Anatomy of CLI Coding Agent Trajectories \u2014 arXiv",
     "url": "https://arxiv.org/abs/2607.09510",
-    "description": "arXiv:2607.09510 (cs.SE, cs.AI). Deep empirical study of failure modes in CLI-based LLM coding agents. Classifies failure patterns across real agent trajectories on software engineering tasks — essential reading for anyone building or deploying coding agents in production.",
+    "description": "arXiv:2607.09510 (cs.SE, cs.AI). Deep empirical study of failure modes in CLI-based LLM coding agents. Classifies failure patterns across real agent trajectories on software engineering tasks \u2014 essential reading for anyone building or deploying coding agents in production.",
     "published_at": "2026-07-10T15:25:56Z"
   },
   {
     "id": "ca8e9714-825d-4f6d-ac34-50a4825f1e8d",
-    "title": "Shared Selective Persistent Memory for Agentic LLM Systems — arXiv",
+    "title": "Shared Selective Persistent Memory for Agentic LLM Systems \u2014 arXiv",
     "url": "https://arxiv.org/abs/2607.09493",
     "description": "arXiv:2607.09493 (cs.AI, cs.MA, cs.SE). Proposes selective persistent memory architecture for multi-session agentic LLM systems. Addresses the fundamental context fragmentation problem where each agent session starts from zero, discarding prior configuration, constraints, and data schemas.",
     "published_at": "2026-07-10T15:07:00Z"
   },
   {
-    "title": "SiyaoZheng/GEZHI (1★ GitHub)",
+    "title": "SiyaoZheng/GEZHI (1\u2605 GitHub)",
     "url": "https://github.com/SiyaoZheng/GEZHI",
-    "description": "Stars: 1. Topics: agent-framework, ai4ss-skills, goal-cli, reproducible-research, social-science. GEZHI (格致): a scholar-centered agent framework built on goal-cli and ai4ss-skills for completed empirical social-science research.",
+    "description": "Stars: 1. Topics: agent-framework, ai4ss-skills, goal-cli, reproducible-research, social-science. GEZHI (\u683c\u81f4): a scholar-centered agent framework built on goal-cli and ai4ss-skills for completed empirical social-science research.",
     "published_at": "2026-07-10T14:30:14Z",
     "id": "25b63200-07ff-4a71-a86b-b7854523a85e"
   },
@@ -455,7 +1001,7 @@
     "id": "fd786d59-a4f8-4e80-a32a-dc70e2311134"
   },
   {
-    "title": "Looma – turn coding-agent history into resumable project context",
+    "title": "Looma \u2013 turn coding-agent history into resumable project context",
     "url": "https://github.com/devYRPauli/looma",
     "description": "Hacker News discussion: HN: 3 points.",
     "published_at": "2026-07-10T13:59:40Z",
@@ -463,7 +1009,7 @@
   },
   {
     "id": "efeaa7c3-c76c-4594-adb1-5fc79581d6a2",
-    "title": "Show HN: Snitch — Deterministic prose claim verifier for coding agents (OSS)",
+    "title": "Show HN: Snitch \u2014 Deterministic prose claim verifier for coding agents (OSS)",
     "url": "https://github.com/fristovic/snitch",
     "description": "Open-source tool that verifies claims in coding agent output against actual codebase state. Helps catch hallucinations where agents assert things that don't match real code.",
     "published_at": "2026-07-10T13:44:00Z"
@@ -477,13 +1023,13 @@
   },
   {
     "id": "d589e3e1-a29c-4206-b7c4-e87c6f3faae9",
-    "title": "Show HN: Opula — portfolio and net-worth analysis as a hosted MCP connector",
+    "title": "Show HN: Opula \u2014 portfolio and net-worth analysis as a hosted MCP connector",
     "url": "https://opula.io",
     "description": "Hosted MCP server for portfolio and net-worth analysis. AI agents query financial data, track investments, and generate reports through Model Context Protocol.",
     "published_at": "2026-07-10T13:22:00Z"
   },
   {
-    "title": "manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator (17★ GitHub)",
+    "title": "manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator (17\u2605 GitHub)",
     "url": "https://github.com/manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator",
     "description": "Stars: 17. Topics: agentic-ai, automation, cisa-kev, cybersecurity, n8n. Zero-touch pipeline that turns newly weaponized CVEs from the CISA Known Exploited Vulnerabilities (KEV) catalog into production-ready Sigma detection rules, automatically, every week.",
     "published_at": "2026-07-10T12:29:18Z",
@@ -491,22 +1037,22 @@
   },
   {
     "id": "9addcaf1-d0e6-47e2-af93-303957d36548",
-    "title": "Deceptive Grounding: Entity Attribution Failure in Clinical RAG — arXiv",
+    "title": "Deceptive Grounding: Entity Attribution Failure in Clinical RAG \u2014 arXiv",
     "url": "https://arxiv.org/abs/2607.09349",
     "description": "arXiv:2607.09349 (cs.CL, cs.AI, cs.LG). Reveals a critical blind spot in RAG evaluation: checking factual grounding misses when retrieved evidence is attributed to the wrong entity. Shows entity attribution failure is systematic in clinical RAG, with direct implications for agent evaluation frameworks.",
     "published_at": "2026-07-10T12:29:10Z"
   },
   {
     "id": "441d496c-e21f-4f30-874b-eaeaada74a10",
-    "title": "Components of A Coding Agent — Sebastian Raschka",
+    "title": "Components of A Coding Agent \u2014 Sebastian Raschka",
     "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
     "description": "Sebastian Raschka breaks down essential components of a coding agent: tool-calling loop, sandbox, context management, planning, and verification. Reference architecture for production agent systems.",
     "published_at": "2026-07-10T12:00:00Z"
   },
   {
-    "title": "loop-js/loop.js (63★ GitHub)",
+    "title": "loop-js/loop.js (63\u2605 GitHub)",
     "url": "https://github.com/loop-js/loop.js",
-    "description": "Stars: 63. Topics: agent-framework, agent-loop, agent-verification, ai-agents, anthropic. A loop engineering framework — state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
+    "description": "Stars: 63. Topics: agent-framework, agent-loop, agent-verification, ai-agents, anthropic. A loop engineering framework \u2014 state a Goal; Rounds run until a skeptical, read-only Verify agent settles it.",
     "published_at": "2026-07-10T10:59:54Z",
     "id": "bd2670b1-dd01-4b03-ab52-731a655f4178"
   },
@@ -519,48 +1065,48 @@
   },
   {
     "id": "e40174d1-8378-47a7-9038-0d3b481bbab5",
-    "title": "Show HN: Colibri — Getting GLM 5.2 running on a slow computer",
+    "title": "Show HN: Colibri \u2014 Getting GLM 5.2 running on a slow computer",
     "url": "https://github.com/JustVugg/colibri",
     "description": "HN front page (650+ points): A tool and guide for running GLM 5.2, the competitive open-weight model, on consumer hardware. Demonstrates how local inference is becoming viable for agentic workloads on modest machines.",
     "published_at": "2026-07-10T08:00:00Z"
   },
   {
     "id": "a56a25f4-7c8f-4611-9f59-2f5e13f175c9",
-    "title": "Show HN: TensorSharp — Open-Source Local LLM Inference Engine",
+    "title": "Show HN: TensorSharp \u2014 Open-Source Local LLM Inference Engine",
     "url": "https://tensorsharp.ai/",
     "description": "Open-source inference engine for running LLMs locally on consumer hardware. Designed for edge AI and self-hosted deployments with optimized performance on modest GPUs.",
     "published_at": "2026-07-10T02:42:00Z"
   },
   {
-    "title": "hbhqq9/bde-score (2★ GitHub)",
+    "title": "hbhqq9/bde-score (2\u2605 GitHub)",
     "url": "https://github.com/hbhqq9/bde-score",
-    "description": "Stars: 2. Topics: a-shares, ai, api, eu-ai-act, fastapi. 🏆 Open-source multi-factor stock scoring API (0-100) | US/HK/A-Share 74 stocks | Zero signup | shields.io badges | GitHub Action | EU AI Act compliant",
+    "description": "Stars: 2. Topics: a-shares, ai, api, eu-ai-act, fastapi. \ud83c\udfc6 Open-source multi-factor stock scoring API (0-100) | US/HK/A-Share 74 stocks | Zero signup | shields.io badges | GitHub Action | EU AI Act compliant",
     "published_at": "2026-07-10T02:38:57Z",
     "id": "6e67a670-ec3b-40d9-b9ad-3bcf2fbf8503"
   },
   {
-    "title": "amitshekhariitbhu/100-days-of-ai (42★ GitHub)",
+    "title": "amitshekhariitbhu/100-days-of-ai (42\u2605 GitHub)",
     "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
     "description": "Stars: 42. Topics: 100daysofai, ai, ai-agents, large-language-models, llm. Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
     "published_at": "2026-07-10T02:23:30Z",
     "id": "3b07acf5-4761-4d17-8895-c341193d1b14"
   },
   {
-    "title": "MANOJ21K/agentic-code-review (11★ GitHub)",
+    "title": "MANOJ21K/agentic-code-review (11\u2605 GitHub)",
     "url": "https://github.com/MANOJ21K/agentic-code-review",
     "description": "Stars: 11. Topics: agentic-ai, claude-code, code-review, developer-tools, llm. Multi-agent Claude Code plugin: parallel specialized reviewers (bugs, security, CLAUDE.md compliance, git history, test coverage), confidence scoring, terminal or inline GitHub PR reporting.",
     "published_at": "2026-07-10T02:13:17Z",
     "id": "e543a55b-2b82-4a4e-beaf-7f54dd7c32f7"
   },
   {
-    "title": "L13653521916/AI-Workflow-Builder (2★ GitHub)",
+    "title": "L13653521916/AI-Workflow-Builder (2\u2605 GitHub)",
     "url": "https://github.com/L13653521916/AI-Workflow-Builder",
-    "description": "Stars: 2. Topics: agent, ai, vibe-coding. 轻量版 AI Agent 编排平台",
+    "description": "Stars: 2. Topics: agent, ai, vibe-coding. \u8f7b\u91cf\u7248 AI Agent \u7f16\u6392\u5e73\u53f0",
     "published_at": "2026-07-10T02:00:58Z",
     "id": "60038824-b5d7-4cd7-8375-2e08fcf63f6e"
   },
   {
-    "title": "Aloim/charon (2★ GitHub)",
+    "title": "Aloim/charon (2\u2605 GitHub)",
     "url": "https://github.com/Aloim/charon",
     "description": "Stars: 2. Topics: ai, ai-agent, ai-agents, ai-coding, ai-tools. Named after the greek ferryman of the underworld, it audits your Project for Dead code and duplicate code in Claude Code. It Finds what is dead, and in resolution mode removes it via reviewed, build verified change sets. Companion to Phanes.",
     "published_at": "2026-07-10T01:31:27Z",
@@ -568,34 +1114,34 @@
   },
   {
     "id": "5fc12b93-e66d-4d40-9e4f-32bb8385611a",
-    "title": "Show HN: Fortress — stealth Chromium + MCP so agents don't get blocked",
+    "title": "Show HN: Fortress \u2014 stealth Chromium + MCP so agents don't get blocked",
     "url": "https://tilion.dev",
     "description": "Stealth browser environment with MCP server that prevents AI agents from getting detected as bots. Enables agent web automation on sites that block headless browsers.",
     "published_at": "2026-07-09T23:55:00Z"
   },
   {
-    "title": "djtelicloud/grok-mcp-server (3★ GitHub)",
+    "title": "djtelicloud/grok-mcp-server (3\u2605 GitHub)",
     "url": "https://github.com/djtelicloud/grok-mcp-server",
     "description": "Stars: 3. Topics: claude-code, cursor, cursor-ai, cursor-ide, cursor-rules. Local-first Grok MCP server & gateway. One shared Grok agent for Cursor, Claude Code, VS Code, Codex & Desktop. xAI API + CLI planes, Control Center.",
     "published_at": "2026-07-09T22:03:51Z",
     "id": "b8eafad8-cc3e-4f62-bc74-a95df7d336fd"
   },
   {
-    "title": "marzukia/qMLX (12★ GitHub)",
+    "title": "marzukia/qMLX (12\u2605 GitHub)",
     "url": "https://github.com/marzukia/qMLX",
     "description": "Stars: 12. Topics: apple-silicon, hybrid-attention, inference, kv-cache, llm. qMLX: Custom inference engine for Qwen 3.5 122B on Apple Silicon, extending MLX with hybrid attention support, SSD-backed KV cache, and RYS layer duplication for efficient large-model serving on consumer hardware.",
     "published_at": "2026-07-09T21:47:30Z",
     "id": "4635e63b-5f30-4cac-b82b-b1103dd6d027"
   },
   {
-    "title": "nothingnesses/agent-scaffold (6★ GitHub)",
+    "title": "nothingnesses/agent-scaffold (6\u2605 GitHub)",
     "url": "https://github.com/nothingnesses/agent-scaffold",
     "description": "Stars: 6. Topics: agent, agentic-workflow, agents, agents-md, ai. Scaffold a repeatable agent workflow (front-load context, plan, review, implement, review) into any project. A Rust CLI and TUI that drops a canonical AGENTS.md, a plan template, reusable prompts, and a selectable set of engineering principles.",
     "published_at": "2026-07-09T21:46:41Z",
     "id": "19a6874a-d444-4a17-b933-d576229d29c8"
   },
   {
-    "title": "AgriciDaniel/fablesecondbrain (11★ GitHub)",
+    "title": "AgriciDaniel/fablesecondbrain (11\u2605 GitHub)",
     "url": "https://github.com/AgriciDaniel/fablesecondbrain",
     "description": "Stars: 11. Topics: agent-operations, ai-agents, anthropic, claude, claude-code. Public, source-cited Fable 5, Mythos, Claude Code, and agent-operations second brain. Not affiliated with Anthropic.",
     "published_at": "2026-07-09T20:59:12Z",
@@ -605,18 +1151,18 @@
     "id": "85b8cb8b-d863-49df-b3ab-4142acc9823d",
     "title": "The new GPT-5.6 family: Luna, Terra, Sol",
     "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/",
-    "description": "Simon Willison breaks down OpenAI's GPT-5.6 family — Luna, Terra, Sol — covering model tiers, pricing, capabilities, and what each tier means for agentic workloads and coding agents.",
+    "description": "Simon Willison breaks down OpenAI's GPT-5.6 family \u2014 Luna, Terra, Sol \u2014 covering model tiers, pricing, capabilities, and what each tier means for agentic workloads and coding agents.",
     "published_at": "2026-07-09T19:46:38Z"
   },
   {
-    "title": "FuelMagistrateLead/photoshop-ai-smart-enhance (107★ GitHub)",
+    "title": "FuelMagistrateLead/photoshop-ai-smart-enhance (107\u2605 GitHub)",
     "url": "https://github.com/FuelMagistrateLead/photoshop-ai-smart-enhance",
     "description": "Stars: 107. Topics: abobe, ai, photo-editor, photoshop, smart-ai. AI-powered image enhancement extension for Adobe Photoshop CC 2024+. Intelligent exposure correction, adaptive color adjustment, contrast optimization, and noise reduction. Machine learning algorithms for photographers and designers. Real-time previe",
     "published_at": "2026-07-09T19:08:33Z",
     "id": "054b29fa-8a1d-4398-8de2-c27655addabd"
   },
   {
-    "title": "hec-ovi/noob-cli (1★ GitHub)",
+    "title": "hec-ovi/noob-cli (1\u2605 GitHub)",
     "url": "https://github.com/hec-ovi/noob-cli",
     "description": "Stars: 1. Topics: agent-skills, agentic-workflows, ai-agent, cli, docker. Compact Rust agent CLI for local OpenAI-compatible models, with Docker isolation, sessions, skills, MCP, plan mode, sub-agents, and web search.",
     "published_at": "2026-07-09T18:52:53Z",
@@ -624,7 +1170,7 @@
   },
   {
     "id": "9f6bd866-992a-48de-bacd-a1a4f39c802c",
-    "title": "Show HN: Trollbridge — sandbox for agents to run YOLO without the whole internet",
+    "title": "Show HN: Trollbridge \u2014 sandbox for agents to run YOLO without the whole internet",
     "url": "https://trollbridge.dev/",
     "description": "Sandboxed execution environment with network isolation for AI agents. Agents can run arbitrary code freely without risking external damage or data exfiltration.",
     "published_at": "2026-07-09T18:01:00Z"
@@ -708,7 +1254,7 @@
   },
   {
     "id": "666deca2-05e0-4dd9-a7fd-dc94252ceac6",
-    "title": "Show HN: CodeAlmanac — Self-updating wiki for your coding agent (local, Apache)",
+    "title": "Show HN: CodeAlmanac \u2014 Self-updating wiki for your coding agent (local, Apache)",
     "url": "https://github.com/AlmanacCode/codealmanac",
     "description": "Self-updating wiki maintained by your AI coding agent. Automatically documents codebases, keeping docs in sync with implementation. Runs locally under Apache license.",
     "published_at": "2026-07-09T17:21:00Z"
@@ -736,13 +1282,13 @@
   },
   {
     "id": "5fdb5cd1-0ebb-4db2-b91a-bd5657d62dfa",
-    "title": "Scaling Managed Agents: Decoupling the brain from the hands — Anthropic Engineering",
+    "title": "Scaling Managed Agents: Decoupling the brain from the hands \u2014 Anthropic Engineering",
     "url": "https://www.anthropic.com/engineering/managed-agents",
     "description": "Anthropic's architecture for decoupling LLM reasoning from tool execution in managed agent deployments. Separates the 'brain' (planning/reasoning) from the 'hands' (tool execution) to scale agent systems reliably across products.",
     "published_at": "2026-07-09T17:00:00Z"
   },
   {
-    "title": "wangshishuo999-max/skill-studio-lite (2★ GitHub)",
+    "title": "wangshishuo999-max/skill-studio-lite (2\u2605 GitHub)",
     "url": "https://github.com/wangshishuo999-max/skill-studio-lite",
     "description": "Stars: 2. Topics: agent, ai, compliance, license, open-source. Local-first toolkit for clean-room AI skill restructuring and Skill Card generation.",
     "published_at": "2026-07-09T16:44:51Z",
@@ -756,7 +1302,7 @@
     "id": "05a0bbf9-8bf6-49df-8f5a-8ed59b4da530"
   },
   {
-    "title": "Show HN: MemLedger – AI agent memory you can trust",
+    "title": "Show HN: MemLedger \u2013 AI agent memory you can trust",
     "url": "https://github.com/riktar/memledger",
     "description": "Hacker News discussion: HN: 1 points.",
     "published_at": "2026-07-09T16:24:19Z",
@@ -778,14 +1324,14 @@
   },
   {
     "id": "90befcff-8237-4e29-bdfb-72c8476b10ba",
-    "title": "llm-meta-ai 0.1 — Simon Willison's LLM tool adds Meta AI model support",
+    "title": "llm-meta-ai 0.1 \u2014 Simon Willison's LLM tool adds Meta AI model support",
     "url": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/",
     "description": "Release of llm-meta-ai 0.1, adding Meta AI model support (including Muse Spark) to Simon Willison's LLM command-line tool. Enables running Meta's latest models from the terminal alongside OpenAI, Anthropic, and others.",
     "published_at": "2026-07-09T16:12:20Z"
   },
   {
     "id": "bd174ca2-e37b-4b07-9cfb-cf7ff42ec0c4",
-    "title": "Introducing Muse Spark 1.1 — Meta's new model API",
+    "title": "Introducing Muse Spark 1.1 \u2014 Meta's new model API",
     "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
     "description": "Meta launches Muse Spark 1.1, their latest model API with improved reasoning, coding, and tool-use capabilities. Part of Meta's push into the AI model API market alongside open-weight releases.",
     "published_at": "2026-07-09T16:00:00Z"
@@ -799,7 +1345,7 @@
   },
   {
     "id": "4c149fa1-3296-4671-a990-a199629de9c3",
-    "title": "How we contain Claude across products — Anthropic Engineering",
+    "title": "How we contain Claude across products \u2014 Anthropic Engineering",
     "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
     "description": "Anthropic's containment architecture for running Claude across multiple products simultaneously. Details sandboxing, prompt isolation, and security boundaries for multi-tenant agent deployments at scale.",
     "published_at": "2026-07-09T16:00:00Z"
@@ -807,7 +1353,7 @@
   {
     "title": "The complexities of patient-centred conversational artificial intelligence",
     "url": "https://arxiv.org/abs/2607.08625v1",
-    "description": "Authors: João Matos, Olivia Buege, Donny Cheung, Gary S. Collins, Paula Dhiman, Nan Li, Bingyu Mao, Benjamin W. Nelson, Michail Ouroutzoglou, Paul Varghese, Jonathan Amar. Categories: cs.AI, cs.CL. Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for symptom assessment. However, chatbot development and e",
+    "description": "Authors: Jo\u00e3o Matos, Olivia Buege, Donny Cheung, Gary S. Collins, Paula Dhiman, Nan Li, Bingyu Mao, Benjamin W. Nelson, Michail Ouroutzoglou, Paul Varghese, Jonathan Amar. Categories: cs.AI, cs.CL. Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for symptom assessment. However, chatbot development and e",
     "published_at": "2026-07-09T15:56:55Z",
     "id": "102594d6-a158-4728-8167-1162727af721"
   },
@@ -841,13 +1387,13 @@
   },
   {
     "id": "dfcfd37c-7ec8-4936-b3ed-15dcde49fb81",
-    "title": "How we built Claude Code auto mode: a safer way to skip permissions — Anthropic Engineering",
+    "title": "How we built Claude Code auto mode: a safer way to skip permissions \u2014 Anthropic Engineering",
     "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
     "description": "Inside look at Claude Code's auto mode for safe permission skipping. Covers sandbox design, approval policies, and safety guardrails that enable autonomous agent operation without compromising security.",
     "published_at": "2026-07-09T15:00:00Z"
   },
   {
-    "title": "replenhq/replen (3★ GitHub)",
+    "title": "replenhq/replen (3\u2605 GitHub)",
     "url": "https://github.com/replenhq/replen",
     "description": "Stars: 3. Topics: ai-agents, claude-code, codex, coding-assistant, cursor. Smarter AI Development Workflows",
     "published_at": "2026-07-09T14:50:14Z",
@@ -861,14 +1407,14 @@
     "published_at": "2026-07-09T14:30:00Z"
   },
   {
-    "title": "xyonium/firecrawl-rotator (9★ GitHub)",
+    "title": "xyonium/firecrawl-rotator (9\u2605 GitHub)",
     "url": "https://github.com/xyonium/firecrawl-rotator",
     "description": "Stars: 9. Topics: api-key-rotation, docker, firecrawl, firecrawl-mcp, go. Reverse proxy in front of firecrawl-mcp that rotates Firecrawl API keys on 402/429/401/403, rewrites crawl next URLs, and exposes /healthz + /status. Go stdlib only, scratch image.",
     "published_at": "2026-07-09T14:30:00Z",
     "id": "5a324207-04ac-4c6d-92d4-881717a66889"
   },
   {
-    "title": "insomniac-asif/honest-quant (1★ GitHub)",
+    "title": "insomniac-asif/honest-quant (1\u2605 GitHub)",
     "url": "https://github.com/insomniac-asif/honest-quant",
     "description": "Stars: 1. Topics: ai-safety, calibration, llm, llm-evaluation, local-llm. Measure how quantization affects a local model's calibration (ECE/AUROC/confidently-wrong), not just speed. Ships a real, reproducible cross-quant run.",
     "published_at": "2026-07-09T14:26:56Z",
@@ -876,13 +1422,13 @@
   },
   {
     "id": "f369f03f-11da-4f06-b6c1-bfaaaf11905c",
-    "title": "Show HN: ContextNest — versioned, governed context for AI agents (open-source CLI)",
+    "title": "Show HN: ContextNest \u2014 versioned, governed context for AI agents (open-source CLI)",
     "url": "https://promptowl.ai/resources/building-a-viewable-second-brain-with-context/",
     "description": "CLI for version-controlled, governed context management in AI agent systems. Maintains provenance and integrity of context passed to agents across sessions.",
     "published_at": "2026-07-09T14:11:00Z"
   },
   {
-    "title": "vsov/okfy (8★ GitHub)",
+    "title": "vsov/okfy (8\u2605 GitHub)",
     "url": "https://github.com/vsov/okfy",
     "description": "Stars: 8. Topics: ai-agents, bm25, claude-code, context-window, knowledge-base. Knowledge engineering for AI agents: distill corpora too big for any context window into small, verified, git-native knowledge bundles",
     "published_at": "2026-07-09T14:08:17Z",
@@ -910,7 +1456,7 @@
     "id": "9ab9df16-cca6-4024-9594-1304300ab198"
   },
   {
-    "title": "taljeon/plzdo (6★ GitHub)",
+    "title": "taljeon/plzdo (6\u2605 GitHub)",
     "url": "https://github.com/taljeon/plzdo",
     "description": "Stars: 6. Topics: agent-harness, ai-agents, ai-coding, codex, control-plane. Tell your AI coding agent: plz do it, then prove it",
     "published_at": "2026-07-09T13:54:49Z",
@@ -924,7 +1470,7 @@
     "id": "922fc748-39ac-4a1c-a3e2-5f5a760481d2"
   },
   {
-    "title": "dunglas/prompt-mac (40★ GitHub)",
+    "title": "dunglas/prompt-mac (40\u2605 GitHub)",
     "url": "https://github.com/dunglas/prompt-mac",
     "description": "Stars: 40. Topics: ai, coding-agent, development, devops, kubernetes. one-shot, AI-first macOS setup for Apple Silicon",
     "published_at": "2026-07-09T13:52:25Z",
@@ -932,13 +1478,13 @@
   },
   {
     "id": "1b5d05e6-2b34-473d-ba17-31cb9adda970",
-    "title": "Show HN: FableCut — A browser video editor AI agents can drive (zero deps)",
+    "title": "Show HN: FableCut \u2014 A browser video editor AI agents can drive (zero deps)",
     "url": "https://github.com/ronak-create/FableCut",
-    "description": "Browser video editor controllable by AI agents through a programmatic API. Zero external dependencies — enables agents to produce and edit video content autonomously.",
+    "description": "Browser video editor controllable by AI agents through a programmatic API. Zero external dependencies \u2014 enables agents to produce and edit video content autonomously.",
     "published_at": "2026-07-09T13:23:10Z"
   },
   {
-    "title": "Show HN: Yogen – 500 AI agents argue about your idea before you bet on it",
+    "title": "Show HN: Yogen \u2013 500 AI agents argue about your idea before you bet on it",
     "url": "https://github.com/michaelwrites67-ctrl/yogen",
     "description": "Hacker News discussion: HN: 3 points.",
     "published_at": "2026-07-09T13:06:02Z",
@@ -946,7 +1492,7 @@
   },
   {
     "id": "7cd74ca5-a52e-4d84-9abb-870ea8656e72",
-    "title": "Show HN: Wizard — Self-extending autonomous AI agent in one Rust binary",
+    "title": "Show HN: Wizard \u2014 Self-extending autonomous AI agent in one Rust binary",
     "url": "https://github.com/teddytennant/wizard",
     "description": "Single Rust binary with a self-extending autonomous AI agent. Agent modifies its own capabilities, adds tools, and extends skills without human intervention.",
     "published_at": "2026-07-09T13:03:00Z"
@@ -960,27 +1506,27 @@
   },
   {
     "id": "a398c182-b3df-4c94-89d5-970113c2e669",
-    "title": "MoisesR7/browser-mcp (140★ GitHub)",
+    "title": "MoisesR7/browser-mcp (140\u2605 GitHub)",
     "url": "https://github.com/MoisesR7/browser-mcp",
-    "description": "Stars: 140. MCP server giving AI agents full browser control — navigate, click, extract, and fill forms via Model Context Protocol. Enables agent-driven web automation.",
+    "description": "Stars: 140. MCP server giving AI agents full browser control \u2014 navigate, click, extract, and fill forms via Model Context Protocol. Enables agent-driven web automation.",
     "published_at": "2026-07-09T12:55:00Z"
   },
   {
     "id": "64f06e2a-4a42-4f87-9bdc-7ca697935251",
-    "title": "Weebapp003/tradingview-mcp (137★ GitHub)",
+    "title": "Weebapp003/tradingview-mcp (137\u2605 GitHub)",
     "url": "https://github.com/Weebapp003/tradingview-mcp",
-    "description": "Stars: 137. MCP server for TradingView chart analysis — agents query stock data, indicators, and patterns through natural language via the Model Context Protocol.",
+    "description": "Stars: 137. MCP server for TradingView chart analysis \u2014 agents query stock data, indicators, and patterns through natural language via the Model Context Protocol.",
     "published_at": "2026-07-09T12:21:00Z"
   },
   {
-    "title": "phuc-nt/my-db-mate (11★ GitHub)",
+    "title": "phuc-nt/my-db-mate (11\u2605 GitHub)",
     "url": "https://github.com/phuc-nt/my-db-mate",
     "description": "Stars: 11. Topics: database, drizzle-orm, llm, mcp, mysql. Self-hosted chat-with-your-database: natural-language questions answered by real read-only SQL, with a curated context layer and a physical safety layer. Next.js + TypeScript.",
     "published_at": "2026-07-09T12:19:24Z",
     "id": "4ecb9793-89b5-48a6-b9c2-44b39b4fe61a"
   },
   {
-    "title": "pierreolivierbonin/verbatimeter (2★ GitHub)",
+    "title": "pierreolivierbonin/verbatimeter (2\u2605 GitHub)",
     "url": "https://github.com/pierreolivierbonin/verbatimeter",
     "description": "Stars: 2. Topics: ai-safety, evaluation, hallucination, hallucination-detection, lcs. Minimalist, deterministic, lightweight, fast, and portable verification of AI-generated text: measure groundedness in a source as verbatim reuse (contiguous matching) or verbatim paraphrasing (LCS). Use as a decorator over generate(), a CLI or a CI g",
     "published_at": "2026-07-09T12:14:46Z",
@@ -988,7 +1534,7 @@
   },
   {
     "id": "bcb5ecbd-177f-468f-8014-1e44ecd45f60",
-    "title": "Show HN: Orra — The missing glue layer for production-ready multi-agent apps",
+    "title": "Show HN: Orra \u2014 The missing glue layer for production-ready multi-agent apps",
     "url": "https://github.com/orra-dev/orra",
     "description": "HN (16 points): Orra is an open-source orchestration layer for multi-agent applications providing durable execution, saga patterns, and observability for production agent deployments.",
     "published_at": "2026-07-09T12:00:00Z"
@@ -1002,13 +1548,13 @@
   },
   {
     "id": "7f25d7b7-b482-4675-b619-2b87e5a076fc",
-    "title": "Show HN: Ember — Lightweight headless browser for AI agents (17MB idle)",
+    "title": "Show HN: Ember \u2014 Lightweight headless browser for AI agents (17MB idle)",
     "url": "https://github.com/andalabx/ember",
     "description": "Ultra-lightweight headless browser optimized for AI agents. Only 17MB idle memory, designed for running many parallel agent browser sessions on modest hardware.",
     "published_at": "2026-07-09T11:32:00Z"
   },
   {
-    "title": "Show HN: LangDrift – test AI agents across languages",
+    "title": "Show HN: LangDrift \u2013 test AI agents across languages",
     "url": "https://github.com/RubenGlez/langdrift",
     "description": "Hacker News discussion: HN: 3 points.",
     "published_at": "2026-07-09T11:02:56Z",
@@ -1018,7 +1564,7 @@
     "id": "39eb3a2d-d385-4a31-b9d6-7e3c54154e15",
     "title": "The true cost of saying 'Hi' to an AI agent",
     "url": "https://quesma.com/blog/the-true-cost-of-saying-hi-to-an-ai-agent/",
-    "description": "Breakdown of hidden token costs in AI agent interactions. Every 'hello' triggers context loading, system prompts, and tool definitions — real cost analysis for production deployments.",
+    "description": "Breakdown of hidden token costs in AI agent interactions. Every 'hello' triggers context loading, system prompts, and tool definitions \u2014 real cost analysis for production deployments.",
     "published_at": "2026-07-09T10:43:55Z"
   },
   {
@@ -1030,85 +1576,85 @@
   },
   {
     "id": "430954bc-8209-4b2c-acb0-26372c1f613f",
-    "title": "MCPSERVER.COM — Directory of MCP servers for AI agents",
+    "title": "MCPSERVER.COM \u2014 Directory of MCP servers for AI agents",
     "url": "https://mcpserver.com",
     "description": "Community directory of Model Context Protocol (MCP) servers categorized by function. Helps developers discover MCP tools for their AI agents across categories like databases, APIs, file systems, and development tools.",
     "published_at": "2026-07-09T10:00:00Z"
   },
   {
-    "title": "liangdabiao/liangdabiao.github.io (3★ GitHub)",
+    "title": "liangdabiao/liangdabiao.github.io (3\u2605 GitHub)",
     "url": "https://github.com/liangdabiao/liangdabiao.github.io",
-    "description": "Stars: 3. Topics: agent. liangdabiao 的 agent 小册子，介绍我认识的各种有用agent ai技术. AI 技术框架教学站：阿里云百炼、LangGraph、Claude Agent SDK、OpenAI Agents SDK、DeepAgents、DeerFlow、Flue、Vercel Eve、Cloudflare Agents、EdgeOne Makers、Agent Skills 等多门课程，从入门到精通。",
+    "description": "Stars: 3. Topics: agent. liangdabiao \u7684 agent \u5c0f\u518c\u5b50\uff0c\u4ecb\u7ecd\u6211\u8ba4\u8bc6\u7684\u5404\u79cd\u6709\u7528agent ai\u6280\u672f. AI \u6280\u672f\u6846\u67b6\u6559\u5b66\u7ad9\uff1a\u963f\u91cc\u4e91\u767e\u70bc\u3001LangGraph\u3001Claude Agent SDK\u3001OpenAI Agents SDK\u3001DeepAgents\u3001DeerFlow\u3001Flue\u3001Vercel Eve\u3001Cloudflare Agents\u3001EdgeOne Makers\u3001Agent Skills \u7b49\u591a\u95e8\u8bfe\u7a0b\uff0c\u4ece\u5165\u95e8\u5230\u7cbe\u901a\u3002",
     "published_at": "2026-07-09T09:48:19Z",
     "id": "47fff3bf-b8f2-44de-88ea-a0075fa180a3"
   },
   {
-    "title": "theteatoast/local-vuln-research-pipeline (92★ GitHub)",
+    "title": "theteatoast/local-vuln-research-pipeline (92\u2605 GitHub)",
     "url": "https://github.com/theteatoast/local-vuln-research-pipeline",
     "description": "Stars: 92. Topics: agents, ai, offensive-security, pentest, qwen. Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exhaustively.",
     "published_at": "2026-07-09T09:18:05Z",
     "id": "c5653825-f27e-4a1f-bde4-7e865c58afe9"
   },
   {
-    "title": "xing-0803/AgentRule-Skill (5★ GitHub)",
+    "title": "xing-0803/AgentRule-Skill (5\u2605 GitHub)",
     "url": "https://github.com/xing-0803/AgentRule-Skill",
-    "description": "Stars: 5. Topics: agent, ai, ai-agent, claude, codex. 面向 AI Agent 的规范化开发 Skill，帮助构建高质量智能体 | A structured skill for building reliable AI agents with specifications, workflows, and acceptance.",
+    "description": "Stars: 5. Topics: agent, ai, ai-agent, claude, codex. \u9762\u5411 AI Agent \u7684\u89c4\u8303\u5316\u5f00\u53d1 Skill\uff0c\u5e2e\u52a9\u6784\u5efa\u9ad8\u8d28\u91cf\u667a\u80fd\u4f53 | A structured skill for building reliable AI agents with specifications, workflows, and acceptance.",
     "published_at": "2026-07-09T08:36:19Z",
     "id": "88522413-5df4-447e-bf2b-691160f63966"
   },
   {
-    "title": "MaxFreedomPollard/artificial-knowledge-collection-6.0 (4★ GitHub)",
+    "title": "MaxFreedomPollard/artificial-knowledge-collection-6.0 (4\u2605 GitHub)",
     "url": "https://github.com/MaxFreedomPollard/artificial-knowledge-collection-6.0",
     "description": "Stars: 4. Topics: ai, commonsense, dataset, entity-linking, knowledge-base. The largest collection of common sense ever built by hand: 159,722 human-written concepts and relationships, as one clean file. Artificial knowledge for artificial intelligence.",
     "published_at": "2026-07-09T07:56:17Z",
     "id": "40cb5117-51e0-4591-8040-abb2479a75cb"
   },
   {
-    "title": "SilentFleetKK/ai-market-pulse (151★ GitHub)",
+    "title": "SilentFleetKK/ai-market-pulse (151\u2605 GitHub)",
     "url": "https://github.com/SilentFleetKK/ai-market-pulse",
-    "description": "Stars: 151. Topics: ai, akshare, github-pages, investment-research, llm. Turn any watchlist into a daily AI market research report — a quant research cockpit or a zero-code daily report tool.",
+    "description": "Stars: 151. Topics: ai, akshare, github-pages, investment-research, llm. Turn any watchlist into a daily AI market research report \u2014 a quant research cockpit or a zero-code daily report tool.",
     "published_at": "2026-07-09T07:34:37Z",
     "id": "f5ca1f24-c762-4412-9862-ff7ef7f54d18"
   },
   {
-    "title": "wikidjon/ai-openclaw-cli (52★ GitHub)",
+    "title": "wikidjon/ai-openclaw-cli (52\u2605 GitHub)",
     "url": "https://github.com/wikidjon/ai-openclaw-cli",
     "description": "Stars: 52. Topics: ai, cli, mcp-cli, openclaw, openclaw-mcp. openfinclaw cli | ai openclaw mcp cli which works in claude code, cursor, and 20+ ai agents via mcp",
     "published_at": "2026-07-09T07:30:49Z",
     "id": "f880b707-6ddf-421e-9cd2-a1cbbe9628b2"
   },
   {
-    "title": "Matchameleon/moneyclaw (152★ GitHub)",
+    "title": "Matchameleon/moneyclaw (152\u2605 GitHub)",
     "url": "https://github.com/Matchameleon/moneyclaw",
     "description": "Stars: 152. Topics: agent, card-agent, moneyclaw, otp-agent, wallet-agent. openclaw agents for prepaid wallet, virtual card, OTP inbox, public docs, and skill",
     "published_at": "2026-07-09T07:08:09Z",
     "id": "645e2e92-dab5-4c91-8083-85bf962d1b84"
   },
   {
-    "title": "wubin28/first-pass-trust (7★ GitHub)",
+    "title": "wubin28/first-pass-trust (7\u2605 GitHub)",
     "url": "https://github.com/wubin28/first-pass-trust",
-    "description": "Stars: 7. Topics: ai-coding, codex-cli, ears, sdd, superpowers. 本书要解决的问题只有一个：如何让AI在有限的token预算下，第一次就生成可信的代码，而不是靠反复来回试错去逼近正确答案。",
+    "description": "Stars: 7. Topics: ai-coding, codex-cli, ears, sdd, superpowers. \u672c\u4e66\u8981\u89e3\u51b3\u7684\u95ee\u9898\u53ea\u6709\u4e00\u4e2a\uff1a\u5982\u4f55\u8ba9AI\u5728\u6709\u9650\u7684token\u9884\u7b97\u4e0b\uff0c\u7b2c\u4e00\u6b21\u5c31\u751f\u6210\u53ef\u4fe1\u7684\u4ee3\u7801\uff0c\u800c\u4e0d\u662f\u9760\u53cd\u590d\u6765\u56de\u8bd5\u9519\u53bb\u903c\u8fd1\u6b63\u786e\u7b54\u6848\u3002",
     "published_at": "2026-07-09T06:49:03Z",
     "id": "bfbd46ba-052c-4dd9-b743-077b08525837"
   },
   {
-    "title": "UiPath/coder_eval (16★ GitHub)",
+    "title": "UiPath/coder_eval (16\u2605 GitHub)",
     "url": "https://github.com/UiPath/coder_eval",
     "description": "Stars: 16. Topics: agent-evaluation, agentic-ai, ai-agents, benchmark, benchmarking. A framework for evaluating AI coding agents and their skills for CLI and skill builders with sandboxing, reproducibility, and data-driven analysis.",
     "published_at": "2026-07-09T06:46:59Z",
     "id": "aaa912c9-e842-4417-89e6-6fde29a5504d"
   },
   {
-    "title": "KORAYTEACHER/fintech-advisor (154★ GitHub)",
+    "title": "KORAYTEACHER/fintech-advisor (154\u2605 GitHub)",
     "url": "https://github.com/KORAYTEACHER/fintech-advisor",
     "description": "Stars: 154. Topics: ai, ai-advisor, ai-financial, ai-fintech, fintech. ai fintech financial advisor for your portfolio",
     "published_at": "2026-07-09T06:23:12Z",
     "id": "ec44154a-55a5-4bd4-a8d7-8c790d84b8f4"
   },
   {
-    "title": "rit-ops14/nexus-analyst (3★ GitHub)",
+    "title": "rit-ops14/nexus-analyst (3\u2605 GitHub)",
     "url": "https://github.com/rit-ops14/nexus-analyst",
-    "description": "Stars: 3. Topics: agentic-ai, langgraph, llm, mcp, multi-agent. A multi-agent AI system for conversational data analysis — built with LangGraph, MCP, and RAG",
+    "description": "Stars: 3. Topics: agentic-ai, langgraph, llm, mcp, multi-agent. A multi-agent AI system for conversational data analysis \u2014 built with LangGraph, MCP, and RAG",
     "published_at": "2026-07-09T06:08:21Z",
     "id": "a46ef3bf-845d-4cba-b825-e3a3ddbd0ab7"
   },
@@ -1134,9 +1680,9 @@
     "id": "1274052d-d257-405b-8413-adb5ce47430e"
   },
   {
-    "title": "fraconca/ai-ready-context-template-engine (7★ GitHub)",
+    "title": "fraconca/ai-ready-context-template-engine (7\u2605 GitHub)",
     "url": "https://github.com/fraconca/ai-ready-context-template-engine",
-    "description": "Stars: 7. Topics: ai, ai-agents, ai-assisted-development, ai-coding, ai-tools. ⚡ AI Content Workspace Template",
+    "description": "Stars: 7. Topics: ai, ai-agents, ai-assisted-development, ai-coding, ai-tools. \u26a1 AI Content Workspace Template",
     "published_at": "2026-07-09T05:16:21Z",
     "id": "87a27ba2-b866-4156-a5df-7cc5e5e2866c"
   },
@@ -1155,21 +1701,21 @@
     "id": "21c1a035-d6b3-42a7-8a42-57083d78232c"
   },
   {
-    "title": "CanadianCowboy/a2x (2★ GitHub)",
+    "title": "CanadianCowboy/a2x (2\u2605 GitHub)",
     "url": "https://github.com/CanadianCowboy/a2x",
     "description": "Stars: 2. Topics: agent-framework, agentic-workflow, agpl, ai-agents, artificial-intelligence. AI-native programming language and runtime. Sigma ISA, Omega compiler, CCS cognitive VM. Built for AI agents. Humans and AI as first-class contributors. AGPL-3.0.",
     "published_at": "2026-07-09T04:01:04Z",
     "id": "728ed7cc-ab3d-4580-abc2-fc3ac083e17b"
   },
   {
-    "title": "TheColliery/CoalWash (3★ GitHub)",
+    "title": "TheColliery/CoalWash (3\u2605 GitHub)",
     "url": "https://github.com/TheColliery/CoalWash",
     "description": "Stars: 3. Topics: agent-skills, ai-agents, ai-coding, claude, claude-code. Memory washer/defragmenter for AI agent class-B memory - cleans the FAT, never the MEAT. Code-enforced zero-fact-loss gate, plan-sourced deletes with snapshot+rollback undo (not pre-approval), force-runs at the economic cut-point, transactional apply",
     "published_at": "2026-07-09T03:04:59Z",
     "id": "622d4e47-a0bd-4bd6-be7c-101e7d5e4a7a"
   },
   {
-    "title": "Coding-Dev-Tools/agentic-system (1★ GitHub)",
+    "title": "Coding-Dev-Tools/agentic-system (1\u2605 GitHub)",
     "url": "https://github.com/Coding-Dev-Tools/agentic-system",
     "description": "Stars: 1. Topics: agent, agent-framework, circuit-breaker, fsm, llm-council. Framework-agnostic orchestration layer for AI agents: circuit breakers, multi-LLM council, workflow FSM, sweeps. Companion to Engraphis.",
     "published_at": "2026-07-09T03:04:50Z",
@@ -1183,36 +1729,36 @@
     "id": "0269ea98-f4e7-4fa2-b478-4ff0c75203b1"
   },
   {
-    "title": "axisrobo/harmovela (3★ GitHub)",
+    "title": "axisrobo/harmovela (3\u2605 GitHub)",
     "url": "https://github.com/axisrobo/harmovela",
-    "description": "Stars: 3. Topics: a2a, a2a-protocol, aep, agent, agentic-ai. AEP: Agent Event Protocol — open async event layer for agents, tools, memory, and multi-agent runtimes. 4-language reference with cross-language conformance.",
+    "description": "Stars: 3. Topics: a2a, a2a-protocol, aep, agent, agentic-ai. AEP: Agent Event Protocol \u2014 open async event layer for agents, tools, memory, and multi-agent runtimes. 4-language reference with cross-language conformance.",
     "published_at": "2026-07-09T01:15:17Z",
     "id": "8ca2a50d-dbb9-4d61-bac9-96f586d7da55"
   },
   {
-    "title": "Show HN: Tilion – MCP for Claude Code to stop it getting blocked on the web",
+    "title": "Show HN: Tilion \u2013 MCP for Claude Code to stop it getting blocked on the web",
     "url": "https://github.com/tiliondev/fortress/tree/main/mcp",
     "description": "Hacker News discussion: HN: 5 points.",
     "published_at": "2026-07-09T00:24:45Z",
     "id": "cada15f1-53af-4184-ba21-b5a12d7261e8"
   },
   {
-    "title": "domdoss/Warden (17★ GitHub)",
+    "title": "domdoss/Warden (17\u2605 GitHub)",
     "url": "https://github.com/domdoss/Warden",
     "description": "Stars: 17. Topics: agent, agentic-ai, ai, llm, llm-tools. This is a fork of the https://dockbox.dev project I made",
     "published_at": "2026-07-09T00:11:40Z",
     "id": "c04eb061-afe9-4aea-b1f2-80c589fba3a7"
   },
   {
-    "title": "joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark (2★ GitHub)",
+    "title": "joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark (2\u2605 GitHub)",
     "url": "https://github.com/joeynyc/Nemotron-Puzzle-75B-NVFP4-1x-DGX-Spark",
-    "description": "Stars: 2. Topics: blackwell, dgx-spark, gb10, inference, llm. Nemotron Puzzle 75B-A9B NVFP4 on 1× DGX Spark (GB10): MTP, prefix cache, 4 concurrent seqs — ~40 tok/s solo, ~75 tok/s aggregate ×4",
+    "description": "Stars: 2. Topics: blackwell, dgx-spark, gb10, inference, llm. Nemotron Puzzle 75B-A9B NVFP4 on 1\u00d7 DGX Spark (GB10): MTP, prefix cache, 4 concurrent seqs \u2014 ~40 tok/s solo, ~75 tok/s aggregate \u00d74",
     "published_at": "2026-07-09T00:10:33Z",
     "id": "e4569837-a724-433b-912e-42259478cb68"
   },
   {
     "id": "7d160e6e-0102-43dd-8479-610c9eb9b688",
-    "title": "Introducing GPT‑Live — OpenAI upgrades ChatGPT voice mode with new model",
+    "title": "Introducing GPT\u2011Live \u2014 OpenAI upgrades ChatGPT voice mode with new model",
     "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/",
     "description": "Simon Willison reports on OpenAI's GPT-Live upgrade to ChatGPT voice mode. The new model delivers significantly improved conversational abilities with lower latency for real-time agent interactions.",
     "published_at": "2026-07-08T23:20:48Z"
@@ -1240,7 +1786,7 @@
   },
   {
     "id": "f8afb631-4db8-4258-9687-7edbdcde17fb",
-    "title": "Quoting Kenton Varda — Cap'n Proto creator on AI agent tool design",
+    "title": "Quoting Kenton Varda \u2014 Cap'n Proto creator on AI agent tool design",
     "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/",
     "description": "Simon Willison quotes Kenton Varda (Cap'n Proto creator, Cloudflare) on design patterns for AI agent tool systems, covering sandboxing, capability-based security, and how agent tool design parallels protocol design.",
     "published_at": "2026-07-08T20:03:34Z"
@@ -1290,19 +1836,19 @@
   {
     "title": "Show HN: I built a $90 terminal to find where locals eat via spatial gravity",
     "url": "https://hungrybutnotstupid.com/",
-    "description": "Hacker News discussion: HN: 2 points. I know $90 for a dining app sounds absurd. And it’s not even an app; it's a wrapper for an LLM.  But it is how it is built that makes it so expensive.  I had to make a whole API just to ",
+    "description": "Hacker News discussion: HN: 2 points. I know $90 for a dining app sounds absurd. And it\u2019s not even an app; it's a wrapper for an LLM.  But it is how it is built that makes it so expensive.  I had to make a whole API just to ",
     "published_at": "2026-07-08T16:01:50Z",
     "id": "5f949801-379a-442a-96d7-35a49c877c54"
   },
   {
     "id": "1ab86e5d-26e4-4b20-8e8a-4fdf2ac99ab3",
-    "title": "NVIDIA Open Data for Agents — Training data strategy for AI agents",
+    "title": "NVIDIA Open Data for Agents \u2014 Training data strategy for AI agents",
     "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
     "description": "NVIDIA and Hugging Face publish a strategy for open data curation designed specifically for training AI agents. Covers data sourcing, quality filtering, and synthetic data generation for agent-oriented models.",
     "published_at": "2026-07-08T16:00:00Z"
   },
   {
-    "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+    "title": "Show HN: Kastor \u2013 Terraform-style specs for AI agents",
     "url": "https://github.com/weirdGuy/kastor",
     "description": "Hacker News discussion: HN: 32 points.",
     "published_at": "2026-07-08T15:25:09Z",
@@ -1324,7 +1870,7 @@
   },
   {
     "id": "90bdb708-4838-4204-85ab-1646b4c5ea70",
-    "title": "Cloudflare Agentic Internet Bot Report — AI agents driving internet traffic",
+    "title": "Cloudflare Agentic Internet Bot Report \u2014 AI agents driving internet traffic",
     "url": "https://blog.cloudflare.com/agentic-internet-bot-report/",
     "description": "Cloudflare's report on AI agent and bot traffic across the internet. Analyzes agent-driven requests, identifies bot patterns, and discusses implications for web infrastructure as AI agents become primary internet users.",
     "published_at": "2026-07-08T14:00:00Z"
@@ -1338,7 +1884,7 @@
   },
   {
     "id": "df07b62c-2cda-4a16-8ed1-ef362a745f12",
-    "title": "Making AI Search Smarter — Cloudflare's approach to AI-powered search",
+    "title": "Making AI Search Smarter \u2014 Cloudflare's approach to AI-powered search",
     "url": "https://blog.cloudflare.com/making-ai-search-smarter/",
     "description": "Cloudflare details how they're making AI search smarter with Workers AI, covering RAG patterns, embedding strategies, and performance optimization for AI-powered search across the edge.",
     "published_at": "2026-07-08T13:00:00Z"
@@ -1358,7 +1904,7 @@
     "id": "bd41dcfd-5fdd-44c9-bf27-75a0bbc168c5"
   },
   {
-    "title": "ohad6k/ditto (45★ GitHub)",
+    "title": "ohad6k/ditto (45\u2605 GitHub)",
     "url": "https://github.com/ohad6k/ditto",
     "description": "Stars: 45. Topics: agent-memory, agent-skills, ai, ai-agents, ai-coding. Mine your Claude Code and Codex logs into a local you.md agent profile.",
     "published_at": "2026-07-08T11:42:32Z",
@@ -1372,14 +1918,14 @@
     "id": "f0314295-a86b-4a39-8b67-3cef08e879e2"
   },
   {
-    "title": "Show HN: Tarit – Self-host sandbox cloud and hypervisor for AI agents",
+    "title": "Show HN: Tarit \u2013 Self-host sandbox cloud and hypervisor for AI agents",
     "url": "https://github.com/instavm/tarit",
     "description": "Hacker News discussion: HN: 6 points. We have built Tarit as a hypervisor built from ground up for running AI agent and RL environments. It is based on rust-vmm and can be used as a replacement for firecracker. Firecracker w",
     "published_at": "2026-07-08T09:11:25Z",
     "id": "cd922be1-8039-4918-8651-cdb155cb4c81"
   },
   {
-    "title": "amitshekhariitbhu/transformers-explained (27★ GitHub)",
+    "title": "amitshekhariitbhu/transformers-explained (27\u2605 GitHub)",
     "url": "https://github.com/amitshekhariitbhu/transformers-explained",
     "description": "Stars: 27. Topics: architecture, attention-is-all-you-need, attention-mechanism, large-language-models, llm. Transformer architecture explained step by step - the full architecture, every attention variant, positional embeddings, and every layer inside a Transformer.",
     "published_at": "2026-07-08T08:48:47Z",
@@ -1407,9 +1953,9 @@
     "id": "24ec5297-26c1-4900-bd11-42940e2d8a05"
   },
   {
-    "title": "bkingfilm/lapian-notes (78★ GitHub)",
+    "title": "bkingfilm/lapian-notes (78\u2605 GitHub)",
     "url": "https://github.com/bkingfilm/lapian-notes",
-    "description": "Stars: 78. Topics: ai, film-analysis, filmmaking, react, screenwriting. 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+    "description": "Stars: 78. Topics: ai, film-analysis, filmmaking, react, screenwriting. \u62c9\u7247\u7b14\u8bb0:\u628a\u7535\u5f71\u53d8\u6210 AI \u8f85\u52a9\u7684\u62c9\u7247\u7b14\u8bb0 - \u672c\u5730\u62bd\u5e27/\u5267\u60c5\u6cf3\u9053\u65f6\u95f4\u8f74/\u7ed3\u6784\u6811/\u60c5\u7eea\u66f2\u7ebf/\u6bb5\u843d\u6df1\u62c6",
     "published_at": "2026-07-08T06:06:31Z",
     "id": "47653c17-21b8-412e-9fa3-8c296f9f699a"
   },
@@ -1428,14 +1974,14 @@
     "id": "738200db-f95d-4ec7-8918-1f36402c6ac3"
   },
   {
-    "title": "bolivestilo/Homekit (66★ GitHub)",
+    "title": "bolivestilo/Homekit (66\u2605 GitHub)",
     "url": "https://github.com/bolivestilo/Homekit",
     "description": "Open-source MCP integration giving AI agents direct control over Apple HomeKit devices. Agents can control lights, locks, sensors, and automation through a unified CLI/MCP interface.",
     "published_at": "2026-07-08T04:34:17Z",
     "id": "a3eb913a-adf5-4eb5-a90f-bd0580d97802"
   },
   {
-    "title": "Show HN: FactIQ – a realtime econ+finance database for AI agents",
+    "title": "Show HN: FactIQ \u2013 a realtime econ+finance database for AI agents",
     "url": "https://github.com/defog-ai/factiq-plugin",
     "description": "Hacker News discussion: HN: 7 points. Hey HN, we built an Econ+Finance database to let AI agents do investment research. We spend a lot of tokens to organize macro releases and SEC filings into a clean format, so that your a",
     "published_at": "2026-07-08T01:39:06Z",
@@ -1444,19 +1990,19 @@
   {
     "title": "Redis Patterns for Coding Agents",
     "url": "https://redis.antirez.com/",
-    "description": "Antirez (Redis creator) shares Redis patterns and data structures useful for building stateful AI coding agents — covering pub/sub messaging, sorted sets for priority queues, and stream-based task coordination.",
+    "description": "Antirez (Redis creator) shares Redis patterns and data structures useful for building stateful AI coding agents \u2014 covering pub/sub messaging, sorted sets for priority queues, and stream-based task coordination.",
     "published_at": "2026-07-07T22:24:11Z",
     "id": "acec63e7-8479-41ec-826f-7dafb9b0b57b"
   },
   {
-    "title": "sunflower-of-parchman/codex-hygiene (42★ GitHub)",
+    "title": "sunflower-of-parchman/codex-hygiene (42\u2605 GitHub)",
     "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
     "description": "Codex skill for auditing and optimizing context/tool usage in Codex Desktop. Analyzes token consumption, cache efficiency, and tool call patterns to help developers reduce API costs and improve agent performance.",
     "published_at": "2026-07-07T21:51:14Z",
     "id": "5f1cee67-0f7e-4407-972d-3695642546a7"
   },
   {
-    "title": "Show HN: Backlog – tasks and contexts manager for AI coding agents",
+    "title": "Show HN: Backlog \u2013 tasks and contexts manager for AI coding agents",
     "url": "https://github.com/mazen160/backlog",
     "description": "Hacker News discussion: HN: 4 points.",
     "published_at": "2026-07-07T21:30:08Z",
@@ -1484,14 +2030,14 @@
     "id": "8ab5e31b-9d67-43ba-9d70-88ca2c54a8bb"
   },
   {
-    "title": "Show HN: Tessera – an AI agent that refuses to answer without evidence",
+    "title": "Show HN: Tessera \u2013 an AI agent that refuses to answer without evidence",
     "url": "https://github.com/robert-vetter/tessera",
     "description": "Hacker News discussion: HN: 5 points.",
     "published_at": "2026-07-07T19:24:07Z",
     "id": "3f75b39d-677d-4dcb-9452-e6385436961d"
   },
   {
-    "title": "Show HN: Bike4Mind – open-core AI workbench; any model, agents, RAG, self-host",
+    "title": "Show HN: Bike4Mind \u2013 open-core AI workbench; any model, agents, RAG, self-host",
     "url": "https://github.com/Bike4Mind/bike4mind",
     "description": "Hacker News discussion: HN: 4 points. Hi HN, I am Erik Bethke, game dev that has been making online games for 30+ years (Starfleet Command, GoPets, FarmVille, Mafia Wars).<p>For the last 3 years I have been building Bike4Min",
     "published_at": "2026-07-07T19:17:34Z",
@@ -1512,9 +2058,9 @@
     "id": "34869c25-3372-4bdb-84b3-c795c342d3e2"
   },
   {
-    "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+    "title": "Show HN: Rowboat \u2013 Open-source, local-first alternative to Claude Desktop",
     "url": "https://github.com/rowboatlabs/rowboat",
-    "description": "Hacker News discussion: HN: 214 points. Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, inclu",
+    "description": "Hacker News discussion: HN: 214 points. Claude\u2019s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, inclu",
     "published_at": "2026-07-07T16:10:44Z",
     "id": "644d112e-937e-46f5-852a-75ff589c3f4c"
   },
@@ -1526,21 +2072,21 @@
     "id": "bb4c91e7-83cb-4d9d-85bc-76ac64f082e4"
   },
   {
-    "title": "Show HN: Reins – let coding agents drive your real, logged-in browser",
+    "title": "Show HN: Reins \u2013 let coding agents drive your real, logged-in browser",
     "url": "https://reins.karnstack.com",
-    "description": "Hacker News discussion (score: 3): Show HN: Reins – let coding agents drive your real, logged-in browser",
+    "description": "Hacker News discussion (score: 3): Show HN: Reins \u2013 let coding agents drive your real, logged-in browser",
     "published_at": "2026-07-07T15:45:03Z",
     "id": "6d13e84e-b6cc-43cf-8d39-726d108d4071"
   },
   {
-    "title": "Show HN: Context Warp Drive – Deterministic context folding for AI agents",
+    "title": "Show HN: Context Warp Drive \u2013 Deterministic context folding for AI agents",
     "url": "https://github.com/dogtorjonah/context-warp-drive",
     "description": "Hacker News discussion: HN: 11 points.",
     "published_at": "2026-07-07T15:18:36Z",
     "id": "cf88ee2e-f563-4deb-8ecb-99f0093aa5a8"
   },
   {
-    "title": "NLACE-COM/mcp-supermercados-cl (33★ GitHub)",
+    "title": "NLACE-COM/mcp-supermercados-cl (33\u2605 GitHub)",
     "url": "https://github.com/NLACE-COM/mcp-supermercados-cl",
     "description": "Stars: 33. Topics: chile, claude, jumbo, lider, mcp. Servidor MCP para buscar productos, comparar precios y armar la mejor lista de compra en supermercados chilenos (Jumbo, Santa Isabel, Unimarc, Tottus, Lider) desde Claude o ChatGPT. 100% local.",
     "published_at": "2026-07-07T14:40:45Z",
@@ -1554,16 +2100,16 @@
     "id": "a07d191e-bfb4-47e0-a625-552a26b5f585"
   },
   {
-    "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+    "title": "Show HN: Halo \u2013 open-source, tamper-evident runtime evidence for AI agents",
     "url": "https://github.com/bkuan001/halo-record",
     "description": "Hacker News discussion: HN: 37 points. Hi HN, I'm Brian, I spent the last few years at Vanta (YC W18), helping startups and enterprises become compliant and I recently started exploring what that might look like in a post-ag",
     "published_at": "2026-07-07T14:07:08Z",
     "id": "b224de86-af19-4748-8b28-c49ab81809f9"
   },
   {
-    "title": "op7418/guizang-material-illustration (158★ GitHub)",
+    "title": "op7418/guizang-material-illustration (158\u2605 GitHub)",
     "url": "https://github.com/op7418/guizang-material-illustration",
-    "description": "Stars: 158. Topics: agent, chart-visualization, chinese, claude-code, codex. 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
+    "description": "Stars: 158. Topics: agent, chart-visualization, chinese, claude-code, codex. \u5f52\u85cf\u7684\u6750\u8d28\u63d2\u753b skill\uff1a\u751f\u6210\u5e26\u5b57\u89e3\u91ca\u56fe\u3001\u56fe\u8868\u7f8e\u5316\u548c\u53c2\u8003\u8f85\u52a9\u914d\u56fe\u3002",
     "published_at": "2026-07-07T13:57:13Z",
     "id": "853f05cc-71b7-4db2-b6c8-377c9734b2c6"
   },
@@ -1575,16 +2121,16 @@
     "id": "b28dd933-35cd-464b-bf93-34ba5ac8d889"
   },
   {
-    "title": "ezBuilder/chatgpt2codex (32★ GitHub)",
+    "title": "ezBuilder/chatgpt2codex (32\u2605 GitHub)",
     "url": "https://github.com/ezBuilder/chatgpt2codex",
     "description": "Stars: 32. Topics: chatgpt, codex, developer-tools, e2e-testing, local-first. macOS-first local MCP and Actions runtime that gives ChatGPT real coding hands over trusted projects",
     "published_at": "2026-07-07T13:04:04Z",
     "id": "7f904721-e2d7-4e50-be50-5fe6457695b7"
   },
   {
-    "title": "Show HN: SigMap – deterministic repo maps for AI coding agents",
+    "title": "Show HN: SigMap \u2013 deterministic repo maps for AI coding agents",
     "url": "https://sigmap.io",
-    "description": "Hacker News discussion (score: 2): Show HN: SigMap – deterministic repo maps for AI coding agents",
+    "description": "Hacker News discussion (score: 2): Show HN: SigMap \u2013 deterministic repo maps for AI coding agents",
     "published_at": "2026-07-07T12:57:24Z",
     "id": "090f95cc-4d58-48bc-b7a3-6debb6c5a87c"
   },
@@ -1596,7 +2142,7 @@
     "id": "7dc25c7b-8d79-4c88-bcb6-3b35d05a6870"
   },
   {
-    "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+    "title": "Show HN: Frugon \u2013 Find which LLM calls a cheaper model could handle (local, MIT)",
     "url": "https://github.com/Rodiun/frugon",
     "description": "Hacker News discussion: HN: 20 points. I started leaning in on AI heavily this year, as I wanted to get more done autonomously, but then my token usage climbed dramatically to the point where my weekly quota would run out be",
     "published_at": "2026-07-07T12:20:54Z",
@@ -1617,21 +2163,21 @@
     "id": "bc786f19-e798-4adb-ace6-92537906ae0b"
   },
   {
-    "title": "Raghu // dark-factory – press any key or click to power on",
+    "title": "Raghu // dark-factory \u2013 press any key or click to power on",
     "url": "https://raghunathnair1-rgb.github.io",
-    "description": "Hacker News discussion (score: 3): Raghu // dark-factory – press any key or click to power on",
+    "description": "Hacker News discussion (score: 3): Raghu // dark-factory \u2013 press any key or click to power on",
     "published_at": "2026-07-07T09:39:28Z",
     "id": "20e982bd-0176-43b8-853e-a258d7d63190"
   },
   {
-    "title": "kychee-com/kysigned (24★ GitHub)",
+    "title": "kychee-com/kysigned (24\u2605 GitHub)",
     "url": "https://github.com/kychee-com/kysigned",
     "description": "Stars: 24. Topics: dkim, e-signature, esignature, mcp, pdf. Self-verifying e-signatures: sign by email, proof sealed by DKIM, verifiable offline forever. Forkable template running on run402.",
     "published_at": "2026-07-07T08:05:02Z",
     "id": "bfdb8fd9-0ebb-42ee-bf95-93cc2c6ee6c2"
   },
   {
-    "title": "frenzymath/Danus (41★ GitHub)",
+    "title": "frenzymath/Danus (41\u2605 GitHub)",
     "url": "https://github.com/frenzymath/Danus",
     "description": "Stars: 41. Topics: agents, ai4math, automated-reasoning, claude-code, codex. Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory",
     "published_at": "2026-07-07T02:44:28Z",
@@ -1652,7 +2198,7 @@
     "id": "7b5bd15b-8103-4db4-9a58-2c5cfb58e54f"
   },
   {
-    "title": "ninjahawk/Subtext (116★ GitHub)",
+    "title": "ninjahawk/Subtext (116\u2605 GitHub)",
     "url": "https://github.com/ninjahawk/Subtext",
     "description": "Stars: 116. Topics: interpretability, llm, mechanistic-interpretability, pytorch, qwen. To know what models don't say out loud.",
     "published_at": "2026-07-06T22:11:53Z",
@@ -1668,21 +2214,21 @@
   {
     "title": "Attribute Knowledge RAG Pattern for Governed AI Agents",
     "url": "https://superml.dev/attribute-knowledge-rag-pattern-llm-governed-attributes",
-    "description": "Technical blog post on the Attribute Knowledge RAG pattern — a structured approach to governing what an AI agent can and cannot assert about entities in its knowledge base. Useful for regulated enterprise deployments.",
+    "description": "Technical blog post on the Attribute Knowledge RAG pattern \u2014 a structured approach to governing what an AI agent can and cannot assert about entities in its knowledge base. Useful for regulated enterprise deployments.",
     "published_at": "2026-07-06T21:40:45Z",
     "id": "5130317e-b20d-464d-84d6-194fe293b428"
   },
   {
-    "title": "Playa-0v0/Cyrene-Agent (26★ GitHub)",
+    "title": "Playa-0v0/Cyrene-Agent (26\u2605 GitHub)",
     "url": "https://github.com/Playa-0v0/Cyrene-Agent",
-    "description": "Stars: 26. Topics: agent, ai-agent, cyrene, electron, honkai-star-rail. Live2D 桌面Agent (Electron + TS) — Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory.",
+    "description": "Stars: 26. Topics: agent, ai-agent, cyrene, electron, honkai-star-rail. Live2D \u684c\u9762Agent (Electron + TS) \u2014 Cyrene from Honkai: Star Rail. Chat, emotional interaction, personalized memory.",
     "published_at": "2026-07-06T21:33:15Z",
     "id": "600711ee-02c5-40d4-be95-bcdbcabf60f4"
   },
   {
     "title": "JadePuffer ransomware used AI agent to automate attack",
     "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-    "description": "Report on JadePuffer ransomware using AI agents to automate the full attack chain — from initial access to data exfiltration. Demonstrates the offensive AI capabilities now in use by threat actors.",
+    "description": "Report on JadePuffer ransomware using AI agents to automate the full attack chain \u2014 from initial access to data exfiltration. Demonstrates the offensive AI capabilities now in use by threat actors.",
     "published_at": "2026-07-06T21:32:34Z",
     "id": "58e09f18-da0e-4d71-9460-d37b3ae7e2bc"
   },
@@ -1708,23 +2254,23 @@
     "id": "4f8cc1cf-0abf-46b9-8109-24aa7c5c3a44"
   },
   {
-    "title": "cozytab/fable5-mode (42★ GitHub)",
+    "title": "cozytab/fable5-mode (42\u2605 GitHub)",
     "url": "https://github.com/cozytab/fable5-mode",
-    "description": "Stars: 42. Topics: agent-hooks, ai-agents, anthropic, claude, claude-code. Fable 5-grade work discipline for any Claude model — a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5",
+    "description": "Stars: 42. Topics: agent-hooks, ai-agents, anthropic, claude, claude-code. Fable 5-grade work discipline for any Claude model \u2014 a Claude Code skill + guard hooks (plan gate, model ceiling, per-task enforcement) that make Opus 4.8 or any non-frontier model plan, self-verify, and route sub-agents like Fable 5, without Fable 5",
     "published_at": "2026-07-06T16:52:32Z",
     "id": "fe0779e2-d05e-4650-8e1c-b9b6fbc8562d"
   },
   {
     "title": "Untrusted Content Masking for Web Agents with Security Guarantees",
     "url": "https://arxiv.org/abs/2607.05277v1",
-    "description": "Authors: Kristina Nikolić, Egor Zverev, Javier Rando, Matthew Jagielski, Edoardo Debenedetti, Florian Tramèr. Categories: cs.CR, cs.LG. Defenses that provide security guarantees against prompt injection attacks rely on strict isolation between trusted instructions and untrusted data. In text-based environments such as tool-use APIs, this separation",
+    "description": "Authors: Kristina Nikoli\u0107, Egor Zverev, Javier Rando, Matthew Jagielski, Edoardo Debenedetti, Florian Tram\u00e8r. Categories: cs.CR, cs.LG. Defenses that provide security guarantees against prompt injection attacks rely on strict isolation between trusted instructions and untrusted data. In text-based environments such as tool-use APIs, this separation",
     "published_at": "2026-07-06T16:22:37Z",
     "id": "1c235b67-23d1-4ff1-a80d-9f58f60b3bb2"
   },
   {
-    "title": "AMD Ryzen AI Halo — $4k AI Dev Kit for local LLM inference",
+    "title": "AMD Ryzen AI Halo \u2014 $4k AI Dev Kit for local LLM inference",
     "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-    "description": "AMD's $4,000 AI development kit featuring Ryzen AI Halo with 128GB unified memory APU. Designed for local LLM inference and AI development on consumer-grade hardware — practical for GPU homelabs and self-hosted AI.",
+    "description": "AMD's $4,000 AI development kit featuring Ryzen AI Halo with 128GB unified memory APU. Designed for local LLM inference and AI development on consumer-grade hardware \u2014 practical for GPU homelabs and self-hosted AI.",
     "published_at": "2026-07-06T16:00:00Z",
     "id": "12917ea8-f833-46cb-86f4-6c41f1600dc0"
   },
@@ -1743,9 +2289,9 @@
     "id": "143be8d2-8656-431e-a082-5de34e02953f"
   },
   {
-    "title": "srelens/srelens (30★ GitHub)",
+    "title": "srelens/srelens (30\u2605 GitHub)",
     "url": "https://github.com/srelens/srelens",
-    "description": "Stars: 30. Topics: desktop-app, devops, ide, kubernetes, mcp. Fast, lightweight Kubernetes IDE built with Tauri v2 and a pure-Rust core — every capability doubles as an MCP tool for AI agents",
+    "description": "Stars: 30. Topics: desktop-app, devops, ide, kubernetes, mcp. Fast, lightweight Kubernetes IDE built with Tauri v2 and a pure-Rust core \u2014 every capability doubles as an MCP tool for AI agents",
     "published_at": "2026-07-06T14:15:14Z",
     "id": "d11c4082-2844-4c8d-b4f8-f517db0caf1c"
   },
@@ -1759,7 +2305,7 @@
   {
     "title": "A global workspace in language models",
     "url": "https://www.anthropic.com/research/global-workspace",
-    "description": "Anthropic presents evidence that Claude has developed a global workspace (J-space) of internal neural patterns accessible for deliberate reasoning and description — analogous to conscious processing in humans. Important interpretability research for understanding agent reasoning.",
+    "description": "Anthropic presents evidence that Claude has developed a global workspace (J-space) of internal neural patterns accessible for deliberate reasoning and description \u2014 analogous to conscious processing in humans. Important interpretability research for understanding agent reasoning.",
     "published_at": "2026-07-06T14:00:00Z",
     "id": "777bc934-3f16-43b1-ae67-dc7a297ff8b8"
   },
@@ -1773,7 +2319,7 @@
   {
     "title": "Regression to the Mean: on LLMs and the quiet death of the new",
     "url": "https://rruxandra.github.io/regression-to-the-mean.html",
-    "description": "Essay on how LLMs lead to regression to the mean in creative output — the same models that democratize creation also push everyone toward the same statistically average results. Important critique for AI engineering culture.",
+    "description": "Essay on how LLMs lead to regression to the mean in creative output \u2014 the same models that democratize creation also push everyone toward the same statistically average results. Important critique for AI engineering culture.",
     "published_at": "2026-07-06T13:20:59Z",
     "id": "029bac4d-ba3d-47f7-b252-e7a8f6f4b0fb"
   },
@@ -1787,14 +2333,14 @@
   {
     "title": "GLM 5.2 and the coming AI margin collapse (part 1)",
     "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "description": "Analysis arguing GLM 5.2 is the first open-weight model that genuinely competes with Opus and GPT for agentic work at 15-20% of the price. Part one of why AI inference margins are about to collapse — the real DeepSeek moment.",
+    "description": "Analysis arguing GLM 5.2 is the first open-weight model that genuinely competes with Opus and GPT for agentic work at 15-20% of the price. Part one of why AI inference margins are about to collapse \u2014 the real DeepSeek moment.",
     "published_at": "2026-07-06T12:00:00Z",
     "id": "7e4a68c8-58c3-4937-8c60-adc6671097b2"
   },
   {
-    "title": "CompactionRL — Reinforcement Learning with Context Compaction for Long-Horizon Agents (arXiv 2607.05378)",
+    "title": "CompactionRL \u2014 Reinforcement Learning with Context Compaction for Long-Horizon Agents (arXiv 2607.05378)",
     "url": "https://arxiv.org/abs/2607.05378",
-    "description": "RL-based approach to context compaction for long-horizon agentic LLMs. Summarizes previous interaction states to continue rollouts under finite context windows — directly addresses the context ceiling problem in persistent agents.",
+    "description": "RL-based approach to context compaction for long-horizon agentic LLMs. Summarizes previous interaction states to continue rollouts under finite context windows \u2014 directly addresses the context ceiling problem in persistent agents.",
     "published_at": "2026-07-06T12:00:00Z",
     "id": "42052af1-1cbd-4ccf-8f48-7efbb75b5186"
   },
@@ -1813,16 +2359,16 @@
     "id": "dc85c265-168c-4272-b08b-183fa699bb89"
   },
   {
-    "title": "olemeyer/rocketplaneIO (121★ GitHub)",
+    "title": "olemeyer/rocketplaneIO (121\u2605 GitHub)",
     "url": "https://github.com/olemeyer/rocketplaneIO",
-    "description": "Self-hosted AI SRE agent for Kubernetes with zero-instrumentation eBPF observability. Agents diagnose and fix infrastructure issues through guardrailed self-verifying actions — BYO-LLM, air-gapped capable.",
+    "description": "Self-hosted AI SRE agent for Kubernetes with zero-instrumentation eBPF observability. Agents diagnose and fix infrastructure issues through guardrailed self-verifying actions \u2014 BYO-LLM, air-gapped capable.",
     "published_at": "2026-07-06T11:24:01Z",
     "id": "c691482f-deac-4f57-88bd-d5216fb4af18"
   },
   {
-    "title": "suiyuebaobao/C-SSH (46★ GitHub)",
+    "title": "suiyuebaobao/C-SSH (46\u2605 GitHub)",
     "url": "https://github.com/suiyuebaobao/C-SSH",
-    "description": "Stars: 46. Topics: ai, ai-assistant, android, cross-platform, devops. Native cross-platform SSH ops: persistent tmux sessions × always-on monitoring × built-in AI assistant. Windows/Android, free forever, open-source soon. 原生跨平台 SSH 运维 · tmux 持久化 · 常驻监控 · 内置 AI 助手",
+    "description": "Stars: 46. Topics: ai, ai-assistant, android, cross-platform, devops. Native cross-platform SSH ops: persistent tmux sessions \u00d7 always-on monitoring \u00d7 built-in AI assistant. Windows/Android, free forever, open-source soon. \u539f\u751f\u8de8\u5e73\u53f0 SSH \u8fd0\u7ef4 \u00b7 tmux \u6301\u4e45\u5316 \u00b7 \u5e38\u9a7b\u76d1\u63a7 \u00b7 \u5185\u7f6e AI \u52a9\u624b",
     "published_at": "2026-07-06T11:18:21Z",
     "id": "0bf14e1e-3b21-4eac-b924-075fd5995b55"
   },
@@ -1836,14 +2382,14 @@
   {
     "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
     "url": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
-    "description": "Fable achieves 18.71X speedup writing CUDA kernels on KernelBench-Mega — the first genuine megakernel on the leaderboard. Also covers the Remote Labor Index (16.1% AI automation success on freelance projects) and implications for recursive self-improvement.",
+    "description": "Fable achieves 18.71X speedup writing CUDA kernels on KernelBench-Mega \u2014 the first genuine megakernel on the leaderboard. Also covers the Remote Labor Index (16.1% AI automation success on freelance projects) and implications for recursive self-improvement.",
     "published_at": "2026-07-06T10:00:00Z",
     "id": "339aa2bc-b6b6-4372-9b08-c10dbddc7c34"
   },
   {
-    "title": "Ternlight — 7 MB embedding model that runs entirely in browser via WASM",
+    "title": "Ternlight \u2014 7 MB embedding model that runs entirely in browser via WASM",
     "url": "https://ternlight-demo.vercel.app/",
-    "description": "Ultra-lightweight 7MB embedding model compiled to WebAssembly that runs completely in-browser. Enables local semantic search, RAG, and vector operations without any server-side infrastructure — ideal for edge AI and privacy-preserving applications.",
+    "description": "Ultra-lightweight 7MB embedding model compiled to WebAssembly that runs completely in-browser. Enables local semantic search, RAG, and vector operations without any server-side infrastructure \u2014 ideal for edge AI and privacy-preserving applications.",
     "published_at": "2026-07-06T07:00:00Z",
     "id": "9243d1d3-f523-4788-b3ae-40b46ad25f04"
   },
@@ -1855,16 +2401,16 @@
     "id": "8a4c42ca-b1e6-4043-bf91-6d4522a2db69"
   },
   {
-    "title": "PKU-YuanGroup/OpenAI4S (65★ GitHub)",
+    "title": "PKU-YuanGroup/OpenAI4S (65\u2605 GitHub)",
     "url": "https://github.com/PKU-YuanGroup/OpenAI4S",
-    "description": "Stars: 65. Topics: agent, ai4science, claude-science, mit-license, open-source. 9.9 元豆包API复刻 Claude Science",
+    "description": "Stars: 65. Topics: agent, ai4science, claude-science, mit-license, open-source. 9.9 \u5143\u8c46\u5305API\u590d\u523b Claude Science",
     "published_at": "2026-07-06T00:34:35Z",
     "id": "f913902d-46cc-4115-beec-57ec96c8db8c"
   },
   {
-    "title": "oxbshw/watch-skill (110★ GitHub)",
+    "title": "oxbshw/watch-skill (110\u2605 GitHub)",
     "url": "https://github.com/oxbshw/watch-skill",
-    "description": "MCP skill giving AI agents the ability to watch video content — and watch their own work to self-correct. Supports scene-aware frames, OCR, local-first transcription, persistent indexing, and self-correction loops.",
+    "description": "MCP skill giving AI agents the ability to watch video content \u2014 and watch their own work to self-correct. Supports scene-aware frames, OCR, local-first transcription, persistent indexing, and self-correction loops.",
     "published_at": "2026-07-05T23:25:30Z",
     "id": "1ef15409-b1c8-45c2-b60d-379363e241c0"
   },
@@ -1876,16 +2422,16 @@
     "id": "2671bf87-55bc-4677-8ae3-3f41efdd02f5"
   },
   {
-    "title": "eli-labz/Cognitive-Core-Skills (273★ GitHub)",
+    "title": "eli-labz/Cognitive-Core-Skills (273\u2605 GitHub)",
     "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
-    "description": "Universal taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs and AI agents — with 159 skill cards, schemas, benchmarks, and CI. Reference framework for agent skill engineering.",
+    "description": "Universal taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs and AI agents \u2014 with 159 skill cards, schemas, benchmarks, and CI. Reference framework for agent skill engineering.",
     "published_at": "2026-07-05T21:25:55Z",
     "id": "662c76b9-4de0-4aed-a30f-aee6a76ac54b"
   },
   {
-    "title": "ianustec/openwebui-generate-slides (21★ GitHub)",
+    "title": "ianustec/openwebui-generate-slides (21\u2605 GitHub)",
     "url": "https://github.com/ianustec/openwebui-generate-slides",
-    "description": "Stars: 21. Topics: ai-tools, llm, open-webui, openwebui, powerpoint. Native PowerPoint (.pptx) generator tool for Open WebUI — JSON spec in, native charts/icons/layouts out. MIT.",
+    "description": "Stars: 21. Topics: ai-tools, llm, open-webui, openwebui, powerpoint. Native PowerPoint (.pptx) generator tool for Open WebUI \u2014 JSON spec in, native charts/icons/layouts out. MIT.",
     "published_at": "2026-07-05T18:52:35Z",
     "id": "ca0c58f3-fa20-4a55-bd38-7414d6381759"
   },
@@ -1897,21 +2443,21 @@
     "id": "960d8d24-ba14-403f-a6a7-2c7466b1e966"
   },
   {
-    "title": "bepitulaz/obsidian-multivault-mcp (27★ GitHub)",
+    "title": "bepitulaz/obsidian-multivault-mcp (27\u2605 GitHub)",
     "url": "https://github.com/bepitulaz/obsidian-multivault-mcp",
     "description": "Stars: 27. Topics: claude, mcp, mcp-server, mcpserver, obsidian. Multi-vault and multiuser Obsidian MCP",
     "published_at": "2026-07-05T16:23:53Z",
     "id": "2b36eebc-49ca-451f-a834-a7057f7a6ecb"
   },
   {
-    "title": "RightNow-AI/auto (31★ GitHub)",
+    "title": "RightNow-AI/auto (31\u2605 GitHub)",
     "url": "https://github.com/RightNow-AI/auto",
-    "description": "The \"AGI compiler\" — records LLM agent behavior, identifies repeated patterns, and compiles them into verified sandboxed WASM binaries that execute at microdollar cost. Novel approach to agent optimization through compilation.",
+    "description": "The \"AGI compiler\" \u2014 records LLM agent behavior, identifies repeated patterns, and compiles them into verified sandboxed WASM binaries that execute at microdollar cost. Novel approach to agent optimization through compilation.",
     "published_at": "2026-07-05T15:20:57Z",
     "id": "971b9d86-ece5-4229-bdbb-5ca8c74c201d"
   },
   {
-    "title": "HaochengLu/contextvc (43★ GitHub)",
+    "title": "HaochengLu/contextvc (43\u2605 GitHub)",
     "url": "https://github.com/HaochengLu/contextvc",
     "description": "Git-native context control plane for AI coding agents. Manages agent context across git branches, enables context diffing, and provides version control for agent working memory.",
     "published_at": "2026-07-05T14:06:39Z",
@@ -1920,7 +2466,7 @@
   {
     "title": "Sourcegraph MCP server and a cheaper model beat a Mythos-class model alone",
     "url": "https://sourcegraph.com/blog/sourcegraph-mcp-and-a-cheaper-model-beat-a-mythos-class-model-alone",
-    "description": "On CodeScaleBench tasks, Claude Sonnet 4.6 with the Sourcegraph MCP server outscored Fable 5 — winning six of nine tasks at roughly half the cost per quality point. Demonstrates how MCP tool access can bridge the gap between mid-tier and frontier models.",
+    "description": "On CodeScaleBench tasks, Claude Sonnet 4.6 with the Sourcegraph MCP server outscored Fable 5 \u2014 winning six of nine tasks at roughly half the cost per quality point. Demonstrates how MCP tool access can bridge the gap between mid-tier and frontier models.",
     "published_at": "2026-07-05T14:00:00Z",
     "id": "6b2effc6-b946-4006-9784-1703661a1cae"
   },
@@ -1939,16 +2485,16 @@
     "id": "9bf6c596-0f3a-4b8f-a90d-119167b2ff5d"
   },
   {
-    "title": "arjun988/blender-skills (24★ GitHub)",
+    "title": "arjun988/blender-skills (24\u2605 GitHub)",
     "url": "https://github.com/arjun988/blender-skills",
-    "description": "Collection of 23 specialist Blender skills for Claude Code, Cursor, and Kiro. MCP-powered 3D modeling pipeline from blockout to engine export — enables AI agents to create and manipulate 3D scenes programmatically.",
+    "description": "Collection of 23 specialist Blender skills for Claude Code, Cursor, and Kiro. MCP-powered 3D modeling pipeline from blockout to engine export \u2014 enables AI agents to create and manipulate 3D scenes programmatically.",
     "published_at": "2026-07-05T08:36:06Z",
     "id": "7755f98f-578f-4967-9095-2608ba960355"
   },
   {
-    "title": "simonlin1212/Vibe-Research (502★ GitHub)",
+    "title": "simonlin1212/Vibe-Research (502\u2605 GitHub)",
     "url": "https://github.com/simonlin1212/Vibe-Research",
-    "description": "Stars: 502. Topics: a-stock, ai-agent, dashboard, fastapi, fintech. Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+    "description": "Stars: 502. Topics: a-stock, ai-agent, dashboard, fastapi, fintech. Vibe-Research: Your Personal Trading Research Agent \u00b7 A\u80a1/\u7f8e\u80a1/\u6e2f\u80a1 \u7684\u4e2a\u4eba\u6295\u7814 Agent\uff1a\u6bcf\u65e5\u590d\u76d8\u3001\u8d44\u8baf\u96f7\u8fbe\u3001\u4e2a\u80a1\u6570\u636e\u3001\u677f\u5757\u4e2d\u5fc3\u3001\u6211\u7684\u6301\u4ed3\u3001\u7814\u7a76\u8bb0\u5f55\u3002Vibe-Research \u628a\u6570\u636e\u548c\u529f\u80fd\u914d\u9f50\uff0c\u7531\u4f60\u81ea\u5df1\u7684 AI \u9a71\u52a8\u6295\u8d44\u7814\u7a76\u3002",
     "published_at": "2026-07-05T06:30:55Z",
     "id": "5f9bc023-221f-418c-be65-15189fd8745d"
   },
@@ -1960,7 +2506,7 @@
     "id": "fe122e0f-b890-408e-85d5-fe83905c99bb"
   },
   {
-    "title": "wanglinsaputra/OmniPost-AI (42★ GitHub)",
+    "title": "wanglinsaputra/OmniPost-AI (42\u2605 GitHub)",
     "url": "https://github.com/wanglinsaputra/OmniPost-AI",
     "description": "Stars: 42. Topics: ai, automation, chatgpt, chrome-extension, gemini. AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
     "published_at": "2026-07-05T03:17:33Z",
@@ -1969,14 +2515,14 @@
   {
     "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
     "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-    "description": "Simon Willison documents the economics and process of using Claude Fable to write a major open-source release — sqlite-utils 4.0rc2. The AI wrote most of the code for ~$149, with human oversight for design decisions and edge-case handling.",
+    "description": "Simon Willison documents the economics and process of using Claude Fable to write a major open-source release \u2014 sqlite-utils 4.0rc2. The AI wrote most of the code for ~$149, with human oversight for design decisions and edge-case handling.",
     "published_at": "2026-07-05T01:00:48Z",
     "id": "ca871cce-3120-4ae6-b569-680a094d6262"
   },
   {
-    "title": "Better Models: Worse Tools — tool-calling regression in newer Claude models",
+    "title": "Better Models: Worse Tools \u2014 tool-calling regression in newer Claude models",
     "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-    "description": "Armin Ronacher (Flask/Jinja/Sentry creator) documents a frustrating tool-calling regression where newer Claude models (Opus 4.8, Sonnet 5) emit malformed tool calls with extra invented fields — a problem absent in older models. Critical reading for anyone building production agent toolchains.",
+    "description": "Armin Ronacher (Flask/Jinja/Sentry creator) documents a frustrating tool-calling regression where newer Claude models (Opus 4.8, Sonnet 5) emit malformed tool calls with extra invented fields \u2014 a problem absent in older models. Critical reading for anyone building production agent toolchains.",
     "published_at": "2026-07-04T22:53:52Z",
     "id": "8c372fed-82e9-4005-90ed-6ab73696f95e"
   },
@@ -2002,7 +2548,7 @@
     "id": "b7456ae4-92a8-46b9-a7f6-002417404a62"
   },
   {
-    "title": "AI SDK 7 — TypeScript SDK for production AI applications",
+    "title": "AI SDK 7 \u2014 TypeScript SDK for production AI applications",
     "url": "https://vercel.com/blog/ai-sdk-7",
     "description": "AI SDK 7 focuses on production-grade AI application features: multi-provider support, agent workflows, observability, and streaming. The TypeScript SDK for building AI features across any model provider.",
     "published_at": "2026-07-04T10:00:00Z",
@@ -2037,7 +2583,7 @@
     "id": "5fdf5780-3645-4b0a-93ea-1d1b8f696467"
   },
   {
-    "title": "llm-coding-agent 0.1a0 — Simon Willison's LLM framework grows a coding agent mode",
+    "title": "llm-coding-agent 0.1a0 \u2014 Simon Willison's LLM framework grows a coding agent mode",
     "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/",
     "description": "Simon Willison built a Claude Code-style coding agent on top of his LLM library, with tools for reading and editing files and executing commands. Demonstrates how a simple agent framework can be assembled from modular components using a single prompt-based workflow.",
     "published_at": "2026-07-02T19:33:12Z",
@@ -2067,7 +2613,7 @@
   {
     "title": "Distributed Attacks in Persistent-State AI Control (arXiv 2607.02514)",
     "url": "https://arxiv.org/abs/2607.02514",
-    "description": "Shows how AI coding agents shipping code iteratively create a new attack surface — a misaligned or prompt-injected agent can distribute attacks across pull requests and time payload delivery. Critical for agent security architecture.",
+    "description": "Shows how AI coding agents shipping code iteratively create a new attack surface \u2014 a misaligned or prompt-injected agent can distribute attacks across pull requests and time payload delivery. Critical for agent security architecture.",
     "published_at": "2026-07-02T12:00:00Z",
     "id": "8e39b061-55e1-4aca-b6f6-eb8f46105f96"
   },
@@ -2088,14 +2634,14 @@
   {
     "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents (arXiv 2607.02255)",
     "url": "https://arxiv.org/abs/2607.02255",
-    "description": "New testbed for evaluating memory management in long-horizon LLM agents. Shows that simple context-appending creates a 'jumbled mixture' where prior decisions interfere with current reasoning — proposes bounded-memory contracts for agent state management.",
+    "description": "New testbed for evaluating memory management in long-horizon LLM agents. Shows that simple context-appending creates a 'jumbled mixture' where prior decisions interfere with current reasoning \u2014 proposes bounded-memory contracts for agent state management.",
     "published_at": "2026-07-02T12:00:00Z",
     "id": "45120742-502a-4594-ae13-52cda8daa67c"
   },
   {
     "title": "UA-ChatDev: Uncertainty-Aware Multi-Agent Collaboration for Reliable Software Development (arXiv 2607.02186)",
     "url": "https://arxiv.org/abs/2607.02186",
-    "description": "Extends the ChatDev multi-agent software development framework with uncertainty awareness — agents can flag confidence levels in their outputs, improving overall reliability in automated requirements analysis, coding, testing, and refinement pipelines.",
+    "description": "Extends the ChatDev multi-agent software development framework with uncertainty awareness \u2014 agents can flag confidence levels in their outputs, improving overall reliability in automated requirements analysis, coding, testing, and refinement pipelines.",
     "published_at": "2026-07-02T12:00:00Z",
     "id": "49352bf8-47c1-4bec-a1b1-121d6fde9665"
   },
@@ -2121,16 +2667,16 @@
     "id": "ea82635f-1464-4194-840b-21bd848d7dd2"
   },
   {
-    "title": "Subagents and web search in Claude Code — powered by Ollama",
+    "title": "Subagents and web search in Claude Code \u2014 powered by Ollama",
     "url": "https://ollama.com/blog/web-search-subagents-claude-code",
-    "description": "Ollama now supports subagents and web search directly in Claude Code — no MCP servers or API keys required. Subagents run tasks in parallel (file search, code exploration, research), each in their own context. Works with any model on Ollama Cloud including minimax-m2.5.",
+    "description": "Ollama now supports subagents and web search directly in Claude Code \u2014 no MCP servers or API keys required. Subagents run tasks in parallel (file search, code exploration, research), each in their own context. Works with any model on Ollama Cloud including minimax-m2.5.",
     "published_at": "2026-07-01T16:00:00Z",
     "id": "b19c8f30-e2bd-4648-a026-108756713955"
   },
   {
     "title": "CodeScaleBench: Testing coding agents on large codebases and multi-repo tasks",
     "url": "https://sourcegraph.com/blog/codescalebench-testing-coding-agents-on-large-codebases-and-multi-repo-software-engineering-tasks",
-    "description": "New benchmark designed to evaluate coding agents against enterprise-scale software development complexity — large codebases and multi-repository tasks that existing SWE-bench-style benchmarks don't cover.",
+    "description": "New benchmark designed to evaluate coding agents against enterprise-scale software development complexity \u2014 large codebases and multi-repository tasks that existing SWE-bench-style benchmarks don't cover.",
     "published_at": "2026-07-01T14:00:00Z",
     "id": "160d1e65-5144-4b7b-aa93-863a11848e0d"
   },
@@ -2149,7 +2695,7 @@
     "id": "59fc8475-62bc-436e-9f80-b2c236206652"
   },
   {
-    "title": "The Agent Stack — Vercel's production-grade agent building blocks",
+    "title": "The Agent Stack \u2014 Vercel's production-grade agent building blocks",
     "url": "https://vercel.com/blog/agent-stack",
     "description": "Vercel consolidates its agent infrastructure into a unified Agent Stack: AI SDK for model routing, AI Gateway for secure access, Workflows for durable multi-step execution, and eve for filesystem-first agent orchestration. Production patterns for shipping AI agents at scale.",
     "published_at": "2026-07-01T10:00:00Z",
@@ -2186,7 +2732,7 @@
   {
     "title": "DeepSeek V4 Is Earning Agentic Token Share",
     "url": "https://openrouter.ai/blog/insights/deepseek-v4-adoption/",
-    "description": "DeepSeek doubled its token share on OpenRouter in six months. V4 Flash is the driver — agentic workloads (coding, tool use, multi-step reasoning) are fueling the surge. Analysis of model economics, performance characteristics, and developer adoption patterns.",
+    "description": "DeepSeek doubled its token share on OpenRouter in six months. V4 Flash is the driver \u2014 agentic workloads (coding, tool use, multi-step reasoning) are fueling the surge. Analysis of model economics, performance characteristics, and developer adoption patterns.",
     "published_at": "2026-06-30T12:00:00Z",
     "id": "1a7ad7e9-9bcf-4015-a7b4-f17be2f2639f"
   },
@@ -2212,7 +2758,7 @@
     "id": "31fc32ae-a28b-4616-9eb3-5c999562a5fb"
   },
   {
-    "title": "OctoPerf MCP – drive load tests from any LLM (OAuth 2.1, no API key)",
+    "title": "OctoPerf MCP \u2013 drive load tests from any LLM (OAuth 2.1, no API key)",
     "url": "https://api.octoperf.com/doc/mcp/",
     "description": "MCP server for OctoPerf load testing. Drive performance tests from any AI agent (Claude.ai, Claude Code, Cursor) through the Model Context Protocol with OAuth 2.1 authentication.",
     "published_at": "2026-06-28T09:00:00Z",
@@ -2221,7 +2767,7 @@
   {
     "title": "Closedtab: a shared record for human-agent teams",
     "url": "https://www.npmjs.com/package/closedtab",
-    "description": "Shared record/documentation system for human-agent teams — a lightweight npm package that maintains context and task history between human developers and AI coding agents across sessions.",
+    "description": "Shared record/documentation system for human-agent teams \u2014 a lightweight npm package that maintains context and task history between human developers and AI coding agents across sessions.",
     "published_at": "2026-06-28T07:00:00Z",
     "id": "1b466c9c-8945-4caa-bd08-522be4cbf026"
   },
@@ -2235,26 +2781,26 @@
   {
     "title": "Using Local Coding Agents",
     "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
-    "description": "Sebastian Raschka walks through running coding agents entirely on local hardware — covering local LLM setup, tool configurations, agent orchestration without cloud APIs, and practical benchmarks of local vs hosted coding agent performance.",
+    "description": "Sebastian Raschka walks through running coding agents entirely on local hardware \u2014 covering local LLM setup, tool configurations, agent orchestration without cloud APIs, and practical benchmarks of local vs hosted coding agent performance.",
     "published_at": "2026-06-27T11:21:58Z",
     "id": "3399f525-7f08-4050-85bb-c45b761d6a12"
   },
   {
     "title": "Context engineering for analytics agents: six months of building and rebuilding",
     "url": "https://blog.getcassis.com/context-engineering-for-analytics-agents/",
-    "description": "Lessons from six months of building analytics agents — how to structure context, what worked, what failed, and practical patterns for keeping agents focused on the right data.",
+    "description": "Lessons from six months of building analytics agents \u2014 how to structure context, what worked, what failed, and practical patterns for keeping agents focused on the right data.",
     "published_at": "2026-06-27T10:00:00Z",
     "id": "bfda54e4-b195-4487-8a69-500ae539d328"
   },
   {
-    "title": "TesterArmy (YC P26) – Agents that test web and mobile apps",
+    "title": "TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
     "url": "https://tester.army",
     "description": "YC-backed platform using AI agents to test web and mobile applications, catching bugs before users do. Automated testing with natural language test specifications.",
     "published_at": "2026-06-27T08:00:00Z",
     "id": "84a880e2-ec1c-4386-83c0-9556507a40f8"
   },
   {
-    "title": "2026 GPU Price Report — cast.ai",
+    "title": "2026 GPU Price Report \u2014 cast.ai",
     "url": "https://cast.ai/reports/gpu-price-report/",
     "description": "Comprehensive GPU pricing report covering cloud GPU costs across providers (AWS, GCP, Azure), spot vs on-demand pricing, and trends affecting AI inference and training costs in 2026.",
     "published_at": "2026-06-27T06:00:00Z",
@@ -2298,7 +2844,7 @@
   {
     "title": "Measuring LLMs' impact on N-day exploits",
     "url": "https://www.anthropic.com/research/n-days",
-    "description": "Anthropic evaluates how much LLMs accelerate N-day exploit development — vulnerabilities that are publicly disclosed but only partially patched. Quantifies the risk LLMs pose to the patching window.",
+    "description": "Anthropic evaluates how much LLMs accelerate N-day exploit development \u2014 vulnerabilities that are publicly disclosed but only partially patched. Quantifies the risk LLMs pose to the patching window.",
     "published_at": "2026-06-26T14:00:00Z",
     "id": "23dd26db-76d2-4ec6-80bf-cebfbc7338d3"
   },
@@ -2312,7 +2858,7 @@
   {
     "title": "Agent-Native Immune System: Architecture, Taxonomy, and Engineering",
     "url": "https://arxiv.org/abs/2606.28270",
-    "description": "Proposes an agent-native immune system architecture for autonomous agents with persistent memory, tool-use protocols, and multi-agent collaboration — addressing the expanded AI threat landscape beyond traditional chatbot security.",
+    "description": "Proposes an agent-native immune system architecture for autonomous agents with persistent memory, tool-use protocols, and multi-agent collaboration \u2014 addressing the expanded AI threat landscape beyond traditional chatbot security.",
     "published_at": "2026-06-26T12:00:00Z",
     "id": "cebb3a6c-6ff0-41ee-a1f7-982c91f62b85"
   },
@@ -2325,7 +2871,7 @@
   },
   {
     "id": "a8c9bb33-3f9d-4b4c-9c61-7df78a3bc111",
-    "title": "MCP Office Hours: Protocol Design, Servers, and OAuth Adoption — June 2026 Update",
+    "title": "MCP Office Hours: Protocol Design, Servers, and OAuth Adoption \u2014 June 2026 Update",
     "url": "https://modelcontextprotocol.io/docs/blog/2026-06-25-office-hours",
     "description": "Community roundup from MCP office hours covering growing OAuth adoption across MCP servers, new transport patterns, and progress toward a 1.1 transport compatibility target.",
     "published_at": "2026-06-25T18:00:00Z"
@@ -2333,7 +2879,7 @@
   {
     "title": "AI and Liability",
     "url": "https://simonwillison.net/2026/Jun/25/ai-and-liability/",
-    "description": "Simon Willison explores the evolving legal landscape of AI liability — who is responsible when AI agents make mistakes, and how the law is catching up to autonomous system behavior.",
+    "description": "Simon Willison explores the evolving legal landscape of AI liability \u2014 who is responsible when AI agents make mistakes, and how the law is catching up to autonomous system behavior.",
     "published_at": "2026-06-25T18:00:00Z",
     "id": "8e1ea535-a5eb-42d6-aba0-d0f40fc787cf"
   },
@@ -2347,14 +2893,14 @@
   {
     "title": "GPT-5.5 Instant (June 2026) Intelligence, Performance and Price Analysis",
     "url": "https://artificialanalysis.ai/models/gpt-5-5-instant-06-26",
-    "description": "Comprehensive benchmark analysis of OpenAI's GPT-5.5 Instant model — quality scores, price per token, tokens per second, time to first token, and comparison across the model landscape.",
+    "description": "Comprehensive benchmark analysis of OpenAI's GPT-5.5 Instant model \u2014 quality scores, price per token, tokens per second, time to first token, and comparison across the model landscape.",
     "published_at": "2026-06-25T12:00:00Z",
     "id": "b3537dc3-2b5b-40f2-97e4-98a270086932"
   },
   {
     "title": "The OpenRouter MCP Server",
     "url": "https://openrouter.ai/blog/announcements/openrouter-mcp-server/",
-    "description": "OpenRouter launches an MCP server that connects coding agents to its live model catalog, benchmarks, docs, and test inference — all without leaving the editor. Enables agent-side model comparison, routing decisions, and dynamic provider selection.",
+    "description": "OpenRouter launches an MCP server that connects coding agents to its live model catalog, benchmarks, docs, and test inference \u2014 all without leaving the editor. Enables agent-side model comparison, routing decisions, and dynamic provider selection.",
     "published_at": "2026-06-25T12:00:00Z",
     "id": "538e1440-a215-4ae6-8e60-459b259f1a8f"
   },
@@ -2368,7 +2914,7 @@
   {
     "title": "Introducing Modal Auto Endpoints: Optimized inference you actually own",
     "url": "https://modal.com/blog/introducing-auto-endpoints",
-    "description": "Modal's new Auto Endpoints feature provides optimized serverless inference infrastructure — automatically scaling, with user-owned infrastructure, designed for AI application deployment.",
+    "description": "Modal's new Auto Endpoints feature provides optimized serverless inference infrastructure \u2014 automatically scaling, with user-owned infrastructure, designed for AI application deployment.",
     "published_at": "2026-06-25T10:00:00Z",
     "id": "36351154-e14f-4ba7-9e80-20483538676d"
   },
@@ -2388,7 +2934,7 @@
   },
   {
     "id": "aa402c56-61dc-4f1c-bc48-6b34022b1df7",
-    "title": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just “cybersecurity with AI”",
+    "title": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just \u201ccybersecurity with AI\u201d",
     "url": "https://www.latent.space/p/gray-swan",
     "description": "Deep-dive on AI safety and red-teaming with Zico Kolter and Matt Fredrikson, covering frontier model evaluation, jailbreak research, and the practical challenges of aligning powerful systems.",
     "published_at": "2026-06-25T09:21:15.912573Z"
@@ -2409,7 +2955,7 @@
   },
   {
     "id": "0458abed-ccd1-4fed-8bd5-4f706b977aae",
-    "title": "Show HN: Tecture – A navigable architecture map from your coding agent",
+    "title": "Show HN: Tecture \u2013 A navigable architecture map from your coding agent",
     "url": "https://tecture.io/",
     "description": "HN-discussed tool that lets coding agents generate an interactive architecture map of a repository, helping developers understand system structure after autonomous refactors.",
     "published_at": "2026-06-24T14:05:20Z"
@@ -2437,7 +2983,7 @@
   },
   {
     "id": "bacb64ef-3e12-4cd9-85cd-8db95087f785",
-    "title": "Show HN: AnswerJournal – An MCP server to save and share AI answers",
+    "title": "Show HN: AnswerJournal \u2013 An MCP server to save and share AI answers",
     "url": "https://answerjournal.com/",
     "description": "An MCP server that captures and shares AI agent answers across sessions, turning ephemeral outputs into a searchable knowledge base for teams.",
     "published_at": "2026-06-23T22:26:23Z"
@@ -2522,7 +3068,7 @@
   {
     "title": "Agent-as-a-Router: Agentic Model Routing for Coding Tasks",
     "url": "https://arxiv.org/abs/2606.22902v1",
-    "description": "Treats model routing as a Context→Action→Feedback→Context loop that accumulates execution-grounded experience, achieving lower cumulative regret than static routers on coding benchmarks.",
+    "description": "Treats model routing as a Context\u2192Action\u2192Feedback\u2192Context loop that accumulates execution-grounded experience, achieving lower cumulative regret than static routers on coding benchmarks.",
     "published_at": "2026-06-22T06:37:31Z",
     "id": "48b2a7d8-7c9a-4eda-b34d-d8c11969c391"
   },
@@ -2542,7 +3088,7 @@
   },
   {
     "id": "c7e2a5b9-d8f1-4a3c-9b6e-2f4d5a7c8e10",
-    "title": "Introducing eve — Vercel's Open-Source Agent Framework",
+    "title": "Introducing eve \u2014 Vercel's Open-Source Agent Framework",
     "url": "https://vercel.com/blog/introducing-eve",
     "description": "Vercel open-sources eve, a filesystem-first agent framework built on the same infrastructure powering their 100+ production agents. Ships with durable execution, sandboxed compute, subagents, human-in-the-loop approvals, OpenTelemetry tracing, MCP/OpenAPI connectors, and a built-in eval system out of the box.",
     "published_at": "2026-06-22T00:00:00Z"
@@ -2563,14 +3109,14 @@
   },
   {
     "id": "03f57540-263d-46b8-b61f-d71ca75a02f7",
-    "title": "The AI Governance Checklist That Maps to Your Stack — OpenRouter Blog",
+    "title": "The AI Governance Checklist That Maps to Your Stack \u2014 OpenRouter Blog",
     "url": "https://openrouter.ai/blog/insights/ai-governance-checklist/",
     "description": "Argues that governance checklists must map directly to LLM routing architecture, showing how managed versus self-hosted gateways provide different default audit, spend, and data sovereignty capabilities.",
     "published_at": "2026-06-22T00:00:00Z"
   },
   {
     "id": "ac0efdd1-8459-4756-961b-84fb56104252",
-    "title": "Enforce AI Data Residency at the Routing Layer — OpenRouter Blog",
+    "title": "Enforce AI Data Residency at the Routing Layer \u2014 OpenRouter Blog",
     "url": "https://openrouter.ai/blog/insights/ai-data-residency/",
     "description": "Demonstrates how API teams can enforce geographic data residency via routing constraints instead of building local infrastructure, with concrete OpenRouter provider-order and Zero Data Retention examples.",
     "published_at": "2026-06-22T00:00:00Z"
@@ -2586,14 +3132,14 @@
     "id": "2b90e4e4-2794-448d-9eb0-2488ede2835b",
     "title": "From Fragments to Paths: Task-Level Context Recovery for Large Industrial Codebases",
     "url": "https://arxiv.org/abs/2606.22906",
-    "description": "Introduces DeepDiscovery, a two-stage Location–Inference pipeline that recovers task-relevant context across large repositories without offline preprocessing, achieving a 78.6% SWE-bench Verified solve rate and 8.2 pp gains over baselines.",
+    "description": "Introduces DeepDiscovery, a two-stage Location\u2013Inference pipeline that recovers task-relevant context across large repositories without offline preprocessing, achieving a 78.6% SWE-bench Verified solve rate and 8.2 pp gains over baselines.",
     "published_at": "2026-06-22T00:00:00Z"
   },
   {
     "id": "84f418c0-7571-4ce5-8353-73cd81a5d681",
     "title": "RigorBench: Benchmarking Engineering Process Discipline in Autonomous AI Coding Agents",
     "url": "https://arxiv.org/abs/2606.22678v2",
-    "description": "Categories: cs.SE, cs.AI. New benchmark evaluating whether coding agents follow disciplined engineering processes — planning, testing, code review, and verification.",
+    "description": "Categories: cs.SE, cs.AI. New benchmark evaluating whether coding agents follow disciplined engineering processes \u2014 planning, testing, code review, and verification.",
     "published_at": "2026-06-21T21:41:00Z"
   },
   {
@@ -2619,21 +3165,21 @@
   },
   {
     "id": "05ebcf3e-0e71-4f39-86a3-3cc5355b8a37",
-    "title": "Daily AI Agent News Roundup — June 21, 2026",
+    "title": "Daily AI Agent News Roundup \u2014 June 21, 2026",
     "url": "https://harness-engineering.ai/blog/daily-ai-agent-news-roundup-june-21-2026/",
     "description": "Curated roundup on the shift from model optimization to harness engineering for AI agents. Covers production failure analysis, observability design, control loops, agent-loop architecture, and why the harness is now the bottleneck.",
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
     "id": "36231bd3-ae78-4937-b693-79e0f65ead66",
-    "title": "AI Builders Digest — Sunday, June 21, 2026",
+    "title": "AI Builders Digest \u2014 Sunday, June 21, 2026",
     "url": "https://buttondown.com/soumyo/archive/ai-builders-digest-sunday-june-21-2026/",
     "description": "Curated digest covering Vercel CEO on Markdown as the new programming language for AI agents, Box CEO on context handoff failures, Claude Code used to decode Linear A, and the rising hybrid skill of developer + agent systems.",
     "published_at": "2026-06-21T00:00:00Z"
   },
   {
     "id": "e5c47dd3-a499-4c20-a0f6-61698598540a",
-    "title": "Best Local Model for Vision — 2nd Benchmark Update — 21 Jun 2026",
+    "title": "Best Local Model for Vision \u2014 2nd Benchmark Update \u2014 21 Jun 2026",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubx4rw/best_local_model_for_vision_2nd_benchmark_update/",
     "description": "Community benchmark update evaluating local vision models on Raspberry Pi / edge hardware. Covers inference speed, quality vs. size tradeoffs, and practical local-deployment findings for RPi and consumer GPUs.",
     "published_at": "2026-06-21T00:00:00Z"
@@ -2718,7 +3264,7 @@
   {
     "title": "Connect OpenClaw to OpenRouter: One Key, Failover, Free Models",
     "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter/",
-    "description": "Step-by-step integration that binds OpenClaw to OpenRouter’s unified API, enabling automatic failover, access to free models, and a single credential for multi-model workflows.",
+    "description": "Step-by-step integration that binds OpenClaw to OpenRouter\u2019s unified API, enabling automatic failover, access to free models, and a single credential for multi-model workflows.",
     "published_at": "2026-06-18T19:00:00Z",
     "id": "a771b9d9-8680-4971-89b0-6a1117b5febb"
   },
@@ -2740,13 +3286,13 @@
     "id": "a8c4f92e-3d1a-4b7e-9f2c-5e6d8a9b0c1d",
     "title": "Agentic Coding and Persistent Returns to Expertise",
     "url": "https://www.anthropic.com/research/claude-code-expertise",
-    "description": "Anthropic analyzes ~400,000 Claude Code sessions: users make ~70% of planning decisions while Claude handles ~80% of execution. Domain expertise (not coding proficiency) is the strongest success predictor — expert users see 2x higher verified success rates. Debugging time fell by half across the 7-month study window.",
+    "description": "Anthropic analyzes ~400,000 Claude Code sessions: users make ~70% of planning decisions while Claude handles ~80% of execution. Domain expertise (not coding proficiency) is the strongest success predictor \u2014 expert users see 2x higher verified success rates. Debugging time fell by half across the 7-month study window.",
     "published_at": "2026-06-16T00:00:00Z"
   },
   {
     "title": "Project Glasswing: An initial update",
     "url": "https://www.anthropic.com/research/glasswing-initial-update",
-    "description": "Anthropic's early learnings from Project Glasswing — an initiative aimed at understanding and improving how AI systems handle long-horizon autonomous tasks. Covers architectural decisions, safety considerations, and observed failure modes in extended agent deployments.",
+    "description": "Anthropic's early learnings from Project Glasswing \u2014 an initiative aimed at understanding and improving how AI systems handle long-horizon autonomous tasks. Covers architectural decisions, safety considerations, and observed failure modes in extended agent deployments.",
     "published_at": "2026-06-15T14:00:00Z",
     "id": "412dec8e-0b8b-4949-9e45-e547229357eb"
   },
@@ -2765,13 +3311,6 @@
     "id": "2a5016f9-5d67-48c9-ab4f-559cfe87da1e"
   },
   {
-    "id": "b3d9e1f7-4c2a-8e5b-6f1d-3a7c9e0d2b4f",
-    "title": "Google and Kaggle's GenAI Intensive Vibe Coding Course 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-    "description": "Free 5-day AI Agents Intensive course ran June 15–19, 2026, covering production-ready agent development with natural language as the primary interface, connecting external tools and APIs, and a hands-on capstone project. Course refreshed with new expert speakers following the popular 2025 inaugural run.",
-    "published_at": "2026-06-15T00:00:00Z"
-  },
-  {
     "title": "DynAMO:Dynamic Asset Management Orchestration via Topological Multi-Agent Scheduling",
     "url": "https://arxiv.org/abs/2606.19382v1",
     "description": "Authors: Kanishk Kushwaha, Vikrant Vinod Bansode, Harsh Vardhan, Dhaval C. Patel. Categories: cs.SE, cs.AI. While LLM-powered agents offer end-to-end automation for industrial asset lifecycles, real-world Industry 4.0 deployment is hindered by latency, concurrency instability, and safety risks. We present DynAMO (Dynamic Asset Management Orchestrat",
@@ -2782,7 +3321,7 @@
     "id": "e9a3c7d1-b5f4-6e82-9c3a-1d4f7a8b0e25",
     "title": "LLM-as-Code: Agentic Programming for Agent Harness",
     "url": "https://arxiv.org/abs/2606.15874",
-    "description": "Accepted to KDD 2026 Workshop on Agentic Software Engineering. Proposes 'Agentic Programming' — the host program retains full control flow, and the LLM is invoked as an adaptive component only for reasoning/generation steps. Addresses token explosion, control-flow hallucination, and unreliable completion as architectural bugs in current orchestrator-only agent designs.",
+    "description": "Accepted to KDD 2026 Workshop on Agentic Software Engineering. Proposes 'Agentic Programming' \u2014 the host program retains full control flow, and the LLM is invoked as an adaptive component only for reasoning/generation steps. Addresses token explosion, control-flow hallucination, and unreliable completion as architectural bugs in current orchestrator-only agent designs.",
     "published_at": "2026-06-14T00:00:00Z"
   },
   {
@@ -2837,7 +3376,7 @@
   {
     "title": "Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal",
     "url": "https://arxiv.org/abs/2606.04223v1",
-    "description": "Authors: Michał Wawer, Jarosław A. Chudziak. Categories: cs.AI. Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is insufficient for value-laden tasks, where disagreement may reflect genuine normative uncertainty rather than agen",
+    "description": "Authors: Micha\u0142 Wawer, Jaros\u0142aw A. Chudziak. Categories: cs.AI. Multi-agent systems are commonly designed to reduce disagreement through voting, consensus protocols, debate, or fault-tolerant aggregation. We argue that this objective is insufficient for value-laden tasks, where disagreement may reflect genuine normative uncertainty rather than agen",
     "published_at": "2026-06-02T21:21:02Z",
     "id": "75cb1b21-c5c3-4673-999a-8cbbcc07a53f"
   },
@@ -2849,14 +3388,14 @@
     "id": "02abf99b-6fdd-4f87-9af8-d781c5af0565"
   },
   {
-    "title": "Teaching Claude why — reducing agentic misalignment",
+    "title": "Teaching Claude why \u2014 reducing agentic misalignment",
     "url": "https://www.anthropic.com/research/teaching-claude-why",
-    "description": "Anthropic shares four key lessons from reducing agentic misalignment in Claude. Since Haiku 4.5, every Claude model achieves a perfect score on agentic misalignment evals — no blackmail, no covert subversion. Details data quality improvements, training augmentations, and how tool-use training data was restructured.",
+    "description": "Anthropic shares four key lessons from reducing agentic misalignment in Claude. Since Haiku 4.5, every Claude model achieves a perfect score on agentic misalignment evals \u2014 no blackmail, no covert subversion. Details data quality improvements, training augmentations, and how tool-use training data was restructured.",
     "published_at": "2026-05-08T14:00:00Z",
     "id": "c82a92e4-e17d-4088-8939-078ec0fd98f8"
   },
   {
-    "title": "Natural Language Autoencoders: Turning Claude’s thoughts into text",
+    "title": "Natural Language Autoencoders: Turning Claude\u2019s thoughts into text",
     "url": "https://www.anthropic.com/research/natural-language-autoencoders",
     "description": "Anthropic trains Claude to translate its internal activations into human-readable text. NLAs enable direct interpretation of model reasoning, with applications for safety monitoring and understanding model behavior during agentic tasks.",
     "published_at": "2026-05-07T14:00:00Z",
