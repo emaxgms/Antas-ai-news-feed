@@ -1,5 +1,187 @@
 [
   {
+    "id": "4c697e1f-c1c5-49d5-b764-f699932bd8c3",
+    "title": "Ask HN: How are you productive with GPT 5.6 Sol?",
+    "url": "https://news.ycombinator.com/item?id=48917993",
+    "description": "Hacker News discussion on practical productivity tips, workflows, and strategies for using OpenAI's GPT 5.6 Sol model in day-to-day development work. Community wisdom on prompt patterns and integration.",
+    "published_at": "2026-07-15T10:45:00Z"
+  },
+  {
+    "id": "b376b4c9-c210-4488-8e55-32aec417a417",
+    "title": "Which Doc Format Is Best for AI Specifications?",
+    "url": "https://blog.vanillajava.blog/2026/07/which-doc-format-is-best-for-ai-specifications",
+    "description": "Hacker News: 1 point. Practical comparison of documentation formats (Markdown, YAML, JSON Schema, Mermaid, PlantUML) for their effectiveness as AI agent inputs. Recommendations for spec formats that LLMs parse most reliably.",
+    "published_at": "2026-07-15T08:48:00Z"
+  },
+  {
+    "id": "68c1c1d1-7f73-4d15-b9db-715655b6fd1b",
+    "title": "You should be using a meta-harness for agents",
+    "url": "https://garrit.xyz/posts/2026-07-15-you-should-be-using-a-meta-harness-for-agents",
+    "description": "Hacker News: 4 points. Argues for meta-harness patterns in agent development \u2014 a wrapper layer that manages agent lifecycle, error recovery, observability, and tool routing across multiple agent frameworks.",
+    "published_at": "2026-07-15T08:45:00Z"
+  },
+  {
+    "id": "9e5f84a4-81ec-49ad-a414-052dfe2ec200",
+    "title": "Show HN: VSCode Inline Comments with MCP",
+    "url": "https://github.com/gabi-a/inline-comments",
+    "description": "Hacker News: 1 point. VSCode extension implementing inline code comments via MCP (Model Context Protocol). Allows AI agents to leave structured annotations directly in source code through the MCP interface.",
+    "published_at": "2026-07-15T08:42:00Z"
+  },
+  {
+    "id": "9f5b5d09-2106-4f4d-8b34-832d9fc4397e",
+    "title": "Good ol' SAST to keep your token usage from spiraling",
+    "url": "https://blog.codacy.com/deterministic-static-analysis-for-ai",
+    "description": "Hacker News: 1 point. Argues that traditional SAST (Static Application Security Testing) should complement AI code review \u2014 deterministic analysis catches issues LLM-based reviewers miss, reducing costly token waste.",
+    "published_at": "2026-07-15T08:39:00Z"
+  },
+  {
+    "id": "91e0f3be-8d18-494a-b33f-0ce34d05bfd0",
+    "title": "AIDE\u00b2: First Evidence of Recursive Self-Improvement",
+    "url": "https://www.weco.ai/blog/first-evidence-of-recursive-self-improvement",
+    "description": "Hacker News: 3 points. Research showing first concrete evidence of an AI system (AIDE\u00b2) exhibiting recursive self-improvement \u2014 improving its own code generation capabilities through iterative refinement.",
+    "published_at": "2026-07-15T08:38:00Z"
+  },
+  {
+    "id": "667b5cbd-bc4c-4914-b5d4-31ede88d4e96",
+    "title": "RAG system isn't hallucinating. It never found the answer",
+    "url": "https://artifipedia.com/blog/rag-retrieval-not-generation",
+    "description": "Hacker News: 1 point. Debugging guide for RAG systems: distinguishing between retrieval failures and generation hallucinations. Practical diagnostics for improving RAG pipeline accuracy.",
+    "published_at": "2026-07-15T08:26:00Z"
+  },
+  {
+    "id": "3a020ad1-ac0f-42b9-8610-0f292b4ce3f6",
+    "title": "What makes an AI coding tool worth paying for?",
+    "url": "https://vibecodingagency.com/gpu-cloud/",
+    "description": "Hacker News: 1 point. Engineer's analysis of ROI for paid AI coding tools vs. free/open alternatives. Compares Claude Code, Cursor, Copilot, and open-source options on features, cost, and workflow integration.",
+    "published_at": "2026-07-15T07:51:00Z"
+  },
+  {
+    "id": "d6324c24-2cb1-4fa3-ad8c-b14dded83aa8",
+    "title": "Decibri \u2013 unified audio layer for AI agents and Voice AI applications",
+    "url": "https://decibri.com",
+    "description": "Hacker News: 2 points. New API/service providing a unified audio processing layer for AI agents \u2014 speech-to-text, voice activity detection, and audio event detection optimized for agent workflows.",
+    "published_at": "2026-07-15T07:23:00Z"
+  },
+  {
+    "id": "cddc1083-b32c-4e9c-96ed-0d119b9904a9",
+    "title": "At last, a good reason to buy an AI PC: Reining in runaway token bills",
+    "url": "https://www.theregister.com/2026/07/15/at_last_a_good_reason_to_buy_an_ai_pc/",
+    "description": "Hacker News: 4 points. Analysis of how local AI inference on NPU-equipped PCs can reduce API token costs. Practical cost-benefit breakdown for running local LLMs vs. cloud API calls for developers.",
+    "published_at": "2026-07-15T07:15:00Z"
+  },
+  {
+    "id": "7d13f2f9-480e-4d12-a4a2-7fdcb8b3ad67",
+    "title": "Simulating everything, sort of: The promise and limits of world models",
+    "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+    "description": "Hacker News: 2 points. Ars Technica deep dive on world models in AI \u2014 their current capabilities, limitations, and roadmap toward being useful for agent planning and simulation-based reasoning.",
+    "published_at": "2026-07-15T06:56:00Z"
+  },
+  {
+    "id": "ab7e419e-ad2c-42e5-924a-cc35f6820590",
+    "title": "Milepost \u2013 plain-Markdown long-term memory for Claude Code",
+    "url": "https://github.com/sashamitrovich/milepost",
+    "description": "Hacker News: 1 point. Lightweight tool providing persistent long-term memory for Claude Code using plain Markdown files. Enables cross-session context retention without database dependencies.",
+    "published_at": "2026-07-15T06:53:00Z"
+  },
+  {
+    "id": "5556366c-61df-49ba-aff8-f00089e18e5f",
+    "title": "Show HN: TormentNexus \u2013 Open-source AI control plane with 26K+ MCP tools",
+    "url": "https://github.com/MDMAtk/TormentNexus",
+    "description": "Hacker News: 2 points. Open-source AI control plane aggregating 26,000+ MCP (Model Context Protocol) tools into a unified interface. Significant for the MCP ecosystem \u2014 largest known MCP tool registry.",
+    "published_at": "2026-07-15T06:52:00Z"
+  },
+  {
+    "id": "95c610c6-7fb5-4fa6-ae05-6a62933873a1",
+    "title": "How to Stay in the Coding Flow Using LLMs",
+    "url": "https://jamesoclaire.com/2026/07/15/how-to-stay-in-the-coding-flow-using-llms",
+    "description": "Hacker News: 3 points. Practical guide on integrating LLM coding assistants without breaking developer flow state. Covers prompt templates, context management, and tool orchestration for seamless AI-assisted coding.",
+    "published_at": "2026-07-15T06:51:00Z"
+  },
+  {
+    "id": "1c1aa86d-5593-4990-9b0f-dd9168c63950",
+    "title": "Nobody knows what a used GPU cluster is worth",
+    "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster-is-worth",
+    "description": "Hacker News: 2 points. Analysis of GPU cluster pricing opacity in the AI infrastructure market. Covers depreciation curves, supply dynamics from data center upgrades, and implications for GPU homelab builders.",
+    "published_at": "2026-07-15T06:50:00Z"
+  },
+  {
+    "id": "618a02a1-f3f1-44b9-a699-3c6953160ee6",
+    "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
+    "url": "https://www.primeintellect.ai/blog/20-erdoes",
+    "description": "Hacker News: 132 points. Distributed AI coding experiment running 20 Codex agents in parallel to solve mathematical problems. Demonstrates multi-agent coordination for research tasks.",
+    "published_at": "2026-07-15T00:15:00Z"
+  },
+  {
+    "id": "f18789f6-b02c-48ef-aab7-f02b8e033052",
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "url": "https://github.com/le-mario/lemario",
+    "description": "Hacker News: 95 points. Open-source implementation of a Joint Embedding Predictive Architecture (JEPA) world model trained on Super Mario Bros gameplay. Relevant for agent world modeling research.",
+    "published_at": "2026-07-14T22:30:00Z"
+  },
+  {
+    "id": "feda11bf-5ad8-4bbb-b43a-938874e823b0",
+    "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+    "url": "https://mindgard.ai/blog/cursor-0day-vulnerability-disclosure",
+    "description": "Hacker News: 357 points. Security researchers disclose a 0-day vulnerability in Cursor AI IDE. Analysis of the disclosure process and implications for AI coding tool security.",
+    "published_at": "2026-07-14T17:58:00Z"
+  },
+  {
+    "id": "12f0fbeb-ecdf-40da-8699-d9e9b13229be",
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "url": "https://www.prismml.com/p/bonsai-27b",
+    "description": "Hacker News: 585 points. A 27B-parameter model optimized to run on mobile devices \u2014 significant for on-device AI inference and edge deployment of capable LLMs.",
+    "published_at": "2026-07-14T17:50:00Z"
+  },
+  {
+    "id": "3bdb9ec8-a0a5-4fdf-aea1-253497b73cea",
+    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
+    "url": "https://www.agnost.ai/",
+    "description": "Hacker News: 77 points. YC startup building analytics for AI agent conversations \u2014 extracting user feedback, satisfaction signals, and behavioral insights from agent-user interactions.",
+    "published_at": "2026-07-14T16:06:00Z"
+  },
+  {
+    "id": "ac32df7e-31fa-4a56-ae83-85fc5fa4b514",
+    "title": "The Agentic Loop: Three loops in a trench coat",
+    "url": "https://www.artfish.ai/p/the-agentic-loop",
+    "description": "Hacker News: 81 points. Deconstructs the 'agentic loop' pattern into three nested feedback loops (observation, planning, execution) that power modern AI agent architectures.",
+    "published_at": "2026-07-14T14:39:00Z"
+  },
+  {
+    "id": "abbfafd7-34fb-4847-9973-7fcadc045d07",
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+    "url": "https://jola.dev/posts/guardian-angels-llm-personalization/",
+    "description": "Hacker News: 84 points. Framework for LLM personalization that balances productivity gains with security constraints. Practical guide for deploying personalized AI assistants in enterprise.",
+    "published_at": "2026-07-14T12:50:00Z"
+  },
+  {
+    "id": "727429cd-1578-46ae-8faa-bd9663f8a10a",
+    "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+    "url": "https://news.ycombinator.com/item?id=48901271",
+    "description": "Hacker News: 102 points. Meta-learning demonstration: an agent trained via reinforcement learning to train other ML models using RL, all for $1,300. Practical example of recursive self-improvement.",
+    "published_at": "2026-07-14T12:41:00Z"
+  },
+  {
+    "id": "340e74d8-8e95-43b3-a6d6-467895a63a2d",
+    "title": "Harness design for long-running AI agents",
+    "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
+    "description": "Anthropic Engineering. Design patterns for building harnesses that reliably execute long-running agent tasks \u2014 covering fault tolerance, observability, graceful degradation, and resource management.",
+    "published_at": "2026-07-14T12:00:00Z"
+  },
+  {
+    "id": "0faed7cf-ca19-4c94-ac41-1602a1befdfe",
+    "title": "Eval awareness and BrowseComp: Measuring agent browsing capabilities",
+    "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
+    "description": "Anthropic Engineering. New evaluation benchmark (BrowseComp) for assessing AI agents' web browsing and information retrieval capabilities. Methodology for measuring agent awareness during evals.",
+    "published_at": "2026-07-14T12:00:00Z"
+  },
+  {
+    "id": "a5dbe86c-50c0-4b23-a297-8658863187f2",
+    "title": "How to stop Claude from saying load-bearing",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing/",
+    "description": "Hacker News: 525 points. Deep dive into prompt engineering techniques to eliminate unwanted phrases from Claude's responses. Practical guide for system prompt optimization and behavior shaping.",
+    "published_at": "2026-07-14T11:46:00Z"
+  },
+  {
     "id": "89e96d5d-f286-4386-b12f-2f8161f5addd",
     "title": "Microsoft commits $2.5B, 6k employees AI implementation unit",
     "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
@@ -12,6 +194,13 @@
     "url": "https://arxiv.org/abs/2607.10617",
     "description": "HN discussion (2 pts).",
     "published_at": "2026-07-14T08:50:13Z"
+  },
+  {
+    "id": "53820d16-f395-4d25-9110-3900a87d02cc",
+    "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+    "url": "https://news.ycombinator.com/item?id=48902379",
+    "description": "Hacker News: 136 points. Discussion of open-source alternatives for running CUDA workloads on AMD and other GPU hardware. Covers ZLUDA, HIP, and translation layers.",
+    "published_at": "2026-07-14T08:24:00Z"
   },
   {
     "id": "d6aa82cd-abfd-431b-8dba-b3b65a4ebca2",
@@ -250,6 +439,27 @@
     "url": "https://www.rstreet.org/commentary/scams-were-already-awful-then-they-got-ai/",
     "description": "HN discussion (11 pts).",
     "published_at": "2026-07-14T00:09:32Z"
+  },
+  {
+    "id": "44604a62-c69f-4aba-ba91-327b5fd25854",
+    "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+    "url": "https://arxiv.org/abs/2607.13027",
+    "description": "arXiv cs.AI | July 14. Framework for running LLM agents natively on mobile phones with local tool calling, observation, and iterative decision-making. Enables on-device agent execution without cloud dependency.",
+    "published_at": "2026-07-14T00:00:00Z"
+  },
+  {
+    "id": "588ffd7a-ff37-4955-ad25-fe3cec015e64",
+    "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning",
+    "url": "https://arxiv.org/abs/2607.13034",
+    "description": "arXiv cs.AI | July 14. Research on teaching LLM agents to assess task complexity before execution, avoiding excessive computation on simple tasks. Relevant for efficient agent orchestration and resource allocation.",
+    "published_at": "2026-07-14T00:00:00Z"
+  },
+  {
+    "id": "877ce789-caf7-416b-8d08-ff0c25b87699",
+    "title": "Using uvx in GitHub Actions in a cache-friendly way",
+    "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/",
+    "description": "Simon Willison | July 14. Practical guide on using uvx (the uv tool runner) in GitHub Actions with effective caching strategies. Developer tooling optimization for Python-based AI projects.",
+    "published_at": "2026-07-14T00:00:00Z"
   },
   {
     "id": "5e623965-35b4-425c-9d54-55bf76a1e3f8",
