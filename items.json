@@ -1,5 +1,96 @@
 [
   {
+    "id": "f7fe7e56-2ad4-472c-928e-e3ec781795bc",
+    "title": "At this year's AIE World\u2019s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
+    "url": "https://www.latent.space/p/aiewf26trends",
+    "description": "Latent Space - AI research and engineering newsletter",
+    "published_at": "2026-07-16T09:13:25.548818Z"
+  },
+  {
+    "id": "232d6d36-0d6b-4f8d-87dc-bfd7efabfc05",
+    "title": "Why AI Infrastructure must evolve for Agent Experience \u2014 Akshat Bubna, Modal CTO",
+    "url": "https://www.latent.space/p/modal2026",
+    "description": "Latent Space - AI research and engineering newsletter",
+    "published_at": "2026-07-16T09:13:25.548818Z"
+  },
+  {
+    "id": "328120a0-b200-4043-acdb-280466bd107b",
+    "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+    "url": "https://arxiv.org/abs/2607.11859",
+    "description": "Hacker News: 51 points.",
+    "published_at": "2026-07-16T02:17:31+00:00"
+  },
+  {
+    "id": "68366b68-82e3-4ac0-aeb4-207bfa3119b5",
+    "title": "Show HN: Forall \u2013 An AI coding agent that generates machine-checkable proofs",
+    "url": "https://github.com/astrio-labs/forall",
+    "description": "Hacker News: 6 points.",
+    "published_at": "2026-07-16T02:16:18+00:00"
+  },
+  {
+    "id": "bbcce5c4-cd06-493f-883b-1159ae4e0141",
+    "title": "LLM Networking with MikroTik",
+    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "description": "Hacker News: 87 points.",
+    "published_at": "2026-07-15T22:23:27+00:00"
+  },
+  {
+    "id": "7a50f140-d03b-4a05-9560-6e31553fbaf5",
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "description": "Hacker News: 188 points.",
+    "published_at": "2026-07-15T21:16:36+00:00"
+  },
+  {
+    "id": "042961e7-5936-4be1-a657-c73e7008eeab",
+    "title": "Killing Coding Agent Slop with Adversarial Self-Play",
+    "url": "https://usetelos.ai/blog/killing-coding-agent-slop",
+    "description": "Hacker News: 3 points.",
+    "published_at": "2026-07-15T17:41:11+00:00"
+  },
+  {
+    "id": "47d790a7-6a61-41a9-b97d-adbbff86591c",
+    "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+    "url": "https://arxiv.org/abs/2607.14044v1",
+    "description": "arXiv cs.AI | By 2030, 59 of every 100 workers will need reskilling or upskilling, yet the average time to close an enterprise skills gap grew from roughly 3 days in 2014 to 36 days in 2018. Most current frameworks",
+    "published_at": "2026-07-15T17:14:03Z"
+  },
+  {
+    "id": "9d9e4bcd-0115-4a7e-8a16-603b62b21b1c",
+    "title": "Early Adoption of Agentic Coding Tools by GitHub Projects",
+    "url": "https://arxiv.org/abs/2607.14037v1",
+    "description": "arXiv cs.SE, cs.AI, cs.CY | Agentic coding tools are increasingly capable of generating and submitting pull requests (PRs) to software projects, introducing new forms of human-agent collaboration in software development. While p",
+    "published_at": "2026-07-15T17:05:06Z"
+  },
+  {
+    "id": "fca7ac7c-9026-4880-be32-9a5de94215da",
+    "title": "Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation",
+    "url": "https://arxiv.org/abs/2607.14006v1",
+    "description": "arXiv cs.CR, cs.AI | Penetration testing traditionally evaluates whether adversaries can exploit weaknesses in software, infrastructure, configurations, or operational controls to achieve security-relevant compromise. Thi",
+    "published_at": "2026-07-15T16:36:54Z"
+  },
+  {
+    "id": "2e893c2e-889d-4156-84cc-38949449d2d6",
+    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
+    "url": "https://coasty.ai/docs",
+    "description": "Hacker News: 35 points.",
+    "published_at": "2026-07-15T15:51:20+00:00"
+  },
+  {
+    "id": "b74dcf26-bf64-4772-b9b6-4ec391d44453",
+    "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+    "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+    "description": "Hacker News: 285 points.",
+    "published_at": "2026-07-15T15:34:05+00:00"
+  },
+  {
+    "id": "0ba87689-595b-4b72-befe-96d6a6cd333e",
+    "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+    "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+    "description": "Simon Willison",
+    "published_at": "2026-07-15T14:21:54Z"
+  },
+  {
     "id": "4c697e1f-c1c5-49d5-b764-f699932bd8c3",
     "title": "Ask HN: How are you productive with GPT 5.6 Sol?",
     "url": "https://news.ycombinator.com/item?id=48917993",
@@ -105,11 +196,25 @@
     "published_at": "2026-07-15T06:50:00Z"
   },
   {
+    "id": "87e8246a-6d68-4248-ad42-7bfee7bba5e5",
+    "title": "High-Bandwidth Flash offers efficient storage for model weights",
+    "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+    "description": "Hacker News: 40 points.",
+    "published_at": "2026-07-15T02:04:12+00:00"
+  },
+  {
     "id": "618a02a1-f3f1-44b9-a699-3c6953160ee6",
     "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
     "url": "https://www.primeintellect.ai/blog/20-erdoes",
     "description": "Hacker News: 132 points. Distributed AI coding experiment running 20 Codex agents in parallel to solve mathematical problems. Demonstrates multi-agent coordination for research tasks.",
     "published_at": "2026-07-15T00:15:00Z"
+  },
+  {
+    "id": "cf20fcd2-ecd5-4f88-aa4e-8b7b6ce30c1b",
+    "title": "Legal AI, not a coding agent with scaffolding",
+    "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
+    "description": "Hacker News: 10 points.",
+    "published_at": "2026-07-14T23:51:57+00:00"
   },
   {
     "id": "f18789f6-b02c-48ef-aab7-f02b8e033052",
@@ -138,6 +243,13 @@
     "url": "https://www.agnost.ai/",
     "description": "Hacker News: 77 points. YC startup building analytics for AI agent conversations \u2014 extracting user feedback, satisfaction signals, and behavioral insights from agent-user interactions.",
     "published_at": "2026-07-14T16:06:00Z"
+  },
+  {
+    "id": "d24f3ee4-2941-4d75-844d-ccc71506d256",
+    "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+    "url": "https://github.com/projectargus-cc/libargus.cc",
+    "description": "Hacker News: 36 points.",
+    "published_at": "2026-07-14T14:40:46+00:00"
   },
   {
     "id": "ac32df7e-31fa-4a56-ae83-85fc5fa4b514",
@@ -525,6 +637,13 @@
     "published_at": "2026-07-13T20:42:23Z"
   },
   {
+    "id": "284d5689-b3c6-4b7b-9743-65fbfbf53803",
+    "title": "Open-source AI battle arena, plug your coding agent in and it fights bots",
+    "url": "https://arena.angel-serv.com/",
+    "description": "Hacker News: 3 points.",
+    "published_at": "2026-07-13T20:37:40+00:00"
+  },
+  {
     "id": "070e246b-3a8a-4ebe-bec2-211494495a6f",
     "title": "Adaptive Catmull-Clark Subdivision with Compute Tessellation",
     "url": "https://filmicworlds.com/blog/adaptive-catmull-clark-subdivision-with-compute-tessellation/",
@@ -546,6 +665,20 @@
     "published_at": "2026-07-13T20:00:10Z"
   },
   {
+    "id": "41986b95-aabf-43dd-936a-2c7490840f34",
+    "title": "Microsoft Agent Framework for Go",
+    "url": "https://devblogs.microsoft.com/go/microsoft-agent-framework-for-go-public-preview/",
+    "description": "Hacker News: 3 points.",
+    "published_at": "2026-07-13T19:34:42+00:00"
+  },
+  {
+    "id": "ce56830e-010f-462d-87af-bca0add05f21",
+    "title": "Ask HN: What makes someone good at using Claude Code?",
+    "url": "https://news.ycombinator.com/item?id=48897613",
+    "description": "Hacker News: 5 points.",
+    "published_at": "2026-07-13T19:30:41+00:00"
+  },
+  {
     "id": "d0ffbae2-e1e3-43b8-aa26-6e8dd985c7f6",
     "title": "Show HN: Nobie \u2013 an Excel-compatible runtime for agents and humans",
     "url": "https://nobie.com",
@@ -558,6 +691,13 @@
     "url": "https://github.com/morganwilliscloud/billai-bass",
     "description": "HN discussion (70 pts).",
     "published_at": "2026-07-13T18:18:23Z"
+  },
+  {
+    "id": "4996e5ba-9f80-4713-9905-af10c378ab31",
+    "title": "Show HN: Finterm.ai Bloomberg terminal for Claude Code",
+    "url": "https://finterm.ai/",
+    "description": "Hacker News: 6 points.",
+    "published_at": "2026-07-13T17:52:10+00:00"
   },
   {
     "id": "239262b2-a80a-472a-bd8a-9e59d62b1d2b",
@@ -574,6 +714,13 @@
     "published_at": "2026-07-13T15:56:02Z"
   },
   {
+    "id": "37a9f217-fd4a-4f48-9c92-fff49ecfc27d",
+    "title": "Show HN: A developer tool guide for AI coding agents (900 tools and counting)",
+    "url": "https://zairalabs.ai/guide/",
+    "description": "Hacker News: 4 points.",
+    "published_at": "2026-07-13T15:10:07+00:00"
+  },
+  {
     "id": "982ad4f9-ff31-4325-95c3-1fdc16a93d37",
     "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
     "url": "https://github.com/clawkwork/clawk",
@@ -586,6 +733,13 @@
     "url": "https://esologic.com/benchmarking-tesla-gpus/",
     "description": "HN discussion (130 pts).",
     "published_at": "2026-07-13T13:48:42Z"
+  },
+  {
+    "id": "0b3c15d4-f6a4-4065-ac97-6bc285f9ce57",
+    "title": "AI Agent Coding Comparison: The Rust Leap Year Challenge",
+    "url": "https://www.mariusb.net/blog/2026/07/ai-agent-comparison-rust-leap-year/",
+    "description": "Hacker News: 3 points.",
+    "published_at": "2026-07-13T12:06:51+00:00"
   },
   {
     "id": "3dfe4aa2-1d80-4b8e-a47e-7e68f19d50db",
