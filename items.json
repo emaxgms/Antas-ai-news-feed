@@ -1,5 +1,159 @@
 [
   {
+    "id": "97edeef3-9237-4a31-9989-8d44f86778da",
+    "title": "UIUC AI Teaching Assistant",
+    "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+    "description": "Open-source AI teaching assistant from UIUC. 16 HN points \u2014 practical AI-in-education agent system.",
+    "published_at": "2026-07-17T02:23:18+00:00"
+  },
+  {
+    "id": "02c8db47-ca79-4901-872e-347b4da74dbc",
+    "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "description": "3D foundation model for scene reconstruction from streaming data. 17 HN points \u2014 relevant for agent perception.",
+    "published_at": "2026-07-17T00:07:49+00:00"
+  },
+  {
+    "id": "9200ff81-9c93-46c9-b3b7-e12f44a02926",
+    "title": "The Little Book of Reinforcement Learning",
+    "url": "https://github.com/alxndrTL/little-book-rl/",
+    "description": "Free online book covering RL fundamentals to advanced topics. 127 HN points \u2014 practical reference for agent training.",
+    "published_at": "2026-07-16T22:27:22+00:00"
+  },
+  {
+    "id": "a4de5d62-de2e-463c-8810-c1b35a378fbe",
+    "title": "Timeline Scan \u2013 AI fixes the dates on your scanned photos",
+    "url": "https://timelinescan.com/",
+    "description": "AI tool that automatically corrects dates on scanned photographs using vision models. 31 HN points.",
+    "published_at": "2026-07-16T20:25:47+00:00"
+  },
+  {
+    "id": "366d367d-fd2a-420b-ac10-90f7f90a0f41",
+    "title": "Show HN: Libretto PR agents \u2013 Automatically fix failing playwright scripts",
+    "url": "https://libretto.sh/debug-agents",
+    "description": "CI agent that automatically debugs and fixes failing Playwright test scripts. 18 HN points \u2014 practical agent workflow.",
+    "published_at": "2026-07-16T20:21:27+00:00"
+  },
+  {
+    "id": "1817cbe7-eef7-4a8e-9cfc-225df919d467",
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "description": "LM Studio introduces Bionic \u2014 an AI agent interface for running open models locally. 243 HN points.",
+    "published_at": "2026-07-16T20:18:15+00:00"
+  },
+  {
+    "id": "09588a43-b055-4304-9e68-c6f4ccf1d701",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "description": "Head-to-head comparison of AI music video generation: Claude Fable 5 vs GPT-5.6 Sol. 257 HN points.",
+    "published_at": "2026-07-16T20:03:23+00:00"
+  },
+  {
+    "id": "1c40e60b-aab5-4f68-815d-d65319ca0c7c",
+    "title": "Kimi-first \u2014 Claude Code skill routing implementation to Kimi Code CLI",
+    "url": "https://github.com/boringmarketer/kimi-first",
+    "description": "Claude Code skill: Kimi types, Claude thinks & verifies \u2014 route implementation work-orders to the Kimi Code CLI. Multi-agent coding workflow pattern.",
+    "published_at": "2026-07-16T18:23:06+00:00"
+  },
+  {
+    "id": "b17cddc6-3e62-45ca-afb2-f7880dbb83ec",
+    "title": "Launch HN: Traceforce (YC S26) \u2013 Company-wide security monitoring for AI apps",
+    "url": "https://news.ycombinator.com/item?id=48937020",
+    "description": "YC S26 startup for security monitoring of AI applications. 39 HN points \u2014 LLMOps observability for security.",
+    "published_at": "2026-07-16T16:52:16+00:00"
+  },
+  {
+    "id": "1bef13df-08f9-4070-b964-eb4b3be671d7",
+    "title": "Detecting LLM-Generated Texts with 'Classical' Machine Learning",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "description": "Practical approach to detecting LLM-generated text using traditional ML methods. 196 HN points \u2014 useful for eval pipelines.",
+    "published_at": "2026-07-16T16:41:37+00:00"
+  },
+  {
+    "id": "2c5a7c3c-efe5-4d8c-8fd5-30c4dcf71edd",
+    "title": "Show HN: Open-source AI app builder you can embed into your own SaaS",
+    "url": "https://github.com/totalumlabs/ai-app-builder-open",
+    "description": "Open-source AI app builder component you can embed into SaaS products. 6 HN points.",
+    "published_at": "2026-07-16T15:52:43+00:00"
+  },
+  {
+    "id": "2e788424-4da0-449b-a28d-5ffee7393f44",
+    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+    "description": "Practical guide to training diffusion models on consumer hardware with 6GB VRAM. 133 HN points \u2014 relevant for self-hosted AI.",
+    "published_at": "2026-07-16T15:13:00+00:00"
+  },
+  {
+    "id": "ae62d1dc-f7f9-419e-bb2e-c8c5907e5ab8",
+    "title": "Show HN: An MCP server that frames screen recordings in Apple bezels",
+    "url": "https://github.com/cwooddgr/bezelbub/tree/main/bezelbub-mcp",
+    "description": "MCP server that applies Apple device bezels to screen recordings. Creative MCP server example for media generation workflows.",
+    "published_at": "2026-07-16T14:21:32+00:00"
+  },
+  {
+    "id": "dddf838c-3c91-48d8-98d3-3cb9815530c2",
+    "title": "Brain2Qwerty: Brain-AI human communication via typed output",
+    "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+    "description": "Meta AI research on decoding brain signals to typed text \u2014 brain-computer interface using AI models.",
+    "published_at": "2026-07-16T14:00:00+00:00"
+  },
+  {
+    "id": "84c17287-ec86-48f5-a56a-0f668bb8494d",
+    "title": "Scaling: How we build and test advanced AI at Meta",
+    "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai/",
+    "description": "Meta AI's engineering practices for building and testing large-scale AI systems \u2014 infrastructure and evaluation methodology.",
+    "published_at": "2026-07-16T14:00:00+00:00"
+  },
+  {
+    "id": "116860a3-fc46-4a0a-a57b-7caafb1f81d4",
+    "title": "Segment Anything Model 3 (SAM 3)",
+    "url": "https://ai.meta.com/blog/segment-anything-model-3/",
+    "description": "Meta releases SAM 3 \u2014 latest version of the Segment Anything vision foundation model. Relevant for agent perception pipelines.",
+    "published_at": "2026-07-16T14:00:00+00:00"
+  },
+  {
+    "id": "8f20457e-f8cd-4519-95ae-982fed40df76",
+    "title": "Meta MTIA: Scaling AI chips for billions of users",
+    "url": "https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/",
+    "description": "Meta's custom AI silicon (MTIA) design and deployment strategy for inference at scale. Hardware for AI workloads.",
+    "published_at": "2026-07-16T14:00:00+00:00"
+  },
+  {
+    "id": "f9dccfc5-55a2-4112-9fd7-17fe06471b28",
+    "title": "Introducing Muse Image and Muse Video \u2014 Meta's next-gen generative models",
+    "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+    "description": "Meta introduces Muse Image and Muse Video with MSL architecture for multimodal generation.",
+    "published_at": "2026-07-16T14:00:00+00:00"
+  },
+  {
+    "id": "a8090d83-7659-412b-bb64-18cdf171266c",
+    "title": "Introducing computer use for Gemini 3.5 Flash",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "description": "Gemini 3.5 Flash gains computer use capabilities \u2014 agentic interaction with desktop environments. Major for AI agent ecosystem.",
+    "published_at": "2026-07-16T12:00:00+00:00"
+  },
+  {
+    "id": "b95eacb9-8473-43a4-a11e-0675e519f485",
+    "title": "Diffusion Gemma: faster text generation with diffusion models",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "description": "Google's Diffusion Gemma combines diffusion models with Gemma for faster text generation \u2014 alternative to autoregressive decoding.",
+    "published_at": "2026-07-16T12:00:00+00:00"
+  },
+  {
+    "id": "708477ed-117c-4d43-b3e9-ef861218f9c4",
+    "title": "Introducing Gemma 4 12B",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "description": "Google releases Gemma 4 12B \u2014 latest open-weight model for developers. Self-hosted inference on consumer hardware.",
+    "published_at": "2026-07-16T12:00:00+00:00"
+  },
+  {
+    "id": "63351f02-4e25-403f-99a7-9af0d6efec02",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "description": "Honest reflection on LLM limitations and why they're still useful for development. 226 HN points.",
+    "published_at": "2026-07-16T11:59:01+00:00"
+  },
+  {
     "id": "f7fe7e56-2ad4-472c-928e-e3ec781795bc",
     "title": "At this year's AIE World\u2019s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
     "url": "https://www.latent.space/p/aiewf26trends",
@@ -12,6 +166,20 @@
     "url": "https://www.latent.space/p/modal2026",
     "description": "Latent Space - AI research and engineering newsletter",
     "published_at": "2026-07-16T09:13:25.548818Z"
+  },
+  {
+    "id": "4f531ede-0ed0-49ef-ac83-c678e8b72945",
+    "title": "matterloop \u2014 modular Python framework for verifiable and resumable agent loops",
+    "url": "https://github.com/huleidada/matterloop",
+    "description": "Framework for agent loops with human feedback, multi-agent DAG orchestration, pluggable models, budgets, checkpoints. 8 stars.",
+    "published_at": "2026-07-16T04:51:51+00:00"
+  },
+  {
+    "id": "9ac10b26-660e-4a22-acc5-f347aba74587",
+    "title": "bbarit-agent-oss \u2014 open-source AI coding agent for your terminal",
+    "url": "https://github.com/bbarit/bbarit-agent-oss",
+    "description": "Open-source AI coding agent \u2014 single Rust binary, 15+ LLM providers, 1000+ models. Self-hosted Claude Code / Codex CLI alternative (MIT). 33 stars.",
+    "published_at": "2026-07-16T04:00:27+00:00"
   },
   {
     "id": "328120a0-b200-4043-acdb-280466bd107b",
@@ -28,6 +196,48 @@
     "published_at": "2026-07-16T02:16:18+00:00"
   },
   {
+    "id": "909881ee-50b0-46a8-994f-8ced9c35c3ea",
+    "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+    "url": "https://arxiv.org/abs/2607.15263v1",
+    "description": "arXiv cs.CR, cs.AI | Proposes cost-aware evaluation framework for security AI agents, accounting for inference budgets beyond peak success rate. Practical for agent eval harness design.",
+    "published_at": "2026-07-16T00:00:00+00:00"
+  },
+  {
+    "id": "ebe8acfb-844d-4f53-aabb-cfc68942d089",
+    "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
+    "url": "https://arxiv.org/abs/2607.15277v1",
+    "description": "arXiv cs.CL | Proposes PPA framework for statistical self-consistency in LLMs. Relevant to improving LLM reasoning reliability in agent systems.",
+    "published_at": "2026-07-16T00:00:00+00:00"
+  },
+  {
+    "id": "590084ab-6e86-489e-8d48-7a42270f9211",
+    "title": "The Lab of the Future Should Feel Like a Startup",
+    "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+    "description": "Latent Space article on how AI R&D labs should operate like startups for faster iteration in agent development.",
+    "published_at": "2026-07-16T00:00:00+00:00"
+  },
+  {
+    "id": "300fa5bf-0fba-4fb9-8bbf-5207440f246b",
+    "title": "Announcing our updated Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "description": "Anthropic's updated RSP \u2014 framework for responsible AI agent deployment and safety evaluation at scale.",
+    "published_at": "2026-07-16T00:00:00+00:00"
+  },
+  {
+    "id": "38ef5a0b-9f99-46e7-824f-93f62d86efd8",
+    "title": "Logan CLI \u2014 terminal AI coding agent by YUV.AI",
+    "url": "https://github.com/hoodini/logan-cli",
+    "description": "Terminal AI coding agent, fork of xAI Grok Build. CLI-based coding assistant for autonomous development. 7 stars.",
+    "published_at": "2026-07-15T23:24:03+00:00"
+  },
+  {
+    "id": "4068a99c-1baa-47de-b766-105d967f6bc7",
+    "title": "Show HN: H5i-Python \u2014 Python SDK for Programmable Multi-Agent Orchestration",
+    "url": "https://github.com/h5i-dev/h5i-python",
+    "description": "Python SDK for programmable multi-agent orchestration \u2014 define agent workflows in code.",
+    "published_at": "2026-07-15T22:25:13+00:00"
+  },
+  {
     "id": "bbcce5c4-cd06-493f-883b-1159ae4e0141",
     "title": "LLM Networking with MikroTik",
     "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
@@ -40,6 +250,13 @@
     "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
     "description": "Hacker News: 188 points.",
     "published_at": "2026-07-15T21:16:36+00:00"
+  },
+  {
+    "id": "ba785e5e-3e85-4dcf-88fb-885974884c64",
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "description": "Thinking Machines Lab releases Inkling, an open-weights model. 1194 HN points \u2014 significant open-weight release.",
+    "published_at": "2026-07-15T18:12:45+00:00"
   },
   {
     "id": "042961e7-5936-4be1-a657-c73e7008eeab",
@@ -70,11 +287,32 @@
     "published_at": "2026-07-15T16:36:54Z"
   },
   {
+    "id": "998a4e95-148f-4f58-bfad-ae07289baff6",
+    "title": "Show HN: OtoDock \u2013 run Claude Code and Codex as a team of agents on your server",
+    "url": "https://github.com/OtoDock/oto-dock/",
+    "description": "Tool to run Claude Code and Codex agents collaboratively as a team on your server. Multi-agent coding orchestration.",
+    "published_at": "2026-07-15T16:11:23+00:00"
+  },
+  {
+    "id": "04a9f2f7-2402-402d-98c7-7ceae1c21d11",
+    "title": "Show HN: Mindlas \u2013 catch your coding agent drifting before the bad code lands",
+    "url": "https://github.com/Evolutionairy-AI/MINDLAS",
+    "description": "Tool for detecting when AI coding agents drift from intended behavior \u2014 catch code quality issues early.",
+    "published_at": "2026-07-15T16:05:02+00:00"
+  },
+  {
     "id": "2e893c2e-889d-4156-84cc-38949449d2d6",
     "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
     "url": "https://coasty.ai/docs",
     "description": "Hacker News: 35 points.",
     "published_at": "2026-07-15T15:51:20+00:00"
+  },
+  {
+    "id": "a68a6e13-29f2-45a3-b312-086fe4bccc0f",
+    "title": "google-forms-mcp \u2014 production-grade MCP server for Google Workspace",
+    "url": "https://github.com/mr-sanjai-offl/google-forms-mcp",
+    "description": "MCP server for Google Forms, Drive & Sheets. Build and automate forms using AI workflows. 7 stars.",
+    "published_at": "2026-07-15T15:50:20+00:00"
   },
   {
     "id": "b74dcf26-bf64-4772-b9b6-4ec391d44453",
@@ -89,6 +327,20 @@
     "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
     "description": "Simon Willison",
     "published_at": "2026-07-15T14:21:54Z"
+  },
+  {
+    "id": "b64eab5b-efab-4a4c-ad55-11352e1976f8",
+    "title": "Anvil \u2014 agent-native multi-genre game engine for AI coding agents",
+    "url": "https://github.com/7etsuo/anvil",
+    "description": "Game engine designed for AI coding agents to build games. Agent-native approach to game development. 21 stars.",
+    "published_at": "2026-07-15T14:15:06+00:00"
+  },
+  {
+    "id": "c50a0e17-4b0c-4c03-a18a-56b1da01ad4e",
+    "title": "code-humanizer \u2014 removes AI-generated code slop",
+    "url": "https://github.com/LeonardNJU/code-humanizer",
+    "description": "Agent skill that removes AI code slop: duplicated helpers, try-import fallbacks, broad excepts, speculative abstractions. Test-gated, behavior-preserving. 27 stars.",
+    "published_at": "2026-07-15T11:02:50+00:00"
   },
   {
     "id": "4c697e1f-c1c5-49d5-b764-f699932bd8c3",
@@ -196,6 +448,20 @@
     "published_at": "2026-07-15T06:50:00Z"
   },
   {
+    "id": "1813c058-d103-495c-92d7-cf1fd95ba151",
+    "title": "codeaware-ai-agent-insights \u2014 Node.js observability for AI coding agents",
+    "url": "https://github.com/jordanfoster2005/codeaware-ai-agent-insights",
+    "description": "Observability and search analytics tool for AI coding agents \u2014 session visibility, retrieval quality, code search. 7 stars.",
+    "published_at": "2026-07-15T04:55:08+00:00"
+  },
+  {
+    "id": "07ba3aaf-f175-4821-ac98-8cc46b7cdc94",
+    "title": "agent-wiretap \u2014 see what your AI coding agent sends",
+    "url": "https://github.com/unable12/agent-wiretap",
+    "description": "Local, zero-hosting proxy that shows every file, secret, and domain your AI coding agent uploads \u2014 live in terminal. Agent security introspection.",
+    "published_at": "2026-07-15T02:17:23+00:00"
+  },
+  {
     "id": "87e8246a-6d68-4248-ad42-7bfee7bba5e5",
     "title": "High-Bandwidth Flash offers efficient storage for model weights",
     "url": "https://spectrum.ieee.org/high-bandwidth-flash",
@@ -203,11 +469,25 @@
     "published_at": "2026-07-15T02:04:12+00:00"
   },
   {
+    "id": "ad1ff293-cb42-482c-947d-24247b667af7",
+    "title": "agentic-awesome-kits \u2014 reusable Loop Engineering kits for AI coding agents",
+    "url": "https://github.com/KhaiTrang1995/agentic-awesome-kits",
+    "description": "Collection of reusable Loop Engineering kits for AI coding agents \u2014 Skills, Rules, Templates, workflows, validation loops. 6 stars.",
+    "published_at": "2026-07-15T00:48:53+00:00"
+  },
+  {
     "id": "618a02a1-f3f1-44b9-a699-3c6953160ee6",
     "title": "Solving 20 Erd\u0151s Problems with 20 Codex Accounts Running in Parallel",
     "url": "https://www.primeintellect.ai/blog/20-erdoes",
     "description": "Hacker News: 132 points. Distributed AI coding experiment running 20 Codex agents in parallel to solve mathematical problems. Demonstrates multi-agent coordination for research tasks.",
     "published_at": "2026-07-15T00:15:00Z"
+  },
+  {
+    "id": "ae6b5f1c-9dd1-466c-998a-0d00026ad755",
+    "title": "xai-org/grok-build, now open source",
+    "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
+    "description": "Simon Willison covers xAI open-sourcing grok-build \u2014 a coding agent build system. Opens up new possibilities for self-hosted coding agents.",
+    "published_at": "2026-07-15T00:00:00+00:00"
   },
   {
     "id": "cf20fcd2-ecd5-4f88-aa4e-8b7b6ce30c1b",
