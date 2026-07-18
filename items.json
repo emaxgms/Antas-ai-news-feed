@@ -1,5 +1,180 @@
 [
   {
+    "id": "93f25965-4cd1-484c-9d84-312aa2ab7867",
+    "title": "Embinder \u2014 make the AI agent a resident of your app",
+    "url": "https://github.com/celesnity/Embinder",
+    "description": "Framework that turns any traditional platform into an AI-native platform by making the agent a permanent resident of the app. 5 stars.",
+    "published_at": "2026-07-18T03:33:50Z"
+  },
+  {
+    "id": "7c5fcb98-c9c2-4b3a-ac42-be87bbc8174d",
+    "title": "Claude Make Fable 5 Permanent",
+    "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+    "description": "Simon Willison on the push to make Claude Fable 5 a permanent offering. Covers implications for AI-assisted creative coding and developer workflows.",
+    "published_at": "2026-07-18T00:00:00Z"
+  },
+  {
+    "id": "3e168c12-126f-4988-8d1e-02b6ed76c8c1",
+    "title": "claude-fable-5-spanking-claude-opus-4.8 \u2014 orchestrator-worker cost model",
+    "url": "https://github.com/erhantez/claude-fable-5-spanking-claude-opus-4.8",
+    "description": "SKILL: Claude FABLE 5 as orchestrator, Claude OPUS 4.8 as worker. Cost-efficient multi-agent pattern: expensive model reads and judges, cheaper model writes code. 7 stars.",
+    "published_at": "2026-07-17T22:50:09Z"
+  },
+  {
+    "id": "66857c7b-d0dd-47f3-bd93-deef97587c56",
+    "title": "hig-mcp \u2014 Apple HIG design tokens as MCP server",
+    "url": "https://github.com/aka-kika/hig-mcp",
+    "description": "MCP server serving Apple Human Interface Guidelines as structured design tokens for AI coding agents. Post-WWDC25 system colors and Liquid Glass constraints. 9 stars.",
+    "published_at": "2026-07-17T19:47:58Z"
+  },
+  {
+    "id": "7f41d8fb-5bb6-47e3-a0b1-d645c60fddba",
+    "title": "Ask HN: Did Fable disappear from your Claude usage and require credits now?",
+    "url": "https://news.ycombinator.com/item?id=48950477",
+    "description": "Community discussion about Claude Fable 5 availability changes. Important signal for Claude Code users dependency on Fable for creative coding tasks.",
+    "published_at": "2026-07-17T18:18:23Z"
+  },
+  {
+    "id": "966f83d9-3518-403d-9e6e-86201ca36bdd",
+    "title": "ai-agent-architecture \u2014 open engineering book on LLM systems",
+    "url": "https://github.com/Drobiazkin/ai-agent-architecture",
+    "description": "Free open engineering book + course on building LLM systems you actually control. From tokenization to serving your own models. Covers mechanisms, trade-offs, and practical patterns. 9 stars.",
+    "published_at": "2026-07-17T17:57:55Z"
+  },
+  {
+    "id": "3e9b4f9f-9aca-4d99-a581-0fb41ce60351",
+    "title": "opencode-kimi-subscription \u2014 use Kimi Code in OpenCode",
+    "url": "https://github.com/t94j0/opencode-kimi-subscription",
+    "description": "Use your Kimi Code (Moonshot) subscription in OpenCode via OAuth device flow. Bridges Kimi K3 model access to the OpenCode ecosystem. 7 stars.",
+    "published_at": "2026-07-17T15:46:09Z"
+  },
+  {
+    "id": "598611ed-cf47-4a8d-bea6-9b91db787a71",
+    "title": "sill-ensoul \u2014 long-term memory for CLI agents",
+    "url": "https://github.com/sillogic/sill-ensoul",
+    "description": "Long-term memory for CLI agents \u2014 cross-CLI, cross-project, cross-session. OKF Wiki + MCP server, model-agnostic. Persistent agent memory across sessions. 2 stars.",
+    "published_at": "2026-07-17T14:53:49Z"
+  },
+  {
+    "id": "35e0c969-59f1-4f9e-8d35-1dc8d4610a58",
+    "title": "The State of Open Source AI",
+    "url": "https://stateofopensource.ai/",
+    "description": "Comprehensive survey of the open-source AI ecosystem. 433 HN points \u2014 maps models, tools, frameworks, and community trends.",
+    "published_at": "2026-07-17T14:31:10Z"
+  },
+  {
+    "id": "5aa4126f-02ae-4225-826c-14d7aa1726bc",
+    "title": "Claude Code: Anatomy of a Misfeature",
+    "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+    "description": "Honest analysis of Claude Code's design flaws and misfeatures. 139 HN points \u2014 practical critique for users of AI coding agents.",
+    "published_at": "2026-07-17T14:26:58Z"
+  },
+  {
+    "id": "8ce8b374-c7e7-42e6-a7be-d36a71a286a7",
+    "title": "AI Meets Cryptography: What AI Found in OpenVM's ZkVM",
+    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+    "description": "AI-powered vulnerability discovery in OpenVM's ZK virtual machine. 93 HN points \u2014 practical intersection of AI agents and cryptographic security auditing.",
+    "published_at": "2026-07-17T14:21:35Z"
+  },
+  {
+    "id": "0431b1fe-9dbb-41c5-8de0-22541f464434",
+    "title": "Learn-Pi \u2014 progressive harness tutorial for Pi coding agent",
+    "url": "https://github.com/1parado/Learn-Pi",
+    "description": "Learn Pi: a progressive harness tutorial for understanding and adapting the Pi coding agent. Educational resource for building custom coding agent harnesses. 7 stars.",
+    "published_at": "2026-07-17T12:23:28Z"
+  },
+  {
+    "id": "802ae346-ab29-4b5c-b5c0-1561a81701ea",
+    "title": "frontier-orchestrator \u2014 multi-agent orchestration for Claude Code",
+    "url": "https://github.com/luckeyfaraday/frontier-orchestrator",
+    "description": "MCP server + skill that keeps Claude as lead engineer while delegating backend work to OpenAI Codex and other models. Multi-agent coding orchestration pattern. 3 stars.",
+    "published_at": "2026-07-17T12:17:58Z"
+  },
+  {
+    "id": "97b43ffb-dcac-4bb7-a742-f1c03ccfb16e",
+    "title": "qwen-native-agents \u2014 build Qwen3.x agents in native dialect",
+    "url": "https://github.com/vakovalskii/qwen-native-agents",
+    "description": "Extracted tooling from qwen-code & Qwen-Agent to build and prompt Qwen3.x agents in their native dialect. Enables native Qwen agent development. 25 stars.",
+    "published_at": "2026-07-17T11:58:09Z"
+  },
+  {
+    "id": "bd1ebe63-a602-4c1e-8efd-4229ddfff354",
+    "title": "KlaatCode \u2014 open-source AI coding agent with smart model routing",
+    "url": "https://github.com/KlaatAI/klaatcode",
+    "description": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing \u2014 uses the right AI model for each task to cut costs. 108 stars.",
+    "published_at": "2026-07-17T11:38:10Z"
+  },
+  {
+    "id": "fbbae863-3aad-4485-9693-571205ec48e2",
+    "title": "remote-desktop-commander \u2014 remote MCP for Desktop Commander",
+    "url": "https://github.com/desktop-commander/remote-desktop-commander",
+    "description": "Official remote MCP server for Desktop Commander. Connect claude.ai, ChatGPT, Cursor and more to your own computer over OAuth. Enables remote agent control of desktops. 3 stars.",
+    "published_at": "2026-07-17T09:37:47Z"
+  },
+  {
+    "id": "f690c2db-ef5a-4560-8b46-149ccf9625fb",
+    "title": "capsOS-Agent-Tracker \u2014 track agent status in Claude",
+    "url": "https://github.com/devkriter/capsOS-Agent-Tracker",
+    "description": "Vibe-coded app to track AI agent status in Claude Code sessions. Lightweight agent observability for multi-turn coding sessions. 35 stars.",
+    "published_at": "2026-07-17T09:21:10Z"
+  },
+  {
+    "id": "c756d174-f229-4a7d-974f-c2b7dc2c8c2b",
+    "title": "enterprise-bench \u2014 open benchmark for enterprise AI agents",
+    "url": "https://github.com/devrev/enterprise-bench",
+    "description": "Open benchmark for evaluating enterprise AI agents on real-world business tasks. Standardized evaluation for agentic workflow quality. 5 stars.",
+    "published_at": "2026-07-17T06:37:38Z"
+  },
+  {
+    "id": "bfe6c64c-b241-431c-8d12-61acaeb4bb86",
+    "title": "agent-skill-store \u2014 discover and install skills for AI agents",
+    "url": "https://github.com/HYYH-code/agent-skill-store",
+    "description": "Platform to discover, govern, version, and install skills for AI agents. Centralized skill registry across agent frameworks. 7 stars.",
+    "published_at": "2026-07-17T06:27:38Z"
+  },
+  {
+    "id": "9aa830e5-01f3-4862-9621-76ae461588c1",
+    "title": "task-planning \u2014 durable task planning for Codex/AI coding agents",
+    "url": "https://github.com/McXiao1/task-planning",
+    "description": "Durable task planning for Codex and AI coding agents: recovery, bug memory, Mermaid-first design, verification evidence, and safe multi-agent collaboration. 6 stars.",
+    "published_at": "2026-07-17T06:21:27Z"
+  },
+  {
+    "id": "052cd0d2-960c-4350-9980-96b20307b2c5",
+    "title": "gemma-vibecoding-skills \u2014 local Gemma model writes code",
+    "url": "https://github.com/harshdattani23/gemma-vibecoding-skills",
+    "description": "Your AI agent plans and reviews; a local Gemma model writes the code. Portable Agent Skill for Claude Code, Antigravity, Codex CLI. Zero API costs by running locally. 6 stars.",
+    "published_at": "2026-07-17T05:43:11Z"
+  },
+  {
+    "id": "bd37b171-f159-4b7c-b6c8-77f7e47f2746",
+    "title": "confirm-mcp \u2014 MCP server for human approvals",
+    "url": "https://github.com/confirm-ai/confirm-mcp",
+    "description": "MCP server for human-in-the-loop approvals. Any MCP agent gets a request_approval tool: pause on risky actions, a human approves or edits, then resume. 2 stars.",
+    "published_at": "2026-07-17T05:25:07Z"
+  },
+  {
+    "id": "c36373c8-0766-4ff9-ad6d-122718e4a608",
+    "title": "agent-sop \u2014 human-gated agent collaboration workflow",
+    "url": "https://github.com/ythx-101/agent-sop",
+    "description": "Human-gated, capability-slotted collaboration workflow (SOP) for coding agents. Discovered rosters, condition-based roles, cross-vendor review, signoffs. 11 stars.",
+    "published_at": "2026-07-17T04:11:37Z"
+  },
+  {
+    "id": "9863e2d7-d27c-4580-9ca2-5fef46b788bc",
+    "title": "nino-agent \u2014 API-first multi-language agent harness",
+    "url": "https://github.com/KawhiWei/nino-agent",
+    "description": "API-first, multi-language evolvable agent harness. Python 3.12 with generic Orchestrator, controlled Specialist ReAct Worker, shared Agent/Skill contracts, and multi-MCP tool providers. 4 stars.",
+    "published_at": "2026-07-17T03:33:55Z"
+  },
+  {
+    "id": "ad85bf5d-bb7f-442b-af31-fe98ecf21c64",
+    "title": "brain-os \u2014 privacy-first AI-ready personal knowledge OS",
+    "url": "https://github.com/ahmedyahia01/brain-os",
+    "description": "Privacy-first, AI-ready personal knowledge operating system for Obsidian, Cursor, Claude Code, and other file-capable AI agents. 5 stars.",
+    "published_at": "2026-07-17T03:13:09Z"
+  },
+  {
     "id": "97edeef3-9237-4a31-9989-8d44f86778da",
     "title": "UIUC AI Teaching Assistant",
     "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
@@ -7,11 +182,53 @@
     "published_at": "2026-07-17T02:23:18+00:00"
   },
   {
+    "id": "4b774907-5e94-445c-8d13-7fa98f0cf087",
+    "title": "The Human-in-the-Loop Is Tired",
+    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+    "description": "Pydantic argues that human-in-the-loop patterns for AI agents are unsustainable at scale. 304 HN points \u2014 critique of current agent oversight models.",
+    "published_at": "2026-07-17T00:21:09Z"
+  },
+  {
     "id": "02c8db47-ca79-4901-872e-347b4da74dbc",
     "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
     "url": "https://github.com/Robbyant/lingbot-map",
     "description": "3D foundation model for scene reconstruction from streaming data. 17 HN points \u2014 relevant for agent perception.",
     "published_at": "2026-07-17T00:07:49+00:00"
+  },
+  {
+    "id": "2f84daa4-b3c2-41d6-96de-81f294db516b",
+    "title": "mcpdiff \u2014 CLI to compare MCP servers for breaking changes",
+    "url": "https://github.com/samlader/mcpdiff",
+    "description": "CLI tool to compare and detect breaking changes in MCP servers. Essential for MCP ecosystem maintenance and version compatibility checking. 2 stars.",
+    "published_at": "2026-07-17T00:07:14Z"
+  },
+  {
+    "id": "e48cdc01-c267-40a2-82be-d259dbb03c4b",
+    "title": "LLM Clich\u00e9 Highlighter",
+    "url": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
+    "description": "Simon Willison builds a tool to detect overused phrases in LLM outputs. Practical prompt engineering and output quality tooling.",
+    "published_at": "2026-07-17T00:00:00Z"
+  },
+  {
+    "id": "acdb077c-42ff-482d-89f9-5c8115fef20e",
+    "title": "Vercel AI Gateway Production Index \u2014 July 2026",
+    "url": "https://vercel.com/blog/ai-gateway-production-index-july-2026",
+    "description": "Vercel reports open-weight models surge to 29% of AI Gateway volume, price per token flattens. Production data on model routing patterns, cost trends, and inference adoption across the developer ecosystem.",
+    "published_at": "2026-07-17T00:00:00Z"
+  },
+  {
+    "id": "9d37227a-a1f9-4916-9f54-0adf0460ccc7",
+    "title": "Giving AI Agents 3D Bodies, Real Jobs, and Wallets on three.ws",
+    "url": "https://huggingface.co/blog/three-ws/giving-ai-agents-bodies-and-wallets",
+    "description": "Hugging Face blog post on giving AI agents persistent identities, 3D avatars, and wallets via the three.ws platform. Practical infrastructure for agent embodiment and autonomous transactions.",
+    "published_at": "2026-07-17T00:00:00Z"
+  },
+  {
+    "id": "d6c2db29-d283-44b0-81d5-d960ad1c6c47",
+    "title": "Kimi K3 Model Overview: 2.8T Parameters, MXFP4, Open Weights",
+    "url": "https://huggingface.co/blog/ResterChed/kimi-k3-model-overview-mxfp4-quantization-open-wei",
+    "description": "Comprehensive overview of Kimi K3: 2.8T parameter open-weights model, MXFP4 quantization, and implications for the community. Major open-weight release for self-hosted AI.",
+    "published_at": "2026-07-17T00:00:00Z"
   },
   {
     "id": "9200ff81-9c93-46c9-b3b7-e12f44a02926",
@@ -194,6 +411,55 @@
     "url": "https://github.com/astrio-labs/forall",
     "description": "Hacker News: 6 points.",
     "published_at": "2026-07-16T02:16:18+00:00"
+  },
+  {
+    "id": "cb3ec06e-0d80-444a-8ed1-9597cd38a85f",
+    "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+    "url": "https://arxiv.org/abs/2607.15257v1",
+    "description": "arXiv cs.AI | Framework for multi-agent information-seeking collaboration. Addresses how agents track task progress when search attempts fail \u2014 relevant for agent orchestration design.",
+    "published_at": "2026-07-16T00:00:00Z"
+  },
+  {
+    "id": "d20d7030-226b-4350-ad17-85cf53f24003",
+    "title": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
+    "url": "https://arxiv.org/abs/2607.15253v1",
+    "description": "arXiv cs.IR | Key finding: static retrieval metrics don't predict real utility in multi-step agentic search. Important for RAG system and agent search pipeline design.",
+    "published_at": "2026-07-16T00:00:00Z"
+  },
+  {
+    "id": "1adec545-492f-4daf-a6df-08df330c7e67",
+    "title": "AutoSynthesis: An Agentic System for Automated Meta-Analysis",
+    "url": "https://arxiv.org/abs/2607.15247v1",
+    "description": "arXiv cs.AI | End-to-end multi-agent system for automated meta-analysis. Practical pattern for scientific agent workflows combining retrieval, analysis, and synthesis.",
+    "published_at": "2026-07-16T00:00:00Z"
+  },
+  {
+    "id": "53fe9d90-178b-428a-9b0e-5927487fb0be",
+    "title": "When Words Are Safe But Actions Kill: Probing Physical Danger in LLM Agents",
+    "url": "https://arxiv.org/abs/2607.15218v1",
+    "description": "arXiv cs.AI, cs.CR | Research on safety risks when LLMs act as planners for embodied agents. Linguistically benign instructions can become dangerous when grounded physically. Critical for agent safety evaluation.",
+    "published_at": "2026-07-16T00:00:00Z"
+  },
+  {
+    "id": "2cdd3f8e-57aa-4144-b1cb-5314706c124f",
+    "title": "In-Place Tokenizer Expansion for Pre-trained LLMs",
+    "url": "https://arxiv.org/abs/2607.15232v1",
+    "description": "arXiv cs.CL, cs.AI, cs.LG | Method to expand LLM tokenizers in-place without full retraining. Practical for multi-language agent systems and reducing token cost for self-hosted models.",
+    "published_at": "2026-07-16T00:00:00Z"
+  },
+  {
+    "id": "10138fdb-217d-4c4c-9764-f091ee9d57d5",
+    "title": "MM-IssueLoc: Multimodal Repository-Level Issue Localization",
+    "url": "https://arxiv.org/abs/2607.15205v1",
+    "description": "arXiv cs.SE, cs.AI | Benchmark for evaluating multimodal (screenshots + code) issue localization in repos. Relevant for coding agents that need to understand visual evidence from bug reports.",
+    "published_at": "2026-07-16T00:00:00Z"
+  },
+  {
+    "id": "f63a8983-0ec0-4e20-82a8-c1790892b02a",
+    "title": "Pretraining Data Can Be Poisoned through Computational Propaganda",
+    "url": "https://arxiv.org/abs/2607.15267v1",
+    "description": "arXiv cs.AI, cs.CL | Research on poisoning attacks against LLM pretraining data. Relevant for understanding data security risks in the open-weight model ecosystem.",
+    "published_at": "2026-07-16T00:00:00Z"
   },
   {
     "id": "909881ee-50b0-46a8-994f-8ced9c35c3ea",
