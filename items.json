@@ -1,5 +1,229 @@
 [
   {
+    "id": "e1758087-1270-4098-93f9-325114233db9",
+    "title": "Contextual Policies in Omnigent: Using session state to better govern AI agents",
+    "url": "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents",
+    "description": "Databricks: Contextual Policies in Omnigent: Using session state to better govern AI agents",
+    "published_at": "2026-07-21T09:08:42Z"
+  },
+  {
+    "id": "acdf99d1-86b4-4b20-97fd-1e620acd4f90",
+    "title": "Introducing CustomerLake: The Agentic CDP embedded in Databricks",
+    "url": "https://www.databricks.com/blog/introducing-customerlake-agentic-cdp",
+    "description": "Databricks: Introducing CustomerLake: The Agentic CDP embedded in Databricks",
+    "published_at": "2026-07-21T09:08:42Z"
+  },
+  {
+    "id": "d948894e-8751-4006-9d4b-888a0e72a693",
+    "title": "Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs",
+    "url": "https://www.latent.space/p/andon",
+    "description": "Latent Space: Reality: The Final Eval \u2014 Lukas Petersson and Axel Backlund of Andon Labs",
+    "published_at": "2026-07-21T09:08:42Z"
+  },
+  {
+    "id": "4db1ed7a-6943-4a80-b145-353f173f2167",
+    "title": "\ud83d\udd2c The Coolest Diffusion Research Isn't in LLMs \u2014 Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+    "url": "https://www.latent.space/p/the-coolest-diffusion-research-isnt",
+    "description": "Latent Space: \ud83d\udd2c The Coolest Diffusion Research Isn't in LLMs \u2014 Evan Feinberg & Sergey Edunov, Genesis Molecular AI",
+    "published_at": "2026-07-21T09:08:42Z"
+  },
+  {
+    "id": "bc669c08-29d6-4216-aee2-6913185ac0c7",
+    "title": "Why the Frontier Ecosystem must be Open \u2014 Matei Zaharia and Reynold Xin, Databricks",
+    "url": "https://www.latent.space/p/databricks",
+    "description": "Latent Space: Why the Frontier Ecosystem must be Open \u2014 Matei Zaharia and Reynold Xin, Databricks",
+    "published_at": "2026-07-21T09:08:42Z"
+  },
+  {
+    "id": "8bbb78e0-a9ef-41cf-8f11-e65d6233a8f0",
+    "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+    "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "description": "Latent Space: [Exclusive] $250 off AI Engineer tix til Monday",
+    "published_at": "2026-07-21T09:08:42Z"
+  },
+  {
+    "id": "82b14753-4e24-4e00-aead-48f8bc54437c",
+    "title": "\ud83d\udd2c The Self-Driving Lab \u2014 Joseph Krause, Radical AI",
+    "url": "https://www.latent.space/p/radical-ai",
+    "description": "Latent Space: \ud83d\udd2c The Self-Driving Lab \u2014 Joseph Krause, Radical AI",
+    "published_at": "2026-07-21T09:08:42Z"
+  },
+  {
+    "id": "04fbedbb-7a17-4d63-affc-383abb6eb0b7",
+    "title": "\ud83d\udd2cScaling Past Informal AI - Carina Hong, Axiom Math",
+    "url": "https://www.latent.space/p/axiom",
+    "description": "Latent Space: \ud83d\udd2cScaling Past Informal AI - Carina Hong, Axiom Math",
+    "published_at": "2026-07-21T09:08:42Z"
+  },
+  {
+    "id": "d952edb6-408a-445c-a9f7-2d8c398d019d",
+    "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+    "url": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+    "description": "Sebastian Raschka: Categories of Inference-Time Scaling for Improved LLM Reasoning",
+    "published_at": "2026-07-21T09:08:42Z"
+  },
+  {
+    "id": "d2cc87ac-e6e6-4c48-8647-e0b6e0b8bce7",
+    "title": "hahhforest/pi-textbook: \u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
+    "url": "https://github.com/hahhforest/pi-textbook",
+    "description": "GitHub \u260550: \u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
+    "published_at": "2026-07-21T04:17:35Z"
+  },
+  {
+    "id": "0f7d1c08-c8f6-4021-a3b9-c66a348c9634",
+    "title": "Hugging Face warns an autonomous AI agent hacked its network",
+    "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+    "description": "HN 7 points: Hugging Face warns an autonomous AI agent hacked its network",
+    "published_at": "2026-07-21T03:07:06Z"
+  },
+  {
+    "id": "384bfa3e-f411-42b7-a956-72cac797ddcc",
+    "title": "Is Open Weight AI Decelerationist?",
+    "url": "https://fragileequilibrium.substack.com/p/is-open-weight-ai-decelerationist",
+    "description": "HN 5 points: Is Open Weight AI Decelerationist?",
+    "published_at": "2026-07-20T23:14:44Z"
+  },
+  {
+    "id": "a75c1cc5-8fff-4ade-8d92-f316427a69ed",
+    "title": "eli-labz/Agent-Execution-Partnership: Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action i",
+    "url": "https://github.com/eli-labz/Agent-Execution-Partnership",
+    "description": "GitHub \u260537: Agent Execution Partnership AEE is an open-source control plane that ensures every AI agent action is authorized before it runs, observable while it runs, and verifiable after it completes.",
+    "published_at": "2026-07-20T22:45:38Z"
+  },
+  {
+    "id": "d05c9286-18ed-4b74-b65d-de22feab1ff3",
+    "title": "Can AI agents use ur site?",
+    "url": "https://github.com/Open-Ingress/OpenIngress",
+    "description": "GitHub: Can AI agents use ur site?",
+    "published_at": "2026-07-20T22:01:49Z"
+  },
+  {
+    "id": "f23c9d33-b757-48f3-ad6e-019c7c9af02f",
+    "title": "US administration considering ban on Chinese open source AI models",
+    "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
+    "description": "HN 11 points: US administration considering ban on Chinese open source AI models",
+    "published_at": "2026-07-20T21:54:50Z"
+  },
+  {
+    "id": "c5402ccb-bada-4777-b57b-4709ad12ff2a",
+    "title": "Make Your AI Agent Durable in 8 Minutes [video]",
+    "url": "https://www.youtube.com/watch?v=3nhRaJ3eOS8",
+    "description": "HN 6 points: Make Your AI Agent Durable in 8 Minutes [video]",
+    "published_at": "2026-07-20T19:35:26Z"
+  },
+  {
+    "id": "5adf4ada-1b10-4187-8463-0e349fc0d112",
+    "title": "Reverse-engineering is cheap now",
+    "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+    "description": "Simon Willison: Reverse-engineering is cheap now. <p>I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes.</p>\n<p>I think this is an interesting illustration of the impact of the reduced ",
+    "published_at": "2026-07-20T19:24:05Z"
+  },
+  {
+    "id": "2e652bb7-ebbb-4c4b-8b9c-8586d804b6bb",
+    "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+    "url": "https://arxiv.org/abs/2607.18225v1",
+    "description": "arXiv econ.EM, cs.LG, math.ST, stat.ME, stat.ML: We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step m. Authors: Masahiro Kato, Taka Kato.",
+    "published_at": "2026-07-20T17:57:20Z"
+  },
+  {
+    "id": "3800d598-d851-4068-9dec-b035374ba6fb",
+    "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+    "url": "https://arxiv.org/abs/2607.18213v1",
+    "description": "arXiv cs.CL, cs.SE: Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code. Authors: Yuhang Wang, Yuling Shi, Shaoqiu Zhang, Jialiang Liang, Shilin He, Siyu Ye, Yuting Chen, Kai Cai, Xi.",
+    "published_at": "2026-07-20T17:47:44Z"
+  },
+  {
+    "id": "3cf0b91b-4652-4a6d-b27c-c8a03e76032e",
+    "title": "TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization",
+    "url": "https://arxiv.org/abs/2607.18161v1",
+    "description": "arXiv cs.SE, cs.AI, cs.OS: Coding agents are increasingly used to accelerate code generation in many downstream tasks, such as fixing bugs, building applications, and prototyping. However, despite their value as coding assistan. Authors: Alex Mathai, Shobini Iyer, Aleksandr Nogikh, Petros Maniatis, Franjo Ivancic, Junfeng Yang, Baishakh.",
+    "published_at": "2026-07-20T17:06:19Z"
+  },
+  {
+    "id": "547d60bf-4a9e-4ec9-8558-d7643f1221cf",
+    "title": "How coding agents read your code (and how to write for them)",
+    "url": "https://modem.dev/blog/how-coding-agents-read-your-code",
+    "description": "HN 5 points: How coding agents read your code (and how to write for them)",
+    "published_at": "2026-07-20T16:46:35Z"
+  },
+  {
+    "id": "71d0db41-97f9-4e6d-b542-f3bc5902a6e1",
+    "title": "Kimi K3: The open-weights escalation",
+    "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+    "description": "HN 32 points: Analysis of Kimi K3 as the latest escalation in open-weight AI models. Covers implications for the open-source AI ecosystem and competitive dynamics.",
+    "published_at": "2026-07-20T16:06:29Z"
+  },
+  {
+    "id": "b765e096-fa3f-4f58-9ad2-f412dfb9bc32",
+    "title": "Chinese AI Open Weights Grow Safer as American AI Becomes Dead Weight",
+    "url": "https://www.flyingpenguin.com/chinese-ai-open-weights-grow-safer-as-american-ai-becomes-dead-weight/",
+    "description": "HN 6 points: Chinese AI Open Weights Grow Safer as American AI Becomes Dead Weight",
+    "published_at": "2026-07-20T15:36:08Z"
+  },
+  {
+    "id": "6ebcdb0f-8cce-44c5-b034-cc243befe565",
+    "title": "Autoresearch with Coding Agents: Generalizers and Metric-Maximizers on Quran Recitation Data",
+    "url": "https://arxiv.org/abs/2607.18064v1",
+    "description": "arXiv cs.SE, cs.AI: Coding agents can now be left alone to improve software against a score. In this pattern--recently popularized as \"autoresearch\"--the agent receives a dataset, an evaluation script, and one editable f. Authors: Nursultan Askarbekuly, Mohamad Al Mdfaa, Ahmed Helaly, Gonzalo Ferrer, Manuel Mazzara.",
+    "published_at": "2026-07-20T15:32:09Z"
+  },
+  {
+    "id": "222c9dba-fba9-470f-a5e3-b743ada6a41b",
+    "title": "Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security",
+    "url": "https://arxiv.org/abs/2607.18063v1",
+    "description": "arXiv cs.CR, cs.AI, cs.LG: LLM-based agents process external content, exposing them to prompt injection and multi-turn manipulation. Most safety benchmarks evaluate defenders against fixed attack pools collected before evaluati. Authors: Devina Jain, David Hartmann, Chuan Li.",
+    "published_at": "2026-07-20T15:30:38Z"
+  },
+  {
+    "id": "57769e22-1ea9-403f-9bd9-e24d4839658e",
+    "title": "Watching AI agents build a new business",
+    "url": "https://michii.dev/live",
+    "description": "HN 5 points: Watching AI agents build a new business",
+    "published_at": "2026-07-20T14:44:32Z"
+  },
+  {
+    "id": "9611792f-28b1-4c27-a63d-d261207d6a03",
+    "title": "MADA-RL: Multi-Agent Debate-Aware Reinforcement Learning for Parameter-Efficient Reasoning in Compact Models",
+    "url": "https://arxiv.org/abs/2607.18006v1",
+    "description": "arXiv cs.LG, cs.AI, cs.CL, cs.MA: Large language models achieve strong reasoning performance, but often at prohibitive training cost - a challenge that is especially acute for compact models ($\\leq 4 \\, \\mathrm{B}$ parameters) trained. Authors: Martino M. L. Pulici, Cuong Xuan Chu, Evgeny Kharlamov, Zifeng Ding, Volker Tresp, Yunpu Ma.",
+    "published_at": "2026-07-20T14:38:00Z"
+  },
+  {
+    "id": "d230e466-334c-45fd-959b-9962e9542aca",
+    "title": "Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance",
+    "url": "https://github.com/dawndrain/movie-gen",
+    "description": "HN 18 points: Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance",
+    "published_at": "2026-07-20T13:57:44Z"
+  },
+  {
+    "id": "b67e1fe0-3b52-40a3-ace1-fed29eeb90f9",
+    "title": "Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
+    "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
+    "description": "HN 11 points: Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
+    "published_at": "2026-07-20T13:57:39Z"
+  },
+  {
+    "id": "dd2691e1-68b3-4a17-80e1-488c5fa6b138",
+    "title": "Annoying and alarming things about OpenCode",
+    "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+    "description": "HN 389 points: Critical engineering analysis of OpenCode's design decisions, security concerns, and workflow friction. Important signal for the OpenCode ecosystem and AI coding agent UX.",
+    "published_at": "2026-07-20T12:45:55Z"
+  },
+  {
+    "id": "a33b720c-341c-43e2-b8c0-f257f6c4ba9e",
+    "title": "Show HN: A comprehensive, filterable list of AI agent jails",
+    "url": "https://pleasedonotescape.com/",
+    "description": "HN 8 points: Show HN: A comprehensive, filterable list of AI agent jails",
+    "published_at": "2026-07-20T10:49:32Z"
+  },
+  {
+    "id": "1fa7bcbb-9497-4c70-8718-3fdf7aa7fcda",
+    "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
+    "url": "https://github.com/Saivineeth147/lora-speedrun",
+    "description": "HN 142 points: Public leaderboard benchmarking LoRA fine-tuning techniques by wall-clock time. Practical for practitioners optimizing fine-tuning workflows.",
+    "published_at": "2026-07-20T04:24:48Z"
+  },
+  {
     "id": "55f964b0-2e3f-4d63-b6f0-cc459b4dd0ef",
     "title": "Anthropic discuss open source strategy \u2014 Sam Altman quote",
     "url": "https://simonwillison.net/2026/Jul/20/sam-altman/",
@@ -77,6 +301,13 @@
     "published_at": "2026-07-19T15:00:00Z"
   },
   {
+    "id": "591574f6-df07-41ca-a520-ebc584ab869c",
+    "title": "NullLabTests/software-periodic-table: A finite ontology of 115 recurring software elements and a composition framework for LLM-based codin",
+    "url": "https://github.com/NullLabTests/software-periodic-table",
+    "description": "GitHub \u260569: A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents",
+    "published_at": "2026-07-19T14:28:56Z"
+  },
+  {
     "id": "ea848d56-4b8e-45e2-84fc-d51dc106584d",
     "title": "airllm: AirLLM 70B inference with single 4GB GPU",
     "url": "https://github.com/lyogavin/airllm",
@@ -89,6 +320,13 @@
     "url": "https://github.com/amalshehu/pexels-skill",
     "description": "Skill/add-on for Claude Code enabling royalty-free stock photo search via Pexels API. Demonstrates coding agent extensibility through MCP/skill ecosystem.",
     "published_at": "2026-07-19T12:55:11Z"
+  },
+  {
+    "id": "42759189-94d1-4070-add9-5bd727fcb692",
+    "title": "The Economic Mirage of Local LLMs",
+    "url": "https://eamag.me/2026/the-economic-mirage-of-local-llms",
+    "description": "HN 5 points: Critical analysis of the economic case for running LLMs locally vs. API-based inference. Relevant for self-hosted AI and edge deployment decisions.",
+    "published_at": "2026-07-19T10:40:51Z"
   },
   {
     "id": "e2c810a6-bf00-4350-9863-67d9a532dd4d",
@@ -117,6 +355,13 @@
     "url": "https://chaoxu.prof/posts/2026-07-18-ai-agents-for-the-working-mathematician.html",
     "description": "AI engineering content.",
     "published_at": "2026-07-19T06:59:24+00:00"
+  },
+  {
+    "id": "d0c0bb00-8bd0-45d6-bb67-c5d82b1e9377",
+    "title": "smixs/mentor \u2014 a session-insights skill for AI coding agents",
+    "url": "https://github.com/smixs/mentor",
+    "description": "GitHub \u260553: Skill that reads Claude Code and OpenAI Codex history to write insight reports on development patterns. Useful for AI coding agent observability and workflow analysis.",
+    "published_at": "2026-07-19T05:21:15Z"
   },
   {
     "id": "e1a3b55d-0f71-445a-af28-342576962f26",
@@ -166,6 +411,13 @@
     "url": "https://calculus.academa.ai",
     "description": "AI engineering content.",
     "published_at": "2026-07-19T02:55:43+00:00"
+  },
+  {
+    "id": "566694b3-411f-4d76-b6a2-2ab0f0ed3368",
+    "title": "3lmglow/Phosphene: A self-hosted task, reward, and daily interaction system for human\u2013AI relationships, powered by MCP and PWA",
+    "url": "https://github.com/3lmglow/Phosphene",
+    "description": "GitHub \u260534: Self-hosted task/reward/interaction system using MCP protocol. Demonstrates MCP-based agent lifecycle management and human-AI interaction patterns.",
+    "published_at": "2026-07-19T02:25:51Z"
   },
   {
     "id": "5d271304-b1e8-4db7-ab1c-84019b1e8c6b",
@@ -1344,13 +1596,6 @@
     "published_at": "2026-07-15T00:15:00Z"
   },
   {
-    "id": "ae6b5f1c-9dd1-466c-998a-0d00026ad755",
-    "title": "xai-org/grok-build, now open source",
-    "url": "https://simonwillison.net/2026/Jul/15/grok-build/",
-    "description": "Simon Willison covers xAI open-sourcing grok-build \u2014 a coding agent build system. Opens up new possibilities for self-hosted coding agents.",
-    "published_at": "2026-07-15T00:00:00+00:00"
-  },
-  {
     "id": "cf20fcd2-ecd5-4f88-aa4e-8b7b6ce30c1b",
     "title": "Legal AI, not a coding agent with scaffolding",
     "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
@@ -1719,13 +1964,6 @@
     "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning",
     "url": "https://arxiv.org/abs/2607.13034",
     "description": "arXiv cs.AI | July 14. Research on teaching LLM agents to assess task complexity before execution, avoiding excessive computation on simple tasks. Relevant for efficient agent orchestration and resource allocation.",
-    "published_at": "2026-07-14T00:00:00Z"
-  },
-  {
-    "id": "877ce789-caf7-416b-8d08-ff0c25b87699",
-    "title": "Using uvx in GitHub Actions in a cache-friendly way",
-    "url": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/",
-    "description": "Simon Willison | July 14. Practical guide on using uvx (the uv tool runner) in GitHub Actions with effective caching strategies. Developer tooling optimization for Python-based AI projects.",
     "published_at": "2026-07-14T00:00:00Z"
   },
   {
