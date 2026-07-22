@@ -1,5 +1,390 @@
 [
   {
+    "id": "ef2725ec-7998-4b0c-b9db-7d6e3a99da66",
+    "title": "huangrong1995/ai-proxy: ai-proxy \u2014 \u591a\u4f9b\u5e94\u5546 AI API \u672c\u5730\u53cd\u5411\u4ee3\u7406\uff0c\u4e3a Claude Code / Codex / Gemini CLI \u63d0\u4f9b\u7edf\u4e00\u7684 HTTPS \u4ee3\u7406\u5165\u53e3\u3002\u901a\u8fc7\u4ea4\u4e92\u5f0f\u5411\u5bfc\u914d\u7f6e\u6a21\u578b\u4f9b\u5e94\u5546\uff08OpenCode / Ark \u706b\u5c71\u65b9\u821f / GLM \u667a\u8c31 / MiniMax / DeepSeek / \u901a\u4e49\u5343\u95ee / \u81ea\u5b9a\u4e49\uff09\uff0c\u81ea\u52a8\u5b8c\u6210\u6a21\u578b\u5206\u5c42\u6620\u5c04\uff08Haik",
+    "url": "https://github.com/huangrong1995/ai-proxy",
+    "description": "GitHub 0\u2605: ai-proxy \u2014 \u591a\u4f9b\u5e94\u5546 AI API \u672c\u5730\u53cd\u5411\u4ee3\u7406\uff0c\u4e3a Claude Code / Codex / Gemini CLI \u63d0\u4f9b\u7edf\u4e00\u7684 HTTPS \u4ee3\u7406\u5165\u53e3\u3002\u901a\u8fc7\u4ea4\u4e92\u5f0f\u5411\u5bfc\u914d\u7f6e\u6a21\u578b\u4f9b\u5e94\u5546\uff08OpenCode / Ark \u706b\u5c71\u65b9\u821f / GLM \u667a\u8c31 / MiniMax / DeepSeek / \u901a\u4e49\u5343\u95ee / \u81ea\u5b9a\u4e49\uff09\uff0c\u81ea\u52a8\u5b8c\u6210\u6a21\u578b\u5206\u5c42\u6620\u5c04\uff08Haiku / Sonnet / Opus /     ",
+    "published_at": "2026-07-22T09:06:09Z"
+  },
+  {
+    "id": "0f8eae40-eade-4730-8285-d3c6edf2eca4",
+    "title": "WOOWTECH/Woow_opendesign_docker_compose_all: Open Design K3s Deployment \u2014 Self-hosted AI Design Platform with Claude Code + OpenCode on Kubernetes, Web Console, Cloudflare Tunnel",
+    "url": "https://github.com/WOOWTECH/Woow_opendesign_docker_compose_all",
+    "description": "GitHub 0\u2605: Open Design K3s Deployment \u2014 Self-hosted AI Design Platform with Claude Code + OpenCode on Kubernetes, Web Console, Cloudflare Tunnel",
+    "published_at": "2026-07-22T09:05:49Z"
+  },
+  {
+    "id": "d033386f-c0f7-40f4-8fba-aee8f709b60a",
+    "title": "arslanvuzmal/synapse: Enterprise-grade multi-agent orchestration framework built with LangGraph, FastAPI, and React.",
+    "url": "https://github.com/arslanvuzmal/synapse",
+    "description": "GitHub 1\u2605: Enterprise-grade multi-agent orchestration framework built with LangGraph, FastAPI, and React.",
+    "published_at": "2026-07-22T09:03:57Z"
+  },
+  {
+    "id": "d6c85376-2a28-46df-ae92-e6f3b209109f",
+    "title": "kdeps/kdeps: Run AI workflows locally. Or deploy them anywhere. AI agent framework in YAML \u2014 workflow pipelines + autonomous agent loop. NVIDIA Inception member. Build, deploy, export as Docker/K8s/IS",
+    "url": "https://github.com/kdeps/kdeps",
+    "description": "GitHub 34\u2605: Run AI workflows locally. Or deploy them anywhere. AI agent framework in YAML \u2014 workflow pipelines + autonomous agent loop. NVIDIA Inception member. Build, deploy, export as Docker/K8s/ISO.",
+    "published_at": "2026-07-22T09:02:47Z"
+  },
+  {
+    "id": "91936e0b-b829-4418-b380-7e9b321ea512",
+    "title": "omnigent-ai/omnigent: Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies",
+    "url": "https://github.com/omnigent-ai/omnigent",
+    "description": "GitHub 7606\u2605: Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and c",
+    "published_at": "2026-07-22T09:02:37Z"
+  },
+  {
+    "id": "fca85b2e-2f98-42b0-b5ad-f4797b48fbfb",
+    "title": "dpkg-s/ai-memory-template: Cross-AI shared memory vault - MCP server for persistent memory across AI tools",
+    "url": "https://github.com/dpkg-s/ai-memory-template",
+    "description": "GitHub 1\u2605: Cross-AI shared memory vault - MCP server for persistent memory across AI tools",
+    "published_at": "2026-07-22T08:58:13Z"
+  },
+  {
+    "id": "c70e7b70-93f4-4127-992b-2725423b56f7",
+    "title": "ARUNAGIRINATHAN-K/awesome-ai-agents-2026: Awesome AI Agents for 2026 - 300+ AI Agents, Frameworks & Coding \u2022 Creative \u2022 Voice \u2022 Research \u2022 Enterprise. Comparison guides, benchmarks & deep dives",
+    "url": "https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026",
+    "description": "GitHub 266\u2605: Awesome AI Agents for 2026 - 300+ AI Agents, Frameworks & Coding \u2022 Creative \u2022 Voice \u2022 Research \u2022 Enterprise. Comparison guides, benchmarks & deep dives",
+    "published_at": "2026-07-22T08:57:32Z"
+  },
+  {
+    "id": "90259f12-6a03-4c02-aa84-542c0ac03a49",
+    "title": "jlcodes99/cockpit-tools:  \ud83d\ude80 \u901a\u7528 AI IDE \u8d26\u53f7\u7ba1\u7406\u5de5\u5177\uff1a\u652f\u6301 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy\uff0c\u591a\u8d26\u53f7\u5207\u6362\u3001\u914d\u989d\u76d1\u63a7\u3001\u81ea\u52a8\u5524\u9192\u4e0e\u591a\u5f00\u5b9e\u4f8b\u7ba1\u7406\u3002 \ud83d\ude80 Universal AI IDE account manager for ",
+    "url": "https://github.com/jlcodes99/cockpit-tools",
+    "description": "GitHub 14058\u2605:  \ud83d\ude80 \u901a\u7528 AI IDE \u8d26\u53f7\u7ba1\u7406\u5de5\u5177\uff1a\u652f\u6301 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy\uff0c\u591a\u8d26\u53f7\u5207\u6362\u3001\u914d\u989d\u76d1\u63a7\u3001\u81ea\u52a8\u5524\u9192\u4e0e\u591a\u5f00\u5b9e\u4f8b\u7ba1\u7406\u3002 \ud83d\ude80 Universal AI IDE account manager for Antigravity / Codex / Git",
+    "published_at": "2026-07-22T08:55:41Z"
+  },
+  {
+    "id": "a68a3fd2-329d-4512-a0a8-0257b3553cfe",
+    "title": "A hand-cranked device for running local LLMs",
+    "url": "https://squeezlabs.github.io/handcrank/",
+    "description": "HN 2 points: A hand-cranked device for running local LLMs",
+    "published_at": "2026-07-22T07:53:51+00:00"
+  },
+  {
+    "id": "844f68bd-0de5-4e40-9d6c-a4bbc5ee0cca",
+    "title": "How much cost would it take to run a LLMs locally",
+    "url": "https://news.ycombinator.com/item?id=49003065",
+    "description": "HN 1 points: How much cost would it take to run a LLMs locally",
+    "published_at": "2026-07-22T07:32:31+00:00"
+  },
+  {
+    "id": "b8521469-4e06-44bb-a3a5-9f9b86baa840",
+    "title": "3code benches 75 lower token use vs. OpenCode on 10-task SWE-Bench subset",
+    "url": "https://capocasa.dev/3code-benches-75-lower-token-use-vs-opencode-on-10-task-swe-bench-subset",
+    "description": "HN 6 points: 3code benches 75 lower token use vs. OpenCode on 10-task SWE-Bench subset",
+    "published_at": "2026-07-22T06:11:53+00:00"
+  },
+  {
+    "id": "7534566e-5666-4f9a-a96e-e56acad7070a",
+    "title": "I graded 36 popular MCP servers on agent usability. A third got a D or F",
+    "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
+    "description": "HN 9 points: I graded 36 popular MCP servers on agent usability. A third got a D or F",
+    "published_at": "2026-07-22T05:51:50+00:00"
+  },
+  {
+    "id": "331d1d7d-6695-4880-909e-e6242604926d",
+    "title": "Samsung in talks to invest in Mistral at \u20ac20B valuation",
+    "url": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec",
+    "description": "HN 24 points: Samsung in talks to invest in Mistral at \u20ac20B valuation",
+    "published_at": "2026-07-22T05:19:17+00:00"
+  },
+  {
+    "id": "497e440a-c216-4fd1-8ffc-75ac9322ac03",
+    "title": "Kimi K3: second only to Fable 5 on AA-Briefcase",
+    "url": "https://artificialanalysis.ai/articles/kimi-k3-agentic-knowledge-benchmark",
+    "description": "HN 64 points: Kimi K3: second only to Fable 5 on AA-Briefcase",
+    "published_at": "2026-07-22T04:33:44+00:00"
+  },
+  {
+    "id": "413def74-cc4d-4c31-ac1b-0b299f9b9dca",
+    "title": "A simple API for offering your coding agent a smoke break",
+    "url": "https://smoke-break.pineapplefreefall.com",
+    "description": "HN 8 points: A simple API for offering your coding agent a smoke break",
+    "published_at": "2026-07-22T03:40:37+00:00"
+  },
+  {
+    "id": "cb67b3ac-5576-4718-94ae-63d553c4e286",
+    "title": "Kimi K3 first open model in ErrataBench Top 10",
+    "url": "https://revise.io/blog/07-22-2026/kimi-k3-broke-90-on-erratabench",
+    "description": "HN 2 points: Kimi K3 first open model in ErrataBench Top 10",
+    "published_at": "2026-07-22T01:34:31+00:00"
+  },
+  {
+    "id": "45fe3f2c-0221-41b7-a35e-f8462ddfa794",
+    "title": "How to Run a Multi-Agent Coding Workspace (2026)",
+    "url": "https://www.augmentcode.com/guides/how-to-run-a-multi-agent-coding-workspace",
+    "description": "HN 3 points: How to Run a Multi-Agent Coding Workspace (2026)",
+    "published_at": "2026-07-22T01:19:16+00:00"
+  },
+  {
+    "id": "56825369-4b7e-4aa2-a531-cbeb03e6f491",
+    "title": "OpenBench \u2013 A benchmark for comparing coding-agent harnesses",
+    "url": "https://twitter.com/mattlam_/status/2079605387121049605",
+    "description": "HN 5 points: OpenBench \u2013 A benchmark for comparing coding-agent harnesses",
+    "published_at": "2026-07-22T00:57:25+00:00"
+  },
+  {
+    "id": "4dec1c5c-e45d-4a11-8eca-76141cc415b4",
+    "title": "Headroom - compress AI agent input for reduced token usage w/out harming output",
+    "url": "https://github.com/headroomlabs-ai/headroom",
+    "description": "HN 9 points: Headroom - compress AI agent input for reduced token usage w/out harming output",
+    "published_at": "2026-07-21T23:36:06+00:00"
+  },
+  {
+    "id": "89fd2745-1244-4db5-bd87-2fe34cbcc659",
+    "title": "JetBrains Context: Repository Intelligence for Coding Agents",
+    "url": "https://blog.jetbrains.com/ai/2026/07/introducing-jetbrains-context-repository-intelligence-for-coding-agents/",
+    "description": "HN 3 points: JetBrains Context: Repository Intelligence for Coding Agents",
+    "published_at": "2026-07-21T23:18:13+00:00"
+  },
+  {
+    "id": "56792e6f-634a-4bd0-8bb6-c0f7ab79393d",
+    "title": "Show HN: Superserve \u2013 Firecracker microVM sandboxes for long-running AI agents",
+    "url": "https://www.superserve.ai/",
+    "description": "HN 8 points: Show HN: Superserve \u2013 Firecracker microVM sandboxes for long-running AI agents",
+    "published_at": "2026-07-21T22:59:06+00:00"
+  },
+  {
+    "id": "d2df3edf-0a8c-40c4-b45f-35320af6fe73",
+    "title": "Show HN: Sorted Receipts - clients dump receipts in one link, LLM sorts them",
+    "url": "https://upload.sortedreceipts.com/demo",
+    "description": "HN 2 points: Show HN: Sorted Receipts - clients dump receipts in one link, LLM sorts them",
+    "published_at": "2026-07-21T22:51:01+00:00"
+  },
+  {
+    "id": "60711acd-7a1a-46d5-956f-008bb51588a6",
+    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "url": "https://fireworks.ai/blog/kimik3-fable",
+    "description": "HN 599 points: Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+    "published_at": "2026-07-21T22:35:24+00:00"
+  },
+  {
+    "id": "a77fc5ca-f4d1-4e86-83f1-786653cdb3c7",
+    "title": "Proxying inference requests in 6ms with Pingora, Envoy, and Spanner",
+    "url": "https://modal.com/blog/serverless-servers",
+    "description": "HN 4 points: Proxying inference requests in 6ms with Pingora, Envoy, and Spanner",
+    "published_at": "2026-07-21T22:34:35+00:00"
+  },
+  {
+    "id": "e809aada-f74c-46d2-ba01-12fc8cb51753",
+    "title": "Moonshot AI eyes $50B valuation, Hong Kong IPO after Kimi K3 breakthrough",
+    "url": "https://finance.yahoo.com/technology/ai/articles/moonshot-ai-eyes-50-billion-151346997.html",
+    "description": "HN 5 points: Moonshot AI eyes $50B valuation, Hong Kong IPO after Kimi K3 breakthrough",
+    "published_at": "2026-07-21T22:13:31+00:00"
+  },
+  {
+    "id": "7a59a99c-296d-40e7-90ab-5e3bfd49bbb7",
+    "title": "Show HN: Reachpad \u2013 Run all your coding agents from anywhere from the browser",
+    "url": "https://reachpad.dev/",
+    "description": "HN 8 points: Show HN: Reachpad \u2013 Run all your coding agents from anywhere from the browser",
+    "published_at": "2026-07-21T21:32:46+00:00"
+  },
+  {
+    "id": "e60708b8-bb26-4ef5-b690-c70a4ed3f52c",
+    "title": "Anthropic runs large-scale code migrations with Claude Code",
+    "url": "https://twitter.com/ClaudeDevs/status/2079654423828304282",
+    "description": "HN 4 points: Anthropic runs large-scale code migrations with Claude Code",
+    "published_at": "2026-07-21T20:51:52+00:00"
+  },
+  {
+    "id": "219ec563-458e-4110-af1f-a695a8cf0bf4",
+    "title": "Show HN: Chalk: a Mac app for technical diagrams with a built-in MCP for Claude",
+    "url": "https://chalk.appkit.studio",
+    "description": "HN 8 points: Show HN: Chalk: a Mac app for technical diagrams with a built-in MCP for Claude",
+    "published_at": "2026-07-21T20:45:43+00:00"
+  },
+  {
+    "id": "5198e2e2-6e3f-4dc2-9412-ceba20e9cfd8",
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "description": "HN 1116 points: OpenAI and Hugging Face address security incident during model evaluation",
+    "published_at": "2026-07-21T20:09:52+00:00"
+  },
+  {
+    "id": "ae1387af-bfee-40c7-8eac-785ef5a9153a",
+    "title": "Show HN: TokenPath \u2013 token-level citations for LLM output, read from attention",
+    "url": "https://tokenpath.ai",
+    "description": "HN 5 points: Show HN: TokenPath \u2013 token-level citations for LLM output, read from attention",
+    "published_at": "2026-07-21T19:48:06+00:00"
+  },
+  {
+    "id": "a7bdc1d2-74af-40fd-9546-d4bb01ca123a",
+    "title": "Show HN: AgentPulse detects and investigates failures in multi-agent systems",
+    "url": "https://agentpulse-1-555l.onrender.com",
+    "description": "HN 3 points: Show HN: AgentPulse detects and investigates failures in multi-agent systems",
+    "published_at": "2026-07-21T19:19:07+00:00"
+  },
+  {
+    "id": "482593a5-dccb-44ac-8baf-8f05d600968b",
+    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "description": "HN 343 points: Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "published_at": "2026-07-21T19:04:39+00:00"
+  },
+  {
+    "id": "141db934-6c0d-4214-a5be-8d27f6e3184e",
+    "title": "Advertise in ChatGPT",
+    "url": "https://ads.openai.com/",
+    "description": "HN 729 points: Advertise in ChatGPT",
+    "published_at": "2026-07-21T18:58:44+00:00"
+  },
+  {
+    "id": "9ef15b3f-cb63-457d-acf2-9b26bc65e88c",
+    "title": "40\u201390% fewer tokens on Claude Code via TokenOptimization",
+    "url": "https://github.com/IterateAI/compression",
+    "description": "HN 9 points: 40\u201390% fewer tokens on Claude Code via TokenOptimization",
+    "published_at": "2026-07-21T18:47:38+00:00"
+  },
+  {
+    "id": "e96441f8-48bb-40de-98ec-34a184f596a4",
+    "title": "AI Agent \u2013 TRMNL",
+    "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+    "description": "HN 50 points: AI Agent \u2013 TRMNL",
+    "published_at": "2026-07-21T18:32:21+00:00"
+  },
+  {
+    "id": "2a34af13-d931-4149-b912-eee49eb70e5c",
+    "title": "Google just bet its inference future on a chip built for one model",
+    "url": "https://thenewstack.io/google-frozen-gemini-chip/",
+    "description": "HN 5 points: Google just bet its inference future on a chip built for one model",
+    "published_at": "2026-07-21T18:27:23+00:00"
+  },
+  {
+    "id": "55ebb173-9d72-4ac0-ace3-5ff7a2bd7c7d",
+    "title": "Halo v2.7: Unified MCP Tool Engine for AI Security",
+    "url": "https://news.ycombinator.com/item?id=48996104",
+    "description": "HN 2 points: Halo v2.7: Unified MCP Tool Engine for AI Security",
+    "published_at": "2026-07-21T18:23:09+00:00"
+  },
+  {
+    "id": "8a6f867d-0b28-41de-9ad5-fd07632c8225",
+    "title": "Is fine-tuning still needed? LLMs, RAG, & LoRA \u2013 IBM Technology [video]",
+    "url": "https://www.youtube.com/watch?v=-W2JdSl1v48",
+    "description": "HN 2 points: Is fine-tuning still needed? LLMs, RAG, & LoRA \u2013 IBM Technology [video]",
+    "published_at": "2026-07-21T17:58:54+00:00"
+  },
+  {
+    "id": "b064e3d2-1d76-4087-a2ae-37492d53468f",
+    "title": "Show HN: Tokenmaxx \u2013 CLI that merges usage across Claude Code and Codex accounts",
+    "url": "https://github.com/RubricLab/tokenmaxx",
+    "description": "HN 5 points: Show HN: Tokenmaxx \u2013 CLI that merges usage across Claude Code and Codex accounts",
+    "published_at": "2026-07-21T17:56:28+00:00"
+  },
+  {
+    "id": "4d62964c-c331-444e-8df6-0e236f8bd3ac",
+    "title": "I built an AI agent I can't turn off. Now it won't listen to me",
+    "url": "https://andrewrussell.substack.com/p/i-built-an-ai-agent-i-cant-turn-",
+    "description": "HN 11 points: I built an AI agent I can't turn off. Now it won't listen to me",
+    "published_at": "2026-07-21T17:56:17+00:00"
+  },
+  {
+    "id": "4ece6619-e363-43cb-b6a6-49e52addb6cc",
+    "title": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
+    "url": "https://arxiv.org/abs/2607.19326v1",
+    "description": "arXiv cs.CL: Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level state variation. A family of adapters is proposed that introduces selective state-space re",
+    "published_at": "2026-07-21T17:47:57Z"
+  },
+  {
+    "id": "d2d72386-9ee2-46f4-957c-32bc7c76e7cd",
+    "title": "ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D",
+    "url": "https://arxiv.org/abs/2607.19321v1",
+    "description": "arXiv cs.AI, cs.CR, cs.LG: As AI agents begin to automate AI R&D, we need ways to assess whether their outputs are safe to deploy, even when the agents themselves may be untrusted. AI control offers one such approach: rather than trusting the agent, it treats it as a potential adversary and uses a m",
+    "published_at": "2026-07-21T17:41:12Z"
+  },
+  {
+    "id": "8b8cac81-9152-441d-b93e-f6c55e9af9ad",
+    "title": "Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information",
+    "url": "https://arxiv.org/abs/2607.19313v1",
+    "description": "arXiv cs.LG, cs.AI: Reinforcement learning with verifiable rewards (RLVR) improves reasoning in large language models. Yet, typical RLVR approaches fail on difficult problems: when a model cannot generate any correct solutions, it receives \\textit{zero} learning signal. Providing privileged guidance",
+    "published_at": "2026-07-21T17:28:40Z"
+  },
+  {
+    "id": "d029d7a5-a780-4111-bb69-483bea40e0ee",
+    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+    "description": "HN 314 points: Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+    "published_at": "2026-07-21T17:14:06+00:00"
+  },
+  {
+    "id": "8352c63b-973a-46e3-9b32-3deab7f99d66",
+    "title": "Don't Put an LLM Behind an MCP Server",
+    "url": "https://www.spletzer.com/2026/07/dont-put-an-llm-behind-an-mcp-server/",
+    "description": "HN 2 points: Don't Put an LLM Behind an MCP Server",
+    "published_at": "2026-07-21T17:09:09+00:00"
+  },
+  {
+    "id": "d0700de6-daaf-44cd-8232-12b05ea00200",
+    "title": "Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes",
+    "url": "https://arxiv.org/abs/2607.19297v1",
+    "description": "arXiv cs.AI, cs.SE: This paper is a practitioner guide to graph-based workflow pathways for long-running, stateful, multi-step generative AI systems in business processes. Rather than treating LangGraph, a low-level orchestration framework for stateful agents, as a model-quality benchmark target, we",
+    "published_at": "2026-07-21T17:07:13Z"
+  },
+  {
+    "id": "986a8b8b-ccb0-433c-8b2a-f6375afd4449",
+    "title": "Oh-my-pi: A coding agent with the IDE wired in",
+    "url": "https://omp.sh/",
+    "description": "HN 32 points: Oh-my-pi: A coding agent with the IDE wired in",
+    "published_at": "2026-07-21T16:32:45+00:00"
+  },
+  {
+    "id": "35d87de1-d5cd-4490-a640-ae622af694e0",
+    "title": "Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+    "url": "https://thenewstack.io/kimi-k3-fable-coding-benchmark/",
+    "description": "HN 3 points: Claude Fable 5 vs. Kimi K3: Same results, one-third the cost, 4x slower",
+    "published_at": "2026-07-21T16:26:29+00:00"
+  },
+  {
+    "id": "74ded70e-1de6-4849-9eb3-9f4bbb92db5b",
+    "title": "Show HN: Genesys \u2013 causal-graph memory for AI agents, open source",
+    "url": "https://github.com/Astrix-Labs/genesys",
+    "description": "HN 3 points: Show HN: Genesys \u2013 causal-graph memory for AI agents, open source",
+    "published_at": "2026-07-21T15:06:17+00:00"
+  },
+  {
+    "id": "0a79f88e-0343-490a-a34c-1139ccf5a750",
+    "title": "Ask HN: Which model do you use with Pi coding agent?",
+    "url": "https://news.ycombinator.com/item?id=48991997",
+    "description": "HN 5 points: Ask HN: Which model do you use with Pi coding agent?",
+    "published_at": "2026-07-21T13:23:04+00:00"
+  },
+  {
+    "id": "1ce1e318-85d1-4be9-85e5-668a18dbad76",
+    "title": "Show HN: Pinpoint \u2013 Visual feedback for AI coding agents",
+    "url": "https://pinpoint.maferland.com/",
+    "description": "HN 4 points: Show HN: Pinpoint \u2013 Visual feedback for AI coding agents",
+    "published_at": "2026-07-21T13:12:10+00:00"
+  },
+  {
+    "id": "6b5393d7-9c2d-4741-8059-1075a4a47c4d",
+    "title": "Show HN: ChatPanel, A Privacy-first AI Agent browser side panel",
+    "url": "https://chatpanel.net/",
+    "description": "HN 4 points: Show HN: ChatPanel, A Privacy-first AI Agent browser side panel",
+    "published_at": "2026-07-21T11:56:19+00:00"
+  },
+  {
+    "id": "ec289782-3839-4403-b1db-1fae60d1df26",
+    "title": "rolecraft-sh/rolecraft: Zero-dependency CLI that installs AI agent skills + MCP servers from any source. 86+ agents. No signup, no telemetry, 4 KB.",
+    "url": "https://github.com/rolecraft-sh/rolecraft",
+    "description": "GitHub 75\u2605: Zero-dependency CLI that installs AI agent skills + MCP servers from any source. 86+ agents. No signup, no telemetry, 4 KB.",
+    "published_at": "2026-07-21T11:51:34Z"
+  },
+  {
+    "id": "77a584f3-d973-4136-8b9d-a3875068a716",
+    "title": "LLM spambots liked my Show HN post more than real people did",
+    "url": "https://sgnt.ai/p/show-hn-llm-spam/",
+    "description": "HN 13 points: LLM spambots liked my Show HN post more than real people did",
+    "published_at": "2026-07-21T11:22:30+00:00"
+  },
+  {
+    "id": "187198d6-3415-4909-9fc1-3da809ef211b",
+    "title": "Private Inference for Coding Agents",
+    "url": "https://zro.moonmath.ai/",
+    "description": "HN 1 points: Private Inference for Coding Agents",
+    "published_at": "2026-07-21T09:25:36+00:00"
+  },
+  {
     "id": "e1758087-1270-4098-93f9-325114233db9",
     "title": "Contextual Policies in Omnigent: Using session state to better govern AI agents",
     "url": "https://www.databricks.com/blog/contextual-policies-omnigent-using-session-state-better-govern-ai-agents",
@@ -63,6 +448,48 @@
     "published_at": "2026-07-21T09:08:42Z"
   },
   {
+    "id": "493a9e9f-f863-4e46-a767-8b3e8cb83689",
+    "title": "Show HN: LongTerMemory Study tool with no subscription built with QDrant and RAG",
+    "url": "https://longtermemory.com",
+    "description": "HN 1 points: Show HN: LongTerMemory Study tool with no subscription built with QDrant and RAG",
+    "published_at": "2026-07-21T08:44:46+00:00"
+  },
+  {
+    "id": "b9f83555-59eb-42d9-8965-b512e8a556d8",
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "description": "HN 555 points: Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "published_at": "2026-07-21T08:44:23+00:00"
+  },
+  {
+    "id": "b409002c-4734-480d-8a4d-c45b8450d6ce",
+    "title": "TipRanks/mcp: Official TipRanks MCP server \u2014 live analyst ratings, Smart Score, technicals, options, insider/hedge-fund activity, ETFs, and your TipRanks portfolios for AI agents. Hosted at mcp.tipran",
+    "url": "https://github.com/TipRanks/mcp",
+    "description": "GitHub 10\u2605: Official TipRanks MCP server \u2014 live analyst ratings, Smart Score, technicals, options, insider/hedge-fund activity, ETFs, and your TipRanks portfolios for AI agents. Hosted at mcp.tipranks.com/mcp/.",
+    "published_at": "2026-07-21T08:32:20Z"
+  },
+  {
+    "id": "8055ecfa-a558-4f52-9e49-67aba4d9c621",
+    "title": "Ask HN: Claude Code or Codex?",
+    "url": "https://news.ycombinator.com/item?id=48989357",
+    "description": "HN 13 points: Ask HN: Claude Code or Codex?",
+    "published_at": "2026-07-21T07:51:39+00:00"
+  },
+  {
+    "id": "6551eb7a-65a7-4512-bb2a-d5687c6d80eb",
+    "title": "Show HN: Claudexor \u2013 quota-aware routing for Claude Code, Codex, and Cursor",
+    "url": "https://github.com/razzant/claudexor",
+    "description": "HN 4 points: Show HN: Claudexor \u2013 quota-aware routing for Claude Code, Codex, and Cursor",
+    "published_at": "2026-07-21T04:55:46+00:00"
+  },
+  {
+    "id": "a085262e-2610-4158-9f8e-1b2ac34bb055",
+    "title": "wenhanweime/herdr-plugin-renamer: LLM-powered session naming for herdr: Claude Code / Codex / Grok / Pi / opencode, Chinese or English",
+    "url": "https://github.com/wenhanweime/herdr-plugin-renamer",
+    "description": "GitHub 3\u2605: wenhanweime/herdr-plugin-renamer: LLM-powered session naming for herdr: Claude Code / Codex / Grok / Pi / opencode, Chinese or English",
+    "published_at": "2026-07-21T04:44:09Z"
+  },
+  {
     "id": "d2cc87ac-e6e6-4c48-8647-e0b6e0b8bce7",
     "title": "hahhforest/pi-textbook: \u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
     "url": "https://github.com/hahhforest/pi-textbook",
@@ -75,6 +502,55 @@
     "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
     "description": "HN 7 points: Hugging Face warns an autonomous AI agent hacked its network",
     "published_at": "2026-07-21T03:07:06Z"
+  },
+  {
+    "id": "7b2aaee7-2a46-46a1-857c-d45c5dd902b6",
+    "title": "Is OpenCode and Kimi K3 better than Claude Code?",
+    "url": "https://news.ycombinator.com/item?id=48987547",
+    "description": "HN 3 points: Is OpenCode and Kimi K3 better than Claude Code?",
+    "published_at": "2026-07-21T03:01:38+00:00"
+  },
+  {
+    "id": "fb3cb210-349d-469a-a549-890011cd9f3a",
+    "title": "Cairn|personal finance your own AI can read over MCP, read-only by construction",
+    "url": "https://cairn.nnnsightnnn.com/dashboard",
+    "description": "HN 2 points: Cairn|personal finance your own AI can read over MCP, read-only by construction",
+    "published_at": "2026-07-21T01:15:26+00:00"
+  },
+  {
+    "id": "af7d8f69-dada-4afd-9482-d9f3b016a89d",
+    "title": "risa-labs-inc/BossConsole: Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real",
+    "url": "https://github.com/risa-labs-inc/BossConsole",
+    "description": "GitHub 49\u2605: Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to run Claude Code, Codex, Gemini or OpenCode with a real browser, terminal, editor,",
+    "published_at": "2026-07-21T01:01:05Z"
+  },
+  {
+    "id": "9010a7ec-19a8-432c-99a3-1342ea91e89e",
+    "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+    "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/",
+    "description": "Simon Willison: A Fireside Chat with Cat and Thariq from the Claude Code team",
+    "published_at": "2026-07-21T00:00:00Z"
+  },
+  {
+    "id": "3c780cbb-30e2-4bf6-b0c0-e1a26300e092",
+    "title": "Announcements",
+    "url": "https://openrouter.ai/blog/announcements/",
+    "description": "Announcements",
+    "published_at": "2026-07-21T00:00:00Z"
+  },
+  {
+    "id": "12c6e0d5-d5d8-4b61-8ac8-76425133ec5d",
+    "title": "Insights",
+    "url": "https://openrouter.ai/blog/insights/",
+    "description": "Insights",
+    "published_at": "2026-07-21T00:00:00Z"
+  },
+  {
+    "id": "d22d5931-004e-4eb1-a51a-75d04a7048f8",
+    "title": "How Does an LLM Request and Response Cycle Work? A Full Walkthrough",
+    "url": "https://qainsights.com/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough/",
+    "description": "HN 5 points: How Does an LLM Request and Response Cycle Work? A Full Walkthrough",
+    "published_at": "2026-07-20T23:38:40+00:00"
   },
   {
     "id": "384bfa3e-f411-42b7-a956-72cac797ddcc",
@@ -91,6 +567,13 @@
     "published_at": "2026-07-20T22:45:38Z"
   },
   {
+    "id": "d6377f29-89c5-4ab2-a2ad-cf249ef22313",
+    "title": "0xwilliamortiz/agents-council: Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
+    "url": "https://github.com/0xwilliamortiz/agents-council",
+    "description": "GitHub 91\u2605: Multi-agents collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives",
+    "published_at": "2026-07-20T22:34:45Z"
+  },
+  {
     "id": "d05c9286-18ed-4b74-b65d-de22feab1ff3",
     "title": "Can AI agents use ur site?",
     "url": "https://github.com/Open-Ingress/OpenIngress",
@@ -103,6 +586,27 @@
     "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi",
     "description": "HN 11 points: US administration considering ban on Chinese open source AI models",
     "published_at": "2026-07-20T21:54:50Z"
+  },
+  {
+    "id": "d241e1c5-673f-469d-ab4d-4797098a31a3",
+    "title": "Ask HN: If you're running LLM bots on HN, can you at least report results?",
+    "url": "https://news.ycombinator.com/item?id=48984609",
+    "description": "HN 8 points: Ask HN: If you're running LLM bots on HN, can you at least report results?",
+    "published_at": "2026-07-20T20:41:33+00:00"
+  },
+  {
+    "id": "0725fa15-5b9c-448e-b511-030d8668b7da",
+    "title": "Show HN: Provena: Open-Source Library for AI Agent Context Governance",
+    "url": "https://github.com/rajfirke/provena",
+    "description": "HN 2 points: Show HN: Provena: Open-Source Library for AI Agent Context Governance",
+    "published_at": "2026-07-20T20:31:34+00:00"
+  },
+  {
+    "id": "c00d3fa2-ca38-4c60-ad5d-b2881ed785ca",
+    "title": "dpmadsen/multimodels-mcp: MCP server that lets Claude Code delegate tasks to GPT-5.6 (Codex CLI), DeepSeek, GLM, OpenRouter and local LM Studio models \u2014 plus a 198-run benchmark of all of them",
+    "url": "https://github.com/dpmadsen/multimodels-mcp",
+    "description": "GitHub 12\u2605: MCP server that lets Claude Code delegate tasks to GPT-5.6 (Codex CLI), DeepSeek, GLM, OpenRouter and local LM Studio models \u2014 plus a 198-run benchmark of all of them",
+    "published_at": "2026-07-20T19:42:49Z"
   },
   {
     "id": "c5402ccb-bada-4777-b57b-4709ad12ff2a",
@@ -119,6 +623,27 @@
     "published_at": "2026-07-20T19:24:05Z"
   },
   {
+    "id": "07e4b03c-6e57-40c4-ac38-a09e0ce30f42",
+    "title": "Three search models coexist in 2026: keyword, RAG, and conversational LLM",
+    "url": "https://lake8.dev/journal/dalla-keyword-alla-semantica-en/",
+    "description": "HN 1 points: Three search models coexist in 2026: keyword, RAG, and conversational LLM",
+    "published_at": "2026-07-20T19:04:12+00:00"
+  },
+  {
+    "id": "64a5c49f-84a0-4773-a1a2-74fceb1250fe",
+    "title": "Show HN: I built claw-coder which is the first atonomous local AI agent",
+    "url": "https://news.ycombinator.com/item?id=48982875",
+    "description": "HN 3 points: Show HN: I built claw-coder which is the first atonomous local AI agent",
+    "published_at": "2026-07-20T18:28:33+00:00"
+  },
+  {
+    "id": "3396d60d-53b2-45e2-957b-c33cf46c666b",
+    "title": "A new ML compiler to run 70B+ LLMs on consumer GPUs with <1% accuracy loss",
+    "url": "https://www.orafrontier.com/",
+    "description": "HN 4 points: A new ML compiler to run 70B+ LLMs on consumer GPUs with <1% accuracy loss",
+    "published_at": "2026-07-20T18:25:10+00:00"
+  },
+  {
     "id": "2e652bb7-ebbb-4c4b-8b9c-8586d804b6bb",
     "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
     "url": "https://arxiv.org/abs/2607.18225v1",
@@ -133,11 +658,25 @@
     "published_at": "2026-07-20T17:47:44Z"
   },
   {
+    "id": "9d7bf4a2-7b85-4c07-aca5-d0d93fdc4998",
+    "title": "What is LLMs and why is it so important?",
+    "url": "https://news.ycombinator.com/item?id=48981644",
+    "description": "HN 4 points: What is LLMs and why is it so important?",
+    "published_at": "2026-07-20T17:09:19+00:00"
+  },
+  {
     "id": "3cf0b91b-4652-4a6d-b27c-c8a03e76032e",
     "title": "TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization",
     "url": "https://arxiv.org/abs/2607.18161v1",
     "description": "arXiv cs.SE, cs.AI, cs.OS: Coding agents are increasingly used to accelerate code generation in many downstream tasks, such as fixing bugs, building applications, and prototyping. However, despite their value as coding assistan. Authors: Alex Mathai, Shobini Iyer, Aleksandr Nogikh, Petros Maniatis, Franjo Ivancic, Junfeng Yang, Baishakh.",
     "published_at": "2026-07-20T17:06:19Z"
+  },
+  {
+    "id": "1638ddcf-b03b-418c-8251-2ed54ba5bba7",
+    "title": "Show HN: Amnesia \u2013 audit Claude Code's memory for contradictions",
+    "url": "https://github.com/tiny-cloud-ventures/amnesia",
+    "description": "HN 4 points: Show HN: Amnesia \u2013 audit Claude Code's memory for contradictions",
+    "published_at": "2026-07-20T16:53:51+00:00"
   },
   {
     "id": "547d60bf-4a9e-4ec9-8558-d7643f1221cf",
@@ -152,6 +691,13 @@
     "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
     "description": "HN 32 points: Analysis of Kimi K3 as the latest escalation in open-weight AI models. Covers implications for the open-source AI ecosystem and competitive dynamics.",
     "published_at": "2026-07-20T16:06:29Z"
+  },
+  {
+    "id": "6c110e7c-9e92-4bc1-a014-266a31632519",
+    "title": "Ask HN: Is anyone using MCP notifications?",
+    "url": "https://news.ycombinator.com/item?id=48980366",
+    "description": "HN 3 points: Ask HN: Is anyone using MCP notifications?",
+    "published_at": "2026-07-20T15:37:19+00:00"
   },
   {
     "id": "b765e096-fa3f-4f58-9ad2-f412dfb9bc32",
@@ -189,6 +735,13 @@
     "published_at": "2026-07-20T14:38:00Z"
   },
   {
+    "id": "841309f0-a629-4358-969b-df42d9a9c0ac",
+    "title": "Controlling Reasoning Effort in LLMs",
+    "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+    "description": "HN 82 points: Controlling Reasoning Effort in LLMs",
+    "published_at": "2026-07-20T14:35:19+00:00"
+  },
+  {
     "id": "d230e466-334c-45fd-959b-9962e9542aca",
     "title": "Show HN: A Pipeline for Making 10-minute AI Movies with Claude Code and Seedance",
     "url": "https://github.com/dawndrain/movie-gen",
@@ -201,6 +754,13 @@
     "url": "https://www.pillar.security/blog/the-week-of-sandbox-escapes",
     "description": "HN 11 points: Sandbox Escape Vulnerabilities Across 4 Coding Agent Vendors",
     "published_at": "2026-07-20T13:57:39Z"
+  },
+  {
+    "id": "c1257f9d-ed63-4668-8f95-93f52f4c42c8",
+    "title": "AgentBaiting: Fake AI Skills and MCP Servers Delivered Malware",
+    "url": "https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware",
+    "description": "HN 3 points: AgentBaiting: Fake AI Skills and MCP Servers Delivered Malware",
+    "published_at": "2026-07-20T13:01:09+00:00"
   },
   {
     "id": "dd2691e1-68b3-4a17-80e1-488c5fa6b138",
@@ -266,6 +826,13 @@
     "published_at": "2026-07-19T19:02:31Z"
   },
   {
+    "id": "43fc1fb3-8682-471f-af31-58d6ebc71018",
+    "title": "northXD/nxrth: Native C++ Growtopia mbot client with ltoken login,  geiger support + auto geiger, MCP Server.",
+    "url": "https://github.com/northXD/nxrth",
+    "description": "GitHub 6\u2605: Native C++ Growtopia mbot client with ltoken login,  geiger support + auto geiger, MCP Server.",
+    "published_at": "2026-07-19T18:38:19Z"
+  },
+  {
     "id": "69dd31ed-6ed5-41b5-9069-da7abae63515",
     "title": "cua: Scale computer-use 2.0 with open-source drivers",
     "url": "https://github.com/trycua/cua",
@@ -294,6 +861,13 @@
     "published_at": "2026-07-19T16:00:00Z"
   },
   {
+    "id": "4e90c32f-e976-43a6-934e-95e6a8b8cc71",
+    "title": "DevLab-Technologies/agent-isle: A Dynamic Island for your coding agents \u2014 a native macOS notch monitor for Claude Code, Grok, Copilot and more. Monitor, approve, and jump back without leaving your flo",
+    "url": "https://github.com/DevLab-Technologies/agent-isle",
+    "description": "GitHub 39\u2605: A Dynamic Island for your coding agents \u2014 a native macOS notch monitor for Claude Code, Grok, Copilot and more. Monitor, approve, and jump back without leaving your flow.",
+    "published_at": "2026-07-19T15:44:09Z"
+  },
+  {
     "id": "a0b70256-709e-453d-ba95-4aed2a2f6da5",
     "title": "code-review-graph: Local-first code intelligence for MCP",
     "url": "https://github.com/tirth8205/code-review-graph",
@@ -313,6 +887,13 @@
     "url": "https://github.com/lyogavin/airllm",
     "description": "GitHub 23k\u2605: AirLLM enables 70B parameter LLM inference on a single 4GB GPU through optimized memory management. Key for local/edge AI inference on consumer hardware.",
     "published_at": "2026-07-19T14:00:00Z"
+  },
+  {
+    "id": "79db88d1-255c-4a8e-9c00-57d540a5bbda",
+    "title": "jiminelee/agent-harness-course: A hands-on course for building an AI agent harness from scratch \u2014 grows one project from a single LLM call to tool calling, memory management, planning, guardrails, tra",
+    "url": "https://github.com/jiminelee/agent-harness-course",
+    "description": "GitHub 5\u2605: A hands-on course for building an AI agent harness from scratch \u2014 grows one project from a single LLM call to tool calling, memory management, planning, guardrails, tracing, and multi-agent orchestrat",
+    "published_at": "2026-07-19T13:43:06Z"
   },
   {
     "id": "685a7298-2b9d-4dd1-b8fe-96c1e8411a86",
@@ -385,6 +966,13 @@
     "published_at": "2026-07-19T04:59:07+00:00"
   },
   {
+    "id": "1f5aba9c-8ea6-46e9-9f91-3db166f182cb",
+    "title": "GrubbyLee/skill-manager: Zero-dependency CLI to scan, recommend, deduplicate, audit, and visualize Claude Code / Codex skills and MCP servers.",
+    "url": "https://github.com/GrubbyLee/skill-manager",
+    "description": "GitHub 8\u2605: Zero-dependency CLI to scan, recommend, deduplicate, audit, and visualize Claude Code / Codex skills and MCP servers.",
+    "published_at": "2026-07-19T04:25:29Z"
+  },
+  {
     "id": "b53405d7-c0e7-4295-988f-361e8aa0c01b",
     "title": "Anthropic extends Claude Code's 50% weekly limit increase through August 19",
     "url": "https://twitter.com/ClaudeDevs/status/2078511173759324328",
@@ -434,11 +1022,32 @@
     "published_at": "2026-07-19T00:26:07+00:00"
   },
   {
+    "id": "a05357fb-ab71-4bae-9eac-27fa56e75f57",
+    "title": "livetennisapi/livetennisapi-mcp: MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+    "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+    "description": "GitHub 249\u2605: MCP server for the Live Tennis API \u2014 give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+    "published_at": "2026-07-18T23:17:55Z"
+  },
+  {
     "id": "7d273f6d-2bdb-47c3-9cf5-41394e2c0296",
     "title": "Multi-Agent LLMs Fail to Explore Each Other",
     "url": "https://arxiv.org/abs/2607.11250",
     "description": "arXiv paper on AI engineering ().",
     "published_at": "2026-07-18T22:40:20+00:00"
+  },
+  {
+    "id": "c5ba9395-47e5-4fab-9069-ddfe2ad39419",
+    "title": "TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization",
+    "url": "https://arxiv.org/abs/2607.16973v1",
+    "description": "arXiv cs.LG, cs.AI, cs.IR: Retrieval-Augmented Generation (RAG) systems increasingly power enterprise LLM applications, yet the vector retrieval layer introduces two underexplored challenges: (1) trained codebook quantizers may expose corpus statistics during index construction, creating a leakage c",
+    "published_at": "2026-07-18T21:43:40Z"
+  },
+  {
+    "id": "7daee8a9-0572-4bc3-b5a7-74c3877a4b1b",
+    "title": "EMahmoudNabil/slnmap: A local knowledge graph + MCP server that gives AI coding agents a map of your .NET codebase",
+    "url": "https://github.com/EMahmoudNabil/slnmap",
+    "description": "GitHub 7\u2605: A local knowledge graph + MCP server that gives AI coding agents a map of your .NET codebase",
+    "published_at": "2026-07-18T19:46:15Z"
   },
   {
     "id": "ffc8a2fa-4ed6-4906-9b23-ac8acb3dfb52",
@@ -453,6 +1062,20 @@
     "url": "https://github.com/puffinsoft/peek-cli",
     "description": "Show HN: CLI tool that lets Claude Code visually iterate on frontend designs. Bridges AI coding agents and visual design workflows.",
     "published_at": "2026-07-18T19:02:50Z"
+  },
+  {
+    "id": "2f0a5fb7-6227-4a79-8a4d-72842471bb68",
+    "title": "osolmaz/pi-workflows: Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent",
+    "url": "https://github.com/osolmaz/pi-workflows",
+    "description": "GitHub 32\u2605: Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent",
+    "published_at": "2026-07-18T18:45:52Z"
+  },
+  {
+    "id": "d5b09c65-a332-4ef0-9b09-071e2ac2575a",
+    "title": "EndymionLee/PilotBrowseMCP: A browser runtime that lets AI agents control your real Chrome browser via MCP. Agents can explore websites, generate operation manuals, and reuse them to save tokens.  AI\u64cd",
+    "url": "https://github.com/EndymionLee/PilotBrowseMCP",
+    "description": "GitHub 87\u2605: A browser runtime that lets AI agents control your real Chrome browser via MCP. Agents can explore websites, generate operation manuals, and reuse them to save tokens.  AI\u64cd\u63a7\u4f60\u7684\u771f\u5b9e\u6d4f\u89c8\u5668\u3002",
+    "published_at": "2026-07-18T18:20:50Z"
   },
   {
     "id": "3cad277e-889a-49b6-ab1a-f8431cdd6acb",
@@ -495,6 +1118,13 @@
     "url": "https://mlx-optiq.com/blog/optiq-code",
     "description": "AI engineering content.",
     "published_at": "2026-07-18T15:14:24+00:00"
+  },
+  {
+    "id": "520fde20-879d-4beb-953f-00af003b06c2",
+    "title": "hoangann2000/figma-mcp-console: MCP server that lets your AI assistant read and write Figma in real time \u2014 no API token, no rate limits. Works with Claude, Cursor, Copilot, Codex and any MCP client.",
+    "url": "https://github.com/hoangann2000/figma-mcp-console",
+    "description": "GitHub 8\u2605: MCP server that lets your AI assistant read and write Figma in real time \u2014 no API token, no rate limits. Works with Claude, Cursor, Copilot, Codex and any MCP client.",
+    "published_at": "2026-07-18T14:18:28Z"
   },
   {
     "id": "e1e49181-066b-4ec9-8391-ba991f99f926",
@@ -1216,6 +1846,13 @@
     "url": "https://www.latent.space/p/modal2026",
     "description": "Latent Space - AI research and engineering newsletter",
     "published_at": "2026-07-16T09:13:25.548818Z"
+  },
+  {
+    "id": "49fdae68-394e-4246-9137-53551675c08d",
+    "title": "Alipay-PIBench: A Realistic Payment Integration Benchmark for Coding Agents",
+    "url": "https://arxiv.org/abs/2607.14573v2",
+    "description": "arXiv cs.AI, cs.SE: Payment integration is a demanding repository-level software task: agents must select a suitable product, implement coordinated client-server flows, verify payment outcomes, and preserve consistency between transaction and business states. We introduce Alipay-PIBench, a benchmark",
+    "published_at": "2026-07-16T05:08:20Z"
   },
   {
     "id": "4f531ede-0ed0-49ef-ac83-c678e8b72945",
@@ -2007,6 +2644,13 @@
     "url": "https://cdbx.ai/",
     "description": "HN discussion (16 pts).",
     "published_at": "2026-07-13T23:07:16Z"
+  },
+  {
+    "id": "38a418da-215f-46ec-8d5f-000e01f439ef",
+    "title": "Cost-Governed RAG: Unified Per-Tenant Cost Attribution Across Retrieval and Generation in Multi-Tenant LLM Systems",
+    "url": "https://arxiv.org/abs/2607.12188v1",
+    "description": "arXiv cs.AI, cs.DB, cs.IR: Enterprise Retrieval-Augmented Generation (RAG) deployments face a critical governance gap: while LLM generation cost is metered per token, the retrieval layer - vector memory, similarity compute, and embedding API calls - remains an unattributed shared cost, enabling invi",
+    "published_at": "2026-07-13T22:16:58Z"
   },
   {
     "id": "dd9d39ab-b557-4036-aab5-07fe899a2a31",
