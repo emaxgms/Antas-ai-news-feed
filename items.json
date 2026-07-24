@@ -1,5 +1,54 @@
 [
   {
+    "id": "004f380f-d9a7-4423-b631-d4a515d489a4",
+    "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+    "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/",
+    "description": "Simon Willison analyzes the 'runaway AI agent' story — questioning whether it's a genuine safety incident or marketing, with technical examination of agent sandboxing failures.",
+    "published_at": "2026-07-23T22:53:08Z"
+  },
+  {
+    "id": "1e7cda5c-8f9d-486a-8491-82d20bbab829",
+    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+    "url": "https://arxiv.org/abs/2607.21557",
+    "description": "Framework making inference harnesses (Claude Code, Codex, OpenClaw) trainable end-to-end with open infrastructure — bridging agent deployments with standard RL training.",
+    "published_at": "2026-07-23T17:38:30Z"
+  },
+  {
+    "id": "27509dad-fb15-4520-9c56-3f8b114a2b54",
+    "title": "Agentic Context Management: Solving Agent Memory and Cost as Architecture Problems",
+    "url": "https://arxiv.org/abs/2607.21503",
+    "description": "Production agents fail because they can't manage context: conversation histories, prompts, tool definitions. Proposes lifecycle-based context management.",
+    "published_at": "2026-07-23T16:51:31Z"
+  },
+  {
+    "id": "e2bdb653-79d4-4fc4-a3d1-361477836943",
+    "title": "VinvAI: Prove AI agent outputs correct — traces + code graph over MCP (24★)",
+    "url": "https://github.com/VinvAI/VinvAI",
+    "description": "Verification system over MCP: real traces, live code graph, closed-loop verification that agent outputs are correct.",
+    "published_at": "2026-07-23T16:42:09Z"
+  },
+  {
+    "id": "86906d74-b434-4b8b-ba44-46f6a3972765",
+    "title": "Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog",
+    "url": "https://arxiv.org/abs/2607.21412",
+    "description": "MCP server giving LLMs access to deterministic logical reasoning via Prolog for multi-step reasoning in safety-critical domains.",
+    "published_at": "2026-07-23T15:15:37Z"
+  },
+  {
+    "id": "8aaa6644-7d91-48da-ab18-eef2f7bc4644",
+    "title": "Meet KARL: A faster agent for enterprise knowledge, powered by custom RL",
+    "url": "https://www.databricks.com/blog/meet-karl-faster-agent-enterprise-knowledge-powered-custom-rl",
+    "description": "Databricks introduces KARL enterprise knowledge agent trained with custom RL for governed environments.",
+    "published_at": "2026-07-23T12:00:00Z"
+  },
+  {
+    "id": "a7ad8d7b-baa3-4f4e-b539-447738eaa1b0",
+    "title": "TokenScope: See where your Claude Code tokens actually go (5★)",
+    "url": "https://github.com/AviVAvi/TokenScope",
+    "description": "Profiles Claude Code session logs, scores context hygiene 0-100, generates fixes from your own measurements. Zero deps.",
+    "published_at": "2026-07-23T06:50:03Z"
+  },
+  {
     "title": "AgentNest: self-hosted sandboxes for AI agents",
     "url": "https://github.com/mihirahuja1/agentnestOSS",
     "description": "Open-source self-hosted sandbox platform for running AI agents in isolated environments with resource limits and monitoring.",
@@ -12,6 +61,27 @@
     "description": "Open-source autonomous coding agent platform — local-first alternative to Devin with sandboxed code execution and task planning.",
     "published_at": "2026-07-23T01:00:00Z",
     "id": "27453bf5-877a-4fb3-bee2-a97ba323a1ea"
+  },
+  {
+    "id": "1ee2738b-4dc9-44dc-b8bd-2c2b00f4664c",
+    "title": "Show HN: Millwright – Rust-based, self-hosted LLM router",
+    "url": "https://news.ycombinator.com/item?id=49011806",
+    "description": "Rust-based self-hosted LLM routing proxy with model selection, load balancing, and fallback across inference backends.",
+    "published_at": "2026-07-22T19:03:50Z"
+  },
+  {
+    "id": "deb32890-8878-4a07-98ee-ea6c82a4f615",
+    "title": "Grok is a surprisingly good automated theorem prover",
+    "url": "https://news.ycombinator.com/item?id=49010310",
+    "description": "HN discussion on Grok's automated theorem proving capabilities with technical analysis.",
+    "published_at": "2026-07-22T17:28:39Z"
+  },
+  {
+    "id": "7836652e-cbe8-4b56-8e22-b3fb773e602b",
+    "title": "Orchestrions — a roundup of AI agent orchestration frameworks",
+    "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions/",
+    "description": "Survey of rapidly expanding coding agent harness, orchestrator, and multi-agent coordination tool ecosystem.",
+    "published_at": "2026-07-22T14:48:52Z"
   },
   {
     "title": "It's not a 'rogue AI' when a badly made security harness executes scripts",
@@ -33,6 +103,13 @@
     "description": "Novel approach using programmatic memory to enable LLM agents to sustain reasoning across long horizons, showing strong results on ARC-AGI-3 and continual learning benchmarks.",
     "published_at": "2026-07-22T12:00:00Z",
     "id": "e58ac4b0-a5fb-49e1-8a59-b92d0e6a9cea"
+  },
+  {
+    "id": "7f0e7e08-e854-4bdd-babe-46d722dcc95d",
+    "title": "Are LLM agents good at join order optimization?",
+    "url": "https://www.databricks.com/blog/are-llm-agents-good-join-order-optimization",
+    "description": "Evaluates LLM agents on database query optimization against traditional query optimizers for join order selection.",
+    "published_at": "2026-07-22T12:00:00Z"
   },
   {
     "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
@@ -1041,6 +1118,13 @@
     "description": "Analysis of how AI coding agents need richer context about codebases than simple grep-based retrieval, arguing for semantic understanding in coding harnesses.",
     "published_at": "2026-07-20T10:00:00Z",
     "id": "ca02f95f-5608-42ef-bcc1-1c56be43139d"
+  },
+  {
+    "id": "718f11c4-13ed-4194-845f-2c48e23943d8",
+    "title": "SmartSpider: Multi-session Spider for Scrapling (web scraping framework)",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "description": "Scrapling web scraping framework with anti-bot bypass, stealth browser automation, and spider crawling via CLI and Python. Multi-session spider supports routing to different fetcher types.",
+    "published_at": "2026-07-20T10:00:00Z"
   },
   {
     "id": "1fa7bcbb-9497-4c70-8718-3fdf7aa7fcda",
