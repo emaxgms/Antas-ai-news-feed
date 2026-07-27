@@ -245,6 +245,13 @@
     "id": "37445e4e-02f0-422f-8b50-692fca8bd7e5"
   },
   {
+    "title": "Quoting Boris Cherny: Commentary on AI development landscape",
+    "url": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
+    "description": "Simon Willison quotes Boris Cherny on AI development, covering coding agent capabilities and the evolving landscape of AI-assisted software engineering.",
+    "published_at": "2026-07-25T00:42:59Z",
+    "id": "a70077bc-d7fa-4552-8675-3774cb9ac11d"
+  },
+  {
     "id": "8cad8dbf-ef94-4ada-b881-801d9a9d57c0",
     "title": "Introducing Claude Opus 5",
     "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
@@ -2359,6 +2366,13 @@
     "published_at": "2026-07-17T13:46:03+00:00"
   },
   {
+    "id": "a2ffe100-0a38-4ae0-9a24-8abd4d42d20d",
+    "title": "Quoting Kimi K3",
+    "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+    "description": "Simon Willison's blog post on AI and developer tooling.",
+    "published_at": "2026-07-17T13:43:53+00:00"
+  },
+  {
     "id": "f9416529-d55f-4cfc-91b5-97ad581897a8",
     "title": "VulnHunter: Capital One's agentic AI code security tool",
     "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter",
@@ -2644,6 +2658,13 @@
     "url": "https://arxiv.org/abs/2607.15258v1",
     "description": "The growing use of Bitcoin as a decentralized digital asset and investment tool has sparked strong interest in understanding its market behavior. This study presents a new approach to analyze Bitcoin...",
     "published_at": "2026-07-16T17:52:26Z"
+  },
+  {
+    "id": "4ad02f31-735f-4917-8c13-b30bec08a65f",
+    "title": "Quoting Thibault Sottiaux",
+    "url": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+    "description": "Simon Willison's blog post on AI and developer tooling.",
+    "published_at": "2026-07-16T17:45:59+00:00"
   },
   {
     "id": "bc557889-bac6-4e99-a5e7-adc5e0386dc1",
@@ -3176,6 +3197,13 @@
     "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
     "description": "Hacker News: 10 points.",
     "published_at": "2026-07-14T23:51:57+00:00"
+  },
+  {
+    "id": "b965d23e-d31c-40b9-a822-179c1d202dff",
+    "title": "Quoting GitHub Changelog",
+    "url": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
+    "description": "Simon Willison's blog post on AI and developer tooling.",
+    "published_at": "2026-07-14T22:43:35+00:00"
   },
   {
     "id": "f18789f6-b02c-48ef-aab7-f02b8e033052",
@@ -5010,6 +5038,13 @@
     "description": "Hacker News discussion: HN: 18 points.",
     "published_at": "2026-07-08T20:21:45Z",
     "id": "af052368-8ba2-402e-abad-54883c7a8f76"
+  },
+  {
+    "id": "f8afb631-4db8-4258-9687-7edbdcde17fb",
+    "title": "Quoting Kenton Varda \u2014 Cap'n Proto creator on AI agent tool design",
+    "url": "https://simonwillison.net/2026/Jul/8/kenton-varda/",
+    "description": "Simon Willison quotes Kenton Varda (Cap'n Proto creator, Cloudflare) on design patterns for AI agent tool systems, covering sandboxing, capability-based security, and how agent tool design parallels protocol design.",
+    "published_at": "2026-07-08T20:03:34Z"
   },
   {
     "title": "Show HN: Skill-extractor turns coding agent transcripts into reusable skills",
