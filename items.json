@@ -1,5 +1,145 @@
 [
   {
+    "id": "e9279552-cced-4573-8abd-a2d4ac784fd4",
+    "title": "Neutrino-1 8B: New open-weight model from Fermion Research",
+    "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+    "description": "Fermion Research releases Neutrino-1 8B, an open-weight language model optimized for reasoning and coding tasks \u2014 with architecture details and benchmark comparisons. 74+ HN points.",
+    "published_at": "2026-07-28T04:49:54Z"
+  },
+  {
+    "id": "3ad2069f-2bbb-4c9f-a761-7188d0388aa9",
+    "title": "PyTorch: A Reference Language",
+    "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+    "description": "PyTorch team proposes using PyTorch itself as a reference language for compiler research \u2014 exploring the implications for AI compiler design, hardware co-design, and model optimization. 29+ HN points.",
+    "published_at": "2026-07-28T04:46:00Z"
+  },
+  {
+    "id": "52e2e6c7-1cf0-4d97-8487-04c2cf064099",
+    "title": "The age of token efficiency, the age of libraries",
+    "url": "https://golemui.com/blog/the-age-of-token-efficiency/",
+    "description": "Essay on how token efficiency and library design intersect in the LLM era \u2014 why prompt engineering needs software engineering patterns and composable toolkits. 25+ HN points.",
+    "published_at": "2026-07-28T03:56:08Z"
+  },
+  {
+    "id": "de91eeae-af3e-46ed-8c03-7926802de173",
+    "title": "Using an open model feels surprisingly good",
+    "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+    "description": "Matthew Saltz on the experience of switching from proprietary LLMs to open-weight models \u2014 covering inference speed, quality, cost, and the psychological shift. 272+ HN points.",
+    "published_at": "2026-07-28T02:37:14Z"
+  },
+  {
+    "id": "4297aedc-c02a-4b04-aadf-284c851e010a",
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "description": "Case study showing a $500 RL fine-tune of a 9B open-weight model outperforming frontier models on e-commerce catalog review \u2014 practical implications for fine-tune vs API economics. 171+ HN points.",
+    "published_at": "2026-07-28T02:18:53Z"
+  },
+  {
+    "id": "38d1235e-e4ea-415b-931e-4bdd716dbb90",
+    "title": "deltafin: Run Kimi K3 on a single Apple Silicon Mac (14\u2605)",
+    "url": "https://github.com/gavamedia/deltafin",
+    "description": "Run Kimi K3, a 2.8T-parameter MoE LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache \u2014 practical edge inference for open frontier models.",
+    "published_at": "2026-07-28T01:01:23Z"
+  },
+  {
+    "id": "9ef592f3-52aa-49a9-ba5d-f01bff7a4359",
+    "title": "Don't ask an LLM for a confidence score",
+    "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+    "description": "Technical analysis of why LLM confidence scores are unreliable \u2014 covering calibration issues, overconfidence patterns, and better approaches for uncertainty estimation in AI agents. 26+ HN points.",
+    "published_at": "2026-07-28T00:06:53Z"
+  },
+  {
+    "id": "bb3514ea-abef-4606-afad-94c8a48bee9d",
+    "title": "Kimi K3 Now Available via Telnyx Inference API",
+    "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+    "description": "Telnyx adds Kimi K3 (2.8T MoE) to its inference API lineup \u2014 providing API access to the open frontier model alongside competitive pricing analysis. 83+ HN points.",
+    "published_at": "2026-07-27T22:46:28Z"
+  },
+  {
+    "id": "936ce81c-6f43-4a1f-b531-98053cc2a872",
+    "title": "Benchmarking Opus 5 on SlopCodeBench",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+    "description": "Community benchmark of Claude Opus 5 against SlopCodeBench \u2014 evaluating code quality, hallucination rate, and practical coding performance. 274+ HN points.",
+    "published_at": "2026-07-27T22:37:52Z"
+  },
+  {
+    "id": "0d6b0fa3-0645-4429-b796-4efaa9503c37",
+    "title": "Our position on open-weights models",
+    "url": "https://www.anthropic.com/news/position-open-weights-models",
+    "description": "Anthropic publishes its stance on open-weight AI models \u2014 covering safety, economic implications, and regulatory framework for open vs closed model distribution. 876+ HN points.",
+    "published_at": "2026-07-27T22:03:49Z"
+  },
+  {
+    "id": "4436076e-3688-4062-85f7-3ff24b5bdb89",
+    "title": "An opinionated guide to which AI to use to do stuff",
+    "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+    "description": "Simon Willison's practical guide to choosing between AI models and tools for different tasks \u2014 covering coding, research, analysis, and creative work with specific recommendations.",
+    "published_at": "2026-07-27T21:55:53Z"
+  },
+  {
+    "id": "76fcbf59-431d-44f4-9c9c-0a0ca60ffe48",
+    "title": "Self-contained highly-portable Python distributions",
+    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+    "description": "Comprehensive documentation on standalone Python builds \u2014 covering portable Python distributions for AI tooling, deployment, and CI/CD environments. 144+ HN points.",
+    "published_at": "2026-07-27T18:43:31Z"
+  },
+  {
+    "id": "ca0d25d9-2740-4564-a044-e29a3739630a",
+    "title": "FeyNoBg: Automatic background removal model and training library",
+    "url": "https://usefeyn.com/blog/feynobg/",
+    "description": "Open-source automatic background removal model with accompanying training library \u2014 designed for easy fine-tuning on custom image domains. 106+ HN points.",
+    "published_at": "2026-07-27T16:59:08Z"
+  },
+  {
+    "id": "e7218246-0338-4e3b-8df1-39afdc268b02",
+    "title": "MAI-Cyber-1-Flash: Microsoft's new cybersecurity AI model inside MDASH",
+    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+    "description": "Microsoft introduces MAI-Cyber-1-Flash, a specialized cybersecurity AI model integrated into MDASH \u2014 focused on threat detection, incident response, and security operations automation. 231+ HN points.",
+    "published_at": "2026-07-27T16:52:22Z"
+  },
+  {
+    "id": "f07ad8f8-57ab-4f41-8798-d397abf0c4dd",
+    "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI's accidental AI hacker",
+    "url": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
+    "description": "Jack Clark's Import AI #466 covering: the bitter lesson applied to robotics, AI systems completing week-long programming tasks, and analysis of OpenAI's accidental cyberattack against Hugging Face.",
+    "published_at": "2026-07-27T13:30:53Z"
+  },
+  {
+    "id": "40212263-d22a-4d5c-8c10-5e7e886e2b5e",
+    "title": "Import AI 466 (Substack): The bitter lesson for robotics, AIs complete week-long programming tasks",
+    "url": "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
+    "description": "Jack Clark's Import AI #466 on Substack: the bitter lesson applied to robotics, AIs completing week-long programming tasks autonomously, and OpenAI's accidental cyberattack on Hugging Face.",
+    "published_at": "2026-07-27T13:30:53Z"
+  },
+  {
+    "id": "76a367df-1a07-4f1b-aa59-f35baae36ba0",
+    "title": "108 PRs in eight days: Accidentally discovering loop engineering",
+    "url": "https://brittany-ellich.offprint.app/a/3mrjj34puva23-108-prs-in-eight-days-accidentally-discovering-loop-engineering",
+    "description": "Personal account of shipping 108 pull requests in 8 days using coding agents, exploring what happens when you optimize for iteration speed over architecture. 36+ HN points.",
+    "published_at": "2026-07-27T12:44:47Z"
+  },
+  {
+    "id": "2b2bf55d-276d-49ed-ae26-14eb436c2c1f",
+    "title": "Elevated errors on Claude Opus 5 \u2014 incident report",
+    "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+    "description": "Anthropic's status page details elevated error rates on Claude Opus 5 shortly after launch \u2014 covering incident timeline, root cause, and resolution. 99+ HN points.",
+    "published_at": "2026-07-27T11:32:32Z"
+  },
+  {
+    "id": "3608a00f-5f96-4d6a-9f98-544079e46656",
+    "title": "semantic-review: Semantic diff review for coding agents (21\u2605)",
+    "url": "https://github.com/mikker/semantic-review",
+    "description": "Semantic diff review tool purpose-built for AI coding agents \u2014 analyzes changes at the intent level rather than line level, improving code review quality in agent-driven development.",
+    "published_at": "2026-07-27T11:27:22Z"
+  },
+  {
+    "id": "f53a93c3-9fab-4533-be02-f83312d64f5e",
+    "title": "How is the Bun rewrite in Rust going?",
+    "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+    "description": "Deep dive into Bun's migration from Zig to Rust \u2014 performance results, architecture decisions, and what it means for the JavaScript/TypeScript runtime ecosystem. 467+ HN points.",
+    "published_at": "2026-07-27T11:12:26Z"
+  },
+  {
     "id": "ee1006c1-d256-4c1b-bc9c-0435b65873ee",
     "title": "LLM Research Papers: The 2026 List (January to May)",
     "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
@@ -56,6 +196,20 @@
     "published_at": "2026-07-27T06:00:00Z"
   },
   {
+    "id": "73461e1e-3483-428e-a183-7b15c23af4dd",
+    "title": "tauri-skills: PhD-level Tauri 2 desktop app skills for coding agents (26\u2605)",
+    "url": "https://github.com/peditx/tauri-skills",
+    "description": "PhD-level Tauri 2 desktop app skills covering Rust, React, Python, MCP, streaming, and CI/CD \u2014 parallel execution ready for coding agent workflows.",
+    "published_at": "2026-07-27T05:06:30Z"
+  },
+  {
+    "id": "9478fc96-795d-48b3-9717-52da837b8a5c",
+    "title": "old-coder: Evidence-first development skill for coding agents (67\u2605)",
+    "url": "https://github.com/AmazingAng/old-coder",
+    "description": "An old coder's strategy for the agent era: don't read the code \u2014 make it run the gauntlet. Evidence-first development skill for coding agents, inspired by test-driven debugging workflows.",
+    "published_at": "2026-07-27T05:03:11Z"
+  },
+  {
     "id": "f027baef-8ab1-4626-8a1e-c108d6309591",
     "title": "ai-suite: Andrew Ng's library for unified multi-provider AI API access (Python, trending)",
     "url": "https://github.com/andrewyng/aisuite",
@@ -70,11 +224,74 @@
     "published_at": "2026-07-27T04:00:00Z"
   },
   {
+    "id": "b62919a5-3980-48d2-b671-7dcb6188ff31",
+    "title": "stormy-cookbook: Open-source cookbook for Social Data API + MCP server (72\u2605)",
+    "url": "https://github.com/OneInterface/stormy-cookbook",
+    "description": "Open-source cookbook for the Stormy Social Data API and MCP server \u2014 one REST API for TikTok, YouTube, Instagram with Model Context Protocol integration for AI agents.",
+    "published_at": "2026-07-27T00:57:50Z"
+  },
+  {
+    "id": "c78ee4ba-eb03-4a82-838b-d168882b2195",
+    "title": "Kimi K3: Open Frontier Intelligence \u2014 2.8T parameter MoE model paper",
+    "url": "https://arxiv.org/abs/2607.24653",
+    "description": "Moonshot AI's technical report on Kimi K3: a 2.8T parameter Mixture-of-Experts model with 104B activated parameters, native vision, and 1M-token context window. Open-weight frontier intelligence.",
+    "published_at": "2026-07-27T00:00:00Z"
+  },
+  {
+    "id": "adf8733f-61f6-4609-aec3-eed3406d2a85",
+    "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Agentic Distillation",
+    "url": "https://arxiv.org/abs/2607.24720",
+    "description": "Study on improving multi-turn long-horizon planning in foundation model agents \u2014 comparing single- and multi-teacher on-policy agentic distillation approaches for complex task completion.",
+    "published_at": "2026-07-27T00:00:00Z"
+  },
+  {
+    "id": "d502f462-66e9-46ed-910d-4f7f588128ce",
+    "title": "From Proprietary to Open-Source: Multi-Agent Protocol Distillation in Agentic Search",
+    "url": "https://arxiv.org/abs/2607.24280",
+    "description": "Method for bridging the distribution gap between proprietary and open-source LLMs via multi-agent protocol distillation \u2014 enabling open models to match proprietary performance on agentic search tasks.",
+    "published_at": "2026-07-27T00:00:00Z"
+  },
+  {
+    "id": "acd5dbee-700b-4f97-b323-82980855817a",
+    "title": "A corrective agentic hybrid RAG and operations-grounded evaluation for a scientific facility",
+    "url": "https://arxiv.org/abs/2607.24663",
+    "description": "Practical hybrid RAG system for scientific facilities combining retrieval from diverse data sources with corrective agentic loops \u2014 includes operations-grounded evaluation methodology for real-world deployment.",
+    "published_at": "2026-07-27T00:00:00Z"
+  },
+  {
+    "id": "1d95f1aa-4597-4bd3-b544-b468f12cc5b9",
+    "title": "LOCKS: Page-Local Compact Key Summaries for Efficient Long-Context Decoding",
+    "url": "https://arxiv.org/abs/2607.24555",
+    "description": "Novel approach to KV cache optimization using page-local compact key summaries \u2014 enabling more efficient long-context LLM serving with reduced memory bandwidth requirements.",
+    "published_at": "2026-07-27T00:00:00Z"
+  },
+  {
+    "id": "1766c0bd-7742-405b-ba68-b6fedfb97d20",
+    "title": "When Should Active RAG Retrieve? A Budget-Aware Evaluation of Utility, Calibration, and Cost",
+    "url": "https://arxiv.org/abs/2607.24010",
+    "description": "Budget-aware evaluation framework for active RAG systems \u2014 analyzing when retrieval should trigger during generation to balance utility, calibration accuracy, and inference cost.",
+    "published_at": "2026-07-27T00:00:00Z"
+  },
+  {
+    "id": "4058c8d4-02b8-46ac-a15e-ef22e3507c9e",
+    "title": "The Cost of Knowing: A Resource-Aware Protocol for Benchmarking Hallucination Beyond Static Leaderboards",
+    "url": "https://arxiv.org/abs/2607.24063",
+    "description": "Resource-aware benchmarking protocol for measuring hallucination in LLMs \u2014 moving beyond static leaderboards to account for query difficulty, compute budget, and calibration trade-offs.",
+    "published_at": "2026-07-27T00:00:00Z"
+  },
+  {
     "id": "396aaa4e-f82e-4e97-882a-14abf4621bbf",
     "title": "0xwilliamortiz/openclaude-improved (TypeScript, 175\u2605)",
     "url": "https://github.com/0xwilliamortiz/openclaude-improved",
     "description": "GitHub: runs anywhere. uses anything",
     "published_at": "2026-07-26T21:58:28Z"
+  },
+  {
+    "id": "6e716680-cc2b-4499-b296-ba67c37e5171",
+    "title": "awesome-open-ai-developer-tools: Curated guide to open-source AI devtools (41\u2605)",
+    "url": "https://github.com/Sami-Uysal/awesome-open-ai-developer-tools",
+    "description": "Curated directory of open-source AI devtools, local LLMs, autonomous agents, and SaaS alternatives \u2014 built for modern AI developers navigating the tooling ecosystem.",
+    "published_at": "2026-07-26T21:41:17Z"
   },
   {
     "id": "43a998b9-72be-4162-bfa8-19885b3e73a9",
@@ -119,11 +336,32 @@
     "published_at": "2026-07-26T13:13:03Z"
   },
   {
+    "id": "9b6b3047-aa08-40db-94e0-345c260ad829",
+    "title": "codex-chatgpt-web: Use ChatGPT Pro as native model in Codex (49\u2605)",
+    "url": "https://github.com/miuuyy/codex-chatgpt-web",
+    "description": "Use ChatGPT Pro as a native model in the Codex app \u2014 with context management, compaction, streaming, images, and optional MCP tools for enhanced coding agent capabilities.",
+    "published_at": "2026-07-26T13:04:44Z"
+  },
+  {
     "id": "d03dd2be-66f8-421f-ba82-a1e07edb6d9b",
     "title": "BrowserOS: Open-source browser-based AI agent operating system",
     "url": "https://github.com/browseros-ai/BrowserOS",
     "description": "Open-source operating system environment for AI agents that runs in the browser \u2014 enabling agent deployment without cloud infrastructure, with built-in tool execution and sandboxing.",
     "published_at": "2026-07-26T12:00:00Z"
+  },
+  {
+    "id": "7a49d758-8b0f-4063-86f8-c3a56b8a4c0a",
+    "title": "micro-vllm: Educational vLLM implementation for exploring inference (62\u2605)",
+    "url": "https://github.com/nopnoping/micro-vllm",
+    "description": "Small, educational vLLM implementation for exploring LLM inference \u2014 covers scheduling, KV-cache management, and GPU execution in a readable codebase.",
+    "published_at": "2026-07-26T11:08:51Z"
+  },
+  {
+    "id": "05e80e3c-4f22-41ed-8861-e87d157f0481",
+    "title": "LLM Engineering Platform: Production-oriented LLM serving and evaluation (17\u2605)",
+    "url": "https://github.com/200lz/llm-engineering-platform",
+    "description": "Production-oriented LLM engineering platform with OpenAI-compatible serving, streaming, observability, evaluation, reproducible experiments, and detailed documentation.",
+    "published_at": "2026-07-26T10:15:30Z"
   },
   {
     "id": "11ac68e4-1922-428f-b6d7-cc735f9a626a",
@@ -152,6 +390,13 @@
     "url": "https://github.com/deerwork-ai/deer-workflow",
     "description": "GitHub: An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
     "published_at": "2026-07-26T04:20:50Z"
+  },
+  {
+    "id": "f4000310-2b55-4c5b-bb36-84b49452161e",
+    "title": "Amadeus: Real-Time Multimodal AI Agent for Desktop Interaction (28\u2605)",
+    "url": "https://github.com/Lucas1479/Amadeus",
+    "description": "Real-time multimodal AI agent for desktop interaction \u2014 combining vision, voice, and text inputs to control desktop applications through natural language commands.",
+    "published_at": "2026-07-26T04:14:18Z"
   },
   {
     "title": "forge-os: Open-source control plane for AI agents \u2014 skill routing, context governance, multi-agent orchestration",
@@ -203,11 +448,46 @@
     "id": "d85d56e1-df2a-47fa-8117-20c1d5c45407"
   },
   {
+    "id": "247f5290-d9dc-42bd-948e-00ffa689c651",
+    "title": "AAR Loop: After Action Review for AI agent sessions (31\u2605)",
+    "url": "https://github.com/coopersimson96/aar-loop",
+    "description": "Run an After Action Review after any AI session and write concrete lessons so your agent stops repeating mistakes. A manual Reflexion loop built on the SKILL.md harness.",
+    "published_at": "2026-07-25T22:35:10Z"
+  },
+  {
+    "id": "b508eb47-fb52-44b5-9740-18716f17a300",
+    "title": "timecode-agent: Transcript-first video understanding for coding agents (43\u2605)",
+    "url": "https://github.com/mupozg823/timecode-agent",
+    "description": "Transcript-first video understanding for coding agents \u2014 timestamped evidence ledgers, lazy visual verification, and editorial handoff (EDL/OTIO/FCPXML) for video workflows.",
+    "published_at": "2026-07-25T20:38:37Z"
+  },
+  {
     "title": "Argus: Local-first OSINT framework with MCP server for AI agents",
     "url": "https://github.com/cotcollective/argus",
     "description": "Local-first OSINT framework with 13 modules, zero API keys, AI chaining via Ollama, and MCP server for Hermes/Claude Code/Cursor integration. 6\u2605 GitHub.",
     "published_at": "2026-07-25T18:43:08Z",
     "id": "220bbcf3-cb64-435b-a1e2-4ee8efe3392e"
+  },
+  {
+    "id": "85ee9f53-f324-4133-9e20-f8fe20c43857",
+    "title": "Assumptions: Turn code diffs into evidence-backed ledgers (16\u2605)",
+    "url": "https://github.com/Teycir/Assumptions",
+    "description": "A SKILL that turns a code diff into an evidence-backed ledger of hidden assumptions, failure modes, and falsification tests \u2014 improving agent code quality through structured analysis.",
+    "published_at": "2026-07-25T17:51:43Z"
+  },
+  {
+    "id": "e75f5198-29d1-4f7b-8ec3-6a47f568d6f0",
+    "title": "OptMem: Permanent memory for AI agents (681\u2605)",
+    "url": "https://github.com/VictorTaelin/OptMem",
+    "description": "A 426-token prompt/script providing permanent memory for AI agents \u2014 plug-and-play persistent context across sessions without external databases. Trending on GitHub.",
+    "published_at": "2026-07-25T16:58:43Z"
+  },
+  {
+    "id": "710c71fa-a208-46a6-b436-8f3ac9b52504",
+    "title": "avenoxskills: Production agent skills for Claude Code, Cursor, and more (14\u2605)",
+    "url": "https://github.com/avenoxai/avenoxskills",
+    "description": "Production agent skills covering Codex fleets, video pipeline management, monorepo review bundles, and multi-chain exploration \u2014 designed for Claude Code, Cursor, and SKILL.md harnesses.",
+    "published_at": "2026-07-25T14:58:08Z"
   },
   {
     "title": "pi-config: Pi coding agent reference setup \u2014 17 plugins, 18 skills, 2 MCP servers",
@@ -229,6 +509,13 @@
     "description": "Tool enabling seamless session migration between major AI coding agents (Cursor, Claude Code, Codex CLI, Pi) without losing context or state.",
     "published_at": "2026-07-25T07:18:19Z",
     "id": "fc47dd44-570e-4bd9-ae16-c1abf1607cca"
+  },
+  {
+    "id": "8ef55d18-3418-49c9-9c8b-9a7b9bb08d95",
+    "title": "ai-cost-history-hub: Local AI coding-agent history + API cost analytics (18\u2605)",
+    "url": "https://github.com/zheyan2517/ai-cost-history-hub",
+    "description": "Local-first tool providing AI coding-agent history tracking and API cost analytics with loopback-only operation \u2014 no external data sharing, privacy-preserving usage monitoring.",
+    "published_at": "2026-07-25T07:09:29Z"
   },
   {
     "title": "Show HN: AgentRouter + OpenCode proxy \u2014 bypass WAF for local proxy routing",
