@@ -1,5 +1,110 @@
 [
   {
+    "title": "TIL: Adding a custom MCP server to Claude and ChatGPT",
+    "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/",
+    "description": "Simon Willison's practical walkthrough on adding custom MCP servers to both Claude and ChatGPT \u2014 covering configuration, tool definitions, and real-world patterns for hybrid agent tool access.",
+    "published_at": "2026-07-29T04:00:00Z",
+    "id": "ec14e7f7-e200-4d06-97bb-083ef6ac093f"
+  },
+  {
+    "title": "LearnVector \u2014 Andrew Ng's new AI company building one-to-one learning experiences",
+    "url": "https://learnvector.ai/",
+    "description": "Andrew Ng launches LearnVector, an AI company focused on personalized one-to-one learning experiences that adapt to how each person learns. 176+ HN points.",
+    "published_at": "2026-07-29T01:49:19Z",
+    "id": "336ffce2-05bc-4173-aef9-02680dd34cda"
+  },
+  {
+    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "url": "https://www.hubble.md/",
+    "description": "Free, open-source Markdown/HTML notetaking app for human and AI agent use \u2014 local-file-backed with agent-friendly APIs, markdown rendering, and collaborative features. 106+ HN points.",
+    "published_at": "2026-07-29T00:11:23Z",
+    "id": "a1e63ad9-1588-4f00-8bab-b64b7580294d"
+  },
+  {
+    "title": "Codex Security: SDKs and CLI for agent-driven vulnerability scanning",
+    "url": "https://github.com/openai/codex-security",
+    "description": "OpenAI releases Codex Security \u2014 SDKs and CLI for AI coding agents to scan repositories for vulnerabilities, review severity-ranked findings, and fix issues programmatically. 492+ HN points, trending #1 on HN.",
+    "published_at": "2026-07-28T20:52:55Z",
+    "id": "f3ed4547-19e8-4702-b719-35b49a5af62f"
+  },
+  {
+    "title": "MCP 2026-07-28 Specification: transport going stateless, multi round-trip requests, header-based routing",
+    "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+    "description": "The Model Context Protocol specification update brings a stateless protocol core, Multi Round-Trip Requests, header-based routing, cacheable list results, authorization hardening, a formal extensions framework, and updated Tier 1 SDKs. 115+ HN points.",
+    "published_at": "2026-07-28T18:35:11Z",
+    "id": "6ff184fe-ce61-491c-b1a5-09efcf669a70"
+  },
+  {
+    "title": "Discovering cryptographic weaknesses with Claude",
+    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "description": "Anthropic Frontier Red Team uses Claude Mythos Preview to discover improved attacks on cryptographic algorithms \u2014 the first attack significantly weakens HAWK, a digital signature scheme. 216+ HN points.",
+    "published_at": "2026-07-28T17:22:16Z",
+    "id": "ab52393a-a7eb-41ce-ab37-96e7b7caf06c"
+  },
+  {
+    "title": "Surpassing Frontier Performance with Fusion \u2014 OpenRouter",
+    "url": "https://openrouter.ai/blog/announcements/fusion-beats-frontier/",
+    "description": "OpenRouter announces Fusion, a model routing technique that surpasses frontier model performance by combining multiple model outputs, with benchmarks showing Pareto improvements across cost and quality.",
+    "published_at": "2026-07-28T16:00:00Z",
+    "id": "3ba00e67-db20-40a4-b9a5-88e22dd59018"
+  },
+  {
+    "title": "Kimi K3 Architecture Overview and Notes",
+    "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+    "description": "Sebastian Raschka's comprehensive technical breakdown of Kimi K3: 2.8T parameter MoE, MXFP4 quantization, expert routing, 1M-token context window, and comparisons to other frontier models. 413+ HN points.",
+    "published_at": "2026-07-28T15:48:34Z",
+    "id": "7cf57462-9d9d-4fd8-8e40-28d8f0ae8eea"
+  },
+  {
+    "title": "Now is the time to give LLMs access to the ACM digital library",
+    "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+    "description": "ACM opinion piece arguing for granting LLMs controlled access to the ACM Digital Library \u2014 exploring AI-augmented research benefits while addressing copyright, attribution, and quality concerns. 159+ HN points.",
+    "published_at": "2026-07-28T15:01:12Z",
+    "id": "34d4aa19-690b-4f6a-9bdf-6ab06a8e5775"
+  },
+  {
+    "title": "Classifiers: Track What Your Agents Do and What It Costs",
+    "url": "https://openrouter.ai/blog/announcements/classifiers/",
+    "description": "OpenRouter introduces Classifiers \u2014 a system for tracking AI agent activities and associated costs, providing observability into what agents do and how much each action consumes in tokens and budget.",
+    "published_at": "2026-07-28T15:00:00Z",
+    "id": "869d4835-54a6-421d-9512-42b694ee7365"
+  },
+  {
+    "title": "Code Finder: fast, efficient code search for coding agents",
+    "url": "https://sourcegraph.com/blog/code-finder-fast-efficient-code-search-for-coding-agents",
+    "description": "Sourcegraph launches Code Finder, a code search tool optimized for AI coding agents \u2014 enabling fast, precise codebase navigation without the overhead of full code graph indexing.",
+    "published_at": "2026-07-28T14:00:00Z",
+    "id": "00b78d6b-0767-45b5-ac1d-999cdf5db609"
+  },
+  {
+    "title": "Check on Your Spaghetti Software Factory",
+    "url": "https://blog.continue.dev/",
+    "description": "Continue.dev on how AI agents create complex software tangles at unprecedented speed \u2014 with practical advice for maintaining code quality, architecture coherence, and test coverage in agent-driven dev.",
+    "published_at": "2026-07-28T12:00:00Z",
+    "id": "0133b485-d670-4cdf-bd5b-b979909de822"
+  },
+  {
+    "title": "kimi-k3-mlx: MLX port of Kimi K3 with streaming converter and REAP expert pruning (171\u2605)",
+    "url": "https://github.com/PipeNetwork/kimi-k3-mlx",
+    "description": "MLX port of Kimi K3 (2.78T multimodal MoE) for Apple Silicon \u2014 streaming converter, REAP expert pruning, and per-language expert-overlap analysis for efficient local inference on Macs.",
+    "published_at": "2026-07-28T08:00:00Z",
+    "id": "c09e0d1b-d83e-46c6-88ad-6653eae3988f"
+  },
+  {
+    "title": "QwenAudio Agent: Realtime voice runtime for AI agents (135\u2605)",
+    "url": "https://github.com/QwenAudio/qwen-audio-agent",
+    "description": "Open-source realtime voice runtime that keeps AI agents talking and working \u2014 enabling voice-based agent interaction with streaming audio processing and wake-word capabilities.",
+    "published_at": "2026-07-28T06:00:00Z",
+    "id": "582fcd2d-bea0-4eac-b530-17d798c4cb74"
+  },
+  {
+    "title": "NIGHTRUN: Boot your PC straight into an LLM \u2014 UEFI-resident inference (18\u2605)",
+    "url": "https://github.com/hardrave/NIGHTRUN",
+    "description": "Experimental Rust project booting a PC directly into an LLM runtime from UEFI firmware \u2014 no OS layer, bare-metal inference for maximum performance on consumer GPUs.",
+    "published_at": "2026-07-28T05:00:00Z",
+    "id": "5cf9592a-cdbb-4042-bbfa-6bf93e2d620f"
+  },
+  {
     "id": "e9279552-cced-4573-8abd-a2d4ac784fd4",
     "title": "Neutrino-1 8B: New open-weight model from Fermion Research",
     "url": "https://www.fermionresearch.com/models/neutrino-8b/",
@@ -47,6 +152,34 @@
     "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
     "description": "Technical analysis of why LLM confidence scores are unreliable \u2014 covering calibration issues, overconfidence patterns, and better approaches for uncertainty estimation in AI agents. 26+ HN points.",
     "published_at": "2026-07-28T00:06:53Z"
+  },
+  {
+    "title": "Reinforcement Learning for Code Optimization",
+    "url": "https://arxiv.org/abs/2607.25970",
+    "description": "arXiv: RL for code optimization \u2014 adding execution time to the reward creates optimization distractions from correctness. Proposes reward shaping solutions for program synthesis.",
+    "published_at": "2026-07-28T00:00:00Z",
+    "id": "aa46ce21-8e4e-4f5a-aa8e-376d8700f8fb"
+  },
+  {
+    "title": "UniMem: Complementary Episodic-to-Parametric Memory for LLM Agents",
+    "url": "https://arxiv.org/abs/2607.26017",
+    "description": "arXiv: Complementary episodic-to-parametric memory for LLM agents handling boundary-agnostic task streams \u2014 addressing the stability-plasticity dilemma in real-world agent deployment.",
+    "published_at": "2026-07-28T00:00:00Z",
+    "id": "613db9a2-f2ea-498b-a531-1a75b2619ba0"
+  },
+  {
+    "title": "MemLens: Value-Aware Memory Management with Interactive Analytics for LLM-based Agents",
+    "url": "https://arxiv.org/abs/2607.25992",
+    "description": "arXiv: Value-aware memory management for LLM agents treating heterogeneous memory items differently based on utility, with interactive analytics for debugging agent memory.",
+    "published_at": "2026-07-28T00:00:00Z",
+    "id": "50c7b187-2b17-4ff8-b401-34ee69be7832"
+  },
+  {
+    "title": "RSIBench-Data: Benchmarking Recursive Self-Improvement for LLM Agents",
+    "url": "https://arxiv.org/abs/2607.25886",
+    "description": "arXiv: Benchmark for data-centric recursive self-improvement \u2014 testing whether LLM agents can autonomously diagnose capability gaps, design training-data strategies, and learn from checkpoint feedback.",
+    "published_at": "2026-07-28T00:00:00Z",
+    "id": "e06962bc-6fea-469a-8b20-a3af18a6fd5b"
   },
   {
     "id": "bb3514ea-abef-4606-afad-94c8a48bee9d",
