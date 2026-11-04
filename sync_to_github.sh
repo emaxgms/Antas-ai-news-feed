@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-REPO_DIR="/home/ema/Antas-ai-news-feed"
+REPO_DIR="/home/ema/services/multi-server/Antas-ai-news-feed"
 cd "$REPO_DIR"
 
 if [ ! -d .git ]; then
